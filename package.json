@@ -9,16 +9,25 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "translate": "tsx scripts/translate.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
+    "@fontsource-variable/figtree": "^5.2.10",
+    "@fontsource-variable/fraunces": "^5.2.9",
     "@tailwindcss/vite": "^4.3.0",
     "astro": "^6.4.6",
     "tailwindcss": "^4.3.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
+    "@types/turndown": "^5.0.6",
+    "deepl-node": "^1.27.0",
+    "gray-matter": "^4.0.3",
+    "marked": "^18.0.5",
+    "tsx": "^4.22.4",
+    "turndown": "^7.2.4",
     "typescript": "^6.0.3"
   }
 }

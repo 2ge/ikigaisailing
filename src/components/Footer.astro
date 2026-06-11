@@ -1,0 +1,77 @@
+---
+/** Footer: About / On board / Connect columns, socials, non-profit line, legal. */
+import { Image } from 'astro:assets';
+import logo from '../assets/brand/logo.webp';
+import coni from '../assets/brand/CONI-Logo.png';
+import { useTranslations, localizePath, getLocaleFromUrl } from '../i18n/ui';
+import { footerNav, WHATSAPP_URL, SOCIALS } from '../i18n/nav';
+
+const locale = getLocaleFromUrl(Astro.url);
+const t = useTranslations(locale);
+const lp = (p: string) => localizePath(p, locale);
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-ocean-950 text-sand-100">
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
+      <div>
+        <Image src={logo} alt={t('site.name')} width={150} height={80} class="h-12 w-auto brightness-0 invert" />
+        <p class="coords mt-4 text-ocean-300">9°33′N · 78°57′W — GUNA YALA</p>
+        <p class="mt-3 max-w-xs text-sm leading-relaxed text-sand-100/70">
+          {t('footer.nonprofit')}
+        </p>
+        <div class="mt-5 flex items-center gap-4">
+          <a href={SOCIALS.facebook} rel="noopener" target="_blank" aria-label="Facebook" class="text-sand-100/60 transition hover:text-sand-50">
+            <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5.02 3.66 9.18 8.44 9.94v-7.03H7.9v-2.91h2.54V9.85c0-2.52 1.49-3.91 3.78-3.91 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.78-1.63 1.57v1.88h2.78l-.45 2.9h-2.33V22c4.78-.76 8.44-4.92 8.44-9.94Z"/></svg>
+          </a>
+          <a href={SOCIALS.instagram} rel="noopener" target="_blank" aria-label="Instagram" class="text-sand-100/60 transition hover:text-sand-50">
+            <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 3.25.15 4.77 1.69 4.92 4.92.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.15 3.23-1.66 4.77-4.92 4.92-1.27.06-1.64.07-4.85.07s-3.58-.01-4.85-.07c-3.26-.15-4.77-1.7-4.92-4.92C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85C2.38 3.92 3.9 2.38 7.15 2.23 8.42 2.17 8.8 2.16 12 2.16ZM12 0C8.74 0 8.33.01 7.05.07 2.7.27.27 2.69.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.2 4.36 2.62 6.78 6.98 6.98 1.28.06 1.69.07 4.95.07s3.67-.01 4.95-.07c4.35-.2 6.78-2.62 6.98-6.98.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95C23.73 2.7 21.31.27 16.95.07 15.67.01 15.26 0 12 0Zm0 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84Zm0 10.15A4 4 0 1 1 16 12a4 4 0 0 1-4 3.99Zm6.4-11.85a1.44 1.44 0 1 0 1.44 1.44 1.44 1.44 0 0 0-1.44-1.44Z"/></svg>
+          </a>
+          <a href={SOCIALS.youtube} rel="noopener" target="_blank" aria-label="YouTube" class="text-sand-100/60 transition hover:text-sand-50">
+            <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19 31.6 31.6 0 0 0 0 12a31.6 31.6 0 0 0 .5 5.81 3.02 3.02 0 0 0 2.12 2.14c1.88.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14A31.6 31.6 0 0 0 24 12a31.6 31.6 0 0 0-.5-5.81ZM9.55 15.57V8.43L15.82 12Z"/></svg>
+          </a>
+        </div>
+      </div>
+
+      {(Object.keys(footerNav) as (keyof typeof footerNav)[]).map((col) => (
+        <nav aria-label={t(col)}>
+          <h2 class="coords mb-4 text-ocean-300">{t(col)}</h2>
+          <ul class="space-y-2.5">
+            {footerNav[col].map((item) => (
+              <li>
+                <a href={lp(item.path)} class="text-sm text-sand-100/80 transition hover:text-sand-50">
+                  {t(item.key)}
+                </a>
+              </li>
+            ))}
+            {col === 'footer.connect' && (
+              <li>
+                <a href={WHATSAPP_URL} rel="noopener" target="_blank" class="text-sm font-semibold text-ocean-300 transition hover:text-ocean-200">
+                  {t('cta.whatsapp')} ↗
+                </a>
+              </li>
+            )}
+          </ul>
+        </nav>
+      ))}
+    </div>
+
+    <div class="chart-rule mt-12 opacity-30"></div>
+
+    <div class="mt-6 flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
+      <div class="text-xs leading-relaxed text-sand-100/50">
+        <p>© {year} — {t('footer.legal')}</p>
+        <p class="mt-1 flex items-center gap-2">
+          <Image src={coni} alt="CONI" width={28} height={28} class="h-5 w-auto opacity-70" />
+          {t('footer.affiliation')}
+        </p>
+      </div>
+      <div class="flex gap-4 text-xs text-sand-100/50">
+        <a href={lp('/terms/')} class="hover:text-sand-100">Terms</a>
+        <a href={lp('/privacy/')} class="hover:text-sand-100">Privacy</a>
+        <a href={lp('/cookies/')} class="hover:text-sand-100">Cookies</a>
+      </div>
+    </div>
+  </div>
+</footer>

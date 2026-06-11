@@ -1,0 +1,176 @@
+---
+title: 10 jours d'expérience Ikigai à bord
+description: >-
+  Ikigai Experience a été conçu pour t'aider à trouver l'équilibre entre
+  engagement et écoute, entre discipline et liberté.
+locale: fr
+pubDate: '2025-07-24'
+image: ~/assets/pages/ikigai/ikigaisailing.avif
+translated: deepl
+sourceHash: 5a610fcb38be6bff
+---
+
+### **Introduction**
+
+Pendant l’Ikigai Experience, toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins.
+
+Cette expérience Ikigai est conçue pour t'aider à explorer l'équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d'attentes, pas de performance — juste l'occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
+
+### \*\*🌅 Programme quotidien 🕐 Matin (env. 1h30) : Chaque journée commence par une séance guidée pouvant inclure :
+
+-   Des techniques de respiration consciente
+-   Des enchaînements de yoga dynamiques ou réparateurs
+-   Méditation assise ou en mouvement
+-   Des séances physiques en rotation (entraînement Tabata au poids du corps ou bases de la boxe)  
+    _Toutes les séances s’adaptent à l’énergie du groupe et à la météo._
+
+**🌇 Soirée : Termine la journée par des activités axées sur** l'introspection, la relaxation et la régénération\*\*, notamment :
+
+-   Yoga au coucher du soleil
+-   Méditation
+-   Partage  
+    en silence ou en cercle _(selon le groupe et le lieu)_
+
+\*\*🕊️ Temps libre : les pauses entre les activités sont volontairement laissées libres — pour se reposer, lire, nager, profiter du silence ou vivre des moments spontanés.  
+**Il n’y a rien d’autre à faire que d’être.**
+
+### **🍽️ La vie à bord et la nourriture**
+
+La nourriture est au cœur de la vie à bord de _l'Ikigai Experience_. On mélange ce que la mer nous offre avec ce qu'on échange avec la communauté Guna :
+
+-   Homard frais
+-   Fruits tropicaux
+-   Légumes locaux
+
+Nous pêchons dès que possible et préparons des plats créatifs : **carpaccio, tartare, sashimi**, et bien plus encore.  
+**Partager les repas est un moment sacré.** Tu es le bienvenu pour participer à la préparation — dans un esprit de communauté, sans aucune obligation.
+
+### **☁️ Remarque importante**
+
+Le programme peut être modifié en fonction :
+
+-   Des conditions météorologiques et de la mer
+-   Des facteurs logistiques
+-   La dynamique de groupe
+
+**Chaque modification vise à garantir la sécurité et la qualité de l'expérience.**
+
+## **🧭 Itinéraire jour par jour**
+
+### **✈️ Arrivée à Panama City**
+
+-   Transfert privé depuis l'aéroport
+-   Nuit à **Casco Viejo**, quartier classé au patrimoine mondial de l'UNESCO
+-   Promenade en soirée dans les ruelles coloniales, entre terrasses animées, musique et cuisine locale
+
+### **🏝️ Jour 1 – Bienvenue à Banedup Points forts :**
+
+-   Plongée avec tuba, beach-volley, premières baignades
+-   Briefing sur la sécurité et présentation de l'équipage
+-   Déjeuner léger et rituels d'arrivée
+
+**Activités :**
+
+-   🥥 Déjeuner et dîner à bord
+-   🏐 Beach-volley
+-   🐠 Plongée libre sur les récifs coralliens
+-   🌅 Soirée libre
+
+### **🏖️ Jour 2 – Chichime Une île animée avec des cabanes de plage et une ambiance caribéenne**
+
+-   🧘 06h30–08h00 : Routine matinale
+-   ☕ 09h00 : Petit-déjeuner
+-   ⛵ 10h00 : Départ pour Chichime
+-   🐠 11h00–16h00 : Temps libre — plongée avec tuba, baignade, jeux de plage
+-   🥥 Déjeuner dans un restaurant en bord de mer
+-   🌇 17h30–19h00 : Routine du soir
+-   🍽️ 20h00 : Dîner
+-   🎶 21h00 : Musique live et karaoké facultatifs à terre
+
+### **🐬 Jour 3 – Cays néerlandais occidentaux (Cayo Holandés Oeste) Une nature intacte et des récifs coralliens colorés**
+
+-   🧘 06h30–08h00 : Routine matinale
+-   ☕ 08h30 : Petit-déjeuner
+-   ⛵ 10h00 : Navigation vers les West Dutch Cays
+-   🐠 12h00–14h00 : Plongée avec tuba
+-   🍽️ 14h00 : Déjeuner
+-   🌇 17h30 : Routine du soir
+-   📚 19h00 : Théorie de la plongée en apnée (respiration, équilibrage, sécurité)
+-   🌌 20h30 : Dîner et observation de la vie marine à la lumière des projecteurs du bateau
+
+### **🧘‍♂️ Jour 4 – West Dutch Cays Entraînement à la plongée en apnée et connexion profonde**
+
+-   🌬️ 06h30–07h30 : Respiration et étirements pour la plongée en apnée
+-   ☕ 07h30 : Petit-déjeuner léger
+-   📘 08h30 : Révision théorique et technique
+-   🌊 10h00–12h30 : Séance pratique de plongée en apnée
+-   🍽️ 13h00 : Déjeuner
+-   🕊️ 15h00–17h00 : Temps libre — plongée avec tuba, pêche, kayak, repos
+-   🌇 17h30 : Routine du soir
+-   🌌 20h00 : Dîner
+
+### **🏝️ Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp**
+
+-   🧘 06h30 : Routine du matin
+-   ☕ 08h30 : Petit-déjeuner
+-   ⛵ 09h30 : Navigation vers le lagon
+-   🏄 11h00 : Balade d'île en île en SUP ou en kayak
+-   🍽️ 13h00 : Déjeuner
+-   🕊️ 15h00 : Temps libre / rencontre avec les locaux
+-   🌅 17h30 : Yoga au coucher du soleil ou cardio/arts martiaux
+-   🔥 19h30 : Barbecue sur la plage et feu de camp avec les familles Guna
+
+### **🌴 Jour 6 – Dutch Cays « Swimming Pool » Le mouillage le plus pittoresque**
+
+-   🧘 06h30 : Routine matinale
+-   ☕ 08h30 : Petit-déjeuner
+-   ⛵ 09h30 : Navigation vers East Dutch Cays
+-   🧵 11h00 : Visite de l'île des artisans
+-   🍽️ 12h30 : Déjeuner au restaurant sur pilotis
+-   🧘‍♂️ 17h00 : Turtle Island – yoga, repos, Tabata
+-   🌌 19h30 : Dîner barbecue sous les étoiles
+
+### **🐚 Jour 7 – Dutch Cays / Green Island Noix de coco, artisanat, plongée avec tuba et soirée cinéma**
+
+-   🧘 06h30 : Routine matinale
+-   ☕ 08h30 : Petit-déjeuner
+-   🥥 09h30 : Plantage de cocotiers ou plongée avec tuba sur le récif
+-   🍽️ 12h30 : Déjeuner
+-   ⛵ 14h30 : Navigation vers Green Island
+-   🕊️ 16h00 : Baignade et détente
+-   🌇 18h30 : Routine du soir
+-   🍽️ 20h00 : Dîner
+-   🎥 21h30 : Soirée cinéma en plein air
+
+### **🧜‍♀️ Jour 8 – Green Island Janzu, liberté et repos**
+
+-   🧘 06h30 : Routine matinale
+-   ☕ 08h30 : Petit-déjeuner
+-   🌊 Journée libre : Janzu, kayak, plongée avec tuba, hamacs
+-   🌇 18h30 : Routine du soir (facultative)
+-   🍽️ 20h00 : Dîner
+
+### **🦈 Jour 9 – Île privée de Coco Bandero, requins, soirée festive**
+
+-   🧘 06h30 : Routine matinale
+-   ☕ 08h30 : Petit-déjeuner
+-   ⛵ 09h30 : Départ vers Coco Bandero
+-   🏖️ 12h00 : Déjeuner sur la plage
+-   🦈 13h00–17h00 : Baignade avec les requins (facultatif), plongée avec tuba, hamacs
+-   🌇 17h00 : Routine du soir
+-   🔥 19h00–23h00 : Dernière soirée autour du feu de camp : homard grillé et musique
+
+### **🌅 Jour 10 – Retour à Banedup Derniers instants au paradis**
+
+-   ☕ Matin : Petit-déjeuner tranquille
+-   ⛵ 12h00 : Retour à Banedup
+-   🏐 16h00 : Temps libre : volley-ball, plongée avec tuba, entraînement en soirée
+-   🍽️ 19h00 : Dîner
+-   🎥 20h30 : Cérémonie de clôture et récapitulatif vidéo
+
+### **🛶 Jour 11 – Retour**
+
+Un bateau Guna viendra te chercher et te ramènera à l'aéroport ou à Panama City.  
+**Le voyage continue en toi.** 🌍
+
+[Retour au produit](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)

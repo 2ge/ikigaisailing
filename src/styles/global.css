@@ -1,32 +1,165 @@
 @import 'tailwindcss';
 
 /*
- * Ikigai Sailing design tokens (Tailwind 4 CSS-first config).
- * Palette: deep ocean teals + warm sand, in the spirit of the current site.
- * Type: Figtree for UI, Fraunces for display headings (loaded in Phase 2).
+ * Ikigai Sailing — "the logbook of a slow voyage".
+ * Editorial travel-journal aesthetic: warm sand paper, deep ocean ink,
+ * nautical-chart line work, Fraunces optical serif + Figtree.
+ * Tailwind 4 CSS-first tokens.
  */
 @theme {
-  --color-ocean-50: #effaf9;
-  --color-ocean-100: #d7f1f0;
-  --color-ocean-200: #b3e3e3;
-  --color-ocean-300: #80cfd1;
-  --color-ocean-400: #46b1b7;
-  --color-ocean-500: #2a949d;
-  --color-ocean-600: #257985;
-  --color-ocean-700: #23626d;
-  --color-ocean-800: #23515b;
-  --color-ocean-900: #21444e;
-  --color-ocean-950: #102c34;
+  --color-ocean-50: #eef9f8;
+  --color-ocean-100: #d5f0ee;
+  --color-ocean-200: #afe1e0;
+  --color-ocean-300: #7ccbcd;
+  --color-ocean-400: #44adb4;
+  --color-ocean-500: #2a929c;
+  --color-ocean-600: #237684;
+  --color-ocean-700: #21606c;
+  --color-ocean-800: #21505a;
+  --color-ocean-900: #1f444d;
+  --color-ocean-950: #0e2b33;
 
-  --color-sand-50: #fbf9f4;
-  --color-sand-100: #f4efe2;
-  --color-sand-200: #e8dcc3;
-  --color-sand-300: #d9c49d;
-  --color-sand-400: #c8a775;
-  --color-sand-500: #bc9259;
+  --color-sand-50: #faf7f0;
+  --color-sand-100: #f3edde;
+  --color-sand-200: #e6d9bd;
+  --color-sand-300: #d5c096;
+  --color-sand-400: #c3a36f;
+  --color-sand-500: #b68f54;
 
-  --color-ink: #1a2b32;
+  --color-coral-400: #e8775d;
+  --color-coral-500: #df5a3c;
 
-  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
-  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --color-ink: #16282e;
+  --color-ink-soft: #43585f;
+
+  --font-sans: 'Figtree Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Fraunces Variable', ui-serif, Georgia, serif;
+
+  --tracking-display: -0.015em;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-optical-sizing: auto;
+  }
+  ::selection {
+    background: var(--color-ocean-200);
+    color: var(--color-ink);
+  }
+  h1, h2, h3, .font-display {
+    font-optical-sizing: auto;
+    font-variation-settings: 'SOFT' 30, 'WONK' 0;
+  }
+}
+
+@layer components {
+  /* nautical-chart dashed rule — section divider motif */
+  .chart-rule {
+    background-image: linear-gradient(to right, var(--color-ocean-300) 55%, transparent 0%);
+    background-size: 14px 1px;
+    background-repeat: repeat-x;
+    height: 1px;
+  }
+
+  /* coordinates label motif: 9°33′N 78°57′W */
+  .coords {
+    font-family: var(--font-sans);
+    font-size: 0.6875rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  /* longform markdown content */
+  .prose-ikigai {
+    max-width: 68ch;
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: var(--color-ink);
+  }
+  .prose-ikigai h2 {
+    font-family: var(--font-display);
+    font-size: 1.875rem;
+    line-height: 1.2;
+    letter-spacing: var(--tracking-display);
+    margin: 2.25em 0 0.75em;
+    color: var(--color-ocean-950);
+  }
+  .prose-ikigai h3 {
+    font-family: var(--font-display);
+    font-size: 1.375rem;
+    margin: 1.75em 0 0.5em;
+    color: var(--color-ocean-900);
+  }
+  .prose-ikigai p { margin: 1em 0; }
+  .prose-ikigai a {
+    color: var(--color-ocean-600);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--color-ocean-300);
+  }
+  .prose-ikigai a:hover { text-decoration-color: var(--color-ocean-600); }
+  .prose-ikigai ul, .prose-ikigai ol { margin: 1em 0; padding-left: 1.5em; }
+  .prose-ikigai ul { list-style: none; }
+  .prose-ikigai ul li { position: relative; margin: 0.4em 0; }
+  .prose-ikigai ul li::before {
+    content: '~';
+    position: absolute;
+    left: -1.35em;
+    color: var(--color-ocean-400);
+    font-weight: 700;
+  }
+  .prose-ikigai ol li { margin: 0.4em 0; }
+  .prose-ikigai blockquote {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 1.25rem;
+    border-left: 2px solid var(--color-sand-300);
+    padding-left: 1.25rem;
+    margin: 1.75em 0;
+    color: var(--color-ink-soft);
+  }
+  .prose-ikigai img {
+    border-radius: 0.75rem;
+    margin: 1.75em 0;
+  }
+  .prose-ikigai strong { color: var(--color-ocean-950); }
+  .prose-ikigai hr {
+    border: 0;
+    height: 1px;
+    margin: 2.5em 0;
+    background-image: linear-gradient(to right, var(--color-ocean-300) 55%, transparent 0%);
+    background-size: 14px 1px;
+  }
+
+  /* staggered load-in for hero elements */
+  @media (prefers-reduced-motion: no-preference) {
+    .reveal {
+      opacity: 0;
+      transform: translateY(14px);
+      animation: reveal 0.7s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+    }
+    .reveal-1 { animation-delay: 0.08s; }
+    .reveal-2 { animation-delay: 0.2s; }
+    .reveal-3 { animation-delay: 0.34s; }
+    .reveal-4 { animation-delay: 0.5s; }
+  }
+  @keyframes reveal {
+    to { opacity: 1; transform: none; }
+  }
+
+  /* horizontal scroll-snap rail (testimonials, galleries) */
+  .snap-rail {
+    display: flex;
+    gap: 1.25rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 0.75rem;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-ocean-300) transparent;
+  }
+  .snap-rail > * { scroll-snap-align: start; flex-shrink: 0; }
 }

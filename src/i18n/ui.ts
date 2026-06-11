@@ -1,8 +1,14 @@
 /**
- * UI strings for all 5 locales. EN is the source of truth.
- * `npm run translate` fills missing keys in it/es/fr/sk from the EN values
- * (DeepL). Hand-tuned values survive — the script only adds missing keys.
+ * UI strings for all 5 locales. EN (`strings.en.json`) is the source of truth.
+ * `npm run translate` fills missing keys in strings.{it,es,fr,sk}.json via DeepL.
+ * Hand-tuned values survive — the pipeline only adds missing keys.
  */
+import en from './strings.en.json';
+import it from './strings.it.json';
+import es from './strings.es.json';
+import fr from './strings.fr.json';
+import sk from './strings.sk.json';
+
 export const locales = ['en', 'it', 'es', 'fr', 'sk'] as const;
 export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = 'en';
@@ -15,37 +21,14 @@ export const localeNames: Record<Locale, string> = {
   sk: 'Slovenčina',
 };
 
-export const ui = {
-  en: {
-    'site.name': 'Ikigai Sailing',
-    'site.tagline': 'Mindful Sailing & Ocean Adventures',
-    'nav.about': 'About',
-    'nav.boat': 'Catana 47',
-    'nav.trips': 'Boarding Options',
-    'nav.activities': 'Activities',
-    'nav.liveaboard': 'Liveaboard',
-    'nav.blog': 'Blog',
-    'nav.contact': 'Contact',
-    'nav.reviews': 'Reviews',
-    'cta.contact': 'Contact us',
-    'cta.whatsapp': 'Chat on WhatsApp',
-    'cta.book': 'Request to book',
-    'footer.legal': 'Ikigai Sailing ASD — Via Gorlago 37 – 00135 Roma (RM) — C.F. 96511650580',
-    'footer.affiliation': 'Recognized by CONI · Affiliated with MSP Italia',
-  },
-  it: {},
-  es: {},
-  fr: {},
-  sk: {},
-} as const satisfies Record<Locale, Record<string, string>>;
+export const ui: Record<Locale, Record<string, string>> = { en, it, es, fr, sk };
 
-type UIKey = keyof (typeof ui)['en'];
+export type UIKey = keyof typeof en;
 
 /** Translate a UI key for a locale, falling back to EN. */
 export function useTranslations(locale: Locale) {
   return function t(key: UIKey): string {
-    const dict = ui[locale] as Partial<Record<UIKey, string>>;
-    return dict[key] ?? ui[defaultLocale][key];
+    return ui[locale][key] ?? ui[defaultLocale][key];
   };
 }
 

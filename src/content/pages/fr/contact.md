@@ -1,0 +1,32 @@
+---
+title: Contacte Ikigai Sailing
+description: >-
+  Contacte Ikigai Sailing pour toute question, réservation ou information
+  complémentaire concernant nos sorties en voilier. Notre équipe est là pour
+  t'aider
+locale: fr
+translated: deepl
+sourceHash: a00c65cc139e8f8c
+---
+
+## Contacte-nous
+
+Envie de vivre une aventure unique à bord de notre catamaran pour faire le tour du monde ?
+
+Nous sommes là pour répondre à tes questions et t'aider à réserver ton expérience.
+
++39 331 32 926 29
+
+Luca
+
+SIÈGE SOCIAL - ROME, ITALIE
+
+[V. Gorlago, 37, 00135 Rome RM](https://www.google.com/maps/place//data=!4m2!3m1!1s0x132f5fd2c068bdcd:0x75ae0ad45831e2ad?sa=X&ved=1t:8290&ictx=111)
+
+[info@ikigaisailing.com](mailto:info@ikigaisailing.com)
+
+Écris-nous et prépare-toi à mettre les voiles !
+
+### Fais une demande en ligne
+
+Remplis le formulaire ci-dessous, et on t'enverra une proposition personnalisée.

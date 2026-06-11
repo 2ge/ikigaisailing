@@ -1,0 +1,27 @@
+---
+/** Standard page shell: BaseLayout + Header + Footer + floating WhatsApp button. */
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import WhatsAppFloat from '../components/WhatsAppFloat.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  path?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  alternates?: boolean;
+  noindex?: boolean;
+}
+---
+
+<BaseLayout {...Astro.props}>
+  <slot name="head" slot="head" />
+  <Header />
+  <main id="main">
+    <slot />
+  </main>
+  <Footer />
+  <WhatsAppFloat />
+</BaseLayout>

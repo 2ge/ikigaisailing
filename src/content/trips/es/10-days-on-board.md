@@ -1,0 +1,182 @@
+---
+title: 10 días a bordo del Ikigai
+description: >-
+  Durante 10 días, te guiaremos a través de prácticas poderosas y
+  transformadoras. Este retiro es único gracias a nuestros instructores
+  multidisciplinares
+locale: es
+price: 3000
+currency: EUR
+duration: 10 days
+location: 'San Blas, Panama'
+membersOnly: false
+heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
+gallery:
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp
+  - ~/assets/trips/10-days-on-board/Christmas-week.jpeg
+  - ~/assets/trips/10-days-on-board/IMG_1052.webp
+  - ~/assets/trips/10-days-on-board/IMG_3237.webp
+  - ~/assets/trips/10-days-on-board/IMG_3911.webp
+order: 2
+translated: deepl
+sourceHash: fba3506b9f3e93d6
+---
+
+## **Introducción**
+
+Todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades. Esta experiencia está diseñada para ayudarte a explorar el equilibrio entre **el compromiso y la escucha**, entre **la disciplina y la libertad**. Sin expectativas, sin rendir: solo la oportunidad de reconectar contigo mismo, con los demás y con el ritmo natural de la vida.
+
+## **Rutina diaria Mañana (aprox. 1 h 30 min):** Cada día comienza con una sesión guiada que puede incluir:
+
+-   Técnicas de respiración consciente
+-   Secuencias de yoga dinámicas o restaurativas
+-   Meditación sentada o en movimiento
+-   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo)_. Todas las sesiones se adaptan a la energía del grupo y al tiempo._
+
+**Tarde:** Termina el día con actividades centradas en **la introspección, la relajación y la regeneración**, como:
+
+-   Yoga al atardecer
+-   Meditación
+-   Compartir en silencio o en círculo _(dependiendo del grupo y la ubicación)_\_\_
+
+**Tiempo libre:** Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. **No hay nada que hacer más que ser.**
+
+## **La vida a bordo y la comida**
+
+La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el mar con lo que intercambiamos con la comunidad Guna:
+
+-   Langosta fresca
+-   Frutas tropicales
+-   Verduras locales
+
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin compromiso.
+
+## **Nota importante**
+
+El programa puede modificarse en función de:
+
+-   Las condiciones meteorológicas y del mar
+-   Factores logísticos
+-   La dinámica del grupo
+
+**Cualquier cambio tiene como objetivo garantizar la seguridad y la calidad de la experiencia.**
+
+## **Itinerario día a día**
+
+### **Llegada a la ciudad de Panamá**
+
+-   Traslado privado desde el aeropuerto
+-   Noche en **el Casco Viejo**, barrio declarado Patrimonio de la Humanidad por la UNESCO
+-   Paseo nocturno por callejuelas coloniales, animadas terrazas, música y gastronomía local
+
+### **Día 1 – Bienvenido a Banedup. Lo más destacado:**
+
+-   Snorkel, voleibol de playa, primeros baños
+-   Charla de seguridad y presentación de la tripulación
+-   Almuerzo ligero y rituales de bienvenida
+
+**Actividades:**
+
+-   Almuerzo y cena a bordo
+-   Voleibol de playa
+-   Snorkel en los arrecifes de coral
+-   Routine nocturna opcional
+
+### **Día 2 – Chichime Una isla animada con cabañas en la playa y ambiente caribeño**
+
+-   06:30–08:00: Rutina matutina
+-   09:00: Desayuno
+-   10:00: Navegación hacia Chichime
+-   11:00–16:00: Tiempo libre — buceo con tubo, natación, juegos en la playa
+-   Almuerzo en un restaurante frente al mar
+-   17:30–19:00: Rutina de la tarde
+-   20:00: Cena
+-   21:00: Música en directo y karaoke opcionales en tierra
+
+### **Día 3 – Cayos Holandeses Oeste (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
+
+-   06:30–08:00: Rutina matutina
+-   08:30: Desayuno
+-   10:00: Navegación hacia los Cayos Holandeses Occidentales
+-   12:00–14:00: Snorkel
+-   14:00: Almuerzo
+-   17:30: Rutina vespertina
+-   19:00: Teoría del buceo libre (respiración, compensación, seguridad)
+-   20:30: Cena y observación de la vida marina bajo las luces del barco
+
+### **Día 4 – Cayos del Oeste de los Países Bajos Práctica de buceo libre y conexión profunda**
+
+-   06:30–07:30: Respiración y estiramientos para el buceo libre
+-   07:30: Desayuno ligero
+-   08:30: Repaso de teoría y técnica
+-   10:00–12:30: Sesión práctica de buceo libre
+-   13:00: Almuerzo
+-   15:00–17:00: Tiempo libre — snorkel, pesca, kayak, descanso
+-   17:30: Rutina de la tarde
+-   20:00: Cena
+
+### **Día 5 – Laguna de Dutch Cays Aventuras en la laguna, yoga y noche de hoguera**
+
+-   06:30: Rutina matutina
+-   08:30: Desayuno
+-   09:30: Navegación hacia la laguna
+-   11:00: Recorrido por las islas en SUP o kayak
+-   13:00: Almuerzo
+-   15:00: Tiempo libre / conocer a los lugareños
+-   17:30: Yoga al atardecer o cardio/artes marciales
+-   19:30: Barbacoa en la playa y hoguera con las familias Guna
+
+### **Día 6 – Dutch Cays «Piscina natural» El fondeadero con las mejores vistas**
+
+-   06:30: Rutina matutina
+-   08:30: Desayuno
+-   09:30: Navegación hacia East Dutch Cays
+-   11:00: Visita a la isla de los artesanos
+-   12:30: Almuerzo en el restaurante sobre pilotes
+-   17:00: Isla de las Tortugas – yoga, descanso, Tabata
+-   19:30: Cena barbacoa bajo las estrellas
+
+### **Día 7 – Dutch Cays / Green Island: cocos, artesanía, snorkel y noche de cine**
+
+-   06:30: Rutina matutina
+-   08:30: Desayuno
+-   09:30: Plantación de cocoteros o snorkel en el arrecife
+-   12:30: Almuerzo
+-   14:30: Navegación hacia Green Island
+-   16:00: Baño y relax
+-   18:30: Rutina nocturna
+-   20:00: Cena
+-   21:30: Noche de cine al aire libre
+
+### **Día 8 – Isla Verde Janzu, libertad y descanso**
+
+-   06:30: Rutina matutina
+-   08:30: Desayuno
+-   Día libre: Janzu, kayak, snorkel, hamacas
+-   18:30: Rutina nocturna opcional
+-   20:00: Cena
+
+### **Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración**
+
+-   06:30: Rutina matutina
+-   08:30: Desayuno
+-   09:30: Navegación hacia Coco Bandero
+-   12:00: Almuerzo en la playa
+-   13:00–17:00: Baño con tiburones (opcional), snorkel, hamacas
+-   17:00: Rutina de la tarde
+-   19:00–23:00: Hoguera de despedida: langosta a la parrilla y música
+
+### **Día 10 – Regreso a Banedup Últimos momentos en el paraíso**
+
+-   Por la mañana: Desayuno tranquilo
+-   12:00: Navegamos de vuelta a Banedup
+-   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
+-   19:00: Cena
+-   20:30: Ceremonia de clausura y resumen en vídeo
+
+### **Día 11 – Regreso**
+
+Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** ![🌍](https://s.w.org/images/core/emoji/16.0.1/svg/1f30d.svg)
