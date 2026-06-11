@@ -28,3 +28,7 @@ pnpm-debug.log*
 
 # MCP secrets (GSC service account etc.)
 .secrets/
+
+# local screenshots / playwright
+*.jpeg
+.playwright-mcp/
