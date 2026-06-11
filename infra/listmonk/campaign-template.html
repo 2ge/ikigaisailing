@@ -1,0 +1,33 @@
+<!-- Listmonk campaign template — Ikigai Sailing. Import under Campaigns → Templates.
+     {{ template "content" . }} is where the campaign body renders. -->
+<!doctype html>
+<html>
+  <head><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /></head>
+  <body style="margin:0;background:#faf7f0;font-family:Georgia,'Times New Roman',serif;color:#16282e;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#faf7f0;">
+      <tr>
+        <td align="center" style="padding:32px 16px;">
+          <table role="presentation" width="100%" style="max-width:600px;background:#ffffff;border-radius:16px;overflow:hidden;">
+            <tr>
+              <td style="background:#0e2b33;padding:28px 32px;text-align:center;">
+                <a href="https://www.ikigaisailing.com" style="color:#7ccbcd;font-size:13px;letter-spacing:3px;text-transform:uppercase;text-decoration:none;">Ikigai Sailing</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:32px;font-size:16px;line-height:1.7;">
+                {{ template "content" . }}
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:24px 32px;background:#21444e;color:#d5f0ee;font-size:12px;line-height:1.6;text-align:center;font-family:Arial,sans-serif;">
+                <p style="margin:0 0 8px;">9°33′N · 78°57′W — Guna Yala, Panama</p>
+                <p style="margin:0 0 8px;">Ikigai Sailing ASD — Via Gorlago 37, 00135 Roma (RM)</p>
+                <p style="margin:0;"><a href="{{ UnsubscribeURL }}" style="color:#7ccbcd;">Unsubscribe</a></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

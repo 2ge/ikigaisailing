@@ -1,0 +1,46 @@
+# Listmonk + its own Postgres for Ikigai Sailing mailing.
+# Runs on aidev; exposed via haproxy as news.ikigaisailing.com (see infra/listmonk/haproxy-stanza.cfg).
+# Listmonk admin UI/API on 127.0.0.1:9000 (claimed in ~/projects/PORTS.md).
+#
+#   cd infra/listmonk && docker compose up -d
+#   docker compose exec app ./listmonk --install   # first run: create schema
+#
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: listmonk
+      POSTGRES_PASSWORD: ${LISTMONK_DB_PASSWORD:-changeme}
+      POSTGRES_DB: listmonk
+    volumes:
+      - listmonk-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U listmonk']
+      interval: 10s
+      timeout: 5s
+      retries: 6
+    # not published — only the app container reaches it
+    expose:
+      - '5432'
+
+  app:
+    image: listmonk/listmonk:latest
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - '127.0.0.1:9000:9000' # bound to localhost; haproxy fronts it
+    environment:
+      LISTMONK_app__address: 0.0.0.0:9000
+      LISTMONK_db__host: db
+      LISTMONK_db__port: '5432'
+      LISTMONK_db__user: listmonk
+      LISTMONK_db__password: ${LISTMONK_DB_PASSWORD:-changeme}
+      LISTMONK_db__database: listmonk
+      TZ: Europe/Rome
+    command: [sh, -c, './listmonk --upgrade --yes && ./listmonk']
+
+volumes:
+  listmonk-db:

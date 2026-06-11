@@ -52,7 +52,7 @@ const schemas = [
   {/* hero */}
   <header class="relative isolate overflow-hidden bg-ocean-950">
     {d.heroImage && (
-      <Image src={d.heroImage} alt={d.title} width={1800} height={1000} widths={[640, 1024, 1800]} sizes="100vw" loading="eager" class="absolute inset-0 -z-10 h-full w-full object-cover opacity-60" />
+      <Image src={d.heroImage} alt={d.title} width={1800} height={1000} widths={[640, 1024, 1800]} sizes="100vw" loading="eager" transition:name={`trip-hero-${slug}`} class="absolute inset-0 -z-10 h-full w-full object-cover opacity-60" />
     )}
     <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/50 to-transparent"></div>
     <div class="mx-auto flex min-h-[60vh] max-w-5xl flex-col justify-end px-4 py-16 sm:px-6">

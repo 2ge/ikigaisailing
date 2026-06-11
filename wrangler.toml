@@ -1,0 +1,11 @@
+# Cloudflare Pages config. Functions in ./functions are auto-deployed.
+name = "ikigai-sailing"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "dist"
+
+# Runtime secrets are NOT set here — use `wrangler pages secret put <NAME>` or the
+# Pages dashboard (Settings → Environment variables). See README "Secrets".
+# Public (build-time, safe to expose) vars:
+[vars]
+PUBLIC_UMAMI_SRC = ""
+PUBLIC_UMAMI_ID = ""

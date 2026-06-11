@@ -1,43 +1,114 @@
-# Astro Starter Kit: Minimal
+# Ikigai Sailing
 
-```sh
-npm create astro@latest -- --template minimal
+Modern, fast, AI-editable rebuild of [ikigaisailing.com](https://www.ikigaisailing.com) — a non-profit sailing crew running mindful trips aboard the Catana 47 *Ikigai* in San Blas, Panama.
+
+**Stack:** Astro 6 (static) · Tailwind 4 · content collections · 5-locale i18n · DeepL translation pipeline · Cloudflare Pages + Pages Functions · Stripe Checkout · self-hosted Listmonk.
+
+> **Claude Code is the CMS.** You edit this site by instructing Claude Code in natural language. See [`CLAUDE.md`](./CLAUDE.md) for the editing contract and rules.
+
+## Architecture
+
+```
+src/
+  content/<collection>/<locale>/<slug>.md   pages, trips, activities, testimonials, blog
+  i18n/                  ui strings (strings.<locale>.json) + nav + helpers
+  components/            one component per file (Header, Footer, TripCard, …)
+  layouts/               BaseLayout (head/SEO/analytics) → PageLayout (header/footer)
+  pages/[...locale]/     i18n route tree (rest param = locale; '' = en)
+  lib/                   content + schema (JSON-LD) helpers
+  assets/                originals, rendered via astro:assets (<Image>)
+functions/api/           Pages Functions: checkout, stripe-webhook, contact, subscribe
+scripts/                 translate, gen-redirects, gen-llms, verify-redirects
+infra/listmonk/          docker-compose + haproxy stanza + campaign template
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+EN is the source of truth. IT is human-maintained (extracted from the old site). ES/FR/SK are
+DeepL-generated (`translated: deepl` + `sourceHash`). SK files carry `needsReview: true`.
 
-## 🚀 Project Structure
+## Run locally
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+```bash
+npm install
+npm run dev          # http://localhost:4321 (proxied as https://ikigai.2pu.net on aidev)
+npm run build        # prebuild generates _redirects + llms.txt, then astro build → dist/
+npm run preview
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Pages Functions (Stripe/contact/newsletter) need `wrangler pages dev dist` with a `.dev.vars`
+file (copy `.dev.vars.example`).
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Edit content (common operations)
 
-Any static assets, like images, can be placed in the `public/` directory.
+| You want to… | Do |
+|---|---|
+| Add a blog post | create `src/content/blog/en/<slug>.md` → `npm run translate` → build → commit |
+| Change a trip price | edit the trip's EN `price` → `npm run translate` → build (+ Stripe CLI cmd) |
+| Add a testimonial | new file in `src/content/testimonials/<lang>/` with `locale` = its language |
+| Update the route | edit EN `route.md` → `npm run translate` (llms.txt regenerates on build) |
 
-## 🧞 Commands
+Translations: `npm run translate` (incremental). Glossary in `scripts/glossary.csv`;
+re-push with `npm run translate -- --push-glossaries`.
 
-All commands are run from the root of the project, from a terminal:
+## Deploy (Cloudflare Pages)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+1. Create the Pages project (one-time): connect this repo in the Cloudflare dashboard, or
+   `wrangler pages project create ikigai-sailing --production-branch main`.
+2. Build command `npm run build`, output `dist/`. Functions in `functions/` deploy automatically.
+3. Pushes to `main` deploy production; branch pushes get preview URLs.
+4. **Custom domain:** add `www.ikigaisailing.com` + apex in Pages → Custom domains. Keep the old
+   WordPress at `old.ikigaisailing.com` for 60 days. Verify redirects:
+   `scripts/verify-redirects.sh https://ikigai-sailing.pages.dev`.
+5. GSC verification token is already in `BaseLayout.astro`. Submit `sitemap-index.xml` in Search
+   Console + Bing.
 
-## 👀 Want to learn more?
+### Cloudflare dashboard toggles (Speed/Caching)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Early Hints **ON**, HTTP/3 **ON**, Brotli **ON**, Speed Brain **ON**,
+Rocket Loader **OFF** (conflicts with Astro), Auto Minify **OFF** (Astro already minifies).
+
+## Secrets
+
+Never committed. Build-time in `.env`; runtime via `wrangler pages secret put <NAME>` (or dashboard).
+
+| Name | Where | Purpose |
+|---|---|---|
+| `DEEPL_API_KEY` | `.env` / CI | translation pipeline (build-time only) |
+| `CLOUDFLARE_API_TOKEN` | `.env` / CI | Pages deploy |
+| `STRIPE_SECRET_KEY` | Pages secret | checkout sessions |
+| `STRIPE_WEBHOOK_SECRET` | Pages secret | webhook signature verify |
+| `RESEND_API_KEY`, `CREW_EMAIL` | Pages secret | transactional email |
+| `TURNSTILE_SECRET` | Pages secret | contact form anti-spam |
+| `LISTMONK_URL`, `LISTMONK_API_KEY`, `LISTMONK_*_LIST_ID` | Pages secret | mailing |
+| `PUBLIC_UMAMI_SRC`, `PUBLIC_UMAMI_ID` | `wrangler.toml` vars | analytics (public) |
+
+## Stripe (Phase 4)
+
+Create one Product + Price (EUR) per bookable trip, then put the price IDs into
+`functions/api/checkout.ts` (`TRIP_PRICES`) and each trip's `stripePriceId` frontmatter:
+
+```bash
+stripe products create --name "Ikigai Experience"
+stripe prices create --product <prod_id> --unit-amount 30000 --currency eur
+# members-only trips (one-month, pacific-crossing, crew-exchange) use the request-access flow — no price
+```
+
+Webhook: point `https://<domain>/api/stripe-webhook` at `checkout.session.completed`,
+copy the signing secret to `STRIPE_WEBHOOK_SECRET`.
+
+## Mailing — Listmonk
+
+See [`infra/listmonk/README.md`](./infra/listmonk/README.md).
+
+## Tooling (Phase 8)
+
+- **Skills** (`.claude/skills/`): `seo-audit`, `geo-writer`, `perf-budget`, `translate`.
+- **MCP** (`.mcp.json`): chrome-devtools, cloudflare-docs/bindings, stripe, gsc.
+  GSC needs a service account JSON at `.secrets/gsc-service-account.json` (enable the Search
+  Console API, add the service account as a user on the GSC property).
+- **Hooks**: `scripts/quality-gate.sh` runs on every edit; pre-push runs Playwright.
+- Monthly SEO loop + keyword strategy: `docs/SEO-STRATEGY.md`, `CLAUDE.md`.
+
+## Inventories
+
+- `CONTENT-INVENTORY.md` — every old URL → content file → new URL (+ review flags).
+- `ASSET-MANIFEST.md` — every original upload → local asset → pages used on.

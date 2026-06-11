@@ -25,6 +25,7 @@ const href = localizePath(`/trips/${slugOf(trip)}/`, locale);
         alt={d.title}
         width={640}
         height={480}
+        transition:name={`trip-hero-${slugOf(trip)}`}
         class="h-full w-full object-cover transition duration-700 group-hover:scale-105"
       />
     )}
