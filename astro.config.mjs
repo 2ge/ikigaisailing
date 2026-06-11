@@ -25,5 +25,7 @@ export default defineConfig({
   ],
   vite: {
     plugins: [tailwindcss()],
+    // dev preview is proxied as ikigai.2pu.net via local haproxy
+    server: { allowedHosts: ['ikigai.2pu.net'] },
   },
 });
