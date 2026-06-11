@@ -1,0 +1,106 @@
+import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
+
+const LOCALES = ['en', 'it', 'es', 'fr', 'sk'] as const;
+
+/** Shared fields for DeepL-translated files (Phase 1.5 pipeline). */
+const translationMeta = {
+  /** Set by scripts/translate.ts on generated files. Human-written files omit it. */
+  translated: z.enum(['deepl']).optional(),
+  /** Hash of the EN source payload this translation was generated from. */
+  sourceHash: z.string().optional(),
+  /** SK files get a native-speaker review pass by the owner. */
+  needsReview: z.boolean().optional(),
+};
+
+const pages = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    locale: z.enum(LOCALES),
+    /** Old WordPress URL(s) this page replaces — drives _redirects generation. */
+    oldUrls: z.array(z.string()).default([]),
+    ...translationMeta,
+  }),
+});
+
+const trips = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/trips' }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      locale: z.enum(LOCALES),
+      price: z.number().nullable(),
+      currency: z.string().default('EUR'),
+      priceNote: z.string().optional(), // e.g. "per week", "per month", "deposit 30%"
+      duration: z.string(),
+      season: z.string().optional(),
+      location: z.string(),
+      membersOnly: z.boolean().default(false),
+      stripePriceId: z.string().optional(),
+      depositStripePriceId: z.string().optional(),
+      heroImage: image().optional(),
+      gallery: z.array(image()).default([]),
+      faq: z
+        .array(z.object({ q: z.string(), a: z.string() }))
+        .default([]),
+      order: z.number().default(99),
+      oldUrls: z.array(z.string()).default([]),
+      ...translationMeta,
+    }),
+});
+
+const activities = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/activities' }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      summary: z.string(),
+      locale: z.enum(LOCALES),
+      category: z.string().default('wellness'),
+      image: image().optional(),
+      gallery: z.array(image()).default([]),
+      order: z.number().default(99),
+      oldUrls: z.array(z.string()).default([]),
+      ...translationMeta,
+    }),
+});
+
+const testimonials = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/testimonials' }),
+  schema: z.object({
+    author: z.string(),
+    origin: z.string().optional(), // e.g. "Italy", "France"
+    title: z.string().optional(),
+    date: z.coerce.date().optional(),
+    source: z.enum(['trustpilot', 'direct', 'google']).default('direct'),
+    sourceUrl: z.string().optional(),
+    rating: z.number().min(1).max(5).optional(),
+    /** Original language of the review — reviews stay verbatim in their language. */
+    locale: z.enum(LOCALES),
+    /** Pre-generated DeepL translations of the body, keyed by locale (Phase 1.5). */
+    translations: z.record(z.string()).default({}),
+    featured: z.boolean().default(false),
+  }),
+});
+
+const blog = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      locale: z.enum(LOCALES),
+      pubDate: z.coerce.date(),
+      updatedDate: z.coerce.date().optional(),
+      author: z.string().default('Ikigai Sailing crew'),
+      tags: z.array(z.string()).default([]),
+      image: image().optional(),
+      draft: z.boolean().default(false),
+      ...translationMeta,
+    }),
+});
+
+export const collections = { pages, trips, activities, testimonials, blog };

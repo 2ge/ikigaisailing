@@ -1,0 +1,43 @@
+---
+/**
+ * Base HTML shell for every page. Header/Footer come in Phase 2;
+ * this layout owns <head> (via <SEO>), global styles, and analytics.
+ */
+import SEO from '../components/SEO.astro';
+import { getLocaleFromUrl } from '../i18n/ui';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  path?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  alternates?: boolean;
+  noindex?: boolean;
+}
+
+const locale = getLocaleFromUrl(Astro.url);
+---
+
+<!doctype html>
+<html lang={locale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <meta name="generator" content={Astro.generator} />
+    <meta
+      name="google-site-verification"
+      content="CXcLaw_mODopdWa5K_eC21X4VXiL5s38jiNI0kStcnA"
+    />
+    <SEO {...Astro.props}>
+      <slot name="head" />
+    </SEO>
+    {/* Analytics (GTM + Meta pixel + umami) are added in Phase 3 */}
+  </head>
+  <body class="min-h-screen bg-sand-50 font-sans text-ink antialiased">
+    <slot />
+  </body>
+</html>

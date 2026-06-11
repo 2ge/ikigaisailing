@@ -1,0 +1,70 @@
+---
+/**
+ * Per-page <head> SEO block: title/description/canonical, full hreflang set
+ * (en/it/es/fr/sk + x-default → EN), OG + Twitter cards, and a JSON-LD slot.
+ * Hreflang alternates are generated automatically from the current path.
+ */
+import { locales, defaultLocale, getLocaleFromUrl, localizePath, type Locale } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Path without locale prefix, e.g. '/trips/ikigai-experience/'. Defaults to current. */
+  path?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  /** Set false on pages that should not emit hreflang (e.g. 404). */
+  alternates?: boolean;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  ogType = 'website',
+  alternates = true,
+  noindex = false,
+} = Astro.props;
+
+const site = Astro.site!;
+const locale = getLocaleFromUrl(Astro.url);
+const basePath =
+  Astro.props.path ?? Astro.url.pathname.replace(/^\/(it|es|fr|sk)(\/|$)/, '/');
+const canonical = new URL(localizePath(basePath, locale), site).href;
+const ogImage = new URL(Astro.props.ogImage ?? '/og-default.jpg', site).href;
+
+const alternateLinks = alternates
+  ? (locales as readonly Locale[]).map((l) => ({
+      hreflang: l,
+      href: new URL(localizePath(basePath, l), site).href,
+    }))
+  : [];
+
+const fullTitle = title.includes('Ikigai') ? title : `${title} | Ikigai Sailing`;
+---
+
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex, nofollow" />}
+
+{alternateLinks.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
+{alternates && (
+  <link rel="alternate" hreflang="x-default" href={new URL(localizePath(basePath, defaultLocale), site).href} />
+)}
+
+<meta property="og:type" content={ogType} />
+<meta property="og:url" content={canonical} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:site_name" content="Ikigai Sailing" />
+<meta property="og:locale" content={locale} />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImage} />
+
+{/* JSON-LD blocks are injected per page-type via this slot */}
+<slot />

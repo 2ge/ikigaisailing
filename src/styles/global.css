@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+
+/*
+ * Ikigai Sailing design tokens (Tailwind 4 CSS-first config).
+ * Palette: deep ocean teals + warm sand, in the spirit of the current site.
+ * Type: Figtree for UI, Fraunces for display headings (loaded in Phase 2).
+ */
+@theme {
+  --color-ocean-50: #effaf9;
+  --color-ocean-100: #d7f1f0;
+  --color-ocean-200: #b3e3e3;
+  --color-ocean-300: #80cfd1;
+  --color-ocean-400: #46b1b7;
+  --color-ocean-500: #2a949d;
+  --color-ocean-600: #257985;
+  --color-ocean-700: #23626d;
+  --color-ocean-800: #23515b;
+  --color-ocean-900: #21444e;
+  --color-ocean-950: #102c34;
+
+  --color-sand-50: #fbf9f4;
+  --color-sand-100: #f4efe2;
+  --color-sand-200: #e8dcc3;
+  --color-sand-300: #d9c49d;
+  --color-sand-400: #c8a775;
+  --color-sand-500: #bc9259;
+
+  --color-ink: #1a2b32;
+
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+}
