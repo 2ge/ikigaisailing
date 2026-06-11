@@ -6,7 +6,7 @@ description: >-
   tranquilidad y la naturaleza
 locale: es
 translated: deepl
-sourceHash: c84d60e8f1d45139
+sourceHash: 9193e1735421180f
 ---
 
 ## QUIÉNES SOMOS
@@ -30,22 +30,22 @@ países visitados
 
 ## Estamos reconocidos y certificados por
 
-![R-C](../../../../assets/pages/about/R-C.png)
+![R-C](../../../assets/pages/about/R-C.png)
 
-![download\_edited\_edited](../../../../assets/pages/about/download_edited_edited.png)
+![download\_edited\_edited](../../../assets/pages/about/download_edited_edited.png)
 
-![CONI-Logo](../../../../assets/pages/about/CONI-Logo.png)
+![CONI-Logo](../../../assets/pages/about/CONI-Logo.png)
 
-![Iko](../../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
+![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
-![20914411\_1937111926303973\_4974236555357167890\_n\_edited](../../../../assets/pages/about/20914411_1937111926303973_4974236555357167890_n_edited.png)
+![20914411\_1937111926303973\_4974236555357167890\_n\_edited](../../../assets/pages/about/20914411_1937111926303973_4974236555357167890_n_edited.png)
 
 Luca
 
 **Patrón, instructor de kitesurf y buceo libre Patrón, instructor de kitesurf y buceo libre**
 
 Luca es **RYA Yachtmaster Offshore** e **instructor** **de vela reconocido por el CONI.**  
-También es **instructor** **de buceo libre** para **AIDA y Apnea Totale**, e **instructor** **certificado de kitesurf por la IKO International.**
+También es **instructor** **de buceo libre** de **AIDA y Apnea Totale**, e **instructor** **certificado de kitesurf por la IKO International.**
 
 Su pasión por la hospitalidad, combinada con su amor por la buena comida, crea una **experiencia a bordo única** centrada en **el bienestar físico y mental**, mezclando actividades deportivas con prácticas como **la meditación y el Janzu**, todo ello enriquecido por los placeres de una saludable **Dolce Vita**.
 
@@ -57,7 +57,7 @@ Brano
 
 **Dive Master, pesca submarina y espíritu aventurero**
 
-Brano es un buceador experto con certificaciones que van desde **Divemaster de la IANTD hasta buceador de cuevas y de rescate**, pasando por buceo avanzado y apnea.
+Brano es un buceador experto con certificaciones que van desde **IANTD Divemaster hasta Cave Diver y Rescue Diver**, pasando por buceo avanzado y apnea.
 
 Su pasión por el mar le ha llevado a explorar **más de 30 países**, abrazando los deportes extremos, los viajes de aventura y la innovación tecnológica.
 
@@ -89,18 +89,18 @@ Nuestro proyecto es un **viaje a vela alrededor del mundo**, donde enseñamos y 
 
 [Descubre tu Ikigai con nosotros](https://www.ikigaisailing.com/en/ikigai-2/)
 
-![scuba-diving-3](../../../../assets/activities/diving/scuba-diving-3.jpg)
+![scuba-diving-3](../../../assets/activities/diving/scuba-diving-3.jpg)
 
-![kite-surf7](../../../../assets/activities/kitesurf/kite-surf7.jpg)
+![kite-surf7](../../../assets/activities/kitesurf/kite-surf7.jpg)
 
-![meditazione1](../../../../assets/activities/project/meditazione1.jpg)
+![meditazione1](../../../assets/activities/project/meditazione1.jpg)
 
-![janzu1](../../../../assets/activities/janzu/janzu1.jpg)
+![janzu1](../../../assets/activities/janzu/janzu1.jpg)
 
-![yoga sailing retreat, Ritiro Yoga in Barca a vela](../../../../assets/activities/project/yoga-ikigai.jpg)
+![yoga sailing retreat, Ritiro Yoga in Barca a vela](../../../assets/activities/project/yoga-ikigai.jpg)
 
-![ikigaisailing-2024-anguilla](../../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
+![ikigaisailing-2024-anguilla](../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
 
-![20221220\_125124](../../../../assets/trips/acconto/20221220_125124.jpg)
+![20221220\_125124](../../../assets/trips/acconto/20221220_125124.jpg)
 
-![20221114\_180633](../../../../assets/pages/about/20221114_180633.jpg)
+![20221114\_180633](../../../assets/pages/about/20221114_180633.jpg)

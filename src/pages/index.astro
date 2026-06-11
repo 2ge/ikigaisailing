@@ -1,16 +1,13 @@
 ---
-/* Temporary homepage — replaced in Phase 2 by the full design. */
-import BaseLayout from '../layouts/BaseLayout.astro';
+import PageLayout from '../layouts/PageLayout.astro';
+import Home from '../components/Home.astro';
+import HomeJsonLd from '../components/jsonld/HomeJsonLd.astro';
 ---
-
-<BaseLayout
+<PageLayout
   title="Ikigai Sailing – Mindful Sailing & Ocean Adventures"
-  description="Sailing the world on the Catana 47 catamaran Ikigai — mindful sailing, freediving, yoga and ocean adventures in San Blas, Panama and beyond."
+  description="Join the Catana 47 catamaran Ikigai for mindful sailing trips in San Blas, Panama: freediving, yoga, meditation and slow ocean travel. A non-profit crew, booking direct."
+  path="/"
 >
-  <main class="grid min-h-screen place-items-center bg-ocean-950 text-ocean-50">
-    <div class="text-center">
-      <h1 class="font-display text-6xl">Ikigai Sailing</h1>
-      <p class="mt-4 opacity-70">Rebuild in progress — Phase 0 scaffold</p>
-    </div>
-  </main>
-</BaseLayout>
+  <HomeJsonLd slot="head" />
+  <Home locale="en" />
+</PageLayout>

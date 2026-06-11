@@ -1,0 +1,45 @@
+---
+/** Flag grid — "We are proud to have reached these destinations". */
+import { Image } from 'astro:assets';
+
+const flagMods = import.meta.glob<{ default: ImageMetadata }>(
+  '../assets/pages/home/Flag_*.{png,avif,svg}',
+  { eager: true },
+);
+const venezDep = import.meta.glob<{ default: ImageMetadata }>(
+  '../assets/pages/home/Federal_dependencies*.{png,avif}',
+  { eager: true },
+);
+
+function nameFromPath(p: string): string {
+  const m = p.match(/Flag_of_(?:the_)?([^.]+?)\.svg/);
+  if (!m) return 'Venezuela (Federal Dependencies)';
+  return decodeURIComponent(m[1]).replace(/_/g, ' ');
+}
+
+// dedupe by country name, keep one image each
+const byName = new Map<string, ImageMetadata>();
+for (const [p, mod] of Object.entries({ ...flagMods, ...venezDep })) {
+  const name = nameFromPath(p);
+  if (!byName.has(name)) byName.set(name, mod.default);
+}
+const flags = [...byName.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+---
+
+<ul class="flex flex-wrap justify-center gap-3">
+  {flags.map(([name, img]) => (
+    <li
+      class="group flex items-center gap-2 rounded-full bg-sand-50 py-1.5 pl-1.5 pr-3.5 ring-1 ring-ocean-950/5"
+      title={name}
+    >
+      <Image
+        src={img}
+        alt={`Flag of ${name}`}
+        width={28}
+        height={20}
+        class="h-5 w-7 rounded-sm object-cover shadow-sm"
+      />
+      <span class="text-sm text-ink-soft">{name}</span>
+    </li>
+  ))}
+</ul>

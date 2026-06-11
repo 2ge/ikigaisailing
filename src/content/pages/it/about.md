@@ -29,15 +29,15 @@ Paesi Visitati
 
 ## Siamo riconosciuti e certificati da
 
-![R-C](../../../../assets/pages/about/R-C.png)
+![R-C](../../../assets/pages/about/R-C.png)
 
-![download_edited_edited](../../../../assets/pages/about/download_edited_edited.png)
+![download_edited_edited](../../../assets/pages/about/download_edited_edited.png)
 
-![CONI-Logo](../../../../assets/pages/about/CONI-Logo.png)
+![CONI-Logo](../../../assets/pages/about/CONI-Logo.png)
 
-![Iko](../../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
+![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
-![20914411_1937111926303973_4974236555357167890_n_edited](../../../../assets/pages/about/20914411_1937111926303973_4974236555357167890_n_edited.png)
+![20914411_1937111926303973_4974236555357167890_n_edited](../../../assets/pages/about/20914411_1937111926303973_4974236555357167890_n_edited.png)
 
 LUCA
 
@@ -83,18 +83,18 @@ Il nostro progetto è un viaggio intorno al mondo in barca a vela, dove insegnia
 
 [scopri il nostro ikigai](https://www.ikigaisailing.com/ikigai/)
 
-![scuba-diving-3](../../../../assets/activities/diving/scuba-diving-3.jpg)
+![scuba-diving-3](../../../assets/activities/diving/scuba-diving-3.jpg)
 
-![kite-surf7](../../../../assets/activities/kitesurf/kite-surf7.jpg)
+![kite-surf7](../../../assets/activities/kitesurf/kite-surf7.jpg)
 
-![meditazione1](../../../../assets/activities/project/meditazione1.jpg)
+![meditazione1](../../../assets/activities/project/meditazione1.jpg)
 
-![janzu1](../../../../assets/activities/janzu/janzu1.jpg)
+![janzu1](../../../assets/activities/janzu/janzu1.jpg)
 
-![yoga sailing retreat, Ritiro Yoga in Barca a vela](../../../../assets/activities/project/yoga-ikigai.jpg)
+![yoga sailing retreat, Ritiro Yoga in Barca a vela](../../../assets/activities/project/yoga-ikigai.jpg)
 
-![ikigaisailing-2024-anguilla](../../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
+![ikigaisailing-2024-anguilla](../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
 
-![20221220_125124](../../../../assets/trips/acconto/20221220_125124.jpg)
+![20221220_125124](../../../assets/trips/acconto/20221220_125124.jpg)
 
-![20221114_180633](../../../../assets/pages/about/20221114_180633.jpg)
+![20221114_180633](../../../assets/pages/about/20221114_180633.jpg)

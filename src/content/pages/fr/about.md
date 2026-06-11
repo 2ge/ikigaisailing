@@ -2,18 +2,18 @@
 title: À propos d'Ikigai Sailing - Découvre la sérénité de la voile
 description: >-
   Découvre Ikigai Sailing et laisse-toi séduire par l'art de la voile pour une
-  vie épanouissante sur l'eau. Laisse-toi gagner par la passion de l'aventure,
+  vie épanouissante sur l'eau. Laisse-toi porter par la passion de l'aventure,
   de la tranquillité et de la nature
 locale: fr
 translated: deepl
-sourceHash: c84d60e8f1d45139
+sourceHash: 9193e1735421180f
 ---
 
 ## À PROPOS DE NOUS
 
 !
 
-Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, d'apnéistes, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
+Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs sous-marins, de kitesurfeurs et de passionnés d'aventure et de sport.
 
 Nous sommes une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**.  
 Nous sommes unis par l'amour de la mer, de la liberté et de la bonne cuisine, avec une seule mission : vivre en harmonie avec la nature, au gré du vent et des vagues.
@@ -30,15 +30,15 @@ pays visités
 
 ## Nous sommes reconnus et certifiés par
 
-![R-C](../../../../assets/pages/about/R-C.png)
+![R-C](../../../assets/pages/about/R-C.png)
 
-![download\_edited\_edited](../../../../assets/pages/about/download_edited_edited.png)
+![download\_edited\_edited](../../../assets/pages/about/download_edited_edited.png)
 
-![CONI-Logo](../../../../assets/pages/about/CONI-Logo.png)
+![CONI-Logo](../../../assets/pages/about/CONI-Logo.png)
 
-![Iko](../../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
+![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
-![20914411\_1937111926303973\_4974236555357167890\_n\_edited](../../../../assets/pages/about/20914411_1937111926303973_4974236555357167890_n_edited.png)
+![20914411\_1937111926303973\_4974236555357167890\_n\_edited](../../../assets/pages/about/20914411_1937111926303973_4974236555357167890_n_edited.png)
 
 Luca
 
@@ -80,7 +80,7 @@ L'HISTOIRE
 Ikigai Sailing
 
 Ikigai Sailing n’est pas seulement un voilier : **c’est une vision, un mode de vie**.  
-C’est un **retour à la nature, la découverte de nouveaux horizons et la pratique d’activités qui nourrissent à la fois le corps et l’esprit**.
+C’est un **retour à la nature, la découverte de nouveaux horizons et l’adoption d’activités qui nourrissent à la fois le corps et l’esprit**.
 
 C'est le **plaisir de partager des moments authentiques**, **de** pratiquer des sports, d'explorer différentes cultures et **de vivre chaque jour comme une pause loin du monde moderne trépidant**.  
 En d'autres termes, **c'est une évasion hors de la Matrix**.
@@ -89,18 +89,18 @@ Notre projet est un **voyage à la voile autour du monde**, où nous enseignons 
 
 [Découvre ton Ikigai avec nous](https://www.ikigaisailing.com/en/ikigai-2/)
 
-![scuba-diving-3](../../../../assets/activities/diving/scuba-diving-3.jpg)
+![scuba-diving-3](../../../assets/activities/diving/scuba-diving-3.jpg)
 
-![kite-surf7](../../../../assets/activities/kitesurf/kite-surf7.jpg)
+![kite-surf7](../../../assets/activities/kitesurf/kite-surf7.jpg)
 
-![meditazione1](../../../../assets/activities/project/meditazione1.jpg)
+![meditazione1](../../../assets/activities/project/meditazione1.jpg)
 
-![janzu1](../../../../assets/activities/janzu/janzu1.jpg)
+![janzu1](../../../assets/activities/janzu/janzu1.jpg)
 
-![yoga sailing retreat, Ritiro Yoga in Barca a vela](../../../../assets/activities/project/yoga-ikigai.jpg)
+![yoga sailing retreat, Ritiro Yoga in Barca a vela](../../../assets/activities/project/yoga-ikigai.jpg)
 
-![ikigaisailing-2024-anguilla](../../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
+![ikigaisailing-2024-anguilla](../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
 
-![20221220\_125124](../../../../assets/trips/acconto/20221220_125124.jpg)
+![20221220\_125124](../../../assets/trips/acconto/20221220_125124.jpg)
 
-![20221114\_180633](../../../../assets/pages/about/20221114_180633.jpg)
+![20221114\_180633](../../../assets/pages/about/20221114_180633.jpg)

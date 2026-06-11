@@ -13,10 +13,10 @@ gallery:
   - ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: 0cc3a09a7dfca3b2
+sourceHash: 59f47dc33917fdf4
 ---
 
-[![skipper](../../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
+[![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Échange / Hébergement payant
 
@@ -29,7 +29,7 @@ Ikigai Sailing, c'est un projet de vie, un tour du monde par étapes qui mêle n
 
 # **Rejoins l'équipage d'Ikigai**
 
-À bord de _l'Ikigai_, un catamaran de performance Catana 47 de 14 mètres, on ne te propose pas seulement des expériences uniques de voile, de plongée en apnée, de kitesurf et de vie en mer : on construit une communauté.
+À bord _d'Ikigai_, un catamaran de performance Catana 47 de 14 mètres, on ne se contente pas de proposer des expériences uniques de voile, de plongée en apnée, de kitesurf et de vie en mer : on construit une communauté.
 
 Si tu te sens attiré par l'océan et que tu veux te lancer un défi, il y a deux façons de rejoindre notre équipage :
 
@@ -80,6 +80,6 @@ De là, après environ 2 h 30 de trajet à travers les forêts de Guna Yala, un 
 
 À la fin de ton séjour, le jour du départ, tu suivras le même itinéraire en sens inverse : un bateau local viendra te chercher à l’aube directement à Ikigai et te ramènera sur le continent, où une jeep t’emmènera à l’aéroport à temps pour ton vol de retour.
 
-✈️ L'ensemble du voyage est organisé par nos soins en collaboration avec des partenaires locaux de confiance, garantissant une logistique fluide et sûre du début à la fin de ton séjour.
+✈️ L'ensemble du voyage est organisé par nos soins en collaboration avec des partenaires locaux de confiance, garantissant une expérience logistique fluide et sûre du début à la fin de ton séjour.
 
 Si tu as des besoins spécifiques (comme des vols tôt le matin, des retards ou un séjour prolongé), n'hésite pas à nous en faire part afin que nous puissions trouver ensemble la solution la plus adaptée.

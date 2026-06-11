@@ -13,10 +13,10 @@ membersOnly: true
 heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 order: 3
 translated: deepl
-sourceHash: d97a22539444d8d0
+sourceHash: e703d1eda5fae2c4
 ---
 
-[![One month aboard](../../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
+[![One month aboard](../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
 
 # Un mes a bordo
 
@@ -68,7 +68,7 @@ Queremos que cada persona a bordo tenga el espacio, el tiempo y la calidad de co
 ## Durante el mes
 
 -   Los momentos compartidos se alternan con el tiempo libre personal.
--   Las actividades (buceo libre, Janzu, yoga, vela, kite\*, meditación, etc.) se mezclan con el ritmo del grupo y la naturaleza.
+-   Las actividades (buceo libre, Janzu, yoga, vela, kite\*, meditación, etc.) se adaptan al ritmo del grupo y de la naturaleza.
 -   Se valoran las habilidades personales de cada participante, ya sea cocinar, documentar el viaje, tocar música o contar historias.
 
 ## Requisitos básicos
@@ -97,15 +97,15 @@ Por este motivo, será necesario pasar al menos una noche en la capital. Esta es
 🕔 Al día siguiente, temprano por la mañana, un jeep 4×4 privado te recogerá directamente en tu hotel y te llevará hacia la costa caribeña.  
 Desde allí, tras aproximadamente dos horas y media de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 a. m.
 
-Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: una embarcación local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
+Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: un barco local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
 
-✈️ Todo el viaje lo organizamos nosotros en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
+✈️ Organizamos todo el viaje en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
 
 Si tienes alguna necesidad específica (como vuelos tempranos, retrasos o una estancia prolongada), háznoslo saber para que podamos encontrar juntos la solución más adecuada.
 
 ## Contribución e inclusiones
 
-Nota: A bordo podemos acoger un número limitado de 2 a un máximo de 3 personas al mes al mismo tiempo. Las solicitudes se evalúan y seleccionan en función de la motivación y la afinidad con el proyecto.
+Nota: A bordo podemos acoger a un número limitado de personas, de 2 a un máximo de 3, cada mes. Las solicitudes se evalúan y seleccionan en función de la motivación y la afinidad con el proyecto.
 
 ### QUÉ INCLUYE
 

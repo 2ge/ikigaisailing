@@ -13,10 +13,10 @@ gallery:
   - ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: 0cc3a09a7dfca3b2
+sourceHash: 59f47dc33917fdf4
 ---
 
-[![skipper](../../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
+[![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Intercambio / Alojamiento pagado
 
@@ -76,7 +76,7 @@ Tu viaje probablemente comenzará con tu llegada al Aeropuerto Internacional de 
 Por este motivo, será necesario pasar al menos una noche en la capital. Es la oportunidad perfecta para explorar la ciudad y, quizás, pasear por las encantadoras calles del Casco Viejo, el barrio histórico declarado Patrimonio de la Humanidad por la UNESCO.
 
 🕔 Al día siguiente, temprano por la mañana, un jeep 4×4 privado te recogerá directamente en tu hotel y te llevará hacia la costa caribeña.  
-Desde allí, tras aproximadamente dos horas y media de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 de la mañana.
+Desde allí, tras aproximadamente 2,5 horas de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 a. m.
 
 Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: un barco local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
 

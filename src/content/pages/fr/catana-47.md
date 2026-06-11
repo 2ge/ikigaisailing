@@ -2,10 +2,10 @@
 title: 'Le catamaran Ikigai – Confort, performances et aventure'
 description: >-
   Découvre le catamaran Ikigai Sailing : un mélange parfait de confort et de
-  performance pour des aventures en mer inoubliables.
+  performances pour des aventures en mer inoubliables.
 locale: fr
 translated: deepl
-sourceHash: 6b4ddf4e16e95165
+sourceHash: 7465ba0ab5b82b14
 ---
 
 ## Catana 47
@@ -14,7 +14,7 @@ sourceHash: 6b4ddf4e16e95165
 
 Catana 47
 
-_Le Catana 47_ est conçu pour profiter du confort et de l'espace sans renoncer aux sensations de la voile et de la mer. C'est un catamaran performant capable de maintenir des vitesses élevées lors de longues traversées et de se déplacer facilement même par vent faible, tandis que ses intérieurs spacieux garantissent le confort par tous les temps. Il peut accueillir 6 à 7 personnes dans 4 cabines.
+_Le Catana 47_ est conçu pour profiter du confort et de l'espace sans renoncer aux sensations de la voile et de la mer. C'est un catamaran performant capable de maintenir des vitesses élevées lors de longues traversées et de se déplacer facilement même par vent faible, tandis que ses intérieurs spacieux garantissent un confort optimal par tous les temps. Il peut accueillir 6 à 7 personnes dans 4 cabines.
 
 [Visite virtuelle](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
@@ -37,7 +37,7 @@ Comme on est passionnés de bonne cuisine et qu'on a été restaurateurs profess
 
 Une machine à pain – parce que faire du pain frais tous les jours n'a pas de prix
 
-### Barbecue Magma XL – la star d’innombrables barbecues, surtout après une sortie de pêche fructueuse
+### Barbecue Magma XL – la star d’innombrables barbecues, surtout après une sortie de pêche réussie
 
 ### Une cuisinière à 4 feux, un four à gaz en acier inoxydable, un réfrigérateur, un congélateur, un lave-vaisselle, une machine à pâtes fraîches, un mixeur, etc.
 
@@ -127,20 +127,20 @@ En plus, on a **2 dessalinisateurs** qui produisent **150 L/h** et une **machine
 
 !
 
-![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)

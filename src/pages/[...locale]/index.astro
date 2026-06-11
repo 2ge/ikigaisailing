@@ -1,0 +1,20 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Home from '../../components/Home.astro';
+import HomeJsonLd from '../../components/jsonld/HomeJsonLd.astro';
+import { useTranslations, type Locale } from '../../i18n/ui';
+
+// Non-default locale homepages. EN home lives at src/pages/index.astro.
+export async function getStaticPaths() {
+  return (['it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
+    params: { locale },
+    props: { locale },
+  }));
+}
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+---
+<PageLayout title={`${t('site.name')} – ${t('site.tagline')}`} description={t('home.heroLead')} path="/">
+  <HomeJsonLd slot="head" />
+  <Home locale={locale} />
+</PageLayout>

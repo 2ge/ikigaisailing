@@ -1,0 +1,71 @@
+---
+import { render } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import JsonLd from '../../components/jsonld/JsonLd.astro';
+import { useTranslations, defaultLocale, type Locale } from '../../i18n/ui';
+import { entriesForLocale, entryForLocale } from '../../lib/content';
+
+export async function getStaticPaths() {
+  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
+    params: { locale: locale === defaultLocale ? undefined : locale },
+    props: { locale },
+  }));
+}
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+const intro = await entryForLocale('pages', 'reviews', locale);
+const testimonials = await entriesForLocale('testimonials', locale);
+
+const cards = await Promise.all(
+  testimonials.map(async (item) => {
+    const { Content } = await render(item);
+    const translated = item.data.locale !== locale ? item.data.translations?.[locale] : undefined;
+    return { item, Content, translated };
+  }),
+);
+
+const reviewSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${Astro.site!.origin}/#organization`,
+  review: testimonials.map((tm) => ({
+    '@type': 'Review',
+    author: { '@type': 'Person', name: tm.data.author },
+    reviewBody: tm.body?.slice(0, 400),
+    ...(tm.data.rating ? { reviewRating: { '@type': 'Rating', ratingValue: tm.data.rating } } : {}),
+  })),
+};
+---
+<PageLayout title={`${t('nav.reviews')} — Ikigai Sailing`} description={intro?.data.description ?? 'What guests say about sailing aboard Ikigai.'} path="/reviews/">
+  <JsonLd slot="head" schema={reviewSchema} />
+  <PageHero eyebrow="Logbook" title={intro?.data.title ?? t('nav.reviews')} lead={intro?.data.description} />
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="columns-1 gap-6 sm:columns-2 lg:columns-3 [&>*]:mb-6">
+      {cards.map(({ item, Content, translated }, i) => (
+        <figure class="break-inside-avoid rounded-2xl bg-sand-100 p-6 ring-1 ring-ocean-950/5">
+          <blockquote class="prose-ikigai text-[0.95rem]">
+            <div data-orig={i}><Content /></div>
+            {translated && <div data-trans={i} hidden set:html={translated.replace(/\n\n/g, '<br><br>')} />}
+          </blockquote>
+          <figcaption class="mt-4 flex items-center justify-between border-t border-ocean-950/10 pt-3">
+            <div>
+              <p class="font-semibold text-ocean-950">{item.data.author}</p>
+              {item.data.origin && <p class="coords text-ocean-600">{item.data.origin}</p>}
+            </div>
+            {translated && <button class="text-xs font-medium text-ocean-600 underline underline-offset-2" data-toggle={i}>{t('reviews.translated')}</button>}
+          </figcaption>
+        </figure>
+      ))}
+    </div>
+  </div>
+  <script>
+    document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
+      const i = btn.dataset.toggle;
+      const orig = document.querySelector<HTMLElement>(`[data-orig="${i}"]`);
+      const trans = document.querySelector<HTMLElement>(`[data-trans="${i}"]`);
+      let showing = false;
+      btn.addEventListener('click', () => { showing = !showing; if (orig) orig.hidden = showing; if (trans) trans.hidden = !showing; });
+    });
+  </script>
+</PageLayout>

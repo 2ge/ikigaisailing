@@ -5,7 +5,7 @@ description: >-
   pulmón, kitesurf y aventuras en los mares más impresionantes del mundo.
 locale: es
 translated: deepl
-sourceHash: 0af891e36accabbf
+sourceHash: 122309edf396832e
 ---
 
 ## SOBRE NOSOTROS
@@ -79,15 +79,15 @@ Millas recorridas
 
 ## Estamos orgullosos de haber llegado a estos destinos:
 
-![Saint Kitts and Nevis](../../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)San Cristóbal y Nieves
+![Saint Kitts and Nevis](../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)San Cristóbal y Nieves
 
-![Bonaire](../../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
+![Bonaire](../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
 
-![Curaçao](../../../../assets/pages/home/Flag_of_Curac%CC%A7ao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curazao
+![Curaçao](../../../assets/pages/home/Flag_of_Curac%CC%A7ao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curazao
 
-![Aruba](../../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
+![Aruba](../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
 
-![Anguilla](../../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguila
+![Anguilla](../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguila
 
 Islas Vírgenes Británicas
 
@@ -95,29 +95,29 @@ Guadalupe
 
 Martinica
 
-![Gibraltar](../../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
+![Gibraltar](../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
 
-![Canary Island](../../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Islas Canarias
+![Canary Island](../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Islas Canarias
 
-![Capo Verde](../../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Cabo Verde
+![Capo Verde](../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Cabo Verde
 
-![Saint Marten](../../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Bandera\_de\_Sint\_Maarten.svg
+![Saint Marten](../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Bandera\_de\_Sint\_Maarten.svg
 
-![Antigua e Barbuda](../../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Bandera\_de\_Antigua\_y\_Barbuda.svg
+![Antigua e Barbuda](../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Bandera\_de\_Antigua\_y\_Barbuda.svg
 
-![Domica](../../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Dominica
+![Domica](../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Dominica
 
-![Grenada](../../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Granada
+![Grenada](../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Granada
 
-![Saint Vincent and Grenadines](../../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Bandera\_de\_San\_Vicente\_y\_las\_Granadinas.svg
+![Saint Vincent and Grenadines](../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Bandera\_de\_San\_Vicente\_y\_las\_Granadinas.svg
 
-![Venezuela](../../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
+![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
-![Los Roques](../../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
+![Los Roques](../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
 
-![Panama](../../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panamá
+![Panama](../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panamá
 
-![Venezuela](../../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
+![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
 ACTIVIDADES A BORDO
 

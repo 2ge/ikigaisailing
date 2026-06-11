@@ -17,12 +17,12 @@ gallery:
   - ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 order: 4
 translated: deepl
-sourceHash: e6fd304671d4a71b
+sourceHash: 661afafdfe8674bb
 ---
 
-[![Pacific Crossing](../../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
+[![Pacific Crossing](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
-[![Pacific Crossing - Image 2](../../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
+[![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
 
 # Travesía del Pacífico
 
@@ -58,7 +58,7 @@ Quienes se unan a esta travesía formarán parte de la tripulación.
 Compartirán turnos, maniobras, cocina, navegación, silencios y amaneceres.  
 Y formarán parte de algo excepcional: una comunidad que navega hacia lo desconocido con el corazón abierto.
 
-No necesitas conocimientos avanzados de navegación, solo adaptabilidad, capacidad de escuchar y ganas de transformarte.
+No necesitas conocimientos avanzados de navegación, solo capacidad de adaptación, saber escuchar y ganas de transformarte.
 
 \*\*¿Por qué hacerlo? Para sentir de verdad lo que significa el tiempo, cuando ya no lo rigen las notificaciones, sino las olas.  
 Para contemplar el cielo nocturno sin luz artificial y encontrar tu verdadera dirección.  
@@ -133,13 +133,13 @@ Pero la intención empieza ahora.
     
 -   Tasas de despacho para la salida de Panamá y la entrada en la Polinesia Francesa (u otras islas intermedias)
     
--   Tránsito por el Canal de Panamá (peaje, personal de amarre, alquiler de cabos/defensas, posibles comisiones de agencia)
+-   Tránsito por el Canal de Panamá (peaje, personal de amarre, alquiler de cabos y defensas, posibles comisiones de agencia)
     
--   Tasas de fondeo o parques marinos (Galápagos, Gambier, Tuamotu, etc.)
+-   Tasas de fondeo o de parques marinos (Galápagos, Gambier, Tuamotu, etc.)
     
 -   Posibles tasas de atraque en puertos deportivos
     
--   Suscripciones de comunicación/meteorología: Iridium GO! / Starlink Ocean, PredictWind, saldo para teléfonos satelitales
+-   Suscripciones de comunicación/meteorología: Iridium GO! / Starlink Ocean, PredictWind, créditos para teléfono satelital
     
 -   Tarjetas SIM locales en los puertos intermedios
     

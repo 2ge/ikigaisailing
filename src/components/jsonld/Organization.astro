@@ -1,0 +1,38 @@
+---
+/** Sitewide Organization + WebSite JSON-LD. Rendered once on the homepage. */
+import { SOCIALS } from '../../i18n/nav';
+const site = Astro.site!.origin;
+const org = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${site}/#organization`,
+  name: 'Ikigai Sailing',
+  legalName: 'Ikigai Sailing ASD',
+  url: site + '/',
+  logo: `${site}/og-default.jpg`,
+  description:
+    'Non-profit amateur sailing association (recognized by CONI, affiliated with MSP Italia) running mindful sailing trips aboard the Catana 47 catamaran Ikigai in San Blas, Panama.',
+  telephone: '+39 331 32 926 29',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Via Gorlago 37',
+    postalCode: '00135',
+    addressLocality: 'Roma',
+    addressRegion: 'RM',
+    addressCountry: 'IT',
+  },
+  sameAs: [SOCIALS.facebook, SOCIALS.instagram, SOCIALS.youtube],
+};
+const website = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${site}/#website`,
+  url: site + '/',
+  name: 'Ikigai Sailing',
+  publisher: { '@id': `${site}/#organization` },
+  inLanguage: ['en', 'it', 'es', 'fr', 'sk'],
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(org)} />
+<script type="application/ld+json" set:html={JSON.stringify(website)} />

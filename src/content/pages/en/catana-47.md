@@ -125,20 +125,20 @@ BOAT EQUIPMENT
 
 !
 
-![d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_8e548b8301844ce39be1761967b738c4mv2](../../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_8e548b8301844ce39be1761967b738c4mv2](../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_7c038b30775c4f34b61113a3180a796bmv2](../../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_7c038b30775c4f34b61113a3180a796bmv2](../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_248a451d2c164987b12f4474d096d6bdmv2](../../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_248a451d2c164987b12f4474d096d6bdmv2](../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2](../../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2](../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2](../../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2](../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_30788652b2514a90a51083e0a902dd90mv2](../../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_30788652b2514a90a51083e0a902dd90mv2](../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8_1660ab678a5647ada185b9a773df766fmv2](../../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8_1660ab678a5647ada185b9a773df766fmv2](../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)

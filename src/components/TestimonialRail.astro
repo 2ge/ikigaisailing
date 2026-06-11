@@ -1,0 +1,70 @@
+---
+/**
+ * Horizontal scroll-snap rail of reviews. Each card shows the review in its
+ * original language; if the current locale differs, a "Show translation"
+ * toggle reveals the pre-generated DeepL translation (no client translation).
+ */
+import { render } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import { useTranslations, type Locale } from '../i18n/ui';
+
+interface Props {
+  testimonials: CollectionEntry<'testimonials'>[];
+  locale: Locale;
+}
+const { testimonials, locale } = Astro.props;
+const t = useTranslations(locale);
+
+// Pre-render each: original body + (optional) translated body for this locale
+const cards = await Promise.all(
+  testimonials.map(async (item) => {
+    const { Content } = await render(item);
+    const translated = item.data.locale !== locale ? item.data.translations?.[locale] : undefined;
+    return { item, Content, translated };
+  }),
+);
+---
+
+<div class="snap-rail -mx-4 px-4 sm:mx-0 sm:px-0">
+  {cards.map(({ item, Content, translated }, i) => (
+    <figure class="w-[85vw] max-w-sm rounded-2xl bg-sand-50 p-6 ring-1 ring-ocean-950/5 sm:w-80">
+      <svg class="h-7 w-7 text-ocean-200" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M9.13 8C7.4 8.6 6 10.5 6 12.5V18h5v-5H8.5c0-1.4.9-2.6 2-3L9.13 8Zm8 0C15.4 8.6 14 10.5 14 12.5V18h5v-5h-2.5c0-1.4.9-2.6 2-3L17.13 8Z"/>
+      </svg>
+      <blockquote class="prose-ikigai mt-3 text-[0.95rem] leading-relaxed">
+        <div data-orig={i}><Content /></div>
+        {translated && (
+          <div data-trans={i} hidden set:html={translated.replace(/\n\n/g, '<br><br>')} />
+        )}
+      </blockquote>
+      <figcaption class="mt-4 flex items-center justify-between border-t border-ocean-950/5 pt-3">
+        <div>
+          <p class="font-semibold text-ocean-950">{item.data.author}</p>
+          {item.data.origin && <p class="coords text-ocean-600">{item.data.origin}</p>}
+        </div>
+        {translated && (
+          <button
+            class="text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800"
+            data-toggle={i}
+          >
+            {t('reviews.translated')}
+          </button>
+        )}
+      </figcaption>
+    </figure>
+  ))}
+</div>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
+    const i = btn.dataset.toggle;
+    const orig = document.querySelector<HTMLElement>(`[data-orig="${i}"]`);
+    const trans = document.querySelector<HTMLElement>(`[data-trans="${i}"]`);
+    let showing = false;
+    btn.addEventListener('click', () => {
+      showing = !showing;
+      if (orig) orig.hidden = showing;
+      if (trans) trans.hidden = !showing;
+    });
+  });
+</script>

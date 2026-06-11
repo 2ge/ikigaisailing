@@ -16,12 +16,12 @@ gallery:
   - ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 order: 4
 translated: deepl
-sourceHash: e6fd304671d4a71b
+sourceHash: 661afafdfe8674bb
 ---
 
-[![Pacific Crossing](../../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
+[![Pacific Crossing](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
-[![Pacific Crossing - Image 2](../../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
+[![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
 
 # Traversée du Pacifique
 
@@ -124,7 +124,7 @@ Mais l’intention commence dès maintenant.
 -   Tout ce qui n'est pas mentionné dans la rubrique « Ce qui est inclus »
     
 
-**CAISSE DE BORD (à prévoir en plus)**
+**CAISSE DE BORD (à prévoir en supplément)**
 
 -   Provisions (achats initiaux et réapprovisionnements)
     
@@ -138,7 +138,7 @@ Mais l’intention commence dès maintenant.
     
 -   Frais d'amarrage éventuels en marina
     
--   Abonnements de communication/météo : Iridium GO! / Starlink Ocean, PredictWind, crédits de téléphone satellite
+-   Abonnements communication/météo : Iridium GO! / Starlink Ocean, PredictWind, crédits de téléphone satellite
     
 -   Cartes SIM locales dans les ports intermédiaires
     

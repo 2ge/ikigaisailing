@@ -1,0 +1,8 @@
+---
+/** Renders a content entry's markdown body in the site prose style. */
+import { render, type CollectionEntry } from 'astro:content';
+interface Props { entry: CollectionEntry<'pages' | 'trips' | 'activities' | 'blog'>; }
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+<div class="prose-ikigai"><Content /></div>

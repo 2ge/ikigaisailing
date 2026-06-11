@@ -16,9 +16,9 @@ oldUrls:
   - "/it/prodotto/traversata-pacifica/"
 ---
 
-[![Traversata Oceano Pacifico](../../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
+[![Traversata Oceano Pacifico](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
-[![Traversata Oceano Pacifico - immagine 2](../../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
+[![Traversata Oceano Pacifico - immagine 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
 
 # Traversata Oceano Pacifico
 

@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import PageHero from '../../../components/PageHero.astro';
+import ActivityCard from '../../../components/ActivityCard.astro';
+import Prose from '../../../components/Prose.astro';
+import { useTranslations, defaultLocale, type Locale } from '../../../i18n/ui';
+import { entriesForLocale, entryForLocale } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
+    params: { locale: locale === defaultLocale ? undefined : locale },
+    props: { locale },
+  }));
+}
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+const activities = (await entriesForLocale('activities', locale)).sort((a, b) => a.data.order - b.data.order);
+const intro = await entryForLocale('pages', 'activities', locale);
+---
+<PageLayout title={`${t('nav.activities')} — Ikigai Sailing`} description={intro?.data.description ?? 'Activities aboard Ikigai: yoga, freediving, meditation, Janzu and more.'} path="/activities/">
+  <PageHero eyebrow="On board" title={intro?.data.title ?? t('nav.activities')} lead={intro?.data.description} />
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+      {activities.map((activity) => <ActivityCard activity={activity} locale={locale} />)}
+    </div>
+    {intro && <article class="mt-14"><Prose entry={intro} /></article>}
+  </div>
+</PageLayout>

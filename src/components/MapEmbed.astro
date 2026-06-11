@@ -1,0 +1,35 @@
+---
+/** Lazy noforeignland map — facade until clicked, then loads the iframe. */
+const MAP_SRC = 'https://www.noforeignland.com/home/embed/map/show/5797870118633472/10/on/roadmap/';
+interface Props { label: string; }
+const { label } = Astro.props;
+---
+
+<div
+  class="relative aspect-[16/10] w-full overflow-hidden rounded-2xl bg-ocean-900 ring-1 ring-ocean-950/10"
+  data-map-facade
+  data-src={MAP_SRC}
+>
+  <div class="absolute inset-0 flex flex-col items-center justify-center gap-3 bg-gradient-to-br from-ocean-800 to-ocean-950 text-center">
+    <svg class="h-10 w-10 text-ocean-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M9 6.75 3.75 4.5v12.75L9 19.5m0-12.75 6 2.25m-6-2.25v12.75m6-10.5L20.25 4.5v12.75L15 19.5m0-12.75v12.75" />
+    </svg>
+    <button class="coords rounded-full bg-ocean-300 px-4 py-2 text-ocean-950 transition hover:bg-sand-100">
+      {label}
+    </button>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-map-facade]').forEach((el) => {
+    el.querySelector('button')?.addEventListener('click', () => {
+      const iframe = document.createElement('iframe');
+      iframe.src = el.dataset.src!;
+      iframe.loading = 'lazy';
+      iframe.title = 'Ikigai live position';
+      iframe.className = 'absolute inset-0 h-full w-full border-0';
+      el.innerHTML = '';
+      el.appendChild(iframe);
+    });
+  });
+</script>

@@ -13,27 +13,27 @@ oldUrls:
   - "/it/prodotto/vivere-10-giorni-a-bordo/"
 ---
 
-[![10 Days experience](../../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
+[![10 Days experience](../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
 
-[![Breath catamaran Holiday](../../../../assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Fotogramma-21-07-2025-01-22-37.webp)
+[![Breath catamaran Holiday](../../../assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Fotogramma-21-07-2025-01-22-37.webp)
 
-[![Apnea San Blas Holiday](../../../../assets/trips/ikigai-experience/GH014735_1679677560764.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/GH014735_1679677560764.webp)
+[![Apnea San Blas Holiday](../../../assets/trips/ikigai-experience/GH014735_1679677560764.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/GH014735_1679677560764.webp)
 
-[![San Blas Cruise Vacation](../../../../assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/ikigai_1600x900_highquality.webp)
+[![San Blas Cruise Vacation](../../../assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/ikigai_1600x900_highquality.webp)
 
-[![Sport Catamaran San Blas](../../../../assets/trips/ikigai-experience/2f1afa20-5de7-48d6-a476-a3971f558173.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/2f1afa20-5de7-48d6-a476-a3971f558173.webp)
+[![Sport Catamaran San Blas](../../../assets/trips/ikigai-experience/2f1afa20-5de7-48d6-a476-a3971f558173.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/2f1afa20-5de7-48d6-a476-a3971f558173.webp)
 
-[![San Blass Drone Catamaran](../../../../assets/trips/ikigai-experience/Screenshot-2025-06-12-alle-19.32.24.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Screenshot-2025-06-12-alle-19.32.24.webp)
+[![San Blass Drone Catamaran](../../../assets/trips/ikigai-experience/Screenshot-2025-06-12-alle-19.32.24.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Screenshot-2025-06-12-alle-19.32.24.webp)
 
-[![Cruise Janzu Catamaran](../../../../assets/trips/ikigai-experience/Snapshot-15-04-2025-16_13.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Snapshot-15-04-2025-16_13.webp)
+[![Cruise Janzu Catamaran](../../../assets/trips/ikigai-experience/Snapshot-15-04-2025-16_13.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Snapshot-15-04-2025-16_13.webp)
 
-[![San Blas Cruise Catamaran](../../../../assets/trips/ikigai-experience/Snapshot-30-08-2024-08_12.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Snapshot-30-08-2024-08_12.webp)
+[![San Blas Cruise Catamaran](../../../assets/trips/ikigai-experience/Snapshot-30-08-2024-08_12.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Snapshot-30-08-2024-08_12.webp)
 
-[![San Blas Cruise meditation](../../../../assets/trips/ikigai-experience/meditation-2.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/meditation-2.webp)
+[![San Blas Cruise meditation](../../../assets/trips/ikigai-experience/meditation-2.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/meditation-2.webp)
 
-[![San Blas Cruise drone](../../../../assets/trips/ikigai-experience/Untitled-design.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Untitled-design.webp)
+[![San Blas Cruise drone](../../../assets/trips/ikigai-experience/Untitled-design.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Untitled-design.webp)
 
-[![apnea catamaran holiday](../../../../assets/trips/ikigai-experience/IMG_1280_Original.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/IMG_1280_Original.webp)
+[![apnea catamaran holiday](../../../assets/trips/ikigai-experience/IMG_1280_Original.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/IMG_1280_Original.webp)
 
 # 10 Days experience
 

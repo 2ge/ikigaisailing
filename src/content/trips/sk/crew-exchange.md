@@ -13,11 +13,11 @@ gallery:
   - ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: 0cc3a09a7dfca3b2
+sourceHash: 59f47dc33917fdf4
 needsReview: true
 ---
 
-[![skipper](../../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
+[![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Výmena / Platené ubytovanie
 
@@ -61,7 +61,7 @@ Ak už máte skúsenosti v námornom sektore a chcete prispieť konkrétnejším
 
 ## **Prečo sa prihlásiť?**
 
--   Aby ste prežili more ako svoj domov, nie len ako obyčajnú dovolenku.
+-   Aby ste more vnímali ako svoj domov, nie len ako obyčajnú dovolenku.
 -   Byť súčasťou projektu, ktorý spája šport, prírodu a komunitu.
 -   Aby ste rástli ako človek aj ako námorník, zdieľali skúsenosti a zodpovednosť.
 -   Aby ste svojou prácou alebo tvorivými zručnosťami prispeli k autentickému a neustále sa vyvíjajúcemu projektu.
@@ -74,12 +74,12 @@ Povedzte nám, kto ste, aké máte skúsenosti a prečo sa chcete pripojiť k Ik
 
 Vaša cesta s najväčšou pravdepodobnosťou začne príchodom na medzinárodné letisko Tocumen (PTY) v Paname, kde sú prilietajúce lety zvyčajne naplánované na popoludnie alebo večer.
 
-Z tohto dôvodu bude potrebné stráviť aspoň jednu noc v hlavnom meste. Je to perfektná príležitosť na preskúmanie mesta a možno aj na prechádzku po očarujúcich uliciach Casco Viejo, historickej štvrte zaradenej do zoznamu svetového dedičstva UNESCO.
+Z tohto dôvodu bude potrebné stráviť v hlavnom meste aspoň jednu noc. Je to perfektná príležitosť na preskúmanie mesta a možno aj na prechádzku po očarujúcich uliciach Casco Viejo, historickej štvrte zaradenej do zoznamu svetového dedičstva UNESCO.
 
 🕔 Nasledujúci deň, skoro ráno, vás súkromný džíp 4×4 vyzdvihne priamo v hoteli a odvezie vás smerom k karibskému pobrežiu.  
 Odtiaľ, po približne 2,5-hodinovej ceste lesmi Guna Yala, vás miestna loď odvezie do Ikigai, kam dorazíte okolo 10:30.
 
-Na konci pobytu, v deň odchodu, pôjdete tou istou trasou v opačnom smere: miestna loď vás vyzdvihne za úsvitu priamo z Ikigai a odvezie späť na pevninu, kde vás džíp odvezie na letisko včas na váš spiatočný let.
+Na konci pobytu, v deň odchodu, pôjdete tou istou trasou v opačnom smere: miestna loď vás vyzdvihne za úsvitu priamo z Ikigai a odvezie vás späť na pevninu, kde vás džíp odvezie na letisko včas na váš spiatočný let.
 
 ✈️ Celú cestu organizujeme v spolupráci s dôveryhodnými miestnymi partnermi, čím zabezpečujeme hladký a bezpečný logistický zážitok od začiatku až do konca vášho pobytu.
 

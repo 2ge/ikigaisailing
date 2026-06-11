@@ -1,0 +1,15 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { useTranslations } from '../i18n/ui';
+const t = useTranslations('en');
+---
+<PageLayout title="404 — Ikigai Sailing" description="Page not found." path="/404/" noindex alternates={false}>
+  <section class="grid min-h-[70vh] place-items-center bg-ocean-950 text-center text-sand-50">
+    <div class="px-4">
+      <p class="coords text-ocean-300">404 · off the chart</p>
+      <h1 class="mt-4 font-display text-5xl sm:text-7xl">{t('notfound.title')}</h1>
+      <p class="mx-auto mt-4 max-w-md text-sand-100/80">{t('notfound.body')}</p>
+      <a href="/" class="mt-8 inline-block rounded-full bg-coral-500 px-6 py-3 font-semibold text-sand-50 transition hover:bg-coral-400">{t('notfound.cta')}</a>
+    </div>
+  </section>
+</PageLayout>

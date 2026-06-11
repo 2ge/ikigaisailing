@@ -1,0 +1,54 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Prose from '../../../components/Prose.astro';
+import JsonLd from '../../../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, defaultLocale, type Locale } from '../../../i18n/ui';
+import { slugOf, entryForLocale } from '../../../lib/content';
+import { breadcrumbs, article } from '../../../lib/schema';
+
+export async function getStaticPaths() {
+  const all = await getCollection('blog');
+  const slugs = [...new Set(all.filter((p) => !p.data.draft).map(slugOf))];
+  return slugs.flatMap((slug) =>
+    (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
+      params: { locale: locale === defaultLocale ? undefined : locale, slug },
+      props: { slug, locale },
+    })),
+  );
+}
+const { slug, locale } = Astro.props as { slug: string; locale: Locale };
+const t = useTranslations(locale);
+const entry = await entryForLocale('blog', slug, locale);
+if (!entry) return Astro.redirect('/404/');
+const d = entry.data;
+const site = Astro.site!.origin;
+const url = new URL(Astro.url.pathname, site).href;
+const fmt = (date: Date) => date.toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric' });
+const schemas = [
+  breadcrumbs(site, locale, [
+    { name: 'Ikigai Sailing', path: '/' },
+    { name: t('nav.blog'), path: '/blog/' },
+    { name: d.title, path: `/blog/${slug}/` },
+  ]),
+  article(url, { ...d, image: d.image ? new URL(d.image.src, site).href : undefined }),
+];
+---
+<PageLayout title={d.title} description={d.description} path={`/blog/${slug}/`} ogType="article" ogImage={d.image?.src}>
+  <Fragment slot="head">{schemas.map((s) => <JsonLd schema={s} />)}</Fragment>
+  <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
+    <a href={localizePath('/blog/', locale)} class="coords text-ocean-600 hover:text-ocean-800">← {t('nav.blog')}</a>
+    <h1 class="mt-4 font-display text-4xl leading-tight tracking-[-0.015em] text-ocean-950 sm:text-5xl">{d.title}</h1>
+    <p class="coords mt-4 text-ocean-600">{t('blog.published')} {fmt(d.pubDate)} · {d.author}</p>
+    {d.image && (
+      <Image src={d.image} alt={d.title} width={1200} height={675} loading="eager" class="mt-8 aspect-[16/9] w-full rounded-2xl object-cover" />
+    )}
+    <div class="mt-10"><Prose entry={entry} /></div>
+    {d.tags.length > 0 && (
+      <div class="mt-10 flex flex-wrap gap-2">
+        {d.tags.map((tag) => <span class="coords rounded-full bg-ocean-100 px-3 py-1 text-ocean-700">{tag}</span>)}
+      </div>
+    )}
+  </article>
+</PageLayout>

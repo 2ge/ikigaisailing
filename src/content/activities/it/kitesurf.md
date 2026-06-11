@@ -26,7 +26,7 @@ oldUrls:
 
 ## Kite surf
 
-![Iko](../../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
+![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
 Cavalca le onde e fatti portare dal vento
 

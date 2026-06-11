@@ -6,7 +6,7 @@ description: >-
   permettre de te reconnecter avec toi-même...
 locale: fr
 translated: deepl
-sourceHash: ea7e6c0cdb831200
+sourceHash: fe09d0b29d98ff46
 ---
 
 ## L'ITINÉRAIRE
@@ -27,7 +27,7 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 -   **Juillet – Rome, Italie** Le point de départ du voyage, avec des adieux émouvants à la capitale italienne, riche en histoire et en culture.
 -   **Août – Sardaigne, Italie** Le littoral accidenté de l'île et ses eaux cristallines ont offert des paysages à couper le souffle et une navigation en douceur.
--   **Septembre – Îles Baléares, Espagne** Découverte d'îles réputées pour leurs plages immaculées, leurs criques cachées et leur énergie débordante, notamment Majorque et Ibiza.
+-   **Septembre – Îles Baléares, Espagne** Découverte d'îles réputées pour leurs plages immaculées, leurs criques cachées et leur énergie vibrante, notamment Majorque et Ibiza.
 -   **Octobre – Almerimar, Espagne** Une escale technique consacrée à la préparation et à l'entretien du bateau en vue des défis de l'Atlantique.
 -   **Novembre – Gibraltar** La « porte de l’Atlantique », où l’équipage s’est préparé pour la traversée vers les îles Canaries.
 -   **Décembre – Cap-Vert (15-18 décembre)** Une escale courte mais intense dans ces îles tropicales, riches en culture créole et en paysages volcaniques.
@@ -46,7 +46,7 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
     
     -   **Îles Vierges** Un archipel de rêve avec des baies calmes, parfait pour la voile et la plongée.
     -   **Barbuda** Des plages de sable rose et une nature intacte, un véritable paradis tropical.
-    -   **Antigua** Célèbre pour ses 365 jours de soleil et ses nombreuses plages, c'est un lieu au riche passé maritime.
+    -   **Antigua** Célèbre pour ses 365 jours d'ensoleillement et ses nombreuses plages, c'est un lieu au riche passé maritime.
 
 **Février**
 
@@ -122,21 +122,21 @@ SUIVANT
 
 ### Traversée du Pacifique
 
-Notre aventure nous mènera aux **îles** **Galápagos, aux Marquises,** à **Tahiti et** aux **Fidji,** pour finalement atteindre le nord de **l'Australie**. Ensuite, on mettra le cap sur **l'Indonésie, la Thaïlande, le Sri Lanka et les Maldives**, avant de traverser l'océan Indien en direction de **l'Inde et** de **Dubaï**.
+Notre aventure nous mènera aux **îles** **Galápagos, aux Marquises,** à **Tahiti et** aux **Fidji,** pour finalement atteindre le nord de **l’Australie**. Ensuite, on mettra le cap sur **l’Indonésie, la Thaïlande, le Sri Lanka et les Maldives**, avant de traverser l’océan Indien en direction de **l’Inde et** de **Dubaï**.
 
 De là, on longera les côtes d’**Oman et** du **Yémen** pour entrer dans la **mer Rouge**, en passant par le Soudan et l’Égypte, avant de rejoindre la **Méditerranée** via le **canal de Suez**, concluant ainsi notre exploration.
 
 ## Nous sommes fiers d'avoir atteint ces destinations
 
-![Saint Kitts and Nevis](../../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Saint-Kitts-et-Nevis
+![Saint Kitts and Nevis](../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Saint-Kitts-et-Nevis
 
-![Bonaire](../../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
+![Bonaire](../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
 
-![Curaçao](../../../../assets/pages/home/Flag_of_Curac%CC%A7ao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curaçao
+![Curaçao](../../../assets/pages/home/Flag_of_Curac%CC%A7ao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curaçao
 
-![Aruba](../../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
+![Aruba](../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
 
-![Anguilla](../../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguilla
+![Anguilla](../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguilla
 
 Îles Vierges britanniques
 
@@ -144,28 +144,28 @@ Guadeloupe
 
 Martinique
 
-![Gibraltar](../../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
+![Gibraltar](../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
 
-![Canary Island](../../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Îles Canaries
+![Canary Island](../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Îles Canaries
 
-![Capo Verde](../../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Cap-Vert
+![Capo Verde](../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Cap-Vert
 
-![Saint Marten](../../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Martin.svg
+![Saint Marten](../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Martin.svg
 
-![Antigua e Barbuda](../../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_d'Antigua\_et\_Barbuda.svg
+![Antigua e Barbuda](../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_d'Antigua-et-Barbuda.svg
 
-![Domica](../../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Dominique
+![Domica](../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Dominique
 
-![Grenada](../../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Grenade
+![Grenada](../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Grenade
 
-![Saint Vincent and Grenadines](../../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Vincent-et-les-Grenadines.svg
+![Saint Vincent and Grenadines](../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Vincent-et-les-Grenadines.svg
 
-![Venezuela](../../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
+![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
-![Los Roques](../../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
+![Los Roques](../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
 
-![Panama](../../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panama
+![Panama](../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panama
 
-![Venezuela](../../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
+![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
 ITINÉRAIRE GOOGLE EARTH

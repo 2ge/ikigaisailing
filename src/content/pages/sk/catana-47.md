@@ -5,7 +5,7 @@ description: >-
   nezabudnuteľné dobrodružstvá na mori.
 locale: sk
 translated: deepl
-sourceHash: 6b4ddf4e16e95165
+sourceHash: 7465ba0ab5b82b14
 needsReview: true
 ---
 
@@ -15,7 +15,7 @@ needsReview: true
 
 Catana 47
 
-_Catana 47_ je navrhnutá tak, aby ste si mohli užívať komfort a priestor bez toho, aby ste sa museli vzdať vzrušenia z plavby a mora. Je to vysokovýkonný katamarán schopný udržať vysokú rýchlosť aj pri dlhých plavbách a ľahko sa pohybovať aj pri slabom vetre, pričom jeho priestranný interiér zaručuje komfort za každého počasia. V 4 kajutách sa zmestí 6 až 7 osôb.
+_Catana 47_ je navrhnutá tak, aby ste si mohli užívať komfort a priestor bez toho, aby ste sa museli vzdať vzrušenia z plavby a mora. Je to vysokovýkonný katamarán schopný udržať vysokú rýchlosť aj pri dlhých plavbách a ľahko sa pohybovať aj pri slabom vetre, pričom jeho priestranný interiér zaručuje komfort za každého počasia. Ponúka ubytovanie pre 6 až 7 osôb v 4 kajutách.
 
 [Virtuálna prehliadka](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
@@ -38,9 +38,9 @@ Keďže sme nadšenci dobrého jedla a bývalí profesionálni reštauratéri, k
 
 Pekárňou na chlieb – pretože pečenie čerstvého chleba každý deň je na nezaplatenie
 
-### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom rybárskom výlete
+### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom výlete na ryby
 
-### 4-horákový sporák, nerezová plynová rúra, chladnička, mraznička, umývačka riadu, stroj na výrobu čerstvých cestovín, mixér atď.
+### 4-horákovým sporákom, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom atď.
 
 ### Automatický kávovar s integrovaným mlynčekom
 
@@ -56,7 +56,7 @@ Pokiaľ ide o energiu, sme úplne sebestační vďaka:
     turbíny\*\*
 -   \*\*600 Ah lítiových  
     batérií\*\*
--   **5 kW dieselového generátora**
+-   **5 kW dieselový generátor**
 
 Okrem toho máme **2 odsolovače vody** s výkonom **150 l/h** a **práčku**.
 
@@ -102,7 +102,7 @@ VYBAVENIE LODE
 
 **Kĺbové vozíky Harken T32 s guľôčkovými ložiskami Lazy bag (novinka 2021) Genua**: 53 m² s trojradovým strihom z tkaniny Hydranet 433, pásik na ochranu proti UV žiareniu
 
-**Gennaker**: 130 m² rolovací výložník z modrej tkaniny Stormlite, protitorzný kábel, pásik na ochranu proti UV žiareniu
+**Gennaker**: 130 m² rolovací výložník z modrej tkaniny Stormlite, protitorzný kábel, UV ochranný pás
 
 **Code 0**: 81 m² rolovací výložník z laminovanej uhlíkovo-aramidovej tkaniny, kábel proti krúteniu, tkanina s UV ochranou CZ60/30
 
@@ -128,20 +128,20 @@ VYBAVENIE LODE
 
 !
 
-![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)

@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import Prose from '../../components/Prose.astro';
+import JsonLd from '../../components/jsonld/JsonLd.astro';
+import { defaultLocale, type Locale } from '../../i18n/ui';
+import { slugOf, localeOf, entryForLocale } from '../../lib/content';
+import { breadcrumbs } from '../../lib/schema';
+
+export async function getStaticPaths() {
+  // Standalone informational pages. Index/landing slugs have their own routes.
+  const RESERVED = new Set(['home', 'activities', 'trips', 'reviews', 'contact']);
+  const all = await getCollection('pages');
+  const slugs = [...new Set(all.map(slugOf))].filter((s) => !RESERVED.has(s));
+  const locales: Locale[] = ['en', 'it', 'es', 'fr', 'sk'];
+  return slugs.flatMap((slug) =>
+    locales.map((locale) => ({
+      params: { locale: locale === defaultLocale ? undefined : locale, slug },
+      props: { slug, locale },
+    })),
+  );
+}
+
+const { slug, locale } = Astro.props as { slug: string; locale: Locale };
+const entry = await entryForLocale('pages', slug, locale);
+if (!entry) return Astro.redirect('/404/');
+
+const site = Astro.site!.origin;
+const url = new URL(Astro.url.pathname, site).href;
+const crumb = breadcrumbs(site, locale, [
+  { name: 'Ikigai Sailing', path: '/' },
+  { name: entry.data.title, path: `/${slug}/` },
+]);
+---
+
+<PageLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  path={`/${slug}/`}
+>
+  <JsonLd slot="head" schema={crumb} />
+  <PageHero title={entry.data.title} lead={entry.data.description} />
+  <article class="mx-auto max-w-4xl px-4 py-14 sm:px-6">
+    <Prose entry={entry} />
+  </article>
+</PageLayout>

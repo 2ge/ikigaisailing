@@ -1,0 +1,50 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import { useTranslations, localizePath, type Locale } from '../i18n/ui';
+import { slugOf } from '../lib/content';
+
+interface Props {
+  trip: CollectionEntry<'trips'>;
+  locale: Locale;
+}
+const { trip, locale } = Astro.props;
+const t = useTranslations(locale);
+const d = trip.data;
+const href = localizePath(`/trips/${slugOf(trip)}/`, locale);
+---
+
+<a
+  href={href}
+  class="group relative flex flex-col overflow-hidden rounded-2xl bg-sand-50 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300"
+>
+  <div class="relative aspect-[4/3] overflow-hidden bg-ocean-100">
+    {d.heroImage && (
+      <Image
+        src={d.heroImage}
+        alt={d.title}
+        width={640}
+        height={480}
+        class="h-full w-full object-cover transition duration-700 group-hover:scale-105"
+      />
+    )}
+    {d.membersOnly && (
+      <span class="coords absolute left-3 top-3 rounded-full bg-ocean-950/80 px-2.5 py-1 text-[0.6rem] text-sand-50 backdrop-blur">
+        {t('trip.membersOnly')}
+      </span>
+    )}
+  </div>
+  <div class="flex flex-1 flex-col p-5">
+    <p class="coords text-ocean-600">{d.location}</p>
+    <h3 class="mt-1.5 font-display text-xl text-ocean-950">{d.title}</h3>
+    <p class="mt-2 line-clamp-2 text-sm text-ink-soft">{d.description}</p>
+    <div class="mt-4 flex items-center justify-between border-t border-ocean-950/5 pt-3">
+      <span class="text-sm text-ink-soft">{d.duration}</span>
+      {d.price != null ? (
+        <span class="font-display text-lg text-ocean-700">€{d.price.toLocaleString()}</span>
+      ) : (
+        <span class="text-sm font-semibold text-coral-500">{t('cta.book')} →</span>
+      )}
+    </div>
+  </div>
+</a>

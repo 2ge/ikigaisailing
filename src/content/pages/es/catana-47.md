@@ -5,7 +5,7 @@ description: >-
   rendimiento para vivir aventuras inolvidables en el mar.
 locale: es
 translated: deepl
-sourceHash: 6b4ddf4e16e95165
+sourceHash: 7465ba0ab5b82b14
 ---
 
 ## Catana 47
@@ -29,7 +29,7 @@ Características del barco:
 -   **Una cuarta cabina convertida en un amplio cuarto de baño** con ducha panorámica para dos personas
 -   **2 aseos eléctricos**, uno en cada casco
 
-En la proa se encuentran el **camarote de la tripulación**, **el pañol de velas** y un **camarote** completo **destinado al almacenamiento** de material deportivo. En la popa, la **gran mesa de la bañera** se puede bajar para crear otra espaciosa cama doble.
+En la proa, se encuentra el **camarote de la tripulación**, **el pañol de velas** y un **camarote** completo para **guardar** el material deportivo. En la popa, la **gran mesa de la bañera** se puede bajar para crear otra espaciosa cama doble.
 
 ## COCINA:
 
@@ -127,20 +127,20 @@ EQUIPO DEL BARCO
 
 !
 
-![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 
-![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)

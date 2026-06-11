@@ -2,17 +2,16 @@
 title: Ikigai Sailing – Voile en pleine conscience et aventures en mer
 description: >-
   Découvre la magie de la voile en pleine conscience avec Ikigai Sailing.
-  Plongée en apnée, kitesurf et aventures dans les mers les plus magnifiques du
-  monde.
+  Plongée en apnée, kitesurf et aventures sur les plus belles mers du monde.
 locale: fr
 translated: deepl
-sourceHash: 0af891e36accabbf
+sourceHash: 122309edf396832e
 ---
 
 ## À PROPOS DE NOUS
 
 Ikigai Sailing est une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**.  
-Une communauté grandissante de rêveurs, de navigateurs, de plongeurs en apnée, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
+Une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
 
 [En savoir plus](https://www.ikigaisailing.com/about-us/)
 
@@ -56,7 +55,7 @@ NAVIGUER À TRAVERS
 
 LE MONDE
 
-Notre voyage a commencé en Méditerranée à **l’été 2022**, au départ de Rome, avec des escales en Sardaigne, en Espagne, aux îles Canaries et au Cap-Vert, avant de traverser l’Atlantique et d’atteindre les Caraïbes en janvier 2023. Depuis, nous avons exploré les Petites Antilles, des îles Vierges britanniques à la Grenade, puis Los Roques au Venezuela et les Antilles néerlandaises.
+Notre voyage a commencé en Méditerranée à **l’été 2022**, au départ de Rome, avec des escales en Sardaigne, en Espagne, aux Canaries et au Cap-Vert, avant de traverser l’Atlantique et d’atteindre les Caraïbes en janvier 2023. Depuis, nous avons exploré les Petites Antilles, des Îles Vierges britanniques à la Grenade, puis Los Roques au Venezuela et les Antilles néerlandaises.
 
 Notre itinéraire futur nous mènera en Colombie, **au canal de Panama et dans le Pacifique, en passant par les Galápagos, la Polynésie française, les Fidji et l'Indonésie,** jusqu'à atteindre l'Asie et finalement revenir en Méditerranée via la mer Rouge.
 
@@ -80,15 +79,15 @@ Miles parcourus
 
 ## On est fiers d'avoir atteint ces destinations :
 
-![Saint Kitts and Nevis](../../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Saint-Kitts-et-Nevis
+![Saint Kitts and Nevis](../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Saint-Kitts-et-Nevis
 
-![Bonaire](../../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
+![Bonaire](../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
 
-![Curaçao](../../../../assets/pages/home/Flag_of_Curac%CC%A7ao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curaçao
+![Curaçao](../../../assets/pages/home/Flag_of_Curac%CC%A7ao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curaçao
 
-![Aruba](../../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
+![Aruba](../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
 
-![Anguilla](../../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguilla
+![Anguilla](../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguilla
 
 Îles Vierges britanniques
 
@@ -96,29 +95,29 @@ Guadeloupe
 
 Martinique
 
-![Gibraltar](../../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
+![Gibraltar](../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
 
-![Canary Island](../../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Îles Canaries
+![Canary Island](../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Îles Canaries
 
-![Capo Verde](../../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Cap-Vert
+![Capo Verde](../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Cap-Vert
 
-![Saint Marten](../../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Martin.svg
+![Saint Marten](../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Martin.svg
 
-![Antigua e Barbuda](../../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_d'Antigua\_et\_Barbuda.svg
+![Antigua e Barbuda](../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_d'Antigua\_et\_Barbuda.svg
 
-![Domica](../../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Dominique
+![Domica](../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Dominique
 
-![Grenada](../../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Grenade
+![Grenada](../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Grenade
 
-![Saint Vincent and Grenadines](../../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Vincent-et-les-Grenadines.svg
+![Saint Vincent and Grenadines](../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Drapeau\_de\_Saint-Vincent-et-les-Grenadines.svg
 
-![Venezuela](../../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
+![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
-![Los Roques](../../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
+![Los Roques](../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
 
-![Panama](../../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panama
+![Panama](../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panama
 
-![Venezuela](../../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
+![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
 ACTIVITÉS À BORD
 

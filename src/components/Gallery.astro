@@ -1,0 +1,20 @@
+---
+/** Masonry-ish image grid with a CSS-only lightbox (:target). */
+import { Image } from 'astro:assets';
+interface Props { images: ImageMetadata[]; alt: string; }
+const { images, alt } = Astro.props;
+const id = 'g' + Math.random().toString(36).slice(2, 8);
+---
+<div class="mt-5 columns-2 gap-3 sm:columns-3 [&>*]:mb-3">
+  {images.map((img, i) => (
+    <a href={`#${id}-${i}`} class="block break-inside-avoid overflow-hidden rounded-xl">
+      <Image src={img} alt={`${alt} ${i + 1}`} width={500} height={500} loading="lazy" class="w-full transition duration-500 hover:scale-105" />
+    </a>
+  ))}
+  {images.map((img, i) => (
+    <div id={`${id}-${i}`} class="fixed inset-0 z-50 hidden items-center justify-center bg-ocean-950/90 p-4 target:flex">
+      <a href="#" class="absolute right-5 top-5 text-2xl text-sand-50" aria-label="Close">×</a>
+      <Image src={img} alt={`${alt} ${i + 1}`} width={1400} height={1400} class="max-h-[88vh] w-auto rounded-lg object-contain" />
+    </div>
+  ))}
+</div>

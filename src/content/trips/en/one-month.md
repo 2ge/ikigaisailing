@@ -13,7 +13,7 @@ oldUrls:
   - "/prodotto/one-month/"
 ---
 
-[![One month aboard](../../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
+[![One month aboard](../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
 
 # One month aboard
 

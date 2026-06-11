@@ -29,13 +29,13 @@ gallery:
   - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 translated: deepl
-sourceHash: 2285b98eb3b38b82
+sourceHash: 9ad8f4dd60cf84de
 needsReview: true
 ---
 
 ## Kitesurfing
 
-![Iko](../../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
+![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
 Jazdite na vlnách a nechajte sa unášať vetrom
 
@@ -63,7 +63,7 @@ Najlepšie pláže s konštantným a bezpečným vetrom
 
 ### Vybavenie
 
-Možnosť zapožičania výstroja na palube
+Možnosť zapožičania vybavenia na palube
 
 !
 
@@ -73,7 +73,7 @@ Prečo to vyskúšať s Ikigai
 
 Pridajte sa k nám a naučte sa alebo zdokonaľte svoje zručnosti v kitesurfingu v rajskom prostredí, vždy v bezpečí a s nádychom dobrodružstva.
 
--   **Exkluzívny prístup:** Dostaňte sa na najkrajšie miesta s najlepším vetrom, ďaleko od davov, v nedotknutej prírode. Vypustite kite priamo z katamaránu a preskúmajte miesta, ktoré sú z pevniny nedostupné.
+-   **Exkluzívny prístup:** Dostanete sa na najkrajšie miesta s najlepším vetrom, ďaleko od davov, v nedotknutej prírode. Vypustíte kite priamo z katamaránu a preskúmate miesta, ktoré sú z pevniny nedostupné.
 -   **Optimalizovaná bezpečnosť:** Naša špecializovaná loďka zabezpečuje neustálu podporu a včasné zásahy, čím vám zaručuje úplný pokoj pri surfovaní.
 -   **Sloboda a flexibilita:** Vyberte si, kedy a kde budete surfovať. Na palube Ikigai sledujeme najlepšie poveternostné a veterné podmienky, aby sme vám ponúkli neporovnateľný zážitok z kitesurfingu.
 -   **Relax a pohodlie:** Keď potrebujete prestávku, vráťte sa na palubu a oddýchnite si. Náš plávajúci domov ponúka chvíle čistej relaxácie a pohody pre telo i myseľ.

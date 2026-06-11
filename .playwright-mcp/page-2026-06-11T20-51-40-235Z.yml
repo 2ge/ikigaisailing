@@ -1,0 +1,431 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Ikigai Sailing" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation "Main" [ref=e5]:
+        - link "About" [ref=e7] [cursor=pointer]:
+          - /url: /about/
+          - text: About
+          - img [ref=e8]
+        - link "Catana 47" [ref=e10] [cursor=pointer]:
+          - /url: /catana-47/
+        - link "Boarding Options" [ref=e12] [cursor=pointer]:
+          - /url: /trips/
+          - text: Boarding Options
+          - img [ref=e13]
+        - link "Activities" [ref=e15] [cursor=pointer]:
+          - /url: /activities/
+        - link "Blog" [ref=e16] [cursor=pointer]:
+          - /url: /blog/
+      - generic [ref=e17]:
+        - button "Language" [ref=e19]:
+          - text: EN
+          - img [ref=e20]
+        - link "Contact us" [ref=e22] [cursor=pointer]:
+          - /url: /contact/
+  - main [ref=e23]:
+    - generic [ref=e24]:
+      - img "The catamaran Ikigai at anchor in turquoise water" [ref=e25]
+      - generic [ref=e27]:
+        - paragraph [ref=e28]: 9°33′N · 78°57′W — Guna Yala, Panama
+        - heading "A sail toward what truly matters." [level=1] [ref=e29]
+        - paragraph [ref=e30]: We are a non-profit sailing crew living aboard a Catana 47 catamaran in San Blas. Ten days of freediving, yoga, and slow ocean travel — booked directly with us, not a charter broker.
+        - generic [ref=e31]:
+          - link "Season 2025/26 · San Blas" [ref=e32] [cursor=pointer]:
+            - /url: /season-2025-26/
+          - link "Chat on WhatsApp" [ref=e33] [cursor=pointer]:
+            - /url: https://wa.me/393313292629
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - paragraph [ref=e37]: What is Ikigai
+        - heading "The meeting point of passion, calling and profession." [level=2] [ref=e39]
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - paragraph [ref=e42]: PASSION
+          - paragraph [ref=e43]: The sea is not a backdrop. It is the reason we wake before dawn.
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: CALLING
+          - paragraph [ref=e46]: We left careers on land to live by tide, wind, and anchor watch.
+        - generic [ref=e47]:
+          - paragraph [ref=e48]: PROFESSION
+          - paragraph [ref=e49]: Certified skippers, instructors and hosts — hospitality at 8 knots.
+      - paragraph [ref=e50]:
+        - text: Ikigai (生き甲斐) is the Japanese sense of a life worth living. Aboard, it stops being a concept and becomes a daily rhythm.
+        - link "Read the full story →" [ref=e51] [cursor=pointer]:
+          - /url: /ikigai/
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - term [ref=e56]: "2022"
+          - definition [ref=e57]: Sailing since
+        - generic [ref=e58]:
+          - term [ref=e59]: 20+
+          - definition [ref=e60]: countries reached
+        - generic [ref=e61]:
+          - term [ref=e62]: 10,000+
+          - definition [ref=e63]: nautical miles
+      - paragraph [ref=e65]: We are proud to have reached these destinations
+      - list [ref=e66]:
+        - listitem "Anguilla" [ref=e67]:
+          - img "Flag of Anguilla" [ref=e68]
+          - generic [ref=e69]: Anguilla
+        - listitem "Antigua and Barbuda" [ref=e70]:
+          - img "Flag of Antigua and Barbuda" [ref=e71]
+          - generic [ref=e72]: Antigua and Barbuda
+        - listitem "Aruba" [ref=e73]:
+          - img "Flag of Aruba" [ref=e74]
+          - generic [ref=e75]: Aruba
+        - listitem "Bonaire" [ref=e76]:
+          - img "Flag of Bonaire" [ref=e77]
+          - generic [ref=e78]: Bonaire
+        - listitem "Canary Islands" [ref=e79]:
+          - img "Flag of Canary Islands" [ref=e80]
+          - generic [ref=e81]: Canary Islands
+        - listitem "Cape Verde" [ref=e82]:
+          - img "Flag of Cape Verde" [ref=e83]
+          - generic [ref=e84]: Cape Verde
+        - listitem "Curaçao" [ref=e85]:
+          - img "Flag of Curaçao" [ref=e86]
+          - generic [ref=e87]: Curaçao
+        - listitem "Dominica" [ref=e88]:
+          - img "Flag of Dominica" [ref=e89]
+          - generic [ref=e90]: Dominica
+        - listitem "Gibraltar" [ref=e91]:
+          - img "Flag of Gibraltar" [ref=e92]
+          - generic [ref=e93]: Gibraltar
+        - listitem "Grenada" [ref=e94]:
+          - img "Flag of Grenada" [ref=e95]
+          - generic [ref=e96]: Grenada
+        - listitem "Panama" [ref=e97]:
+          - img "Flag of Panama" [ref=e98]
+          - generic [ref=e99]: Panama
+        - listitem "Saint Kitts and Nevis" [ref=e100]:
+          - img "Flag of Saint Kitts and Nevis" [ref=e101]
+          - generic [ref=e102]: Saint Kitts and Nevis
+        - listitem "Saint Vincent and the Grenadines" [ref=e103]:
+          - img "Flag of Saint Vincent and the Grenadines" [ref=e104]
+          - generic [ref=e105]: Saint Vincent and the Grenadines
+        - listitem "Sint Maarten" [ref=e106]:
+          - img "Flag of Sint Maarten" [ref=e107]
+          - generic [ref=e108]: Sint Maarten
+        - listitem "Venezuela" [ref=e109]:
+          - img "Flag of Venezuela" [ref=e110]
+          - generic [ref=e111]: Venezuela
+        - listitem "Venezuela (Federal Dependencies)" [ref=e112]:
+          - img "Flag of Venezuela (Federal Dependencies)" [ref=e113]
+          - generic [ref=e114]: Venezuela (Federal Dependencies)
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - paragraph [ref=e119]: Sailing options
+          - heading "Choose how you come aboard." [level=2] [ref=e121]
+        - link "Discover the boarding options →" [ref=e122] [cursor=pointer]:
+          - /url: /trips/
+      - generic [ref=e123]:
+        - link "Ikigai Experience San Blas, Panama Ikigai Experience Vivere 10 Giorni a bordo di Ikigai - Un concentrato di vita autentica, essenziale e rigenerante. flexible €300" [ref=e124] [cursor=pointer]:
+          - /url: /trips/ikigai-experience/
+          - img "Ikigai Experience" [ref=e126]
+          - generic [ref=e127]:
+            - paragraph [ref=e128]: San Blas, Panama
+            - heading "Ikigai Experience" [level=3] [ref=e129]
+            - paragraph [ref=e130]: Vivere 10 Giorni a bordo di Ikigai - Un concentrato di vita autentica, essenziale e rigenerante.
+            - generic [ref=e131]:
+              - generic [ref=e132]: flexible
+              - generic [ref=e133]: €300
+        - link "10 days on board Ikigai San Blas, Panama 10 days on board Ikigai In 10 days, we will guide you through powerful and transformative practices. This retreat is unique thanks to our multidisciplinary instructors 10 days €3,000" [ref=e134] [cursor=pointer]:
+          - /url: /trips/10-days-on-board/
+          - img "10 days on board Ikigai" [ref=e136]
+          - generic [ref=e137]:
+            - paragraph [ref=e138]: San Blas, Panama
+            - heading "10 days on board Ikigai" [level=3] [ref=e139]
+            - paragraph [ref=e140]: In 10 days, we will guide you through powerful and transformative practices. This retreat is unique thanks to our multidisciplinary instructors
+            - generic [ref=e141]:
+              - generic [ref=e142]: 10 days
+              - generic [ref=e143]: €3,000
+        - link "One month aboard Members only San Blas, Panama One month aboard Live like a true sailor for a month aboard Ikigai (with the option to split into two two-week embarkations). Engage fully in life on board, ... 1 month €2,000" [ref=e144] [cursor=pointer]:
+          - /url: /trips/one-month/
+          - generic [ref=e145]:
+            - img "One month aboard" [ref=e146]
+            - generic [ref=e147]: Members only
+          - generic [ref=e148]:
+            - paragraph [ref=e149]: San Blas, Panama
+            - heading "One month aboard" [level=3] [ref=e150]
+            - paragraph [ref=e151]: Live like a true sailor for a month aboard Ikigai (with the option to split into two two-week embarkations). Engage fully in life on board, ...
+            - generic [ref=e152]:
+              - generic [ref=e153]: 1 month
+              - generic [ref=e154]: €2,000
+        - link "Ocean Pacific Crossing Members only Panama → French Polynesia Ocean Pacific Crossing Pacific Crossing, Join us on a once-in-a-lifetime adventure across the Pacific Ocean! 4,000 nautical miles from Panama to the Marquesas Islands 3-4 weeks €2,000" [ref=e155] [cursor=pointer]:
+          - /url: /trips/pacific-crossing/
+          - generic [ref=e156]:
+            - img "Ocean Pacific Crossing" [ref=e157]
+            - generic [ref=e158]: Members only
+          - generic [ref=e159]:
+            - paragraph [ref=e160]: Panama → French Polynesia
+            - heading "Ocean Pacific Crossing" [level=3] [ref=e161]
+            - paragraph [ref=e162]: Pacific Crossing, Join us on a once-in-a-lifetime adventure across the Pacific Ocean! 4,000 nautical miles from Panama to the Marquesas Islands
+            - generic [ref=e163]:
+              - generic [ref=e164]: 3-4 weeks
+              - generic [ref=e165]: €2,000
+        - link "Exchange / Paid Boarding San Blas, Panama Exchange / Paid Boarding Vivere 10 Giorni a bordo di Ikigai - Un concentrato di vita autentica, essenziale e rigenerante. flexible Request to book →" [ref=e166] [cursor=pointer]:
+          - /url: /trips/crew-exchange/
+          - img "Exchange / Paid Boarding" [ref=e168]
+          - generic [ref=e169]:
+            - paragraph [ref=e170]: San Blas, Panama
+            - heading "Exchange / Paid Boarding" [level=3] [ref=e171]
+            - paragraph [ref=e172]: Vivere 10 Giorni a bordo di Ikigai - Un concentrato di vita autentica, essenziale e rigenerante.
+            - generic [ref=e173]:
+              - generic [ref=e174]: flexible
+              - generic [ref=e175]: Request to book →
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - paragraph [ref=e180]: On board
+          - heading "Activities for body and breath." [level=2] [ref=e182]
+        - link "Discover all activities →" [ref=e183] [cursor=pointer]:
+          - /url: /activities/
+      - generic [ref=e184]:
+        - link "Yoga Retreat Yoga Retreat With the sea as a backdrop and the sound of the waves, your yoga retreat becomes a transformative practice. Each session is designed to..." [ref=e185] [cursor=pointer]:
+          - /url: /activities/yoga/
+          - img "Yoga Retreat" [ref=e186]
+          - generic [ref=e188]:
+            - heading "Yoga Retreat" [level=3] [ref=e189]
+            - paragraph [ref=e190]: With the sea as a backdrop and the sound of the waves, your yoga retreat becomes a transformative practice. Each session is designed to...
+        - link "FreeDiving FreeDiving Freediving is not just a sport—it can be a true path to self-discovery, a chance to pause, breathe, and listen to yourself." [ref=e191] [cursor=pointer]:
+          - /url: /activities/freediving/
+          - img "FreeDiving" [ref=e192]
+          - generic [ref=e194]:
+            - heading "FreeDiving" [level=3] [ref=e195]
+            - paragraph [ref=e196]: Freediving is not just a sport—it can be a true path to self-discovery, a chance to pause, breathe, and listen to yourself.
+        - link "Meditation Meditation Meditation with Ikigai Sailing is a unique experience, where the tranquility of the sea amplifies the benefits of the practice." [ref=e197] [cursor=pointer]:
+          - /url: /activities/meditation/
+          - img "Meditation" [ref=e198]
+          - generic [ref=e200]:
+            - heading "Meditation" [level=3] [ref=e201]
+            - paragraph [ref=e202]: Meditation with Ikigai Sailing is a unique experience, where the tranquility of the sea amplifies the benefits of the practice.
+        - link "Janzu Janzu Janzu is an experience of deep relaxation and connection with the aquatic element. Gentle and fluid movements, help you release stress" [ref=e203] [cursor=pointer]:
+          - /url: /activities/janzu/
+          - img "Janzu" [ref=e204]
+          - generic [ref=e206]:
+            - heading "Janzu" [level=3] [ref=e207]
+            - paragraph [ref=e208]: Janzu is an experience of deep relaxation and connection with the aquatic element. Gentle and fluid movements, help you release stress
+        - 'link "KiteSurf KiteSurf Kitesurfing is much more than a sport: it is a true celebration of freedom, energy, and a deep connection with nature." [ref=e209] [cursor=pointer]':
+          - /url: /activities/kitesurf/
+          - img "KiteSurf" [ref=e210]
+          - generic [ref=e212]:
+            - heading "KiteSurf" [level=3] [ref=e213]
+            - paragraph [ref=e214]: "Kitesurfing is much more than a sport: it is a true celebration of freedom, energy, and a deep connection with nature."
+        - link "Diving Diving With diving, every immersion is a journey through vibrant colors, marine life, and sunken mysteries. Descend into the depths..." [ref=e215] [cursor=pointer]:
+          - /url: /activities/diving/
+          - img "Diving" [ref=e216]
+          - generic [ref=e218]:
+            - heading "Diving" [level=3] [ref=e219]
+            - paragraph [ref=e220]: With diving, every immersion is a journey through vibrant colors, marine life, and sunken mysteries. Descend into the depths...
+    - generic [ref=e222]:
+      - generic [ref=e223]:
+        - generic [ref=e224]:
+          - paragraph [ref=e225]: The route
+          - heading "Where is Ikigai right now?" [level=2] [ref=e227]
+        - paragraph [ref=e228]: From the San Blas archipelago through the Panama Canal and across the Pacific toward French Polynesia in 2027. Follow our anchorages on the live map.
+        - link "See the full route" [ref=e229] [cursor=pointer]:
+          - /url: /route/
+      - generic [ref=e231]:
+        - img [ref=e232]
+        - button "Load the live map" [ref=e234]
+    - generic [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - paragraph [ref=e239]: Logbook
+          - heading "Voices from aboard." [level=2] [ref=e241]
+        - link "Read all reviews →" [ref=e242] [cursor=pointer]:
+          - /url: /reviews/
+      - generic [ref=e244]:
+        - figure "Alice Modolo Paris" [ref=e245]:
+          - img [ref=e246]
+          - blockquote [ref=e248]:
+            - generic [ref=e249]:
+              - paragraph [ref=e250]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e251]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e252]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e253]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e254]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - generic [ref=e256]:
+            - paragraph [ref=e257]: Alice Modolo
+            - paragraph [ref=e258]: Paris
+        - figure "Anja Rolfes" [ref=e259]:
+          - img [ref=e260]
+          - blockquote [ref=e262]:
+            - generic [ref=e263]:
+              - paragraph [ref=e264]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e265]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e266]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e267]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e268]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - paragraph [ref=e271]: Anja Rolfes
+        - figure "Arianna" [ref=e272]:
+          - img [ref=e273]
+          - blockquote [ref=e275]:
+            - generic [ref=e276]:
+              - paragraph [ref=e277]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e278]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e279]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e280]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e281]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - paragraph [ref=e284]: Arianna
+        - figure "Carla Garcia Mexico" [ref=e285]:
+          - img [ref=e286]
+          - blockquote [ref=e288]:
+            - generic [ref=e289]:
+              - paragraph [ref=e290]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e291]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e292]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e293]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e294]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - generic [ref=e296]:
+            - paragraph [ref=e297]: Carla Garcia
+            - paragraph [ref=e298]: Mexico
+        - figure "Claudio Montibelli" [ref=e299]:
+          - img [ref=e300]
+          - blockquote [ref=e302]:
+            - generic [ref=e303]:
+              - paragraph [ref=e304]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e305]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e306]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e307]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e308]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - paragraph [ref=e311]: Claudio Montibelli
+        - figure "Cristiano Talpo" [ref=e312]:
+          - img [ref=e313]
+          - blockquote [ref=e315]:
+            - generic [ref=e316]:
+              - paragraph [ref=e317]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e318]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e319]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e320]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e321]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - paragraph [ref=e324]: Cristiano Talpo
+        - figure "Donna Schuelle" [ref=e325]:
+          - img [ref=e326]
+          - blockquote [ref=e328]:
+            - generic [ref=e329]:
+              - paragraph [ref=e330]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e331]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e332]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e333]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e334]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - paragraph [ref=e337]: Donna Schuelle
+        - figure "Elisa" [ref=e338]:
+          - img [ref=e339]
+          - blockquote [ref=e341]:
+            - generic [ref=e342]:
+              - paragraph [ref=e343]: We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
+              - paragraph [ref=e344]: "My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger."
+              - paragraph [ref=e345]: Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+              - paragraph [ref=e346]: We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+              - paragraph [ref=e347]: I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+          - paragraph [ref=e350]: Elisa
+    - generic [ref=e352]:
+      - heading "Most voyages start with a message." [level=2] [ref=e353]
+      - paragraph [ref=e354]: Most journeys aboard Ikigai start with a simple message.
+      - link "Chat on WhatsApp" [ref=e355] [cursor=pointer]:
+        - /url: https://wa.me/393313292629
+  - contentinfo [ref=e356]:
+    - generic [ref=e357]:
+      - generic [ref=e358]:
+        - generic [ref=e359]:
+          - img "Ikigai Sailing" [ref=e360]
+          - paragraph [ref=e361]: 9°33′N · 78°57′W — GUNA YALA
+          - paragraph [ref=e362]: "We are a non-profit amateur sports association: payments are member contributions, not commercial fees."
+          - generic [ref=e363]:
+            - link "Facebook" [ref=e364] [cursor=pointer]:
+              - /url: https://www.facebook.com/ikigaisailing
+              - img [ref=e365]
+            - link "Instagram" [ref=e367] [cursor=pointer]:
+              - /url: https://www.instagram.com/ikigaisailing_asd/
+              - img [ref=e368]
+            - link "YouTube" [ref=e370] [cursor=pointer]:
+              - /url: https://www.youtube.com/@ikigaisailing
+              - img [ref=e371]
+        - navigation "About" [ref=e373]:
+          - heading "About" [level=2] [ref=e374]
+          - list [ref=e375]:
+            - listitem [ref=e376]:
+              - link "About us" [ref=e377] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e378]:
+              - link "What is Ikigai" [ref=e379] [cursor=pointer]:
+                - /url: /ikigai/
+            - listitem [ref=e380]:
+              - link "The Story" [ref=e381] [cursor=pointer]:
+                - /url: /story/
+            - listitem [ref=e382]:
+              - link "The Route" [ref=e383] [cursor=pointer]:
+                - /url: /route/
+            - listitem [ref=e384]:
+              - link "Reviews" [ref=e385] [cursor=pointer]:
+                - /url: /reviews/
+        - navigation "On board" [ref=e386]:
+          - heading "On board" [level=2] [ref=e387]
+          - list [ref=e388]:
+            - listitem [ref=e389]:
+              - link "Season 2025/26" [ref=e390] [cursor=pointer]:
+                - /url: /season-2025-26/
+            - listitem [ref=e391]:
+              - link "Boarding Options" [ref=e392] [cursor=pointer]:
+                - /url: /trips/
+            - listitem [ref=e393]:
+              - link "Activities" [ref=e394] [cursor=pointer]:
+                - /url: /activities/
+            - listitem [ref=e395]:
+              - link "Liveaboard" [ref=e396] [cursor=pointer]:
+                - /url: /liveaboard/
+            - listitem [ref=e397]:
+              - link "Catana 47" [ref=e398] [cursor=pointer]:
+                - /url: /catana-47/
+            - listitem [ref=e399]:
+              - link "FAQ" [ref=e400] [cursor=pointer]:
+                - /url: /faq/
+        - navigation "Connect" [ref=e401]:
+          - heading "Connect" [level=2] [ref=e402]
+          - list [ref=e403]:
+            - listitem [ref=e404]:
+              - link "Contact" [ref=e405] [cursor=pointer]:
+                - /url: /contact/
+            - listitem [ref=e406]:
+              - link "Blog" [ref=e407] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e408]:
+              - link "Chat on WhatsApp ↗" [ref=e409] [cursor=pointer]:
+                - /url: https://wa.me/393313292629
+      - generic [ref=e411]:
+        - generic [ref=e412]:
+          - paragraph [ref=e413]: © 2026 — Ikigai Sailing ASD — Via Gorlago 37 – 00135 Roma (RM) — C.F. 96511650580
+          - paragraph [ref=e414]:
+            - img "CONI" [ref=e415]
+            - text: Recognized by CONI · Affiliated with MSP Italia
+        - generic [ref=e416]:
+          - link "Terms" [ref=e417] [cursor=pointer]:
+            - /url: /terms/
+          - link "Privacy" [ref=e418] [cursor=pointer]:
+            - /url: /privacy/
+          - link "Cookies" [ref=e419] [cursor=pointer]:
+            - /url: /cookies/
+  - link "Chat on WhatsApp" [ref=e420] [cursor=pointer]:
+    - /url: https://wa.me/393313292629
+    - img [ref=e421]
+    - generic [ref=e424]: WhatsApp
+  - generic [ref=e427]:
+    - button "Menu" [ref=e428]:
+      - img [ref=e430]
+      - generic: Menu
+    - button "Inspect" [ref=e434]:
+      - img [ref=e436]
+      - generic: Inspect
+    - button "Audit" [ref=e438]:
+      - generic [ref=e439]:
+        - img [ref=e440]
+        - img [ref=e443]
+      - generic: Audit
+    - button "Settings" [ref=e446]:
+      - img [ref=e448]
+      - generic: Settings

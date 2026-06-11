@@ -4,7 +4,6 @@ origin: Paris
 source: direct
 locale: en
 translations:
-  it: "La prima parola che mi viene in mente dopo questa esperienza di 10 giorni a bordo di Ikigai Sailing è GRAZIE. Grazie per averci riportato ai ritmi naturali della vita, con così tante nuove esperienze per me, come la meditazione, lo yoga e l’apnea, che permettono di riconnettersi con il proprio corpo e la propria mente. Una disconnessione fondamentale dalla “matrix”.\n\nGrazie per la vostra professionalità, ma soprattutto per l’empatia che siete riusciti a creare fin dal primo momento. La vostra capacità di ascoltare e di condividere le vostre storie a bordo, anche davanti a un buon bicchiere di vino.\n\nA presto."
   it: >-
     Ci siamo sentiti davvero fortunati quando, non molto tempo fa, un nostro
     caro amico ha incontrato Luca su una spiaggia di Los Roques. Da quel

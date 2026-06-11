@@ -29,12 +29,12 @@ gallery:
   - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 translated: deepl
-sourceHash: 2285b98eb3b38b82
+sourceHash: 9ad8f4dd60cf84de
 ---
 
 ## Kitesurf
 
-![Iko](../../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
+![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
 Surfe sur les vagues et laisse-toi porter par le vent
 
