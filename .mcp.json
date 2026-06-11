@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["-y", "chrome-devtools-mcp@latest", "--headless=true"]
+    },
+    "cloudflare-docs": {
+      "type": "sse",
+      "url": "https://docs.mcp.cloudflare.com/sse"
+    },
+    "cloudflare-bindings": {
+      "type": "sse",
+      "url": "https://bindings.mcp.cloudflare.com/sse"
+    },
+    "stripe": {
+      "command": "npx",
+      "args": ["-y", "@stripe/mcp", "--tools=products,prices,payment_links,checkout"],
+      "env": { "STRIPE_SECRET_KEY": "${STRIPE_SECRET_KEY}" }
+    },
+    "gsc": {
+      "command": "npx",
+      "args": ["-y", "mcp-server-gsc"],
+      "env": { "GOOGLE_APPLICATION_CREDENTIALS": "./.secrets/gsc-service-account.json" }
+    }
+  }
+}

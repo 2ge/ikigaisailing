@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # cloudflare local secrets
 .dev.vars
+
+# MCP secrets (GSC service account etc.)
+.secrets/

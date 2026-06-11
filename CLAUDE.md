@@ -37,8 +37,26 @@ Astro 6 (static) + Tailwind 4. Five locales. Deployed to Cloudflare Pages. Claud
 - `docs/SEO-STRATEGY.md` — direct-booking keyword portfolio (10 landing pages + 50 blog spokes).
 - `CONTENT-INVENTORY.md` — every old WP URL → content file → new URL (drives `public/_redirects`).
 
-## Common owner operations
+## Common owner operations (the editing contract)
 
-- **Publish a post:** create `src/content/blog/en/<slug>.md` with frontmatter → `npm run translate` → `npm run build` → commit + push (Cloudflare deploys automatically).
-- **Change a price:** edit the trip's EN frontmatter (`price`) → translate → build; if Stripe price changes, output the Stripe CLI command for the owner.
-- **Add a testimonial:** new file in `src/content/testimonials/` with `locale` = its original language → it appears everywhere automatically.
+The owner edits this site exclusively by instructing Claude Code. Every operation must stay one-step:
+
+- **Publish a post:** "Write a blog post about lobster season in San Blas, optimize for 'San Blas lobster veda'" → geo-writer rules, create `src/content/blog/en/<slug>.md`, `npm run translate`, build, commit, push (Cloudflare deploys automatically).
+- **Change a price:** "Change the season page price to €1.450/week and update Stripe" → edit the trip's EN frontmatter (`price`) → translate → build → output the Stripe CLI command for the owner.
+- **Add a testimonial:** "Add a testimonial from Trustpilot, here's the text" → new file in `src/content/testimonials/` with `locale` = its original language → it appears everywhere automatically.
+- **Update the route:** "We arrived in Galápagos — update the route page and llms.txt" → edit EN content, re-run translate; llms.txt regenerates at build.
+
+## Skills, hooks & MCP (Phase 8 tooling)
+
+- Skills in `.claude/skills/`: **seo-audit** (run before deploys/after structural changes), **geo-writer** (ALL copywriting), **perf-budget** (any component/script/image/font/tag), **translate** (any EN content change). Follow them — they are the quality bar.
+- For any substantial styling/visual task, use Anthropic's **frontend-design** skill (installed globally) to avoid generic AI aesthetics.
+- PostToolUse hook runs `scripts/quality-gate.sh` on every Edit/Write (astro check + build for code, staleness check for content). Pre-push git hook runs Playwright.
+- MCP servers in `.mcp.json`: chrome-devtools (perf traces), cloudflare-docs/bindings, stripe, gsc (needs `.secrets/gsc-service-account.json` — see README for service-account setup).
+
+## Monthly SEO loop (owner routine, run on request: "do the monthly SEO pass")
+
+1. Via GSC MCP: pull last 28 days of queries; find pages ranking positions 5–15 with high impressions ("striking distance").
+2. For each: strengthen with geo-writer (sharper direct answer, expanded FAQ, internal links from related posts) → `npm run translate`.
+3. Check Core Web Vitals field data (CrUX via chrome-devtools MCP) — fix any page whose real-user LCP/CLS regressed.
+4. Write 2 new blog posts targeting query gaps GSC reveals (questions searched that no page answers).
+5. Run the seo-audit skill; commit; deploy.
