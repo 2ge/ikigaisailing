@@ -1,0 +1,104 @@
+---
+title: "Formule di imbarco"
+description: "Scopri le diverse formule di imbarco di Ikigai Sailing: cabine condivise, viaggi personalizzati per un'esperienza unica in mare."
+locale: "en"
+oldUrls:
+  - "/formule-di-imbarco-new/"
+---
+
+### Growing Benefits Over Time
+
+Physical and Mental Well-being in Harmony with Nature
+
+Living immersed in the sea and nature is much more than a vacation: it’s a transformation. Direct contact with the natural elements not only rejuvenates the body but also renews the mind and spirit.  
+The more time you spend living in harmony with nature and the sea, the deeper and more lasting the benefits for your body, mind, and spirit will be.
+
+01
+
+!
+
+### 1 Week – A Breath of Fresh Air
+
+**AVAILABLE ONLY FOR CHRISTMAS AND NEW YEAR’S WEEK**
+
+  * **Mental reset:** disconnecting from daily worries and experiencing an initial sense of inner peace.
+
+  * **Energy recovery:** improved sleep quality thanks to natural rhythms and fresh air.
+
+  * **Stress reduction:** mindful breathing and exposure to the blue sea calm the mind and nervous system.
+
+  * **Physical vitality:** natural movement enhances circulation and reduces muscle tension.
+
+  * Get a glimpse of life for those who have chosen to live at sea.
+
+  * Receive an introduction or practice one of our disciplines.
+
+[Book](https://www.ikigaisailing.com/prodotto/christmas-week/)
+
+02
+
+### Ten Days – The Right Time to Find Yourself
+
+An immersive experience among the pristine islands of Guna Yala, where life slows down and becomes essential. You’ll sail through crystal-clear waters and deserted islands, sleeping lulled by the sea, practicing yoga, freediving, and meditation, and nourishing yourself with fresh, authentic food.  
+Ten days to rediscover your natural rhythm, breathe deeply, and reconnect with yourself.
+
+[Book](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+
+!
+
+03
+
+!
+
+### Find Your Ikigai
+
+**More than a retreat: it’s a return to your own rhythm**  
+  
+This 10-day sailing experience across the turquoise waters of Panama is your invitation to slow down, reconnect with your breath, body, and truth.  
+You’ll explore daily breathwork, freediving, movement practices, journaling, and meaningful group circles — all anchored in the philosophy of Ikigai, the Japanese concept meaning “reason for being.”  
+Every island is a chapter. Every wave, a reminder.  
+This is your sacred pause — a reset for your nervous system, a reawakening of purpose and joy.
+
+🌀 Just come as you are.  
+🌺 Let this be your breath again. Let this be your beginning.
+
+[Book](https://www.ikigaisailing.com/prodotto/find-your-ikigai-retreat/)
+
+### 04
+
+### One Month – Experience the Sea as Home, Time as Your Teacher
+
+A month on board to truly pause, let go of imposed rhythms, and reconnect with your essence. This experience is designed for those who have already encountered the world of Ikigai and wish to immerse themselves in a slow, profound, and regenerating time.  
+You are not a guest: you are part of the crew, of life, of the exchange. You will navigate between practices, nature, and sharing, experiencing the sea not as a backdrop, but as a home and a mirror.
+
+[Discover more](https://www.ikigaisailing.com/prodotto/one-month/)
+
+!
+
+### 05
+
+!
+
+### Pacific Crossing – The Great Crossing
+
+Over 30 days of sailing from Panama to the Marquesas Islands. A rare and transformative experience, where time expands and the ocean becomes home. It’s not a vacation, it’s a rite of passage: sharing, shifts on board, starry skies, profound silence, and the living force of the Pacific. If you feel the call, prepare to leap.
+
+[Book](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+
+### 06
+
+### Exchange – Life on Board in Exchange for Talents
+
+A month on board, in exchange for your time, your hands, your art.  
+This program is designed for those who want to actively contribute to the Ikigai project by offering their skills: photography, cooking, communication, craftsmanship, maintenance, education, or other.  
+This isn’t volunteering, but a genuine human exchange, where value begets value.
+
+[Discover More](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+
+![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20169'%2F%3E)
+
+Contact us and book your boarding now
+
+Jump aboard your freedom!
+
+[Request Information](https://www.ikigaisailing.com/contact-2/)

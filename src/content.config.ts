@@ -32,7 +32,7 @@ const trips = defineCollection({
       title: z.string(),
       description: z.string(),
       locale: z.enum(LOCALES),
-      price: z.number().nullable(),
+      price: z.number().nullable().default(null),
       currency: z.string().default('EUR'),
       priceNote: z.string().optional(), // e.g. "per week", "per month", "deposit 30%"
       duration: z.string(),
