@@ -10,7 +10,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "translate": "tsx scripts/translate.ts"
+    "translate": "tsx scripts/translate.ts",
+    "prebuild": "tsx scripts/gen-redirects.ts && tsx scripts/gen-llms.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

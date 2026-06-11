@@ -6,6 +6,7 @@
 import '@fontsource-variable/figtree';
 import '@fontsource-variable/fraunces';
 import SEO from '../components/SEO.astro';
+import Analytics from '../components/Analytics.astro';
 import { getLocaleFromUrl } from '../i18n/ui';
 import '../styles/global.css';
 
@@ -37,7 +38,7 @@ const locale = getLocaleFromUrl(Astro.url);
     <SEO {...Astro.props}>
       <slot name="head" />
     </SEO>
-    {/* Analytics (GTM + Meta pixel + umami) are added in Phase 3 */}
+    <Analytics />
   </head>
   <body class="min-h-screen bg-sand-50 font-sans text-ink antialiased">
     <slot />
