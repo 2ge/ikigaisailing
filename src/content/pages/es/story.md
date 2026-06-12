@@ -55,7 +55,6 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
-  - ~/assets/trips/acconto/skipper.webp
 translated: deepl
 sourceHash: 1e0f9d1d722e1194
 ---

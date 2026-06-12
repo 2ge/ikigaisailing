@@ -172,35 +172,33 @@
     to { opacity: 1; transform: none; }
   }
 
-  /* testimonial card body clamp with soft fade (full text on /reviews/) */
+  /* testimonial card body — clean line-clamp with ellipsis (full text on /reviews/).
+     A line boundary + "…" reads as intentional truncation, not cut-off/missing text. */
   .testimonial-clamp {
-    max-height: 13rem;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    line-clamp: 7;
     overflow: hidden;
   }
-  .testimonial-clamp::after {
-    content: '';
-    position: absolute;
-    inset: auto 0 0 0;
-    height: 2.75rem;
-    background: linear-gradient(to top, var(--color-sand-50), transparent);
-    pointer-events: none;
-  }
   .testimonial-clamp.testimonial-clamp--open {
-    max-height: none;
-  }
-  .testimonial-clamp--open::after {
-    display: none;
+    display: block;
+    -webkit-line-clamp: unset;
+    line-clamp: unset;
+    overflow: visible;
   }
 
-  /* horizontal scroll-snap rail (testimonials, galleries) */
+  /* horizontal scroll-snap rail (testimonials, galleries).
+     Scrollbar is hidden so it never reads as a stray card border; the peeking
+     next card signals that the rail scrolls. Cards use a real border (inside
+     their box) rather than a ring, so the overflow clip can't cut edge cards. */
   .snap-rail {
     display: flex;
     gap: 1.25rem;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
-    padding-bottom: 0.75rem;
-    scrollbar-width: thin;
-    scrollbar-color: var(--color-ocean-300) transparent;
+    scrollbar-width: none;
   }
+  .snap-rail::-webkit-scrollbar { display: none; }
   .snap-rail > * { scroll-snap-align: start; flex-shrink: 0; }
 }

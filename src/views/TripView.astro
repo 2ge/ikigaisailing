@@ -1,32 +1,22 @@
 ---
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
-import PageLayout from '../../../layouts/PageLayout.astro';
-import Prose from '../../../components/Prose.astro';
-import FaqAccordion from '../../../components/FaqAccordion.astro';
-import Gallery from '../../../components/Gallery.astro';
-import JsonLd from '../../../components/jsonld/JsonLd.astro';
-import { useTranslations, localizePath, defaultLocale, type Locale } from '../../../i18n/ui';
-import { WHATSAPP_URL } from '../../../i18n/nav';
-import { slugOf, entryForLocale } from '../../../lib/content';
-import { breadcrumbs, faqPage, tripProduct } from '../../../lib/schema';
+import PageLayout from '../layouts/PageLayout.astro';
+import Prose from '../components/Prose.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import Gallery from '../components/Gallery.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, defaultLocale, type Locale } from '../i18n/ui';
+import { WHATSAPP_URL } from '../i18n/nav';
+import { slugOf, entryForLocale, availableLocalesFor } from '../lib/content';
+import { breadcrumbs, faqPage, tripProduct } from '../lib/schema';
 
-export async function getStaticPaths() {
-  const all = await getCollection('trips');
-  const slugs = [...new Set(all.map(slugOf))];
-  const locales: Locale[] = ['en', 'it', 'es', 'fr', 'sk'];
-  return slugs.flatMap((slug) =>
-    locales.map((locale) => ({
-      params: { locale: locale === defaultLocale ? undefined : locale, slug },
-      props: { slug, locale },
-    })),
-  );
-}
 
 const { slug, locale } = Astro.props as { slug: string; locale: Locale };
 const t = useTranslations(locale);
 const entry = await entryForLocale('trips', slug, locale);
 if (!entry) return Astro.redirect('/404/');
+const availableLocales = await availableLocalesFor('trips', slug);
 const d = entry.data;
 
 const site = Astro.site!.origin;
@@ -44,7 +34,7 @@ const schemas = [
 ];
 ---
 
-<PageLayout title={d.title} description={d.description} path={`/trips/${slug}/`} ogType="article" conciergeContext="trip">
+<PageLayout title={d.title} description={d.description} path={`/trips/${slug}/`} ogType="article" conciergeContext="trip" availableLocales={availableLocales}>
   <Fragment slot="head">
     {schemas.map((s) => <JsonLd schema={s} />)}
   </Fragment>

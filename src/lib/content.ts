@@ -30,6 +30,18 @@ export async function entriesForLocale<C extends AnyCol>(
   return [...bySlug.values()];
 }
 
+/**
+ * Locales a given entry is actually reachable in. If an EN source exists the
+ * page is built in all locales (translation or EN fallback); otherwise only the
+ * locales that have their own file (e.g. IT-only legacy posts). Drives the
+ * language switcher so it never links to a locale that 404s.
+ */
+export async function availableLocalesFor(collection: AnyCol, slug: string): Promise<Locale[]> {
+  const all = await getCollection(collection);
+  const have = new Set(all.filter((e) => slugOf(e) === slug).map((e) => localeOf(e)));
+  return have.has(defaultLocale) ? ['en', 'it', 'es', 'fr', 'sk'] : ([...have] as Locale[]);
+}
+
 /** One entry by slug for a locale (EN fallback). */
 export async function entryForLocale<C extends AnyCol>(
   collection: C,

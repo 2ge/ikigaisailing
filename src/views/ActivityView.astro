@@ -1,28 +1,19 @@
 ---
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
-import PageLayout from '../../../layouts/PageLayout.astro';
-import Prose from '../../../components/Prose.astro';
-import Gallery from '../../../components/Gallery.astro';
-import JsonLd from '../../../components/jsonld/JsonLd.astro';
-import { useTranslations, defaultLocale, type Locale } from '../../../i18n/ui';
-import { slugOf, entryForLocale } from '../../../lib/content';
-import { breadcrumbs } from '../../../lib/schema';
+import PageLayout from '../layouts/PageLayout.astro';
+import Prose from '../components/Prose.astro';
+import Gallery from '../components/Gallery.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
+import { slugOf, entryForLocale, availableLocalesFor } from '../lib/content';
+import { breadcrumbs } from '../lib/schema';
 
-export async function getStaticPaths() {
-  const all = await getCollection('activities');
-  const slugs = [...new Set(all.map(slugOf))];
-  return slugs.flatMap((slug) =>
-    (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
-      params: { locale: locale === defaultLocale ? undefined : locale, slug },
-      props: { slug, locale },
-    })),
-  );
-}
 const { slug, locale } = Astro.props as { slug: string; locale: Locale };
 const t = useTranslations(locale);
 const entry = await entryForLocale('activities', slug, locale);
 if (!entry) return Astro.redirect('/404/');
+const availableLocales = await availableLocalesFor('activities', slug);
 const d = entry.data;
 const site = Astro.site!.origin;
 const crumb = breadcrumbs(site, locale, [
@@ -31,7 +22,7 @@ const crumb = breadcrumbs(site, locale, [
   { name: d.title, path: `/activities/${slug}/` },
 ]);
 ---
-<PageLayout title={`${d.title} — Ikigai Sailing`} description={d.summary} path={`/activities/${slug}/`} ogType="article" conciergeContext="activity">
+<PageLayout title={`${d.title} — Ikigai Sailing`} description={d.summary} path={`/activities/${slug}/`} ogType="article" conciergeContext="activity" availableLocales={availableLocales}>
   <JsonLd slot="head" schema={crumb} />
   <header class="relative isolate overflow-hidden bg-ocean-950">
     {d.image && <Image src={d.image} alt={d.title} width={1800} height={900} widths={[640, 1024, 1800]} sizes="100vw" priority class="absolute inset-0 -z-10 h-full w-full object-cover opacity-55" />}
@@ -42,6 +33,19 @@ const crumb = breadcrumbs(site, locale, [
     </div>
   </header>
   <article class="mx-auto max-w-4xl px-4 py-14 sm:px-6">
+    {d.facts.length > 0 && (
+      <section class="mb-12 rounded-3xl bg-sand-100 p-6 ring-1 ring-ocean-950/5 sm:p-8">
+        <h2 class="font-display text-2xl text-ocean-950">{t('activity.whatToExpect')}</h2>
+        <dl class="mt-6 grid gap-x-8 gap-y-6 sm:grid-cols-2">
+          {d.facts.map((f) => (
+            <div class="border-l-2 border-ocean-300 pl-4">
+              <dt class="coords text-xs uppercase tracking-wide text-ocean-600">{f.label}</dt>
+              <dd class="mt-1 text-[1.05rem] leading-snug text-ocean-950">{f.value}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+    )}
     <Prose entry={entry} />
     {d.gallery.length > 0 && <Gallery images={d.gallery} alt={d.title} />}
   </article>

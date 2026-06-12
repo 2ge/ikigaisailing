@@ -1,19 +1,17 @@
 ---
 import { Image } from 'astro:assets';
-import PageLayout from '../../../layouts/PageLayout.astro';
-import Prose from '../../../components/Prose.astro';
-import JsonLd from '../../../components/jsonld/JsonLd.astro';
-import { useTranslations, localizePath, type Locale } from '../../../i18n/ui';
-import { slugOf, entryForLocale, existingLocalePaths } from '../../../lib/content';
-import { breadcrumbs, article } from '../../../lib/schema';
+import PageLayout from '../layouts/PageLayout.astro';
+import Prose from '../components/Prose.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, type Locale } from '../i18n/ui';
+import { entryForLocale, availableLocalesFor } from '../lib/content';
+import { breadcrumbs, article } from '../lib/schema';
 
-export async function getStaticPaths() {
-  return existingLocalePaths('blog', { filter: (p) => !p.data.draft });
-}
 const { slug, locale } = Astro.props as { slug: string; locale: Locale };
 const t = useTranslations(locale);
 const entry = await entryForLocale('blog', slug, locale);
 if (!entry) return Astro.redirect('/404/');
+const availableLocales = await availableLocalesFor('blog', slug);
 const d = entry.data;
 const site = Astro.site!.origin;
 const url = new URL(Astro.url.pathname, site).href;
@@ -27,7 +25,7 @@ const schemas = [
   article(url, { ...d, image: d.image ? new URL(d.image.src, site).href : undefined }),
 ];
 ---
-<PageLayout title={d.title} description={d.description} path={`/blog/${slug}/`} ogType="article" ogImage={d.image?.src}>
+<PageLayout title={d.title} description={d.description} path={`/blog/${slug}/`} ogType="article" ogImage={d.image?.src} availableLocales={availableLocales}>
   <Fragment slot="head">{schemas.map((s) => <JsonLd schema={s} />)}</Fragment>
   <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
     <a href={localizePath('/blog/', locale)} class="coords text-ocean-600 hover:text-ocean-800">← {t('nav.blog')}</a>

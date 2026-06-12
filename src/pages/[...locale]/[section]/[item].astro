@@ -1,0 +1,30 @@
+---
+/**
+ * Two-segment dispatcher: collection items under a localized section root
+ * (e.g. /sk/plavby/ikigai-experience/, /sk/aktivity/freediving/, /blog/<post>/).
+ */
+import type { Locale } from '../../../i18n/ui';
+import { itemStaticPaths, type ItemCollection } from '../../../lib/routes';
+import TripView from '../../../views/TripView.astro';
+import ActivityView from '../../../views/ActivityView.astro';
+import BlogPostView from '../../../views/BlogPostView.astro';
+
+export async function getStaticPaths() {
+  return itemStaticPaths();
+}
+
+const { locale, collection, slug } = Astro.props as {
+  locale: Locale;
+  collection: ItemCollection;
+  slug: string;
+};
+---
+{
+  collection === 'trips' ? (
+    <TripView slug={slug} locale={locale} />
+  ) : collection === 'activities' ? (
+    <ActivityView slug={slug} locale={locale} />
+  ) : (
+    <BlogPostView slug={slug} locale={locale} />
+  )
+}

@@ -21,7 +21,7 @@ CATANA 47
 
 Il Catana 47 è una barca concepita per godere delle comodità e degli spazi senza rinunciare alle emozioni della vela e del mare. E’ un catamarano dalle alte performance, in grado di mantenere velocità elevate durante le lunghe traversate e di muoversi agevolmente anche con poco vento mentre gli interni spaziosi garantiscono comfort in ogni condizione meteo. Può accogliere dalle 6 alle 7 persone in 4 cabine.
 
-[Virtual tour](https://www.catana.com/visite/Catana-47/Catana-47.html)
+[Virtual tour](https://www.cruisingworld.com/sailboats/catana-47/)
 
 Il Catana 47 è una barca concepita per godere delle comodità e degli spazi senza rinunciare alle emozioni della vela e del mare.E’ un catamarano dalle alte performance, in grado di mantenere velocità elevate durante le lunghe traversate e di muoversi agevolmente anche con poco vento mentre gli interni spaziosi garantiscono comfort in ogni condizione meteo.
 

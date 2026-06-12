@@ -29,30 +29,38 @@ const cards = await Promise.all(
 
 <div class="snap-rail -mx-4 px-4 py-2 sm:mx-0 sm:px-1">
   {cards.map(({ item, href, Content, translated }, i) => (
-    <figure class="group relative flex w-[82vw] max-w-sm flex-col rounded-2xl bg-sand-50 p-6 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300 sm:w-80">
+    <figure class="group relative flex w-[82vw] max-w-sm flex-col rounded-2xl border border-ocean-950/10 bg-sand-50 p-6 transition-colors hover:border-ocean-300 sm:w-80">
       <a href={href} class="absolute inset-0 z-0 rounded-2xl" aria-label={`Read ${item.data.author}'s review`}></a>
       <svg class="h-8 w-8 shrink-0 text-ocean-300" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
         <path d="M9.13 8C7.4 8.6 6 10.5 6 12.5V18h5v-5H8.5c0-1.4.9-2.6 2-3L9.13 8Zm8 0C15.4 8.6 14 10.5 14 12.5V18h5v-5h-2.5c0-1.4.9-2.6 2-3L17.13 8Z" />
       </svg>
-      <blockquote class="testimonial-clamp prose-ikigai relative mt-3 flex-1 text-[0.95rem] leading-relaxed">
+      <blockquote class="testimonial-clamp prose-ikigai mt-3 flex-1 text-[0.95rem] leading-relaxed">
         <div data-orig={i}><Content /></div>
         {translated && (
           <div data-trans={i} hidden set:html={translated.replace(/\n\n/g, '<br><br>')} />
         )}
       </blockquote>
-      <figcaption class="mt-4 flex items-center justify-between border-t border-ocean-950/5 pt-3">
-        <div>
-          <p class="font-semibold text-ocean-950">{item.data.author}</p>
-          {item.data.origin && <p class="coords text-ocean-600">{item.data.origin}</p>}
+      <figcaption class="mt-4 border-t border-ocean-950/5 pt-3">
+        <div class="flex items-center justify-between">
+          <div>
+            <p class="font-semibold text-ocean-950">{item.data.author}</p>
+            {item.data.origin && <p class="coords text-ocean-600">{item.data.origin}</p>}
+          </div>
+          {translated && (
+            <button
+              class="relative z-10 shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800"
+              data-toggle={i}
+            >
+              {t('reviews.translated')}
+            </button>
+          )}
         </div>
-        {translated && (
-          <button
-            class="relative z-10 shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800"
-            data-toggle={i}
-          >
-            {t('reviews.translated')}
-          </button>
-        )}
+        <span class="mt-2 inline-flex items-center gap-1 text-xs font-medium text-ocean-600 transition group-hover:gap-1.5 group-hover:text-coral-600">
+          {t('reviews.readFull')}
+          <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M13 6l6 6-6 6M5 12h14" />
+          </svg>
+        </span>
       </figcaption>
     </figure>
   ))}

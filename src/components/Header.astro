@@ -10,14 +10,23 @@ import itFlag from '../assets/flags/it.svg?raw';
 import esFlag from '../assets/flags/es.svg?raw';
 import frFlag from '../assets/flags/fr.svg?raw';
 import skFlag from '../assets/flags/sk.svg?raw';
-import { useTranslations, localizePath, getLocaleFromUrl, locales, localeNames, type Locale } from '../i18n/ui';
+import { useTranslations, localizePath, canonicalizePath, getLocaleFromUrl, locales, localeNames, type Locale } from '../i18n/ui';
 import { mainNav, WHATSAPP_URL } from '../i18n/nav';
 
 const flags: Record<Locale, string> = { en: gbFlag, it: itFlag, es: esFlag, fr: frFlag, sk: skFlag };
 
+interface Props {
+  /** locales this page exists in; the switcher only offers these (defaults to all) */
+  availableLocales?: Locale[];
+}
+const { availableLocales } = Astro.props as Props;
+const switchLocales = (availableLocales ?? [...locales]) as Locale[];
+
 const locale = getLocaleFromUrl(Astro.url);
 const t = useTranslations(locale);
-const basePath = Astro.url.pathname.replace(/^\/(it|es|fr|sk)(\/|$)/, '/');
+// canonical (English) form of the current URL, so the switcher can re-localize
+// it into every other locale's segments.
+const basePath = canonicalizePath(Astro.url.pathname, locale);
 const lp = (p: string) => localizePath(p, locale);
 ---
 
@@ -83,7 +92,7 @@ const lp = (p: string) => localizePath(p, locale);
         <div
           class="invisible absolute right-0 top-full translate-y-1 rounded-xl border border-ocean-950/5 bg-sand-50 p-1.5 opacity-0 shadow-lg shadow-ocean-950/5 transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100"
         >
-          {locales.map((l) => (
+          {switchLocales.map((l) => (
             <a
               href={localizePath(basePath, l as Locale)}
               data-lang={l}

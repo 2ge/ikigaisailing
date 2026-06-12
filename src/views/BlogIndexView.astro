@@ -1,16 +1,10 @@
 ---
 import { Image } from 'astro:assets';
-import PageLayout from '../../../layouts/PageLayout.astro';
-import PageHero from '../../../components/PageHero.astro';
-import { useTranslations, localizePath, defaultLocale, type Locale } from '../../../i18n/ui';
-import { entriesForLocale, slugOf } from '../../../lib/content';
+import PageLayout from '../layouts/PageLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import { useTranslations, localizePath, defaultLocale, type Locale } from '../i18n/ui';
+import { entriesForLocale, slugOf } from '../lib/content';
 
-export async function getStaticPaths() {
-  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
-    params: { locale: locale === defaultLocale ? undefined : locale },
-    props: { locale },
-  }));
-}
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 const posts = (await entriesForLocale('blog', locale))

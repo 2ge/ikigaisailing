@@ -1,7 +1,7 @@
 ---
 title: 'Katamarán Ikigai – komfort, výkon a dobrodružstvo'
 description: >-
-  Objavte katamarán Ikigai Sailing: dokonalé spojenie pohodlia a výkonu pre
+  Objavte katamarán Ikigai Sailing: dokonalé spojenie komfortu a výkonu pre
   nezabudnuteľné dobrodružstvá na mori.
 locale: sk
 heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
@@ -15,13 +15,13 @@ gallery:
   - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
   - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
 translated: deepl
-sourceHash: 043c0250dabe9f70
+sourceHash: 77ba25e7dfa4b095
 needsReview: true
 ---
 
 _Catana 47_ je navrhnutá tak, aby ste si mohli užívať pohodlie a priestor bez toho, aby ste sa museli vzdať vzrušenia z plavby a mora. Ide o výkonný katamarán, ktorý dokáže udržať vysokú rýchlosť aj pri dlhých plavbách a ľahko sa pohybovať aj pri slabom vetre, pričom jeho priestranný interiér zaručuje pohodlie za každého počasia. Ponúka ubytovanie pre 6 až 7 osôb v 4 kajutách.
 
-[Vyberte sa na virtuálnu prehliadku →](https://www.catana.com/visite/Catana-47/Catana-47.html)
+[Vyberte sa na virtuálnu prehliadku →](https://www.cruisingworld.com/sailboats/catana-47/)
 
 ## Kabíny a dispozícia
 
@@ -30,13 +30,13 @@ _Catana 47_ je navrhnutá tak, aby ste si mohli užívať pohodlie a priestor be
 -   **Štvrtá kajuta** prerobená na veľkú kúpeľňu s panoramatickou sprchou pre dvoch
 -   **2 elektrické toalety**, po jednej na každom trupe
 
-Na prove sa nachádza **kajuta** **pre posádku**, **úschovňa** **plachiet** a špeciálna **kajuta** na **uloženie** športového vybavenia. Na zadnej časti lode sa **veľký stôl v kokpite** dá sklopiť a vytvoriť tak ďalšiu priestrannú manželskú posteľ.
+Na prove sa nachádza **kajuta** **posádky**, **úložný priestor** **na plachty** a špeciálna **kajuta** na športové vybavenie. Na zadnej časti lode sa **veľký stôl v kokpite** dá sklopiť a vytvoriť tak ďalšiu priestrannú manželskú posteľ.
 
 ## Kuchynka
 
 Keďže sme nadšenci dobrého jedla – a bývalí profesionálni reštauratéri – kuchyňa zohráva na palube ústrednú úlohu. Je vybavená:
 
--   **Pekárničku na chlieb** – pretože čerstvý chlieb každý deň je na nezaplatenie
+-   **Pekárňou na chlieb** – pretože čerstvý chlieb každý deň je na nezaplatenie
 -   **Gril Magma XL** – hviezda nespočetných grilovačiek, najmä po úspešnom rybárskom výlete
 -   **4-horákovým sporákom**, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom a ďalším vybavením
 -   **Automatický kávovar** s integrovaným mlynčekom
