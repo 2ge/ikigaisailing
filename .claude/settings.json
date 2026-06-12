@@ -1,4 +1,56 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(npm run build)",
+      "Bash(npm run build:*)",
+      "Bash(npm run translate)",
+      "Bash(npm run translate:*)",
+      "Bash(npm test)",
+      "Bash(npm test:*)",
+      "Bash(npm run test:*)",
+      "Bash(npm ci)",
+      "Bash(npx tsx:*)",
+      "Bash(npx astro:*)",
+      "Bash(npx playwright:*)",
+      "Bash(tsx scripts/:*)",
+      "Bash(git status)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(git switch:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git fetch:*)",
+      "Bash(git pull:*)",
+      "Bash(git merge:*)",
+      "Bash(git revert:*)",
+      "Bash(git restore:*)",
+      "Bash(git stash:*)",
+      "Bash(gh pr:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:ikigai.2pu.net)",
+      "WebFetch(domain:*.ikigai-sailing.pages.dev)",
+      "WebFetch(domain:github.com)"
+    ],
+    "deny": [
+      "Bash(wrangler:*)",
+      "Bash(npx wrangler:*)",
+      "Read(.env)",
+      "Read(.env.*)",
+      "Read(.secrets/**)"
+    ]
+  },
   "hooks": {
     "PostToolUse": [
       {
