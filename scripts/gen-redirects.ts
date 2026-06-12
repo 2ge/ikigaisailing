@@ -62,6 +62,10 @@ for (const collection of ['pages', 'trips', 'activities', 'blog']) {
 // (3) section / retired-page redirects — keys are old URLs, values English-slug
 // localized targets that get re-localized to their current form.
 const EXTRA: Record<string, string> = {
+  // Google Ads landing pages (paid traffic must not 404 after the cutover)
+  '/retreat/sailing-&-yoga': '/season-2025-26/',
+  '/retreat/sailing-&-yoga/': '/season-2025-26/',
+  '/retreat/': '/season-2025-26/',
   '/prodotto/advance-payment/': '/trips/',
   '/it/prodotto/acconto/': '/it/trips/',
   '/life-on-the-boat/': '/liveaboard/',
