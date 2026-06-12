@@ -9,7 +9,7 @@ import { entriesForLocale, entryForLocale, slugOf } from '../lib/content';
 import { translationToHtml } from '../lib/format';
 import googleReviews from '../data/google-reviews.json';
 
-const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string }[] };
+const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string; lang?: string | null; translations?: Record<string, string> }[] };
 const hasGoogle = g.reviews.length > 0;
 
 const { locale } = Astro.props as { locale: Locale };
@@ -95,19 +95,27 @@ const reviewSchema = {
           )}
         </div>
         <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {g.reviews.map((r) => (
+          {g.reviews.map((r, i) => {
+            const tr = r.translations?.[locale];
+            const canTranslate = !!tr && (r.lang || 'en').slice(0, 2) !== locale;
+            return (
             <figure class="flex flex-col rounded-2xl border border-ocean-950/10 bg-sand-100 p-6">
               <div class="text-coral-500" aria-label={`${r.rating} stars`}>{'★'.repeat(Math.round(r.rating))}</div>
-              <blockquote class="prose-ikigai mt-3 flex-1 text-[0.95rem]">{r.text}</blockquote>
+              <blockquote class="prose-ikigai mt-3 flex-1 text-[0.95rem]">
+                <div data-orig={`g${i}`} set:html={translationToHtml(r.text)} />
+                {canTranslate && <div data-trans={`g${i}`} hidden set:html={translationToHtml(tr!)} />}
+              </blockquote>
               <figcaption class="mt-4 flex items-center gap-3 border-t border-ocean-950/5 pt-3">
                 {r.photo && <img src={r.photo} alt="" width="32" height="32" loading="lazy" class="h-8 w-8 rounded-full object-cover" referrerpolicy="no-referrer" />}
-                <div>
+                <div class="flex-1">
                   <p class="font-semibold text-ocean-950">{r.author}</p>
                   {r.when && <p class="coords text-ocean-600">{r.when}</p>}
                 </div>
+                {canTranslate && <button class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800" data-toggle={`g${i}`}>{t('reviews.translated')}</button>}
               </figcaption>
             </figure>
-          ))}
+            );
+          })}
         </div>
       </div>
     </section>
