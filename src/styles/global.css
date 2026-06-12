@@ -41,6 +41,10 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    /* belt-and-suspenders against phantom horizontal scroll.
+       `clip` (not `hidden`) doesn't create a scroll container, so it never
+       breaks position: sticky on descendants (header, trip sidebar). */
+    overflow-x: clip;
   }
   body {
     font-optical-sizing: auto;

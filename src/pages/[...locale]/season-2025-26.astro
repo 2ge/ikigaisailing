@@ -48,7 +48,7 @@ const crumb = breadcrumbs(site, locale, [
   {/* hero */}
   <header class="relative isolate overflow-hidden bg-ocean-950">
     {page?.data.heroImage && (
-      <Image src={page.data.heroImage} alt={page.data.title} width={2000} height={1100} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" class="absolute inset-0 -z-10 h-full w-full object-cover opacity-65" />
+      <Image src={page.data.heroImage} alt={page.data.title} width={2000} height={1100} widths={[640, 1024, 1600, 2000]} sizes="100vw" priority class="absolute inset-0 -z-10 h-full w-full object-cover opacity-65" />
     )}
     <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/40 to-ocean-950/20"></div>
     <div class="mx-auto flex min-h-[78vh] max-w-6xl flex-col justify-end px-4 pb-14 pt-28 sm:px-6">
