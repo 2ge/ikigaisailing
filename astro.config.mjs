@@ -4,7 +4,6 @@ import { fileURLToPath } from 'node:url';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
-import partytown from '@astrojs/partytown';
 
 const src = fileURLToPath(new URL('./src', import.meta.url));
 
@@ -27,7 +26,7 @@ export default defineConfig({
       defaultLocale: 'en',
       locales: { en: 'en', it: 'it', es: 'es', fr: 'fr', sk: 'sk' },
     },
-  }), partytown({ config: { forward: ['dataLayer.push', 'fbq'] } })],
+  })],
   vite: {
     plugins: [tailwindcss()],
     resolve: { alias: { '~': src } },

@@ -1,9 +1,12 @@
 ---
 /**
- * Analytics — GTM + Meta Pixel run **off the main thread via Partytown**
- * (type="text/partytown"), so they cost ~0 main-thread time and don't drag
- * Core Web Vitals. umami (privacy-friendly) is tiny and loads normally.
- * Per owner decision: keep GTM + Meta pixel AND add umami. Prod only.
+ * Analytics — GTM + Meta Pixel + umami. Loaded on the FIRST user interaction
+ * (scroll / pointer / key / touch), with a late idle fallback, so they never
+ * touch the critical path: real users are tracked, but the load happens after
+ * paint — keeping Core Web Vitals clean. Prod only.
+ *
+ * (Partytown was tried but can't fetch cross-origin GTM without a reverse proxy;
+ * interaction-gated loading is simpler and keeps tracking reliable.)
  */
 const GTM_ID = 'GTM-MM7ZH8ZJ';
 const META_PIXEL_ID = '936580528526004';
@@ -14,37 +17,51 @@ const isProd = import.meta.env.PROD;
 
 {isProd && (
   <>
-    {/* GTM via Partytown (web worker) */}
-    <script type="text/partytown" is:inline define:vars={{ GTM_ID }}>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s);
-        j.async = true;
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i;
-        f.parentNode.insertBefore(j, f);
-      })(window, document, 'script', 'dataLayer', GTM_ID);
-    </script>
+    <script is:inline define:vars={{ GTM_ID, META_PIXEL_ID, UMAMI_SRC, UMAMI_ID }}>
+      (function () {
+        var loaded = false;
+        function boot() {
+          if (loaded) return;
+          loaded = true;
+          cleanup();
 
-    {/* Meta Pixel via Partytown */}
-    <script type="text/partytown" is:inline define:vars={{ META_PIXEL_ID }}>
-      !(function (f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
-        if (!f._fbq) f._fbq = n;
-        n.push = n; n.loaded = true; n.version = '2.0'; n.queue = [];
-        t = b.createElement(e); t.async = true; t.src = v;
-        s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
-      })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-      window.fbq('init', META_PIXEL_ID);
-      window.fbq('track', 'PageView');
-    </script>
+          // Google Tag Manager
+          (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s);
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i;
+            f.parentNode.insertBefore(j, f);
+          })(window, document, 'script', 'dataLayer', GTM_ID);
 
-    {/* umami — lightweight, privacy-friendly; loads normally (only if configured) */}
-    {UMAMI_SRC && UMAMI_ID && (
-      <script async defer src={UMAMI_SRC} data-website-id={UMAMI_ID}></script>
-    )}
+          // Meta Pixel
+          !(function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
+            if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = true; n.version = '2.0'; n.queue = [];
+            t = b.createElement(e); t.async = true; t.src = v;
+            s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
+          })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+          window.fbq('init', META_PIXEL_ID);
+          window.fbq('track', 'PageView');
+
+          // umami (privacy-friendly), only if configured
+          if (UMAMI_SRC && UMAMI_ID) {
+            var u = document.createElement('script');
+            u.async = true; u.defer = true; u.src = UMAMI_SRC;
+            u.setAttribute('data-website-id', UMAMI_ID);
+            document.head.appendChild(u);
+          }
+        }
+        var evts = ['pointerdown', 'keydown', 'scroll', 'touchstart', 'mousemove'];
+        function cleanup() { evts.forEach(function (e) { removeEventListener(e, boot, { passive: true }); }); clearTimeout(timer); }
+        evts.forEach(function (e) { addEventListener(e, boot, { passive: true, once: true }); });
+        // fallback for visitors who never interact (well after the load/quiet window)
+        var timer = setTimeout(boot, 6000);
+      })();
+    </script>
 
     <noscript>
       <iframe src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`} height="0" width="0" style="display:none;visibility:hidden"></iframe>
