@@ -4,6 +4,16 @@ description: "Vuoi unirti a noi per un’esperienza di navigazione unica? Contat
 locale: "it"
 oldUrls:
   - "/it/contact/"
+heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+gallery:
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - "~/assets/trips/acconto/san-blas.webp"
+  - "~/assets/trips/acconto/skipper.webp"
+  - "~/assets/trips/acconto/user1.webp"
+  - "~/assets/trips/acconto/user3.webp"
 ---
 
 ## contattaci

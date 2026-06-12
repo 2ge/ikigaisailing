@@ -43,13 +43,30 @@ export async function entryForLocale<C extends AnyCol>(
   );
 }
 
-/** Build i18n static paths for a collection: one route per (locale, slug). */
-export async function localePaths<C extends AnyCol>(collection: C) {
-  const all = await getCollection(collection);
-  const slugs = new Set(all.map(slugOf));
+/**
+ * Static paths for a collection, emitting a (locale, slug) route only when that
+ * locale has its own file OR an EN source exists to fall back to. This avoids
+ * phantom routes (→ /404/) for content that exists in only one locale
+ * (e.g. IT-only legacy posts/pages with no EN source).
+ */
+export async function existingLocalePaths<C extends AnyCol>(
+  collection: C,
+  { filter }: { filter?: (e: CollectionEntry<C>) => boolean } = {},
+) {
+  let all = await getCollection(collection);
+  if (filter) all = all.filter(filter);
+  const localesBySlug = new Map<string, Set<Locale>>();
+  for (const e of all) {
+    const slug = slugOf(e);
+    if (!localesBySlug.has(slug)) localesBySlug.set(slug, new Set());
+    localesBySlug.get(slug)!.add(localeOf(e));
+  }
   const out: { params: { locale: string | undefined; slug: string }; props: { slug: string; locale: Locale } }[] = [];
-  for (const slug of slugs) {
-    for (const locale of ['en', 'it', 'es', 'fr', 'sk'] as Locale[]) {
+  for (const [slug, have] of localesBySlug) {
+    const locales = have.has(defaultLocale)
+      ? (['en', 'it', 'es', 'fr', 'sk'] as Locale[]) // EN source → all locales (translations or EN fallback)
+      : [...have]; // single-locale content → only the locales that exist
+    for (const locale of locales) {
       out.push({
         params: { locale: locale === defaultLocale ? undefined : locale, slug },
         props: { slug, locale },

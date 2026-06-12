@@ -4,6 +4,16 @@ description: "AllCrew MembersDiversFoundersKitersYoga i nostri plus Passione, Pr
 locale: "it"
 oldUrls:
   - "/it/our-team/"
+heroImage: "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
+gallery:
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/trips/acconto/ikigaisailing.webp"
+  - "~/assets/trips/acconto/lucabrano5.webp"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - "~/assets/trips/acconto/san-blas.webp"
+  - "~/assets/trips/acconto/skipper.webp"
+  - "~/assets/trips/acconto/user1.webp"
+  - "~/assets/trips/acconto/user3.webp"
 ---
 
 ## i nostri plus

@@ -7,6 +7,16 @@ description: >-
 locale: fr
 translated: deepl
 sourceHash: d63745b62b3ae212
+heroImage: "~/assets/pages/ikigai/ikigai-eng.webp"
+gallery:
+  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/ikigai/ikigaisailing.avif"
+  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - "~/assets/trips/acconto/san-blas.webp"
+  - "~/assets/trips/acconto/skipper.webp"
 ---
 
 ## Ikigai

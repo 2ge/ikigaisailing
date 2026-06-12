@@ -4,6 +4,16 @@ description: "Join our sailing community and explore the world by catamaran: fre
 locale: "it"
 oldUrls:
   - "/it/home/"
+heroImage: "~/assets/activities/project/Apnea.jpg"
+gallery:
+  - "~/assets/activities/project/meditazione1.jpg"
+  - "~/assets/activities/project/yoga-ikigai.jpg"
+  - "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/home/ikigai-group.jpg"
+  - "~/assets/trips/acconto/ikigaisailing.webp"
+  - "~/assets/trips/acconto/lucabrano5.webp"
 ---
 
 ## Ikigai Sailing | Stagione 2025/26 SAN BLAS

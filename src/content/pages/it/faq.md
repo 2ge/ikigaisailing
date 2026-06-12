@@ -4,6 +4,16 @@ description: "Devo avere già esperienza di yoga, meditazione o apnea? No, non �
 locale: "it"
 oldUrls:
   - "/it/faq/"
+heroImage: "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+gallery:
+  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - "~/assets/trips/acconto/san-blas.webp"
+  - "~/assets/trips/acconto/skipper.webp"
+  - "~/assets/trips/acconto/user1.webp"
 ---
 
 ### Devo avere già esperienza di yoga, meditazione o apnea?

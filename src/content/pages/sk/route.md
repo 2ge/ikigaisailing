@@ -7,6 +7,16 @@ locale: sk
 translated: deepl
 sourceHash: fe09d0b29d98ff46
 needsReview: true
+heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+gallery:
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/route/attraversata-atlantica-1.jpg"
+  - "~/assets/pages/route/ikigaisailing-2022-sardegna.jpg"
+  - "~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg"
+  - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
+  - "~/assets/pages/route/ikigaisailing-2025-los-roques.jpg"
+  - "~/assets/pages/route/ikigaisailing-next-australia.jpg"
 ---
 
 ## TRASA

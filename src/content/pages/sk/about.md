@@ -8,6 +8,16 @@ locale: sk
 translated: deepl
 sourceHash: 9193e1735421180f
 needsReview: true
+heroImage: "~/assets/pages/about/R-C.png"
+gallery:
+  - "~/assets/activities/janzu/janzu1.jpg"
+  - "~/assets/activities/kitesurf/kite-surf7.jpg"
+  - "~/assets/activities/project/meditazione1.jpg"
+  - "~/assets/activities/diving/scuba-diving-3.jpg"
+  - "~/assets/activities/project/yoga-ikigai.jpg"
+  - "~/assets/pages/about/20221114_180633.jpg"
+  - "~/assets/trips/acconto/20221220_125124.jpg"
+  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
 ---
 
 ## O NÁS

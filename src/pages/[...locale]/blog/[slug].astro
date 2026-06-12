@@ -1,22 +1,14 @@
 ---
 import { Image } from 'astro:assets';
-import { getCollection } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import Prose from '../../../components/Prose.astro';
 import JsonLd from '../../../components/jsonld/JsonLd.astro';
-import { useTranslations, localizePath, defaultLocale, type Locale } from '../../../i18n/ui';
-import { slugOf, entryForLocale } from '../../../lib/content';
+import { useTranslations, localizePath, type Locale } from '../../../i18n/ui';
+import { slugOf, entryForLocale, existingLocalePaths } from '../../../lib/content';
 import { breadcrumbs, article } from '../../../lib/schema';
 
 export async function getStaticPaths() {
-  const all = await getCollection('blog');
-  const slugs = [...new Set(all.filter((p) => !p.data.draft).map(slugOf))];
-  return slugs.flatMap((slug) =>
-    (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
-      params: { locale: locale === defaultLocale ? undefined : locale, slug },
-      props: { slug, locale },
-    })),
-  );
+  return existingLocalePaths('blog', { filter: (p) => !p.data.draft });
 }
 const { slug, locale } = Astro.props as { slug: string; locale: Locale };
 const t = useTranslations(locale);

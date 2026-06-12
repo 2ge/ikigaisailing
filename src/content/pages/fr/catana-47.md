@@ -6,6 +6,16 @@ description: >-
 locale: fr
 translated: deepl
 sourceHash: 7465ba0ab5b82b14
+heroImage: "~/assets/pages/catana-47/8W2A0251-scaled.jpg"
+gallery:
+  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/catana-47/20221213_090006-scaled.jpg"
+  - "~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
 ---
 
 ## Catana 47

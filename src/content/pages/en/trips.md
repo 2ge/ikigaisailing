@@ -4,6 +4,16 @@ description: "Scopri le diverse formule di imbarco di Ikigai Sailing: cabine con
 locale: "en"
 oldUrls:
   - "/formule-di-imbarco-new/"
+heroImage: "~/assets/activities/project/meditazione1.jpg"
+gallery:
+  - "~/assets/activities/meditation/meditazione2-copia-2.avif"
+  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
+  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/season-2025-26/20230126_101550-scaled.jpg"
+  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
 ---
 
 ### Growing Benefits Over Time

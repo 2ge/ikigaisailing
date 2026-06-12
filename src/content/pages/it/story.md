@@ -4,6 +4,16 @@ description: "Scopri la storia di Ikigai Sailing: il viaggio, la passione per il
 locale: "it"
 oldUrls:
   - "/it/la-storia-di-ikigai-sailing/"
+heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+gallery:
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
+  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - "~/assets/trips/acconto/san-blas.webp"
+  - "~/assets/trips/acconto/skipper.webp"
+  - "~/assets/trips/acconto/user1.webp"
 ---
 
 ## LA STORIA

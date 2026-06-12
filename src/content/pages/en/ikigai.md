@@ -4,6 +4,16 @@ description: "Explore the philosophy of Ikigai with Ikigai Sailing. Find your tr
 locale: "en"
 oldUrls:
   - "/ikigai-2/"
+heroImage: "~/assets/pages/ikigai/ikigai-eng.webp"
+gallery:
+  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
+  - "~/assets/trips/acconto/itinerario.jpg"
+  - "~/assets/pages/ikigai/ikigaisailing.avif"
+  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
+  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - "~/assets/trips/acconto/san-blas.webp"
+  - "~/assets/trips/acconto/skipper.webp"
 ---
 
 ## IKIGAI

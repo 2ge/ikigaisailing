@@ -15,14 +15,17 @@ const translationMeta = {
 
 const pages = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    locale: z.enum(LOCALES),
-    /** Old WordPress URL(s) this page replaces — drives _redirects generation. */
-    oldUrls: z.array(z.string()).default([]),
-    ...translationMeta,
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      locale: z.enum(LOCALES),
+      heroImage: image().optional(),
+      gallery: z.array(image()).default([]),
+      /** Old WordPress URL(s) this page replaces — drives _redirects generation. */
+      oldUrls: z.array(z.string()).default([]),
+      ...translationMeta,
+    }),
 });
 
 const trips = defineCollection({
