@@ -60,10 +60,10 @@ translations:
 
     Luca je priateľ, ktorý má odvahu robiť to, o čom všetci snívajú, s veľkou
     energiou a nadšením. Ďakujeme a... šťastnú plavbu!
-sourceHash: b4ceaebad4c7cba3
+sourceHash: 34ce24274769bef0
 ---
 
-Siamo stati a San Blas con Ikigai per una decina di giorni. L’arcipelago è bellissimo, ancora protetto dai locali da un turismo di massa. Una vacanza fuori dal tempo in uno scenario naturale bellissimo: isolette selvagge, locali ospitali, barriera corallina, squali, delfini, sole e vento…  
-Ikigai è un catamarano molto confortevole, su cui non manca nulla.  
-Luca e Paola ci hanno viziati ed accuditi con ottima cucina, attività fisica, meditazioni, chiacchiere e ottima compagnia.  
+Siamo stati a San Blas con Ikigai per una decina di giorni. L’arcipelago è bellissimo, ancora protetto dai locali da un turismo di massa. Una vacanza fuori dal tempo in uno scenario naturale bellissimo: isolette selvagge, locali ospitali, barriera corallina, squali, delfini, sole e vento…
+Ikigai è un catamarano molto confortevole, su cui non manca nulla.
+Luca e Paola ci hanno viziati ed accuditi con ottima cucina, attività fisica, meditazioni, chiacchiere e ottima compagnia.
 Luca è l’amico che ha il coraggio di fare quello che tutti sognano di fare, con grande energia e entusiasmo. Grazie e… buon vento!

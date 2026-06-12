@@ -11,7 +11,7 @@ When we dive in apnea, especially in **cold water** , our body **activates in an
 
 _“Relax, I’ve got this!”_
 
-### The Five Spectacular Effects of the Mammalian Diving Reflex 
+### The Five Spectacular Effects of the Mammalian Diving Reflex
 
 1️⃣ **Bradycardia** – Your heart rate **slows down** (by up to **25%**!), like an engine switching to **energy-saving mode** , allowing you to **stay underwater longer**.
 
@@ -27,11 +27,11 @@ _“Relax, I’ve got this!”_
 
 This **remarkable reflex** is your **greatest ally underwater**! It allows you to:
 
-✔️ **Stay submerged longer**  
-✔️ **Explore breathtaking depths**  
+✔️ **Stay submerged longer**
+✔️ **Explore breathtaking depths**
 ✔️ **Feel in perfect harmony with the ocean** – all **without needing tanks**!
 
-As you descend, the **diving reflex helps conserve energy and oxygen** , giving you that **almost magical calmness** that experienced freedivers describe. 
+As you descend, the **diving reflex helps conserve energy and oxygen** , giving you that **almost magical calmness** that experienced freedivers describe.
 
 It’s **living proof** that we are **made for water** , and with a little practice, you can **unlock this incredible potential**.
 

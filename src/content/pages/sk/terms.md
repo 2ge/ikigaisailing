@@ -2,12 +2,12 @@
 title: Obchodné podmienky Ikigai Sailing
 description: >-
   1. Podmienky rezervácie: Aktivity a zážitky, ktoré ponúka naša organizácia, sú
-  určené výhradne pre členov športového združenia. Sme združenie, ktoré
-  propaguje aktivity súvisiace s jachtingom, kitesurfingom, freedivingom a
-  ďalšími vodnými športmi. Naším cieľom je ponúkať jedinečné zážitky tým, ktorí
-  zdieľajú našu vášeň pre more a šport.…
+  určené výlučne pre členov športového združenia. Sme združenie, ktoré propaguje
+  aktivity súvisiace s jachtingom, kitesurfingom, freedivingom a ďalšími vodnými
+  športmi. Naším cieľom je ponúkať jedinečné zážitky tým, ktorí zdieľajú našu
+  vášeň pre more a šport.…
 locale: sk
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/catana-47/Screenshot-2025-06-20-alle-09.05.14-scaled.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -15,16 +15,14 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: 43b438b1c8e2a064
+sourceHash: e6e19c20c2def80d
 needsReview: true
 ---
 
 ### 1\. Podmienky rezervácie:
 
-Aktivity a zážitky, ktoré ponúka naša organizácia, sú vyhradené výlučne pre členov športového združenia. Sme združenie, ktoré propaguje aktivity súvisiace s jachtingom, kitesurfingom, freedivingom a ďalšími vodnými športmi. Naším cieľom je ponúknuť jedinečné zážitky tým, ktorí zdieľajú našu vášeň pre more a šport.
+Aktivity a zážitky, ktoré ponúka naša organizácia, sú vyhradené výlučne pre členov športového združenia. Sme združenie, ktoré propaguje aktivity súvisiace s jachtingom, kitesurfingom, freedivingom a inými vodnými športmi. Naším cieľom je ponúknuť jedinečné zážitky tým, ktorí zdieľajú našu vášeň pre more a šport.
 
 V čase rezervácie jedného z našich zážitkov musia účastníci, ktorí ešte nie sú členmi združenia, požiadať o členstvo. Členský poplatok, ktorý zahŕňa členskú kartu na prvý rok, je už zahrnutý v príspevku požadovanom za konkrétny zážitok. Tým sa zabezpečuje, že všetci účastníci majú plný prístup k aktivitám a výhodám vyhradeným pre členov.
 
@@ -54,21 +52,19 @@ Pri rezerváciách uskutočnených po termíne uzávierky bude vyžadovaná plat
 
 Ak zrušíte rezerváciu najneskôr 2 mesiace pred odchodom, máte nárok na vrátenie už zaplatenej sumy.
 
-Pri zrušení rezervácie menej ako 2 mesiace pred začiatkom zážitku sa zaplatený príspevok nevráti, ale môžete ho použiť ako kredit na účasť na iných ponukách a zážitkoch organizovaných združením.  
-Stále odporúčame uzavrieť cestovné poistenie, ktoré pokrýva túto eventualitu.
+Pri zrušení rezervácie menej ako 2 mesiace pred začiatkom zážitku sa zaplatený príspevok nevráti, ale môžete ho použiť ako kredit na účasť na iných ponukách a zážitkoch organizovaných združením. Stále odporúčame uzavrieť cestovné poistenie, ktoré pokrýva túto eventualitu.
 
 **b) Zrušenie z našej strany:**
 
 V prípade mimoriadnych okolností, ako sú prírodné katastrofy alebo zhoršenie politickej stability v krajine destinácie, ak usúdime, že bezpečnosť cesty je ohrozená, alebo ak sa do 30 dní pred dátumom odchodu nedosiahne minimálny počet účastníkov, účastník bude mať právo:
 
-Využiť zaplatený príspevok na účasť na iných aktivitách alebo plavbách ponúkaných v sezónnom programe združenia.  
-Požiadať o vrátenie už zaplatenej sumy.
+Využiť zaplatený príspevok na účasť na iných aktivitách alebo plavbách ponúkaných v sezónnom programe združenia. Požiadať o vrátenie už zaplatenej sumy.
 
 Poznámka: Žiadne dodatočné náklady alebo výdavky nad rámec zaplateného príspevku nebudú uznané ako náhrada za zrušenie cesty. Preto dôrazne odporúčame uzavrieť cestovné poistenie na pokrytie akýchkoľvek dodatočných nákladov.
 
 ### 3\. Cestovné požiadavky a poistenie:
 
-Je vašou povinnosťou uzatvoriť si osobné cestovné poistenie, ktoré kryje aktivity, ktoré máte v úmysle vykonávať, a poskytuje primerané krytie v prípade meškaní, zrušení, zdravotných výdavkov a straty osobných vecí. Odporúčame uzatvoriť cestovné poistenie, ktoré kryje možné náklady v prípade zrušenia alebo odloženia výletu.
+Je vašou povinnosťou zabezpečiť si osobné cestovné poistenie, ktoré kryje aktivity, ktoré máte v úmysle vykonávať, a poskytuje primerané krytie v prípade meškaní, zrušení, zdravotných výdavkov a straty osobných vecí. Odporúčame uzavrieť cestovné poistenie, ktoré kryje možné náklady v prípade zrušenia alebo odloženia výletu.
 
 Je tiež vašou zodpovednosťou mať platný cestovný pas, vybaviť si všetky potrebné víza a spĺňať zdravotné požiadavky krajiny destinácie.
 

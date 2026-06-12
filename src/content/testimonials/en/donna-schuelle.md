@@ -65,12 +65,12 @@ translations:
     Loď bola čistá a naozaj pekne zariadená.  
 
     Určite si to zopakujem!
-sourceHash: 656408c7c390b415
+sourceHash: f883ed584038e352
 ---
 
-We stayed with Luca for six days in January of 2026 sailing through the SAN Blas Islands in Panama and had an amazing experience.  
-The snorkelling was the best we’ve ever seen. We saw sharks, puffer fish, dolphins and so much more!  
-Luca kept us busy everyday with exploring different Islands and snorkelling areas.  
-Food on board was absolutely amazing and included lots of seafood.  
-The boat was clean and really nicely setup.  
+We stayed with Luca for six days in January of 2026 sailing through the SAN Blas Islands in Panama and had an amazing experience.
+The snorkelling was the best we’ve ever seen. We saw sharks, puffer fish, dolphins and so much more!
+Luca kept us busy everyday with exploring different Islands and snorkelling areas.
+Food on board was absolutely amazing and included lots of seafood.
+The boat was clean and really nicely setup.
 I will be booking again!

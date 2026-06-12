@@ -1,6 +1,8 @@
 ---
-title: Liveaboard
-description: Liveaboard
+title: Život na palube
+description: >-
+  Zaujímavosti, tipy a míľniky života na plnej úväzok na plachetnom katamaráne s
+  Ikigai Sailing – život na mori, ďaleko od pevniny.
 locale: sk
 heroImage: ~/assets/pages/vita-a-bordo-social/respiro.jpg
 gallery:
@@ -13,14 +15,12 @@ gallery:
   - ~/assets/pages/vita-a-bordo-social/clouds-shape.webp
   - ~/assets/trips/acconto/san-blas.webp
 translated: deepl
-sourceHash: a9d2048de73df349
+sourceHash: e1eeeef7f7af36bc
 needsReview: true
 ---
 
-**Život na lodi: zaujímavosti, tipy a dobrodružstvá Ikigai Sailing**
+Plachtenie je viac než len cesta; je to životný štýl plný objavovania, slobody a hlbokého spojenia s prírodou. Tu sa venujeme všetkému, čo súvisí so životom na mori – od praktických tipov na život na palube cez výhody života ďaleko od pevniny až po míľniky plavby **Ikigai Sailing**.
 
-Plachtenie je viac než len cesta; je to životný štýl plný objavov, slobody a hlbokého spojenia s prírodou. Na stránke **Život na lodi** sa venujeme všetkému, čo súvisí so životom na mori: od najlepších tipov pre život na palube až po výhody života ďaleko od pevniny a neuveriteľné míľniky spoločnosti **Ikigai Sailing**.
+Ak snívate o vyplávaní na more alebo jednoducho chcete pochopiť, aký je skutočný život na palube katamaránu, náš lodný denník je tým správnym miestom, kde začať.
 
-Ak snívate o vyplávaní na more alebo sa jednoducho chcete dozvedieť viac o tomto fascinujúcom dobrodružstve, sledujte naše články a nechajte sa inšpirovať vetrom a vlnami!
-
-[VšetkoVýhody života na](https://www.ikigaisailing.com/liveaboard/?term=benefits-of-life-aboard) [palubeEtapyŽivot](https://www.ikigaisailing.com/liveaboard/?term=legs) [na](https://www.ikigaisailing.com/liveaboard/?term=life-on-board) [palubeMultidisciplinárna loď](https://www.ikigaisailing.com/liveaboard/?term=multidisciplinary-boat)
+[Prečítajte si lodný denník →](/sk/blog/)

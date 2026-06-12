@@ -10,40 +10,23 @@ gallery:
   - ~/assets/activities/yoga/yoga-ikigai-v.jpg
   - ~/assets/activities/yoga/yoga-ikigai3.jpg
 order: 1
+facts:
+  - label: Niveau
+    value: Convient aussi bien aux débutants qu'aux pratiquants confirmés
+  - label: Durée des séances
+    value: 1 heure
+  - label: Types de yoga
+    value: 'Hatha, Vinyasa et Yin Yoga'
+  - label: Lieu
+    value: À bord ou sur des plages à couper le souffle
 translated: deepl
-sourceHash: affd45ad11b51802
+sourceHash: ac6ca519f6832d4e
 ---
-
-YOGA
 
 ## Retrouve ton équilibre
 
 Avec la mer en toile de fond et le bruit des vagues, le yoga devient une pratique transformatrice. Chaque séance est conçue pour régénérer à la fois le corps et l'esprit, et s'adapte à tous les niveaux d'expérience.
 
-## À quoi t'attendre :
+## Pourquoi essayer
 
-### Niveau :
-
-Convient aux débutants et aux pratiquants confirmés
-
-### Durée des séances :
-
-1 heure
-
-### Types de yoga :
-
-Hatha, Vinyasa et Yin Yoga
-
-### Lieu :
-
-À bord ou sur des plages à couper le souffle
-
-## Pourquoi essayer :
-
-Connecte ta respiration à tes mouvements et fais l'expérience de la paix intérieure.
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
-
-[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)
+Connecte ta respiration au mouvement et fais l'expérience de la paix intérieure.

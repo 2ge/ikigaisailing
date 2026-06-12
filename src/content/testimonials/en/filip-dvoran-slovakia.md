@@ -47,8 +47,8 @@ translations:
     Ďakujem Brano a Luca za aktivity ako lov pod vodou a freediving,
     šnorchlovanie a prehliadku ostrova Dominika spojenú s kúpaním vo vodopádoch
     s krištáľovo čistou vodou v spojení s termálnymi prameňmi….
-sourceHash: d5b174fc96cef983
+sourceHash: 8aae4b7a5ef71b14
 ---
 
-The time spent on the catamaran IKIGAI left me with unforgettable moments and experiences from the island of Dominica. The food on the boat was delicious, especially the fresh caught and prepared fish and the Italian spaghetti carbonara was the best I have ever eaten. Both guys Brano and Luca are not only great freedivers but also chefs!  
+The time spent on the catamaran IKIGAI left me with unforgettable moments and experiences from the island of Dominica. The food on the boat was delicious, especially the fresh caught and prepared fish and the Italian spaghetti carbonara was the best I have ever eaten. Both guys Brano and Luca are not only great freedivers but also chefs!
 Thank you Brano and Luca for activities like spearfishing and freediving, snorkeling and guided tour of Dominica Island connected with swimming in waterfalls with crystal clear water in conjunction with thermal springs….

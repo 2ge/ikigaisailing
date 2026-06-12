@@ -1,11 +1,11 @@
 ---
-title: 'Blue Mind: Ako nám more pomáha zlepšiť sústredenie a schopnosť riešiť problémy'
-description: 'Blue Mind: Ako nám more pomáha zlepšiť sústredenie a schopnosť riešiť problémy'
+title: 'Blue Mind: Ako more zlepšuje sústredenie a schopnosť riešiť problémy'
+description: 'Blue Mind: Ako more zlepšuje sústredenie a schopnosť riešiť problémy'
 locale: sk
 pubDate: '2025-03-27'
 image: ~/assets/pages/vita-a-bordo-social/blue-mind-focus.avif
 translated: deepl
-sourceHash: aed34a1b8d95e790
+sourceHash: 3b0d4bc724347f66
 needsReview: true
 ---
 
@@ -13,14 +13,11 @@ needsReview: true
 
 ### Regeneračný účinok vody na mozog
 
-Mnohé štúdie dokazujú, že morské prostredie má priamy vplyv na náš nervový systém. Rytmický pohyb vĺn, upokojujúca farba vody a nekonečnosť horizontu stimulujú mozog k produkcii alfa a theta vĺn, ktoré sú spojené s relaxáciou a kreativitou. Trávenie času pri mori môže:
+Mnohé štúdie ukazujú, že morské prostredie má priamy vplyv na náš nervový systém. Rytmický pohyb vĺn, upokojujúca farba vody a rozľahlosť horizontu stimulujú mozog k produkcii alfa a theta vĺn, ktoré sú spojené s relaxáciou a kreativitou. Trávenie času pri mori môže:
 
 -   **Znížiť mentálny šum**: Oceán pôsobí ako prirodzený reset, ktorý nám pomáha odpútať sa od obsedantných myšlienok a rozptýlení.
-    
--   **Zvýšiť sústredenie**: Prítomnosť vody vyvoláva meditatívny stav, ktorý podporuje duševnú jasnosť a koncentráciu.
-    
+-   **Zvýšiť sústredenie**: Prítomnosť vody navodzuje meditatívny stav, ktorý podporuje duševnú jasnosť a koncentráciu.
 -   **Zlepšiť riešenie problémov**: Uvoľnený duševný stav stimuluje laterálne myslenie a schopnosť nájsť inovatívne riešenia.
-    
 
 ### Oceán ako katalyzátor kreativity
 

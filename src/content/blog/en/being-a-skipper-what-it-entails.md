@@ -18,8 +18,8 @@ The training of a skipper varies depending on the type of navigation, the size o
 - **Boat Management** : Knowing how to handle the boat in different conditions (mooring, anchoring, navigating in strong winds).
 - **Engines and Onboard Systems** : Basic knowledge of marine engine operation and the boat’s electrical and hydraulic systems for minor repairs.
   3. **Mandatory Training**
-- In many cases, specific courses are required: 
-- **STCW Certification (Standards of Training, Certification, and Watchkeeping)** : Mandatory for those working in commercial environments. It includes: 
+- In many cases, specific courses are required:
+- **STCW Certification (Standards of Training, Certification, and Watchkeeping)** : Mandatory for those working in commercial environments. It includes:
 - First aid at sea.
 - Fire prevention and fighting.
 - Personal survival techniques.
@@ -29,17 +29,17 @@ The training of a skipper varies depending on the type of navigation, the size o
 - **Actual Navigation** : Before becoming a skipper, it is essential to accumulate practical hours at sea. Typically, one starts as a crew member to learn the dynamics of navigation.
 - **Internship or Apprenticeship** : Some skippers work under the supervision of experienced captains to gain experience before taking full responsibility.
   5. **Soft Skills**
-- In addition to technical skills, a skipper must possess: 
+- In addition to technical skills, a skipper must possess:
 - **Leadership** : The ability to coordinate the crew and make quick decisions in emergencies.
 - **Problem Solving** : Handling breakdowns, unexpected events, and stressful situations.
 - **Communication** : Being able to clearly explain procedures and duties to the crew or passengers.
   6. **Specialization Paths**
-- Skippers who wish to work in specific fields can follow additional training pathways: 
+- Skippers who wish to work in specific fields can follow additional training pathways:
 - **Regattas** : Advanced courses in handling and strategy for competitive sailing.
 - **Ocean Navigation** : Training for long-distance crossings, focusing on safety and autopilot.
 - **Commercial Skipper** : To work on private yachts or charter boats, professional certifications such as the RYA Yachtmaster Offshore or Ocean are required.
   7. **International Certifications**
-- If a skipper intends to operate internationally, they may obtain recognitions such as: 
+- If a skipper intends to operate internationally, they may obtain recognitions such as:
 - **RYA (Royal Yachting Association)** : Offers internationally recognized certifications, from the basic level (Day Skipper) to Yachtmaster.
 - **ICC (International Certificate of Competence)** : A certificate required in many international waters for renting or operating boats.
 

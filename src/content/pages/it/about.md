@@ -1,5 +1,5 @@
 ---
-title: "About Ikigai Sailing"
+title: "Chi Siamo – Ikigai Sailing e la serenità della vela"
 description: "Scopri la filosofia di Ikigai Sailing: vivere il mare con consapevolezza, libertà e passione per la natura e l’avventura."
 locale: "it"
 oldUrls:
@@ -11,15 +11,15 @@ gallery:
   - "~/assets/activities/project/meditazione1.jpg"
   - "~/assets/activities/diving/scuba-diving-3.jpg"
   - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/pages/about/20221114_180633.jpg"
   - "~/assets/trips/acconto/20221220_125124.jpg"
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+
 ---
-## CHI SIAMO
+## Chi Siamo
 
-Ikigai Sailing è una comunità in continua crescita, composta da sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di sport e avventura. 
+Ikigai Sailing è una comunità in continua crescita, composta da sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di sport e avventura.
 
-Siamo un’associazione sportiva dilettantistica senza scopo di lucro, riconosciuta dal **CONI** e affiliata all’Ente di Promozione Sportiva **MSP Italia**.  
+Siamo un’associazione sportiva dilettantistica senza scopo di lucro, riconosciuta dal **CONI** e affiliata all’Ente di Promozione Sportiva **MSP Italia**.
 Siamo uniti dall’amore per il mare, la libertà e il buon cibo, con un’unica missione: vivere la natura in armonia, seguendo il vento e le onde.
 
 dal
@@ -72,7 +72,7 @@ A bordo del catamarano Ikigai ho trovato il luogo ideale per unire questa passio
 
 la storia
 
-[leggi la storia](https://www.ikigaisailing.com/la-storia-di-ikigai-sailing/)
+[leggi la storia](/it/la-storia/)
 
 IKIGAI SAILING
 
@@ -82,7 +82,7 @@ IKIGAI SAILING
 
 Il nostro progetto è un viaggio intorno al mondo in barca a vela, dove insegniamo e condividiamo le nostre passioni, promuovendo uno stile di vita sano e sostenibile. Viviamo esperienze che spaziano dalle traversate oceaniche alle settimane di navigazione rilassata, coltivando interessi che vanno oltre la vela: dalla cucina al benessere, dallo sport alla meditazione.
 
-[scopri il nostro ikigai](https://www.ikigaisailing.com/ikigai/)
+[scopri il nostro ikigai](/it/ikigai/)
 
 ![scuba-diving-3](../../../assets/activities/diving/scuba-diving-3.jpg)
 
@@ -98,4 +98,3 @@ Il nostro progetto è un viaggio intorno al mondo in barca a vela, dove insegnia
 
 ![20221220_125124](../../../assets/trips/acconto/20221220_125124.jpg)
 
-![20221114_180633](../../../assets/pages/about/20221114_180633.jpg)

@@ -14,9 +14,18 @@ gallery:
 order: 2
 oldUrls:
   - "/it/project/apnea/"
+facts:
+  - label: "Livello"
+    value: "Per principianti e avanzati"
+  - label: "Durata delle sessioni"
+    value: "2-3 ore"
+  - label: "Approccio"
+    value: "Tecniche di rilassamento, respirazione e pratica in acqua"
+  - label: "Obiettivi"
+    value: "Migliorare la capacità di apnea statica e dinamica"
+  - label: "Istruttori"
+    value: "Certificati AIDA e Apnea Total"
 ---
-APNEA
-
 ## Immergiti con la forza del respiro
 
 L’apnea non è solo una disciplina sportiva ma puo costituire un’autentica via di autoconoscimento, un pretesto per fermarsi, respirare ed ascoltarsi.
@@ -31,36 +40,6 @@ Allenarsi e praticare l’apnea su un catamarano ti regala un’esperienza unica
 
 Unisciti a noi per intraprendere questo viaggio straordinario, dove l’apnea ti offre non solo l’opportunità di esplorare il mondo sott’acqua, ma anche di approfondire la tua connessione con te stesso e con la natura.
 
-## Cosa aspettarti:
+## Benefici
 
-### Livello:
-
-Per principianti e avanzati 
-
-### Durata delle sessioni:
-
-2-3 ore 
-
-### Approccio:
-
-Tecniche di rilassamento, respirazione e pratica in acqua 
-
-### Obiettivi:
-
-Migliorare la capacità di apnea statica e dinamica 
-
-### Istruttori:
-
-Certificati AIDA e Apnea Total 
-
-## Benefici: 
-
-Scopri come l’apnea rafforza il corpo, calma la mente e accresce la consapevolezza. 
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/apnea2.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/apnea1.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/apnea4.jpg)
+Scopri come l’apnea rafforza il corpo, calma la mente e accresce la consapevolezza.

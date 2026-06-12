@@ -1,10 +1,131 @@
 ---
 title: 'Ruta Ikigai Sailing: navega por tu propio camino con Ikigai Sailing'
 description: >-
-  Embárcate en un viaje único con Ikigai Sailing. Descubre las mejores rutas de
-  navegación, diseñadas para inspirarte, ponerte a prueba y conectarte con...
+  Sigue el viaje del Ikigai Sailing: desde Roma, cruzando el Atlántico hasta el
+  Caribe y Panamá —más de 20 países, más de 10 000 millas y la travesía del
+  Pacífico por delante—.
 locale: es
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/route/ikigaisailing-next-australia.jpg
+lead: >-
+  Desde 2022, el Ikigai ha navegado desde Roma hasta las islas de San Blas, en
+  Panamá: más de 10 000 millas náuticas a través de más de 20 países. Aquí
+  tienes el diario de a bordo hasta ahora, fondeadero por fondeadero, y hacia
+  dónde se dirige la proa a continuación.
+voyage:
+  - year: '2022'
+    title: Zarpamos
+    legs:
+      - when: julio
+        place: 'Roma, Italia'
+        note: >-
+          El punto de partida del viaje: una emotiva despedida de la capital
+          italiana, llena de historia y cultura.
+      - when: agosto
+        place: 'Cerdeña, Italia'
+        note: >-
+          La escarpada costa de la isla y sus aguas cristalinas creaban un
+          paisaje impresionante y permitían navegar sin problemas.
+      - when: septiembre
+        place: 'Islas Baleares, España'
+        note: 'Playas vírgenes y calas recónditas, sobre todo en Mallorca e Ibiza.'
+      - when: octubre
+        place: 'Almerimar, España'
+        note: >-
+          Una parada técnica para preparar y mantener el barco antes de cruzar
+          el Atlántico.
+      - when: noviembre
+        place: Gibraltar
+        note: >-
+          La puerta de entrada al Atlántico, donde la tripulación se preparó
+          para la travesía hacia las Canarias.
+      - when: diciembre
+        place: Cabo Verde
+        note: >-
+          Una breve e intensa parada en los trópicos: cultura criolla y paisajes
+          volcánicos.
+  - year: '2023'
+    title: La travesía del Atlántico y el Caribe
+    legs:
+      - when: Enero
+        place: San Martín
+        note: >-
+          Una isla caribeña, mitad francesa y mitad holandesa, conocida por sus
+          impresionantes playas y su mezcla de culturas.
+      - when: Enero
+        place: Islas Vírgenes
+        note: >-
+          Un archipiélago de ensueño con bahías tranquilas, ideal para navegar y
+          bucear.
+      - when: Enero
+        place: Barbuda y Antigua
+        note: >-
+          Playas de arena rosa y naturaleza virgen; las 365 playas de Antigua y
+          su rica historia náutica.
+      - when: febrero
+        place: Guadalupe y Dominica
+        note: >-
+          Guadalupe, con su forma de mariposa, para hacer snorkel; Dominica, la
+          «Isla de la Naturaleza», por sus selvas tropicales y cascadas.
+      - when: marzo
+        place: Las Granadinas
+        note: >-
+          Granada, la «Isla de las Especias», la tradición de la construcción
+          naval de Bequia, los corales de los Cayos de Tobago y la tranquilidad
+          de Mayreau y Union Island.
+      - when: junio
+        place: Granada
+        note: >-
+          Vuelvo para disfrutar de nuevo de la hospitalidad y la belleza natural
+          de la isla.
+      - when: septiembre
+        place: Martinica
+        note: >-
+          Una parada más larga para disfrutar del clima agradable y de las
+          comodidades de la isla.
+  - year: '2024'
+    title: Venezuela y las islas del sur
+    legs:
+      - when: Enero
+        place: Anguila y Guadalupe
+        note: Explorando el arco norte de las Pequeñas Antillas.
+      - when: febrero
+        place: Dominica
+        note: De vuelta a la Isla de la Naturaleza.
+      - when: marzo
+        place: Venezuela y Los Roques
+        note: A los atolones salvajes y protegidos de Los Roques.
+      - when: junio
+        place: Curazao y Los Roques
+        note: Recorriendo las islas ABC y los archipiélagos venezolanos.
+      - when: diciembre
+        place: Los Roques
+        note: Terminando el año en aguas turquesas.
+  - year: '2025'
+    title: Las islas ABC y Panamá
+    legs:
+      - when: marzo
+        place: Aruba · Bonaire · Curazao
+        note: >-
+          Las islas ABC, luego hacia el norte, en dirección a Colombia, y
+          atravesando el Canal de Panamá para llegar al Pacífico.
+  - year: '2026'
+    title: 'San Blas, Panamá'
+    legs:
+      - when: Ahora
+        place: 'San Blas (Guna Yala), Panamá'
+        note: >-
+          Nuestras aguas locales para esta temporada: el archipiélago donde hoy
+          se desarrollan nuestras excursiones.
+        now: true
+aheadTitle: El camino que nos espera
+ahead: >-
+  Desde aquí, la aventura nos lleva hacia el oeste a través del Pacífico —las
+  Galápagos, las Marquesas, Tahití y Fiyi— hasta llegar finalmente al norte de
+  Australia. Desde allí navegaremos hacia el norte por Indonesia, Tailandia, Sri
+  Lanka y las Maldivas, antes de cruzar el océano Índico hacia la India y Dubái.
+  Luego, bordeando las costas de Omán y Yemen, entraremos en el mar Rojo,
+  pasaremos por Sudán y Egipto, y volveremos al Mediterráneo a través del canal
+  de Suez, cerrando así el círculo.
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -13,107 +134,8 @@ gallery:
   - ~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg
   - ~/assets/pages/home/ikigaisailing-2024-anguilla.avif
   - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
-  - ~/assets/pages/route/ikigaisailing-next-australia.jpg
 translated: deepl
-sourceHash: 71d02588efee0bb4
+sourceHash: a21cf2eb52d455b5
 ---
 
-## LA RUTA
 
-Posición en tiempo real
-
-Descubre dónde estamos ahora y sigue todos nuestros movimientos.
-
-Itinerario
-
-Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vuelta al mundo, con una breve descripción de cada uno:
-
-## 2022
-### ¡Zarpamos!
-
--   **Julio – Roma, Italia** El punto de partida del viaje, con una emotiva despedida de la capital italiana, rica en historia y cultura.
--   **Agosto – Cerdeña, Italia** La escarpada costa de la isla y sus aguas cristalinas nos regalaron paisajes impresionantes y una navegación tranquila.
--   **Septiembre – Islas Baleares, España:** Explorando islas famosas por sus playas vírgenes, calas escondidas y energía vibrante, especialmente Mallorca e Ibiza.
--   **Octubre – Almerimar, España** Una parada técnica dedicada a la preparación y el mantenimiento del barco para los retos del Atlántico.
--   **Noviembre – Gibraltar** La «puerta del Atlántico», donde la tripulación se preparó para la travesía hacia las Islas Canarias.
--   **Diciembre – Cabo Verde (15-18 de diciembre)** Una parada breve pero intensa en estas islas tropicales, ricas en cultura criolla y paisajes volcánicos.
-
-## 2023
-### Travesía del Atlántico
-
-**Enero**
-
--   ```
-- **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
-    ```
-    
-    -   **Islas Vírgenes** Un archipiélago de ensueño con bahías tranquilas, perfecto para navegar y bucear.
-    -   **Barbuda:** Playas de arena rosa y naturaleza virgen, un auténtico paraíso tropical.
-    -   **Antigua** Famosa por sus 365 días de sol y otras tantas playas, un lugar con una gran tradición náutica.
-
-**Febrero**
-
--   ```
-- **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
-    ```
-    
-    -   **Dominica** La «Isla Natural del Caribe», con exuberantes selvas tropicales, impresionantes cascadas y una cultura acogedora.
-    -   **Martinica** Una fusión perfecta de influencias francesas y caribeñas, con paisajes volcánicos y playas de arena negra.
-
-**Marzo**
-
--   ```
-- **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
-    ```
-    
-    -   **San Vicente** Una isla montañosa y exuberante con un encanto auténtico y salvaje.
-    -   **Bequia**: una pintoresca isla famosa por la construcción artesanal de barcos y sus aguas tranquilas.
-    -   **Mustique:** un exclusivo refugio para famosos con playas de ensueño y un ambiente lujoso.
-    -   **Martinica**: Vuelta a la isla para seguir explorando y relajándote.
-    -   **Canouan:** una pequeña isla conocida por sus resorts de lujo y sus impresionantes vistas.
-    -   **Cayos de Tobago:** un paraíso marino de islas deshabitadas y arrecifes de coral.
-    -   **Petit Saint Vincent:** un refugio exclusivo con una naturaleza exuberante y playas desiertas.
-    -   **Isla de la Unión:** Vibrante y encantadora, apreciada por su ambiente acogedor y sus mercados locales.
-    -   **Mayreau:** Una isla diminuta con un ambiente íntimo, perfecta para una escapada tranquila.
-    -   **Martinica:** Otra parada en la isla para descansar y reabastecerte.
-    -   **Dominica:** Una nueva visita para seguir explorando la exuberante naturaleza de la isla.
-
-**Junio**
-
--   ```
-- **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
-    ```
-    
-
-**Septiembre – Martinica** Una parada prolongada para disfrutar del clima favorable y las comodidades de la isla.
-
-## 2024
-### Venezuela y sus islas
-
-**Enero** – Anguila, Guadalupe
-
-**Febrero** – Dominica
-
-**Marzo** – Venezuela, Los Roques
-
-**Junio** – Curazao, Los Roques
-
-**Diciembre** – Los Roques
-
-## 2025
-### ABC y Panamá
-
-\*\*25  
-de marzo: Aruba, Bon Air, Curazao\*\* A  
-continuación, nos dirigiremos a Colombia y luego pasaremos por el Canal de Panamá para llegar al Pacífico…
-
-## 2026
-### San Blas
-
-PRÓXIMO
-
-### Travesía del Pacífico
-
-Nuestra aventura nos llevará a las **Islas Galápagos, las Marquesas, Tahití y Fiyi,** hasta llegar finalmente al norte de **Australia**. Después, navegaremos hacia **Indonesia, Tailandia, Sri Lanka y las Maldivas**, antes de cruzar el Océano Índico hacia **la India y Dubái**.
-
-Desde allí, seguiremos las costas de **Omán y Yemen** hasta el **mar Rojo**, pasando por Sudán y Egipto, antes de volver a entrar en el **Mediterráneo** por el **canal de Suez**, concluyendo así nuestra exploración.

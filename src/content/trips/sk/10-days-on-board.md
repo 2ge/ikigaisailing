@@ -21,15 +21,17 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: 34f6145cb21088fe
+sourceHash: 3c86d008cd4ed33b
 needsReview: true
 ---
 
-## **Úvod**
+## Úvod
 
-Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povinná. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám. Tento zážitok je navrhnutý tak, aby vám pomohol objavovať rovnováhu medzi **oddanosťou a načúvaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon – len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
+Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povinná. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám. Tento zážitok je navrhnutý tak, aby vám pomohol objavovať rovnováhu medzi **oddanosťou a načúvaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon — len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
 
-## **Denný program Ráno (cca 1,5 hodiny):** Každý deň začína vedenou reláciou, ktorá môže zahŕňať:
+## Denný program Ráno (cca 1,5 hodiny)
+
+Každý deň začína vedenou reláciou, ktorá môže zahŕňať:
 
 -   Techniky vedomého dýchania
 -   Dynamické alebo regeneračné jógové sekvencie
@@ -44,7 +46,7 @@ Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povin
 
 **Voľný čas:** Prestávky medzi aktivitami sú zámerne ponechané voľné — na oddych, čítanie, plávanie, ticho alebo spontánne momenty. **Niet čo robiť, len byť.**
 
-## **Život na palube a jedlo**
+## Život na palube a jedlo
 
 Strava je srdcom života na _lodi Ikigai_. Kombinujeme to, čo nám poskytuje more, s tým, čo získavame výmenou od komunity Guna:
 
@@ -52,9 +54,9 @@ Strava je srdcom života na _lodi Ikigai_. Kombinujeme to, čo nám poskytuje mo
 -   Tropické ovocie
 -   Miestna zelenina
 
-Keď je to možné, lovíme ryby a pripravujeme kreatívne jedlá: **carpaccio, tatarák, sashimi** a ďalšie. **Spoločné stolovanie je posvätné.** Ste vítaní, aby ste sa zapojili do prípravy – v duchu komunity, bez akýchkoľvek záväzkov.
+Keď je to možné, lovíme ryby a pripravujeme kreatívne jedlá: **carpaccio, tatarák, sashimi** a ďalšie. **Spoločné stolovanie je posvätné.** Môžete sa zapojiť do prípravy jedál – v duchu komunity, bez akýchkoľvek záväzkov.
 
-## **Dôležitá poznámka**
+## Dôležitá poznámka
 
 Program sa môže upraviť na základe:
 
@@ -64,15 +66,15 @@ Program sa môže upraviť na základe:
 
 **Každá zmena má za cieľ zachovať bezpečnosť a kvalitu zážitku.**
 
-## **Denný itinerár**
+## Denný itinerár
 
-### **Príchod do Panamy**
+### Príchod do Panamy
 
 -   Súkromný transfer z letiska
 -   Prenocovanie v **Casco Viejo**, štvrti zapísanej na zozname UNESCO
 -   Večerná prechádzka koloniálnymi uličkami, živými terasami, hudbou a miestnou kuchyňou
 
-### **Deň 1 – Vitajte v Banedup Najdôležitejšie body:**
+### Deň 1 – Vitajte v Banedup Najdôležitejšie body:
 
 -   Šnorchlovanie, plážový volejbal, prvé kúpanie
 -   Bezpečnostná inštruktáž a predstavovanie posádky
@@ -85,7 +87,7 @@ Program sa môže upraviť na základe:
 -   Šnorchlovanie na koralových útesoch
 -   Voliteľný večerný program
 
-### **Deň 2 – Chichime Živý ostrov s plážovými chatkami a karibskou atmosférou**
+### Deň 2 – Chichime Živý ostrov s plážovými chatkami a karibskou atmosférou
 
 -   06:30–08:00: Ranný program
 -   09:00: Raňajky
@@ -96,7 +98,7 @@ Program sa môže upraviť na základe:
 -   20:00: Večera
 -   21:00: Voliteľná živá hudba a karaoke na brehu
 
-### **Deň 3 – Západné holandské ostrovčeky (Cayo Holandés Oeste) Nedotknutá príroda a žiarivé koralové útesy**
+### Deň 3 – Západné holandské ostrovčeky (Cayo Holandés Oeste) Nedotknutá príroda a živé koralové útesy
 
 -   06:30–08:00: Ranná rutina
 -   08:30: Raňajky
@@ -105,9 +107,9 @@ Program sa môže upraviť na základe:
 -   14:00: Obed
 -   17:30: Večerná rutina
 -   19:00: Teória voľného potápania (dýchanie, vyrovnávanie tlaku, bezpečnosť)
--   20:30: Večera a pozorovanie morského života pri svetle lodí
+-   20:30: Večera a pozorovanie morského života pri svetle lodných reflektorov
 
-### **Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké spojenie**
+### Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké spojenie
 
 -   06:30–07:30: Dýchanie a strečing pre freediving
 -   07:30: Ľahké raňajky
@@ -118,7 +120,7 @@ Program sa môže upraviť na základe:
 -   17:30: Večerná rutina
 -   20:00: Večera
 
-### **Deň 5 – Lagúna Dutch Cays Dobrodružstvá v lagúne, jóga a noc pri ohni**
+### Deň 5 – Lagúna Dutch Cays Dobrodružstvá v lagúne, jóga a noc pri ohni
 
 -   06:30: Ranná rutina
 -   08:30: Raňajky
@@ -129,17 +131,17 @@ Program sa môže upraviť na základe:
 -   17:30: Jóga pri západe slnka alebo kardio/bojové umenia
 -   19:30: Grilovanie na pláži a táborák s rodinami Guna
 
-### **6\. deň – Dutch Cays „bazén“ Najmalebnejšie kotvisko**
+### 6\. deň – Dutch Cays „Bazén“ Najmalebnejšie kotvisko
 
 -   06:30: Ranná rutina
 -   08:30: Raňajky
 -   09:30: Plavba do East Dutch Cays
--   11:00: Návšteva ostrova remeselníkov
+-   11:00: Návšteva remeselníckeho ostrova
 -   12:30: Obed v reštaurácii na koloch
 -   17:00: Turtle Island – jóga, oddych, Tabata
 -   19:30: Večera v podobe grilovania pod hviezdami
 
-### **7\. deň – Dutch Cays / Green Island Kokosy, remeslá, šnorchlovanie a filmový večer**
+### 7\. deň – Dutch Cays / Green Island Kokosy, remeslá, šnorchlovanie a filmový večer
 
 -   06:30: Ranná rutina
 -   08:30: Raňajky
@@ -151,7 +153,7 @@ Program sa môže upraviť na základe:
 -   20:00: Večera
 -   21:30: Filmový večer pod holým nebom
 
-### **8\. deň – Green Island Janzu, sloboda a oddych**
+### 8\. deň – Green Island Janzu, sloboda a oddych
 
 -   06:30: Ranná rutina
 -   08:30: Raňajky
@@ -159,7 +161,7 @@ Program sa môže upraviť na základe:
 -   18:30: Voliteľná večerná rutina
 -   20:00: Večera
 
-### **9\. deň – Súkromný ostrov Coco Bandero, žraloky, oslavná noc**
+### 9\. deň – Súkromný ostrov Coco Bandero, žraloky, oslavná noc
 
 -   06:30: Ranný program
 -   08:30: Raňajky
@@ -169,7 +171,7 @@ Program sa môže upraviť na základe:
 -   17:00: Večerná rutina
 -   19:00–23:00: Záverečná oslava pri ohni: grilovaný homár a hudba
 
-### **Deň 10 – Návrat do Banedupu Posledné chvíle v raji**
+### Deň 10 – Návrat do Banedupu Posledné chvíle v raji
 
 -   Ráno: Pokojná raňajka
 -   12:00: Plavba späť do Banedupu
@@ -177,6 +179,6 @@ Program sa môže upraviť na základe:
 -   19:00: Večera
 -   20:30: Záverečný ceremoniál a videozáznam
 
-### **11\. deň – Návrat**
+### 11\. deň – Návrat
 
-Loď Guna vás vyzdvihne a odvezie späť na letisko alebo do Panamy. **Cesta pokračuje vo vašom vnútri.** ![🌍](https://s.w.org/images/core/emoji/16.0.1/svg/1f30d.svg)
+Loď Guna vás vyzdvihne a odvezie späť na letisko alebo do Panamy. **Cesta pokračuje vo vašom vnútri.** 🌍

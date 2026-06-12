@@ -7,11 +7,11 @@ image: "~/assets/pages/vita-a-bordo-social/Copia-di-Immagini-per-sito-web-1500-x
 ---
 The Japanese word Ikigai is often translated as “a reason for being” or “the reason you wake up in the morning.” While its roots are in Okinawa, its meaning is vital for anyone facing the complexities of modern life. To truly unlock your potential, understanding the deeper **ikigai meaning** requires moving beyond simple definitions and into the realm of lived experience. After all, Ikigai isn’t just a philosophy—it’s a practice.
 
-## **Moving Beyond the Diagram**
+## Moving Beyond the Diagram
 
 We’ve all seen the Venn diagrams, but finding your Ikigai in a cubicle or behind a screen is nearly impossible. To discover what truly drives you, you need to strip away the noise. You need an environment that challenges you and supports you simultaneously.
 
-## **The Ikigai Sailing Approach: Embodied Mindfulness**
+## The Ikigai Sailing Approach: Embodied Mindfulness
 
 At Ikigai Sailing, we apply this ancient concept to the modern search for purpose. We aren’t a traditional spiritual retreat; we are a platform for **embodied experiences**.
 - **Action-Based Growth:** We use sailing and watersports to bridge the gap between mind and body. When you handle a sail or hold your breath underwater, you are practicing Ikigai in its purest, most physical form.

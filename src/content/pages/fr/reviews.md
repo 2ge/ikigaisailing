@@ -12,8 +12,6 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
 sourceHash: c9e3665d8cd6ff5a
 ---

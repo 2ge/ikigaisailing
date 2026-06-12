@@ -1,13 +1,14 @@
 ---
 title: 'Janzu: El poder regenerador del agua'
 description: >-
-  El Janzu es una técnica de relajación y sanación basada en el agua que cada
-  vez tiene más adeptos. La desarrolló en los años 90 un terapeuta mexicano
+  El Janzu es una técnica de relajación y sanación basada en el agua que está
+  ganando cada vez más popularidad. La desarrolló en los años 90 un terapeuta
+  mexicano
 locale: es
 pubDate: '2025-04-05'
 image: ~/assets/pages/vita-a-bordo-social/janzu.avif
 translated: deepl
-sourceHash: 2094ac87bc480388
+sourceHash: b8f5f6601076b749
 ---
 
 **Janzu: El poder regenerador del agua. El Janzu** es una técnica de relajación y sanación basada en el agua que cada vez es más popular entre quienes buscan un bienestar profundo y natural. Creada en la década de los 90 por el terapeuta mexicano **Juan Villatoro**, esta práctica combina movimientos fluidos en el agua, ejercicios de respiración y meditación profunda, ofreciendo una potente liberación a nivel físico, emocional y mental.
@@ -18,7 +19,7 @@ El Janzu se practica en agua tibia (entre **33 y 35 °C / 91–95 °F**) y consi
 
 La experiencia está diseñada para **evocar sensaciones similares a las que se sienten en el útero**. Durante una sesión, el cuerpo se sumerge y se guía a través de **movimientos circulares y fluidos**, a menudo adoptando **posiciones similares** **a las fetales** —una forma de reconectar con un **estado primordial de calma y seguridad**.
 
-Salir del agua suele provocar una **profunda liberación física y emocional**. La tensión se desvanece, el estrés se libera y puede surgir una sensación de **renacimiento o renovación**, casi como despertar de un viaje interior. Aunque cada sesión es única, **volver a la superficie suele experimentarse como un momento de ligereza, claridad y paz**.
+Salir del agua suele provocar una **profunda liberación física y emocional**. La tensión se desvanece, el estrés se libera y puede surgir una sensación de **renacimiento o renovación**, casi como despertar de un viaje interior. Aunque cada sesión es única, **volver a la superficie suele vivirse como un momento de ligereza, claridad y paz**.
 
 **Beneficios del Janzu**
 

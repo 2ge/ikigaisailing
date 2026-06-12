@@ -9,11 +9,11 @@ Viviamo in un’epoca di costante iper-stimolazione. Notifiche, scadenze e ritmi
 
 Trovare il proprio **Ikigai** attraverso il viaggio non significa fuggire dai problemi, ma cambiare la frequenza con cui vibra il nostro corpo. In **Ikigai Sailing** , non offriamo un semplice “ritiro spirituale” o una vacanza relax. Proponiamo una **embodied experience** : un ritorno al ritmo biologico primordiale attraverso la vita a bordo.
 
-## **Il Mare come Regolatore del Sistema Nervoso**
+## Il Mare come Regolatore del Sistema Nervoso
 
 La scienza ci dice che l’ambiente marino riduce il cortisolo. Ma la vela aggiunge un elemento fondamentale: l’azione. Coordinare i movimenti con il rollio della barca, sentire il vento sulla pelle e timonare non sono solo attività fisiche, sono forme di consapevolezza in movimento. Luca, skipper e istruttore, guida gli ospiti in un percorso dove lo sport diventa lo strumento per disconnettere la mente e riconnettere il corpo.
 
-## **Perché scegliere la vita a bordo per il tuo reset?**
+## Perché scegliere la vita a bordo per il tuo reset?
 
   1. **Sincronizzazione naturale:** Il tuo orologio biologico si allinea con l’alba, il tramonto e il respiro delle onde.
   2. **Consapevolezza fisica:** Non è una meditazione seduta, ma un coinvolgimento attivo (vela, apnea, nuoto) che riporta l’attenzione al “qui e ora”.

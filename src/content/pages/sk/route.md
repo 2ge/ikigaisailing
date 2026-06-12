@@ -1,10 +1,126 @@
 ---
 title: Trasa Ikigai Sailing – Vyplávajte na svoju cestu s Ikigai Sailing
 description: >-
-  Vydejte sa na jedinečnú plavbu s Ikigai Sailing. Objavte tie najlepšie
-  plavebné trasy, ktoré vás inšpirujú, motivujú a spájajú...
+  Sledujte plavbu lode Ikigai Sailing: z Ríma cez Atlantický oceán do Karibiku a
+  Panamy – viac ako 20 krajín, viac ako 10 000 míľ a pred nami ešte preplávanie
+  Tichého oceánu.
 locale: sk
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/route/ikigaisailing-next-australia.jpg
+lead: >-
+  Od roku 2022 loď Ikigai plávala z Ríma na ostrovy San Blas v Paname –
+  prekonala viac ako 10 000 námorných míľ a preplávala cez viac ako 20 krajín.
+  Tu je doterajší denník plavby, kotvisko po kotvisku, a kam loď smeruje ďalej.
+voyage:
+  - year: '2022'
+    title: Vyplávali sme
+    legs:
+      - when: júl
+        place: 'Rím, Taliansko'
+        note: >-
+          Východiskovým bodom cesty je emotívna rozlúčka s talianskym hlavným
+          mestom, ktoré je bohaté na históriu a kultúru.
+      - when: august
+        place: 'Sardínia, Taliansko'
+        note: >-
+          Drsné pobrežie ostrova a krištáľovo čistá voda vytvárajú úchvatnú
+          scenériu a zaisťujú hladkú plavbu.
+      - when: september
+        place: 'Baleárske ostrovy, Španielsko'
+        note: 'Nedotknuté pláže a skryté zátoky, najmä v okolí Mallorky a Ibizy.'
+      - when: október
+        place: 'Almerimar, Španielsko'
+        note: >-
+          Technická zastávka na prípravu a údržbu lode pred plavbou cez
+          Atlantik.
+      - when: november
+        place: Gibraltár
+        note: >-
+          Brána k Atlantiku, kde sa posádka pripravovala na plavbu na Kanárske
+          ostrovy.
+      - when: december
+        place: Kapverdy
+        note: >-
+          Krátka, intenzívna zastávka v trópoch – kreolská kultúra a sopečné
+          krajiny.
+  - year: '2023'
+    title: Plavba cez Atlantický oceán a Karibik
+    legs:
+      - when: január
+        place: Svätý Martin
+        note: >-
+          Karibský ostrov, z polovice francúzsky a z polovice holandský, známy
+          nádhernými plážami a kultúrnym mixom.
+      - when: január
+        place: Panenské ostrovy
+        note: >-
+          Rozprávkové súostrovie s pokojnými zátokami, ideálne na plachtenie a
+          potápanie.
+      - when: január
+        place: Barbuda a Antigua
+        note: >-
+          Pláže s ružovým pieskom a nedotknutá príroda; 365 pláží Antiguy a
+          bohatá námorná história.
+      - when: február
+        place: Guadeloupe a Dominika
+        note: >-
+          Guadeloupe v tvare motýľa je ideálna na šnorchlovanie; Dominika,
+          „ostrov prírody“, ponúka dažďové pralesy a vodopády.
+      - when: marec
+        place: Grenadíny
+        note: >-
+          Grenada, „ostrov korenín“, tradícia stavby lodí na Bequii, koralové
+          útesy Tobago Cays a pokoj na ostrovoch Mayreau a Union Island.
+      - when: jún
+        place: Grenada
+        note: Návrat za ďalšou dávkou pohostinnosti a prírodných krás ostrova.
+      - when: september
+        place: Martinik
+        note: >-
+          Dlhšia zastávka, aby sme si vychutnali príjemné podnebie a ostrovné
+          pohodlie.
+  - year: '2024'
+    title: Venezuela a južné ostrovy
+    legs:
+      - when: január
+        place: Anguilla a Guadeloupe
+        note: Práca v severnom oblúku Malých Antíl.
+      - when: február
+        place: Dominika
+        note: Späť na Ostrov prírody.
+      - when: marec
+        place: Venezuela a Los Roques
+        note: Do divokej prírody chránených atolov Los Roques.
+      - when: jún
+        place: Curaçao a Los Roques
+        note: Cesta medzi ostrovmi ABC a venezuelskými súostroviami.
+      - when: december
+        place: Los Roques
+        note: Zakončenie roka v tyrkysovej vode.
+  - year: '2025'
+    title: Ostrovy ABC a Panama
+    legs:
+      - when: marec
+        place: Aruba · Bonaire · Curaçao
+        note: >-
+          Na ostrovy ABC, potom na sever smerom ku Kolumbii a cez Panamský
+          prieplav až k Tichému oceánu.
+  - year: '2026'
+    title: 'San Blas, Panama'
+    legs:
+      - when: Teraz
+        place: 'San Blas (Guna Yala), Panama'
+        note: >-
+          Domáce vody pre túto sezónu – súostrovie, kde dnes prebiehajú naše
+          výlety.
+        now: true
+aheadTitle: 'Cesta, ktorá nás čaká'
+ahead: >-
+  Odtiaľto nás dobrodružstvo zavedie na západ cez Tichý oceán – na Galapágy,
+  Markézy, Tahiti a Fidži – až do severnej Austrálie. Odtiaľ budeme plávať cez
+  Indonéziu, Thajsko, Srí Lanku a Maldivy, než prekročíme Indický oceán smerom k
+  Indii a Dubaju. Potom pozdĺž pobrežia Ománu a Jemenu do Červeného mora, okolo
+  Sudánu a Egypta a späť do Stredozemného mora cez Suezský prieplav – čím sa
+  kruh uzavrie.
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -13,108 +129,9 @@ gallery:
   - ~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg
   - ~/assets/pages/home/ikigaisailing-2024-anguilla.avif
   - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
-  - ~/assets/pages/route/ikigaisailing-next-australia.jpg
 translated: deepl
-sourceHash: 71d02588efee0bb4
+sourceHash: a21cf2eb52d455b5
 needsReview: true
 ---
 
-## TRASA
 
-Poloha v reálnom čase
-
-Zistite, kde sa práve nachádzame, a sledujte všetky naše pohyby.
-
-Trasa
-
-Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo sveta, s krátkym popisom každého z nich:
-
-## 2022
-### Vyplávame!
-
--   **Júl – Rím, Taliansko** Východiskový bod cesty s emotívnym rozlúčením s talianskym hlavným mestom, ktoré je bohaté na históriu a kultúru.
--   **August – Sardínia, Taliansko** Drsné pobrežie ostrova a krištáľovo čistá voda poskytli dychberúcu scenériu a hladkú plavbu.
--   **September – Baleárske ostrovy, Španielsko** Objavovanie ostrovov známych nedotknutými plážami, skrytými zátokami a pulzujúcou energiou, najmä Mallorky a Ibizy.
--   **Október – Almerimar, Španielsko** Technická zastávka venovaná príprave a údržbe lode na výzvy Atlantiku.
--   **November – Gibraltár** „Brána do Atlantiku“, kde sa posádka pripravovala na preplavbu na Kanárske ostrovy.
--   **December – Kapverdy (15.–18. december)** Krátka, ale intenzívna zastávka na tropických ostrovoch, bohatých na kreolskú kultúru a sopečné krajiny.
-
-## 2023
-### Prechod cez Atlantik
-
-**Január**
-
--   ```
-- **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
-    ```
-    
-    -   **Panenské ostrovy** Rozprávkové súostrovie s pokojnými zátokami, ideálne na plachtenie a potápanie.
-    -   **Barbuda** Ružové pieskové pláže a nedotknutá príroda sú skutočným tropickým rajom.
-    -   **Antigua** Známy svojimi 365 slnečnými dňami a rovnakým počtom pláží, miesto s bohatou námornou históriou.
-
-**Február**
-
--   ```
-- **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
-    ```
-    
-    -   **Dominika** „Prírodný ostrov Karibiku“ s bujnými dažďovými pralesmi, úchvatnými vodopádmi a pohostinnou kultúrou.
-    -   **Martinik** Dokonalá fúzia francúzskych a karibských vplyvov s vulkanickou krajinou a plážami s čiernym pieskom.
-
-**Marec**
-
--   ```
-- **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
-    ```
-    
-    -   **Svätý Vincent** Hornatý, bujný ostrov s autentickým a divokým šarmom.
-    -   **Bequia** Malebný ostrov známy ručnou výrobou lodí a pokojnými vodami.
-    -   **Mustique** Exkluzívne útočisko celebrít s rozprávkovými plážami a luxusnou atmosférou.
-    -   **Martinik** Návrat na ostrov za ďalším objavovaním a relaxom.
-    -   **Canouan** Malý ostrov známy luxusnými rezortmi a úchvatnými výhľadmi.
-    -   **Tobago Cays** Morský raj neobývaných ostrovov a koralových útesov.
-    -   **Petit Saint Vincent** Exkluzívny útočisko s bujnou prírodou a opustenými plážami.
-    -   **Union Island** Živý a očarujúci ostrov, milovaný pre svoju príjemnú atmosféru a miestne trhy.
-    -   **Mayreau** Malý ostrov s intímnou atmosférou, ideálny na pokojný oddych.
-    -   **Martinik** Ďalšia zastávka na ostrove na oddych a doplnenie zásob.
-    -   **Dominika** Návrat na ostrov, aby sme ďalej preskúmali jeho bujnú prírodu.
-
-**Jún**
-
--   ```
-- **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
-    ```
-    
-
-**September – Martinik** Dlhšia zastávka, aby sme si užili príjemné podnebie a pohodlie ostrova.
-
-## 2024
-### Venezuela a ostrovy
-
-**Január** – Anguilla, Guadeloupe
-
-**Február** – Dominika
-
-**Marec** – Venezuela, Los Roques
-
-**Jún** – Curaçao, Los Roques
-
-**December** – Los Roques
-
-## 2025
-### ABC a Panama
-
-\*\*25  
-. marec Aruba, Bon Air,  
-Curacao\*\*Ďalej sa vydáme do Kolumbie, potom prejdeme Panamským prieplavom a dostaneme sa do Tichého oceánu...
-
-## 2026
-### San Blas
-
-ĎALEJ
-
-### Preplávanie Tichého oceánu
-
-Naše dobrodružstvo nás zavedie na **Galapágy, Markézy, Tahiti a Fidži,** až nakoniec dorazíme do severnej **Austrálie**. Potom poplávame do **Indonézie, Thajska, Srí Lanky a na Maldivy**, než prekročíme Indický oceán smerom k **Indii a Dubaju**.
-
-Odtiaľ budeme sledovať pobrežie **Ománu a Jemenu** do **Červeného mora**, prejdeme cez Sudán a Egypt, a potom cez **Suezský prieplav** opäť vstúpime do **Stredozemného** mora, čím naše dobrodružstvo skončí.

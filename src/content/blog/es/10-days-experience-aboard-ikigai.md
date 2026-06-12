@@ -7,34 +7,31 @@ locale: es
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: aae2be8888b87747
+sourceHash: 300e90093507641a
 ---
 
-### **Introducción**
+### Introducción
 
 Durante la Experiencia Ikigai, todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades.
 
 Esta experiencia Ikigai está diseñada para ayudarte a explorar el equilibrio entre **el compromiso y la escucha**, entre **la disciplina y la libertad**. Sin expectativas, sin rendir: solo la oportunidad de reconectar contigo mismo, con los demás y con el ritmo natural de la vida.
 
-### \*\*🌅 Rutina diaria 🕐 Mañana (aprox. 1 h 30 min): Cada día comienza con una sesión guiada que puede incluir:
+### 🌅 Rutina diaria 🕐 Mañana (aprox. 1 h 30 min): Cada día comienza con una sesión guiada que puede incluir:
 
 -   Técnicas de respiración consciente
 -   Secuencias de yoga dinámicas o restaurativas
 -   Meditación sentada o en movimiento
--   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo)  
-    _Todas las sesiones se adaptan a la energía del grupo y al tiempo._
+-   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo) _. Todas las sesiones se adaptan a la energía del grupo y al tiempo._
 
-**🌇 Tarde: Termina el día con actividades centradas en** la introspección, la relajación y la regeneración\*\*, incluyendo:
+**🌇 Tarde: Termina el día con actividades centradas en** la introspección, la relajación y la regeneración\*\*, que incluyen:
 
 -   Yoga al atardecer
 -   Meditación
--   Compartir  
-    en silencio o en círculo _(dependiendo del grupo y la ubicación)_
+-   Compartir en silencio o en círculo _(dependiendo del grupo y la ubicación)_
 
-\*\*🕊️ Tiempo libre: Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos.  
-**No hay nada que hacer más que ser.**
+\*\*🕊️ Tiempo libre: Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. **No hay nada que hacer más que estar.**
 
-### **🍽️ La vida a bordo y la comida**
+### 🍽️ La vida a bordo y la comida
 
 La comida es el centro de la vida en _Ikigai Experience_. Combinamos lo que nos da el mar con lo que intercambiamos con la comunidad Guna:
 
@@ -42,12 +39,11 @@ La comida es el centro de la vida en _Ikigai Experience_. Combinamos lo que nos 
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos siempre que podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más.  
-**Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin ninguna obligación.
+Pescamos siempre que podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
 
-### **☁️ Nota importante**
+### ☁️ Nota importante
 
-El programa puede sufrir cambios en función de:
+El programa puede modificarse en función de:
 
 -   Las condiciones meteorológicas y del mar
 -   Factores logísticos
@@ -55,15 +51,15 @@ El programa puede sufrir cambios en función de:
 
 **Cualquier cambio tiene como objetivo garantizar la seguridad y la calidad de la experiencia.**
 
-## **🧭 Itinerario día a día**
+## 🧭 Itinerario día a día
 
-### **✈️ Llegada a la ciudad de Panamá**
+### ✈️ Llegada a la ciudad de Panamá
 
 -   Traslado privado desde el aeropuerto
 -   Noche en **el Casco Viejo**, barrio declarado Patrimonio de la Humanidad por la UNESCO
 -   Paseo nocturno por callejuelas coloniales, animadas terrazas, música y gastronomía local
 
-### **🏝️ Día 1 – Bienvenido a Banedup. Lo más destacado:**
+### 🏝️ Día 1 – Bienvenido a Banedup. Lo más destacado:
 
 -   Snorkel, voleibol de playa, primeros baños
 -   Charla de seguridad y presentación de la tripulación
@@ -76,7 +72,7 @@ El programa puede sufrir cambios en función de:
 -   🐠 Snorkel en los arrecifes de coral
 -   🌅 Rutina nocturna opcional
 
-### **🏖️ Día 2 – Chichime Una isla animada con cabañas de playa y ambiente caribeño**
+### 🏖️ Día 2 – Chichime Una isla animada con cabañas de playa y ambiente caribeño
 
 -   🧘 06:30–08:00: Rutina matutina
 -   ☕ 09:00: Desayuno
@@ -87,7 +83,7 @@ El programa puede sufrir cambios en función de:
 -   🍽️ 20:00: Cena
 -   🎶 21:00: Música en directo y karaoke opcionales en tierra
 
-### **🐬 Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
+### 🐬 Día 3 – Cayos Holandeses Oeste (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida
 
 -   🧘 06:30–08:00: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -98,7 +94,7 @@ El programa puede sufrir cambios en función de:
 -   📚 19:00: Teoría del buceo libre (respiración, compensación, seguridad)
 -   🌌 20:30: Cena y observación de la vida marina bajo las luces del barco
 
-### **🧘‍♂️ Día 4 – Cayos del Oeste de Holanda Práctica de buceo libre y conexión profunda**
+### 🧘‍♂️ Día 4 – Cayos del Oeste de Holanda Práctica de buceo libre y conexión profunda
 
 -   🌬️ 06:30–07:30: Respiración y estiramientos para el buceo libre
 -   ☕ 07:30: Desayuno ligero
@@ -109,7 +105,7 @@ El programa puede sufrir cambios en función de:
 -   🌇 17:30: Rutina de la tarde
 -   🌌 20:00: Cena
 
-### **🏝️ Día 5 – Laguna de Dutch Cays Aventuras en la laguna, yoga y noche de hoguera**
+### 🏝️ Día 5 – Laguna de Dutch Cays Aventuras en la laguna, yoga y noche de hoguera
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -120,7 +116,7 @@ El programa puede sufrir cambios en función de:
 -   🌅 17:30: Yoga al atardecer o cardio/artes marciales
 -   🔥 19:30: Barbacoa en la playa y hoguera con las familias Guna
 
-### **🌴 Día 6 – Dutch Cays «Piscina natural» El fondeadero con las mejores vistas**
+### 🌴 Día 6 – Dutch Cays «Piscina natural» El fondeadero con las mejores vistas
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -130,7 +126,7 @@ El programa puede sufrir cambios en función de:
 -   🧘‍♂️ 17:00: Isla de las Tortugas – yoga, descanso, Tabata
 -   🌌 19:30: Cena barbacoa bajo las estrellas
 
-### **🐚 Día 7 – Dutch Cays / Green Island: cocos, artesanía, snorkel y noche de cine**
+### 🐚 Día 7 – Dutch Cays / Green Island: cocos, artesanía, snorkel y noche de cine
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -142,7 +138,7 @@ El programa puede sufrir cambios en función de:
 -   🍽️ 20:00: Cena
 -   🎥 21:30: Noche de cine al aire libre
 
-### **🧜‍♀️ Día 8 – Isla Verde Janzu, libertad y descanso**
+### 🧜‍♀️ Día 8 – Isla Verde Janzu, libertad y descanso
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -150,7 +146,7 @@ El programa puede sufrir cambios en función de:
 -   🌇 18:30: Rutina nocturna opcional
 -   🍽️ 20:00: Cena
 
-### **🦈 Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración**
+### 🦈 Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -160,7 +156,7 @@ El programa puede sufrir cambios en función de:
 -   🌇 17:00: Rutina de la tarde
 -   🔥 19:00–23:00: Fiesta de despedida con hoguera: langosta a la parrilla y música
 
-### **🌅 Día 10 – Regreso a Banedup Últimos momentos en el paraíso**
+### 🌅 Día 10 – Regreso a Banedup Últimos momentos en el paraíso
 
 -   ☕ Por la mañana: Desayuno tranquilo
 -   ⛵ 12:00: Navegamos de vuelta a Banedup
@@ -168,9 +164,8 @@ El programa puede sufrir cambios en función de:
 -   🍽️ 19:00: Cena
 -   🎥 20:30: Ceremonia de clausura y vídeo resumen
 
-### **🛶 Día 11 – Regreso**
+### 🛶 Día 11 – Regreso
 
-Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá.  
-**El viaje continúa dentro de ti.** 🌍
+Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** 🌍
 
-[Volver al producto](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[Volver al producto](/es/embarques/10-days-on-board/)

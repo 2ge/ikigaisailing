@@ -10,41 +10,24 @@ gallery:
   - ~/assets/activities/yoga/yoga-ikigai-v.jpg
   - ~/assets/activities/yoga/yoga-ikigai3.jpg
 order: 1
+facts:
+  - label: Úroveň
+    value: Vhodné pre začiatočníkov aj pokročilých
+  - label: Dĺžka sedení
+    value: 1 hodina
+  - label: Druhy jogy
+    value: 'Hatha, Vinyasa a Yin jóga'
+  - label: Poloha
+    value: Na palube alebo na nádherných plážach
 translated: deepl
-sourceHash: affd45ad11b51802
+sourceHash: ac6ca519f6832d4e
 needsReview: true
 ---
-
-JÓGA
 
 ## Objavte svoju rovnováhu
 
 S morom v pozadí a šumením vĺn sa joga stáva transformujúcou praxou. Každá lekcia je navrhnutá tak, aby regenerovala telo i myseľ, a prispôsobuje sa každej úrovni skúseností.
 
-## Čo môžete očakávať:
-
-### Úroveň:
-
-Vhodné pre začiatočníkov aj pokročilých
-
-### Dĺžka lekcie:
-
-1 hodina
-
-### Druhy jogy:
-
-Hatha, Vinyasa a Yin joga
-
-### Miesto:
-
-Na palube alebo na nádherných plážach
-
-## Prečo to vyskúšať:
+## Prečo to vyskúšať
 
 Prepojte svoj dych s pohybom a zažite vnútorný pokoj.
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
-
-[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)

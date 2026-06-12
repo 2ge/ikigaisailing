@@ -7,7 +7,7 @@ description: >-
   d'épanouissement personnel, d'enrichissement culturel, de nouvelles
   opportunités professionnelles ou d'aventure.
 locale: fr
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -15,13 +15,11 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: 1b0173628b8912d1
+sourceHash: 78534d31ba2a713b
 ---
 
-## LES BIENFAITS DE L'IKIGAI SAILING
+## Les bienfaits de la voile avec Ikigai Sailing
 
 La mer comme mode de vie
 
@@ -59,7 +57,7 @@ Trouve la paix intérieure en te laissant bercer par les sons et les rythmes de 
 
 ### Détox numérique
 
-Libère ton esprit en te déconnectant de tes appareils et en te reconnectant à toi-même.
+Libère ton esprit en te déconnectant de tes appareils et en te reconnectant avec toi-même.
 
 ### Vie en plein air
 
@@ -73,8 +71,8 @@ Passe chaque jour au cœur de la nature : soleil, vent et eau cristalline.
 
 Renforce tes liens personnels en partageant des expériences uniques et authentiques.
 
-Contacte-nous dès maintenant pour planifier ton séjour !
+Contacte-nous dès maintenant pour organiser ton séjour !
 
 Embarque pour la liberté !
 
-[Demande plus d'informations](https://www.ikigaisailing.com/contact/)
+[Demande plus d'informations](/fr/contact/)

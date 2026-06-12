@@ -10,37 +10,20 @@ gallery:
 order: 1
 oldUrls:
   - "/project/yoga-2/"
+facts:
+  - label: "Level"
+    value: "Suitable for beginners and advanced practitioners"
+  - label: "Duration of sessions"
+    value: "1 hour"
+  - label: "Yoga Types"
+    value: "Hatha, Vinyasa, and Yin Yoga"
+  - label: "Location"
+    value: "Onboard or on breathtaking beaches"
 ---
-YOGA
-
 ## Rediscover your balance
 
 With the sea as a backdrop and the sound of the waves, yoga becomes a transformative practice. Each session is designed to regenerate both body and mind, adapting to every level of experience.
 
-## What to expect:
+## Why try it
 
-### Level:
-
-Suitable for beginners and advanced practitioners 
-
-### Duration of sessions:
-
-1 hour 
-
-### Yoga Types:
-
-Hatha, Vinyasa, and Yin Yoga 
-
-### Location:
-
-Onboard or on breathtaking beaches 
-
-## Why try it: 
-
-Connect your breath with movement and experience inner peace. 
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
-
-[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)
+Connect your breath with movement and experience inner peace.

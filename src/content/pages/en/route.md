@@ -1,10 +1,49 @@
 ---
 title: "Route Ikigai Sailing - Sail Your Path with Ikigai Sailing"
-description: "Embark on a unique journey with Ikigai Sailing. Discover the best sailing routes designed to inspire, challenge, and connect you..."
+description: "Follow the Ikigai Sailing voyage: from Rome across the Atlantic to the Caribbean and Panama — 20+ countries, 10,000+ miles, and a Pacific crossing ahead."
 locale: "en"
 oldUrls:
   - "/the-route/"
 heroImage: "~/assets/pages/route/ikigaisailing-next-australia.jpg"
+lead: "Since 2022 Ikigai has sailed from Rome to the San Blas islands of Panama — more than 10,000 nautical miles across 20+ countries. Here is the logbook so far, anchorage by anchorage, and where the bow points next."
+voyage:
+  - year: "2022"
+    title: "We set sail"
+    legs:
+      - { when: "July", place: "Rome, Italy", note: "The starting point of the journey — an emotional farewell to the Italian capital, rich in history and culture." }
+      - { when: "August", place: "Sardinia, Italy", note: "The island's rugged coastline and crystal-clear water made for breathtaking scenery and smooth sailing." }
+      - { when: "September", place: "Balearic Islands, Spain", note: "Pristine beaches and hidden coves, especially around Mallorca and Ibiza." }
+      - { when: "October", place: "Almerimar, Spain", note: "A technical stop for boat preparation and maintenance ahead of the Atlantic." }
+      - { when: "November", place: "Gibraltar", note: "The gateway to the Atlantic, where the crew prepared for the crossing to the Canaries." }
+      - { when: "December", place: "Cape Verde", note: "A short, intense stop in the tropics — Creole culture and volcanic landscapes." }
+  - year: "2023"
+    title: "Atlantic crossing & the Caribbean"
+    legs:
+      - { when: "January", place: "Saint Martin", note: "A Caribbean island, half French and half Dutch, known for stunning beaches and a blended culture." }
+      - { when: "January", place: "Virgin Islands", note: "A dreamlike archipelago of calm bays, perfect for sailing and diving." }
+      - { when: "January", place: "Barbuda & Antigua", note: "Pink-sand beaches and untouched nature; Antigua's 365 beaches and deep nautical history." }
+      - { when: "February", place: "Guadeloupe & Dominica", note: "Butterfly-shaped Guadeloupe for snorkelling; Dominica, the 'Nature Island', for rainforests and waterfalls." }
+      - { when: "March", place: "The Grenadines", note: "Grenada the 'Spice Island', Bequia's boat-building heritage, the Tobago Cays' coral, and the quiet of Mayreau and Union Island." }
+      - { when: "June", place: "Grenada", note: "A return for more of the island's hospitality and natural beauty." }
+      - { when: "September", place: "Martinique", note: "A longer stop to enjoy the favourable climate and island comforts." }
+  - year: "2024"
+    title: "Venezuela & the southern islands"
+    legs:
+      - { when: "January", place: "Anguilla & Guadeloupe", note: "Working the northern arc of the Lesser Antilles." }
+      - { when: "February", place: "Dominica", note: "Back to the Nature Island." }
+      - { when: "March", place: "Venezuela & Los Roques", note: "Into the wild, protected atolls of Los Roques." }
+      - { when: "June", place: "Curaçao & Los Roques", note: "Threading the ABC islands and the Venezuelan archipelagos." }
+      - { when: "December", place: "Los Roques", note: "Closing the year in turquoise water." }
+  - year: "2025"
+    title: "ABC islands & Panama"
+    legs:
+      - { when: "March", place: "Aruba · Bonaire · Curaçao", note: "The ABC islands, then north toward Colombia and through the Panama Canal to reach the Pacific." }
+  - year: "2026"
+    title: "San Blas, Panama"
+    legs:
+      - { when: "Now", place: "San Blas (Guna Yala), Panama", note: "Home waters for the season — the archipelago where our trips run today.", now: true }
+aheadTitle: "The road ahead"
+ahead: "From here the adventure points west across the Pacific — the Galápagos, the Marquesas, Tahiti and Fiji — eventually reaching northern Australia. From there we'll sail up through Indonesia, Thailand, Sri Lanka and the Maldives, before crossing the Indian Ocean toward India and Dubai. Then along the coasts of Oman and Yemen into the Red Sea, past Sudan and Egypt, and back into the Mediterranean through the Suez Canal — closing the loop."
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"
@@ -13,87 +52,4 @@ gallery:
   - "~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg"
   - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
   - "~/assets/pages/route/ikigaisailing-2025-los-roques.jpg"
-  - "~/assets/pages/route/ikigaisailing-next-australia.jpg"
 ---
-## THE ROUTE
-
-Real-time position 
-
-Discover where we are now and track all our movements. 
-
-Itinerary 
-
-Here is the list of places visited by Ikigai Sailing during its journey around the world, with a brief description of each:
-
-## 2022
-### We're Setting Sail!
-- **July – Rome, Italy** The starting point of the journey, with an emotional farewell to the Italian capital, which rich in history and culture.
-- **August – Sardinia, Italy** The island’s rugged coastline and crystal-clear waters provided breathtaking scenery and smooth sailing.
-- **September – Balearic Islands, Spain** Exploring islands famous for pristine beaches, hidden coves, and vibrant energy, especially Mallorca and Ibiza.
-- **October – Almerimar, Spain** A technical stop dedicated to boat preparation and maintenance for the challenges of the Atlantic.
-- **November – Gibraltar** The “gateway to the Atlantic,” where the crew prepared for the crossing to the Canary Islands.
-- **December – Cape Verde (15-18 December)** A short but intense stop in the tropical islands, rich in Creole culture and volcanic landscapes.
-
-## 2023
-### Atlantic Crossing
-
-**January**
-- **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
-- **Virgin Islands** A dreamlike archipelago with calm bays, perfect for sailing and diving.
-- **Barbuda** Pink sandy beaches and untouched nature, are a true tropical paradise.
-- **Antigua** Famous for its 365 days of sunshine and as many beaches, a place with a strong nautical history.
-
-**February**
-- **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
-- **Dominica** The “Nature Island of the Caribbean,” with lush rainforests, breathtaking waterfalls, and a welcoming culture.
-- **Martinique** A perfect fusion of French and Caribbean influences, with volcanic landscapes and black sand beaches.
-
-**March**
-- **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
-- **Saint Vincent** A mountainous, lush island with an authentic and wild charm.
-- **Bequia** UA picturesque island renowned for handcrafted boat building and calm waters.
-- **Mustique** An exclusive celebrity retreat with dreamy beaches and a luxurious atmosphere.
-- **Martinique** A return to the island for further exploration and relaxation.
-- **Canouan** A small island known for luxury resorts and breathtaking views.
-- **Tobago Cays** A marine paradise of uninhabited islands and coral reefs.
-- **Petit Saint Vincent** An exclusive retreat with lush nature and deserted beaches.
-- **Union Island** Vibrant and charming, loved for its welcoming atmosphere and local markets. 
-- **Mayreau** A tiny island with an intimate atmosphere, perfect for a peaceful getaway.
-- **Martinique** Another stop on the island for rest and resupply.
-- **Dominica** A return visit to further explore the island’s lush nature.
-
-**June**
-- **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
-
-**September – Martinique** A prolonged stop to enjoy the favorable climate and island comforts.
-
-## 2024
-### Venezuela & Islands
-
-**January** – Anguilla, Guadeloupe
-
-**February** – Dominica
-
-**March** – Venezuela, Los Roques
-
-**June** – Curaçao, Los Roques
-
-**December** – Los Roques
-
-## 2025
-### ABC & Panama
-
-**March 25  
-Aruba, Bon Air, Curacao  
-**Next, we’ll head to Colombia, then pass through the Panama Canal to reach the Pacific…
-
-## 2026
-### San Blas
-
-NEXT
-
-### Pacific Crossing
-
-Our adventure will take us to the **Galapagos Islands, the Marquesas, Tahiti, and Fiji,** eventually reaching northern **Australia**. Then, we’ll sail up to **Indonesia, Thailand, Sri Lanka, and the Maldives** , before crossing the Indian Ocean toward **India and Dubai**.
-
-From there, we’ll follow the coastlines of **Oman and Yemen** into the **Red Sea** , passing Sudan and Egypt, before re-entering the **Mediterranean** via the **Suez Canal** , concluding our exploration.

@@ -15,39 +15,38 @@ gallery:
   - ~/assets/trips/acconto/ikigaisailing.webp
   - ~/assets/trips/acconto/lucabrano5.webp
 translated: deepl
-sourceHash: f9c05460afe7ec68
+sourceHash: 36aa570fbb33271b
 ---
 
-## SOBRE NOSOTROS
+## Quiénes somos
 
-Ikigai Sailing es una asociación deportiva amateur sin ánimo de lucro, reconocida por **el CONI** y afiliada a la Organización de Promoción Deportiva **MSP Italia**.  
-Una comunidad en crecimiento de soñadores, navegantes, buceadores en apnea, buceadores, kitesurfistas y entusiastas de la aventura y el deporte.
+Ikigai Sailing es una asociación deportiva amateur sin ánimo de lucro, reconocida por **el CONI** y afiliada a la Organización de Promoción Deportiva **MSP Italia**. Una comunidad en crecimiento de soñadores, navegantes, apneístas, buceadores, kitesurfistas y entusiastas de la aventura y el deporte.
 
-[Descubre más](https://www.ikigaisailing.com/about-us/)
+[Descubre más](/es/sobre-nosotros/)
 
 ## Ikigai Sailing - Temporada 2025/26 San Blas
 
 Vive la experiencia Ikigai en mar abierto: aventura, libertad y crecimiento personal en las maravillas del Caribe.
 
-[Más información y reservas](https://www.ikigaisailing.com/2025-26-season/)
+[Más información y reservas](/es/temporada-2025-26/)
 
-## PASIÓN
+## Pasión
 
-Por el mar, la vela, la aventura, los viajes, la cocina y el deporte.
+Por el mar, la navegación, la aventura, los viajes, la cocina y el deporte.
 
-[DESCUBRE MÁS](https://www.ikigaisailing.com/2025-26-season/)
+[DESCUBRE MÁS](/es/temporada-2025-26/)
 
-## VOCACIÓN
+## Visión
 
 Acercar a las personas a sus pasiones, a los demás, a la naturaleza y a sí mismas.
 
-[DESCUBRE MÁS](https://www.ikigaisailing.com/2025-26-season/)
+[DESCUBRE MÁS](/es/temporada-2025-26/)
 
-## PROFESIÓN
+## Profesión
 
 Ofrecemos cursos de formación y prácticas en las actividades que nos apasionan y practicamos, como la vela, el buceo libre, la pesca, el buceo, el kitesurf y el yoga.
 
-[DESCUBRE MÁS](https://www.ikigaisailing.com/2025-26-season/)
+[DESCUBRE MÁS](/es/temporada-2025-26/)
 
 ## Vive el mar como tu hogar
 
@@ -57,7 +56,7 @@ Un mes para redescubrirte
 
 Un mes para redescubrirte
 
-[Descubre más y reserva ya](https://www.ikigaisailing.com/2025-26-season/)
+[Descubre más y reserva ya](/es/temporada-2025-26/)
 
 NAVEGANDO POR
 
@@ -69,7 +68,7 @@ Nuestro itinerario futuro nos llevará a Colombia, **el Canal de Panamá y el Pa
 
 **Únete a nosotros para vivir la emoción de navegar hacia lo desconocido y descubrir el mundo desde una perspectiva única.**
 
-[SOBRE NOSOTROS](https://www.ikigaisailing.com/en/about-us/)
+[SOBRE NOSOTROS](/es/sobre-nosotros/)
 
 desde
 
@@ -89,50 +88,34 @@ ACTIVIDADES A BORDO
 
 Alternamos largas travesías por lugares inexplorados con periodos más tranquilos en los que descubrimos destinos que encajan perfectamente con nuestra filosofía y las actividades que practicamos.
 
-## [Y mucho más... Descubre todas las actividades aquí](https://www.ikigaisailing.com/en/sport/)
+## [Y mucho más... Descubre todas las actividades aquí](/es/actividades/)
 
-### OPCIONES DE NAVEGACIÓN
+### Opciones de navegación
 
 ¡Zarpa hacia la aventura con Ikigai Sailing!
 
 Descubre la alegría de la libertad, la exploración y el bienestar en el mar con experiencias únicas diseñadas para todos los espíritus aventureros. Desde semanas de pura evasión hasta retiros transformadores, hay un viaje perfecto para ti.
 
-[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+#### [Experiencia Ikigai](/es/embarques/ikigai-experience/)
 
-[Añadir al carrito](/es/?add-to-cart=95653)
+#### [10 días a bordo del Ikigai](/es/embarques/10-days-on-board/)
 
-#### [Experiencia Ikigai](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
+[¡Experiencia reservada para socios!](/es/embarques/pacific-crossing/)
 
-[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+#### [Travesía del Pacífico](/es/embarques/pacific-crossing/)
 
-[Añadir al carrito](/es/?add-to-cart=40866)
+[Más información](/es/embarques/crew-exchange/)
 
-#### [10 días a bordo del Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
+#### [Intercambio / Embarque remunerado](/es/embarques/crew-exchange/)
 
-[¡Experiencia reservada para miembros!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[Experiencia reservada para socios](/es/embarques/one-month/)
 
-[Añadir al carrito](/es/?add-to-cart=39308)
-
-#### [Travesía del Pacífico](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
-
-[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-[Más información](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-#### [Intercambio / Alojamiento pagado](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
-
-[Experiencia reservada para socios](https://www.ikigaisailing.com/prodotto/one-month/)
-
-[Añadir al carrito](/es/?add-to-cart=39306)
-
-#### [Un mes a bordo](https://www.ikigaisailing.com/prodotto/one-month/ "One month aboard")
-
-## LA RUTA
+## La ruta
 
 Descubre dónde estamos ahora
 
-En 2025/26 nuestro viaje nos llevó a las encantadoras Islas de San Blas, un paraíso único del Caribe. La travesía del Pacífico está prevista para 2027, lo que abrirá un nuevo capítulo de aventuras por delante.
+En 2025/26 nuestro viaje nos llevó a las encantadoras Islas San Blas, un paraíso único del Caribe. La travesía del Pacífico está prevista para 2027, lo que abrirá un nuevo capítulo de aventuras por delante.
 
 -   San Blas
 
-[Descubre la ruta](https://www.ikigaisailing.com/en/the-route/)
+[Descubre la ruta](/es/la-ruta/)

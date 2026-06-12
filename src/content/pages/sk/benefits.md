@@ -1,10 +1,10 @@
 ---
 title: Výhody života v zahraničí – Objavte prírodu s Ikigai Sailing
 description: >-
-  Objavte množstvo výhod života v zahraničí, od osobného rastu a kultúrneho
+  Objavte množstvo výhod života v zahraničí – od osobného rastu a kultúrneho
   obohatenia až po nové kariérne príležitosti a dobrodružstvo.
 locale: sk
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -12,20 +12,18 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: 1b0173628b8912d1
+sourceHash: 78534d31ba2a713b
 needsReview: true
 ---
 
-## PRÍNOSY PLÁVANIA S IKIGAI
+## Výhody Ikigai Sailing
 
 More ako spôsob života
 
 Výhody života v harmónii s prírodou
 
-Život uprostred prírody, v súlade s rytmom mora, ponúka viac než len únik od rutiny – je to návrat k našej podstate. Od spojenia s okolitým prostredím až po zlepšenie fyzického a duševného zdravia, život pod šírym nebom, v kontakte s morom, podporuje hlboký a autentický pocit zdravia a pohody. Objavte výhody, ktoré na vás čakajú.
+Život uprostred prírody, v súlade s rytmom mora, ponúka viac než len únik z rutiny – je to návrat k našej podstate. Od spojenia s okolitým prostredím až po zlepšenie fyzického a duševného zdravia, život pod šírym nebom, v kontakte s morom, podporuje hlboký a autentický pocit zdravia a pohody. Objavte výhody, ktoré na vás čakajú.
 
 ### Sledujte cirkadiánne rytmy
 
@@ -37,7 +35,7 @@ Vychutnajte si autentické chute čerstvých rýb a miestnych produktov, ďaleko
 
 ### Kvalita vzduchu
 
-Nadýchnite sa čistým, regenerujúcim vzduchom otvoreného mora.
+Nadýchnite sa čistého, regenerujúceho vzduchu otvoreného mora.
 
 ### Blue Mind (výhľad na more)
 
@@ -75,4 +73,4 @@ Kontaktujte nás ešte dnes a naplánujte si svoj pobyt!
 
 Vstúpte na palubu svojej slobody!
 
-[Požiadajte o ďalšie informácie](https://www.ikigaisailing.com/contact/)
+[Požiadajte o ďalšie informácie](/sk/kontakt/)

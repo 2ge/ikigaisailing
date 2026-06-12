@@ -19,7 +19,7 @@ Aux fins de la présente Politique en matière de cookies :
 
 -   **Société** (désignée par « la Société », « Nous », « Notre » ou « Nos » dans la présente Politique en matière de cookies) désigne Ikigai Sailing ASD, Via Gorlago 37 – 00135 Rome (RM), Italie, code fiscal 96511650580.
 -   **Les cookies** désignent de petits fichiers placés sur ton ordinateur, ton appareil mobile ou tout autre appareil par un site web, contenant notamment des informations sur ton historique de navigation sur ce site web.
--   **Le site web** désigne Ikigai Sailing, accessible à l'adresse [https://www.ikigaisailing.com](https://www.ikigaisailing.com).
+-   **Le site web** désigne Ikigai Sailing, accessible à l'adresse [https://www.ikigaisailing.com](/fr/).
 -   **« Tu »** désigne la personne physique qui accède au site web ou l'utilise, ou une société, ou toute entité juridique pour le compte de laquelle cette personne physique accède au site web ou l'utilise, selon le cas.
 
 ## L'utilisation des cookies

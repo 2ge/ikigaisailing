@@ -1,7 +1,7 @@
 ---
 title: 'Katamarán Ikigai – komfort, výkon a dobrodružstvo'
 description: >-
-  Objavte katamarán Ikigai Sailing: dokonalé spojenie komfortu a výkonu pre
+  Objavte katamarán Ikigai Sailing: dokonalé spojenie pohodlia a výkonu pre
   nezabudnuteľné dobrodružstvá na mori.
 locale: sk
 heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
@@ -15,133 +15,75 @@ gallery:
   - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
   - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
 translated: deepl
-sourceHash: d51b12af845811fd
+sourceHash: 043c0250dabe9f70
 needsReview: true
 ---
 
-## Catana 47
+_Catana 47_ je navrhnutá tak, aby ste si mohli užívať pohodlie a priestor bez toho, aby ste sa museli vzdať vzrušenia z plavby a mora. Ide o výkonný katamarán, ktorý dokáže udržať vysokú rýchlosť aj pri dlhých plavbách a ľahko sa pohybovať aj pri slabom vetre, pričom jeho priestranný interiér zaručuje pohodlie za každého počasia. Ponúka ubytovanie pre 6 až 7 osôb v 4 kajutách.
 
-Catana 47
+[Vyberte sa na virtuálnu prehliadku →](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-_Catana 47_ je navrhnutá tak, aby ste si mohli užívať komfort a priestor bez toho, aby ste sa museli vzdať vzrušenia z plavby a mora. Je to vysokovýkonný katamarán schopný udržať vysokú rýchlosť aj pri dlhých plavbách a ľahko sa pohybovať aj pri slabom vetre, pričom jeho priestranný interiér zaručuje komfort za každého počasia. Ponúka ubytovanie pre 6 až 7 osôb v 4 kajutách.
+## Kabíny a dispozícia
 
-[Virtuálna prehliadka](https://www.catana.com/visite/Catana-47/Catana-47.html)
-
-[](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
-
-Vybavenie lode:
-
--   **2 dvojposteľové kajuty** (konfigurovateľné s dvoma samostatnými posteľami alebo jednou veľkou manželskou posteľou)
--   **1 kajuta s manželskou posteľou**
--   **Štvrtá kajuta prerobená na veľkú kúpeľňu** s panoramatickou sprchou pre dve osoby
+-   **2 dvojlôžkové kajuty** — konfigurovateľné s dvoma samostatnými posteľami alebo jednou veľkou manželskou posteľou
+-   **1 kajuta** s manželskou posteľou
+-   **Štvrtá kajuta** prerobená na veľkú kúpeľňu s panoramatickou sprchou pre dvoch
 -   **2 elektrické toalety**, po jednej na každom trupe
 
-Na prove sa nachádza **kajuta** **pre posádku**, **úschovňa plachiet** a celá **úschovňa** pre športové vybavenie. Na zadnej časti lode je možné sklopiť **veľký stôl v kokpite** a vytvoriť tak ďalšiu priestrannú manželskú posteľ.
+Na prove sa nachádza **kajuta** **pre posádku**, **úschovňa** **plachiet** a špeciálna **kajuta** na **uloženie** športového vybavenia. Na zadnej časti lode sa **veľký stôl v kokpite** dá sklopiť a vytvoriť tak ďalšiu priestrannú manželskú posteľ.
 
-## KÚCHYŇA:
+## Kuchynka
 
-Keďže sme nadšenci dobrého jedla a bývalí profesionálni reštauratéri, kuchyňa zohráva na palube ústrednú úlohu. Je vybavená:
+Keďže sme nadšenci dobrého jedla – a bývalí profesionálni reštauratéri – kuchyňa zohráva na palube ústrednú úlohu. Je vybavená:
 
-Pekárňou na chlieb – pretože pečenie čerstvého chleba každý deň je na nezaplatenie
+-   **Pekárničku na chlieb** – pretože čerstvý chlieb každý deň je na nezaplatenie
+-   **Gril Magma XL** – hviezda nespočetných grilovačiek, najmä po úspešnom rybárskom výlete
+-   **4-horákovým sporákom**, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom a ďalším vybavením
+-   **Automatický kávovar** s integrovaným mlynčekom
+-   **Systém na pitnú vodu,** ktorý vydáva perlivú alebo neperlivú vodu, studenú alebo izbovú teplotu
 
-### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom výlete na ryby
+## Energia a autonómia
 
-### 4-horákovým sporákom, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom atď.
+Pokiaľ ide o energiu, sme úplne sebestační:
 
-### Automatický kávovar s integrovaným mlynčekom
+-   **12 solárnych panelov**
+-   **Vodná turbína**
+-   **Lítiové batérie s kapacitou 600 Ah**
+-   **5 kW dieselový generátor**
 
-### Systém na pitnú vodu schopný podávať perlivú alebo neperlivú vodu, studenú alebo izbovú teplotu
+Máme tiež **2 odsolovače vody** s výkonom **150 l/h** a **práčku**.
 
-## AUTONOMIA:
-
-Pokiaľ ide o energiu, sme úplne sebestační vďaka:
-
--   \*\*12 solárnych  
-    panelov\*\*
--   \*\*vodnej  
-    turbíny\*\*
--   \*\*600 Ah lítiových  
-    batérií\*\*
--   **5 kW dieselového generátora**
-
-Okrem toho máme **2 odsolovače vody** s výkonom **150 l/h** a **práčku**.
-
-## ŠPORTOVÉ VYBAVENIE:
+## Športové vybavenie
 
 Na palube nájdete tiež:
 
--   **25-koňový čln**
+-   **Čln s výkonom 25 hp**
 -   **3-miestny kajak**
--   **SUP (Stand-Up Paddleboard)**
--   **Výstroj na šnorchlovanie, freediving a podvodný lov**
--   **Kompletnú výbavu na potápanie**
--   **Vybavenie na kitesurfing**
--   **Jogamatka**
+-   **SUP** (stand-up paddleboard)
+-   Výstroj na šnorchlovanie, freediving a podvodný lov
+-   Kompletná **potápačská** výbava
+-   Vybavenie **na kitesurfing**
+-   Jogamatky
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_8e548b8301844ce39be1761967b738c4mv2.jpg)
+## Plachty
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2.jpg)
+Novinky v roku 2017:
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg)
+-   **Hlavná plachta** — 86 m² Hydranet 483/433, 5 latiek, 3 body na zrážanie, s indikátormi; kladky Harken T32 s guľôčkovými ložiskami; lazy bag (novinka 2021)
+-   **Genoa** — 53 m² trojradialný strih z materiálu Hydranet 433, UV ochranný pás
+-   **Gennaker** — 130 m² na rolovacom ráhne, modrá tkanina Stormlite, protitorzný kábel, UV pásik
+-   **Code 0** — 81 m² na rolovacom ráhne, laminovaný uhlík-aramid, protitorzný kábel, tkanina CZ60/30 s UV ochranou
+-   **Druhá sada z materiálu Dacron** — hlavná plachta a genoa
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/20221213_090006-scaled.jpg)
+## Elektronika
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg)
+Raymarine, nové v roku 2017:
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/7DCEF313-82F8-4B99-A9CE-0A0AF7792C05_1_201_a-scaled.avif)
+-   **Plotter Axiom 9** (2020), Multi i70, VHF RA60, 2× displej vetra i60, 1× Multi i70, 11× konzola autopilota p70
+-   **Hlavný autopilot** — Raymarine ACU 400 s hydraulickým valcom L&S
+-   **Núdzový autopilot** — Raymarine s hydraulickým valcom L&S
+-   **Radar Quantum** a vysielač/prijímač **AIS 650 triedy B**
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/9d81ff7c-0f84-48ed-b44a-efc36ece6d56-scaled.avif)
+## A ďalšie
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/77153A04-394A-4BF7-ABE8-562BB9D30533_1_201_a-scaled.avif)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/IMG_20250523_170428_304-scaled.avif)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/FA81EF04-3D2F-40C0-AE13-8A9A15863DD1_1_201_a-scaled.avif)
-
-VYBAVENIE LODE
-
-## PLACHTY
-
-(Novinka v roku 2017):
-
-**Hlavná plachta**: 86 m² tkanina Hydranet 483/433 s 5 latami, 3 bodmi na zrážanie a indikátormi
-
-**Kĺbové vozíky Harken T32 s guľôčkovými ložiskami Lazy bag (novinka 2021) Genua**: 53 m² s trojradovým strihom z tkaniny Hydranet 433, pásik na ochranu proti UV žiareniu
-
-**Gennaker**: 130 m² rolovací výložník z modrej tkaniny Stormlite, protitorzný kábel, pásik na ochranu proti UV žiareniu
-
-**Code 0**: 81 m² rolovací výložník z laminovanej uhlíkovo-aramidovej tkaniny, kábel proti krúteniu, tkanina s UV ochranou CZ60/30
-
-**Druhá sada plachiet z materiálu Dacron: hlavná plachta a genoa.**
-
-## ELEKTRONIKA
-
-(Raymarine, nové v roku 2017):
-
-**Plotter Axiom 9 (2020) Multi I70 VHF RA60 2 x displej vetra I60, 1 x Multi I70 11 x P70 Konzola autopilota Hlavný autopilot**: Raymarine ACU 400 s hydraulickým valcom L&S
-
-**Náhradný autopilot**: Raymarine s hydraulickým valcom L&S
-
-**Radar Quantum AIS 650 Transceiver triedy B**
-
-## RÔZNE
-
-**12V odsolovač vody Aquabase (105 l/h ESW901) Námorný hydrogenerátor Watt & Sea 600 W Sada lítiových batérií Victron (2021) Uhlíkový škríp (2017) 8 solárnych panelov 110 W (2017) Kúrenie Webasto (2021) Chladnička Liebherr A++ 220 V so špeciálnym meničom (2021) Mraznička Liebherr A++ 220 V so špeciálnym meničom (2021) Umývačka riadu (2021) Candy 3 kg práčka (2017)**
-
-![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_8e548b8301844ce39be1761967b738c4mv2](../../../assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_7c038b30775c4f34b61113a3180a796bmv2](../../../assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_248a451d2c164987b12f4474d096d6bdmv2](../../../assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2](../../../assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_abee4bd9a75243eba907fcec3e58e747mv2](../../../assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_42f349d2cd664ff0a98662c17755cc67mv2](../../../assets/pages/catana-47/d7f8a8_42f349d2cd664ff0a98662c17755cc67mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_30788652b2514a90a51083e0a902dd90mv2](../../../assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
-
-![d7f8a8\_1660ab678a5647ada185b9a773df766fmv2](../../../assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
+12 V odsolovač vody Aquabase (105 l/h ESW901) · námorný hydrogenerátor Watt&Sea 600 W · lítiová batériová banka Victron (2021) · uhlíkový škríp (2017) · 8× solárne panely 110 W (2017) · Kúrenie Webasto (2021) · Chladnička a mraznička Liebherr A++ 220 V so špeciálnymi meničmi (2021) · Umývačka riadu (2021) · Pračka Candy 3 kg (2017).

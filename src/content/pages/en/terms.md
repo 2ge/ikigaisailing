@@ -12,8 +12,6 @@ gallery:
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
   - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
 ---
 ### 1. Booking Policy:
 
@@ -47,14 +45,14 @@ For bookings made after cut-off date, full payment will be required immediately 
 
 If you cancel your booking up to 2 months before departure, you will be entitled to request a refund of the amount already paid.
 
-For cancellations made less than 2 months before the start of the experience, the contribution paid will not be refunded, but you can use it as credit to participate in other proposals and experiences organized by the association.  
+For cancellations made less than 2 months before the start of the experience, the contribution paid will not be refunded, but you can use it as credit to participate in other proposals and experiences organized by the association.
 We still recommend taking out travel insurance that covers this eventuality.
 
 **b) Cancellation by us:**
 
 In the event of extraordinary circumstances, such as natural disasters or a deterioration in the political stability of the destination country, if we deem the safety of the trip compromised, or if the minimum number of participants is not reached within 30 days of the departure date, the participant will have the right to:
 
-Use the contribution paid to participate in other activities or sailing options provided in the association’s seasonal program.  
+Use the contribution paid to participate in other activities or sailing options provided in the association’s seasonal program.
 Request a refund of the amount already paid.
 
 Note: No additional costs or expenses, beyond the contribution paid, will be recognized as compensation for the cancellation of the trip. Therefore, we strongly advise taking out travel insurance to cover any additional costs.

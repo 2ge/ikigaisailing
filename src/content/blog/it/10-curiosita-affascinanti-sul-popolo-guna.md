@@ -7,7 +7,7 @@ image: "~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif"
 ---
 _(diario di bordo da Ikigai Sailing)_
 
-Navigando tra le acque limpide di San Blas a bordo di _Ikigai_ , ci si accorge presto che non si è semplicemente in vacanza. Qui si entra in un altro tempo, in un’altra visione del mondo. Le isole non sono solo paradisi naturali: sono custodi di una cultura millenaria che resiste, fiera e autentica.  
+Navigando tra le acque limpide di San Blas a bordo di _Ikigai_ , ci si accorge presto che non si è semplicemente in vacanza. Qui si entra in un altro tempo, in un’altra visione del mondo. Le isole non sono solo paradisi naturali: sono custodi di una cultura millenaria che resiste, fiera e autentica.
 Ecco 10 aspetti del popolo Guna che ci hanno colpito profondamente. Dettagli che emergono tra un tuffo e una veleggiata, racconti che si intrecciano al vento, al mare e alla semplicità radicale della vita in armonia.
 
 ### 1. Una società matriarcale
@@ -52,6 +52,6 @@ Per visitare le isole serve il permesso. Ogni sbarco è un invito. Non un diritt
 
 ## Perché venire a San Blas con Ikigai?
 
-Non per fuggire, ma per ritrovare. Non per vedere, ma per sentire.  
-Navigare in Guna Yala è un invito a rallentare, a guardare il mondo con occhi nuovi.  
+Non per fuggire, ma per ritrovare. Non per vedere, ma per sentire.
+Navigare in Guna Yala è un invito a rallentare, a guardare il mondo con occhi nuovi.
 Ogni isola, ogni incontro, ogni tramonto è parte di un viaggio che accade fuori, ma soprattutto dentro.

@@ -9,21 +9,21 @@ In the middle of the ocean, **fresh water** is never guaranteed, and this is one
 
 Every day, we produce our own **drinking water** , even **sparkling** , directly from **sea water**. This allows us to live **off-grid** and drastically reduce our environmental footprint.
 
-## **Turning sea water into drinkable water: the First Process is Reverse Osmosis**
+## Turning sea water into drinkable water: the First Process is Reverse Osmosis
 
-### **Desalination Units on Board**
+### Desalination Units on Board
 
 Our system relies on two **desalination units** :
 - 50 liters/hour
 - 100 liters/hour
 
-### **Filtration and Reverse Osmosis of Sea Water Sea water** passes through a **5-micron filter** and then **reverse osmosis** , allowing only water molecules through while blocking salts and impurities.
+### Filtration and Reverse Osmosis of Sea Water Sea water passes through a 5-micron filter and then reverse osmosis , allowing only water molecules through while blocking salts and impurities.
 
 **Result:** clean, drinkable water for all on-board uses: cooking, washing, and drinking.
 
 **From Desalination to Your Glass: The “Gourmet” Treatment**
 
-### **4-Way Tap of drinkable water**
+### 4-Way Tap of drinkable water
 
 To improve taste and quality, the water passes through:
 - **UV lamp** → eliminates bacteria
@@ -38,9 +38,9 @@ All water is available through a **4-way tap** :
   3. Room-temperature drinking water
   4. Sparkling drinking water
 
-## **Environmental Impact**
+## Environmental Impact
 
-### **Plastic Reduction**
+### Plastic Reduction
 
 Thanks to this system, we have almost completely eliminated **bottled water**. With five people on board for ten months a year, we have avoided thousands of plastic bottles.
 

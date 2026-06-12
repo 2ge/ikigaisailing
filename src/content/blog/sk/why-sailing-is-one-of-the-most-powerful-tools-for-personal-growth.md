@@ -1,29 +1,27 @@
 ---
 title: Prečo je plachtenie dôležitým prostriedkom osobného rastu
 description: >-
-  Plachtenie je skvelým prostriedkom na osobný rast. Niektoré zážitky netreba
-  príliš vysvetľovať – jednoducho ich prežijete.
+  Plachtenie je účinným prostriedkom osobného rastu. Niektoré zážitky
+  nepotrebujú veľa vysvetľovania – jednoducho ich prežívate.
 locale: sk
 pubDate: '2026-02-02'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg
 translated: deepl
-sourceHash: b69a64db48c251e2
+sourceHash: 102f3a56ef6c400a
 needsReview: true
 ---
 
 Premýšľali ste niekedy o plachtení ako o prostriedku osobného rozvoja a rastu?
 
-Niektoré zážitky nepotrebujú veľa vysvetľovania. Cítite ich.  
-Plachtenie je jedným z nich.
+Niektoré zážitky nepotrebujú veľa vysvetľovania. Cítite ich. Plachtenie je jedným z nich.
 
 Rytmus vetra, pohyb mora, absencia neustáleho hluku. Nie je to len relaxácia – je to **prirodzený reset pre nervový systém**.
 
 Dlho predtým, ako sa stali populárnymi wellness trendy, námorníci vedeli, že **život na mori upokojuje myseľ tým, že obnovuje pocit bezpečia v tele**. Preto môže byť plachtenie silným nástrojom nášho osobného rastu.
 
-## **Nervový systém reaguje na rytmus, nie na rýchlosť**
+## Nervový systém reaguje na rytmus, nie na rýchlosť
 
-Náš nervový systém nie je navrhnutý na neustálu stimuláciu.  
-Oznámenia, termíny a multitasking nás udržujú v režime prežitia.
+Náš nervový systém nie je navrhnutý na neustálu stimuláciu. Oznámenia, termíny a multitasking nás udržujú v režime prežitia.
 
 Na mori sa deje opak:
 
@@ -33,7 +31,7 @@ Na mori sa deje opak:
 
 To umožňuje telu prejsť z **režimu „boj alebo útek“** do režimu regulácie a zotavenia. Osobný rast musí prejsť cez spolureguláciu nášho nervového systému a plachtenie tento proces podporuje.
 
-## **Prečo je plachtenie lepšie ako bežná dovolenka**
+## Prečo je plachtenie lepšie ako bežná dovolenka
 
 Na rozdiel od bežných dovoleniek plachtenie:
 
@@ -41,25 +39,23 @@ Na rozdiel od bežných dovoleniek plachtenie:
 -   odstraňuje zbytočné podnety
 -   vytvára spolureguláciu (posádka, vietor, more)
 
-Nie ste divák – ste súčasťou živého systému.  
-Práve táto rovnováha pomáha upokojiť nervový systém.
+Nie ste divák – ste súčasťou živého systému. Táto rovnováha pomáha upokojiť nervový systém.
 
-## **Otvorená voda a vnútorná istota**
+## Otvorená voda a vnútorná istota
 
 Môže sa to zdať protichodné, ale jednoduchosť vytvára pokoj.
 
 Na katamaráne:
 
--   priestor je vymedzený
+-   je priestor vymedzený
 -   dni majú prirodzenú štruktúru
 -   rozhodnutia sú jasné a praktické
 
 Táto vonkajšia jednoduchosť buduje **vnútornú istotu**, kľúčový prvok hlbokého pocitu pohody.
 
-## **Ticho a efekt horizontu**
+## Ticho a efekt horizontu
 
-Nekonečný horizont má priamy vplyv na nervový systém.  
-Zrak sa upokojí. Dýchanie sa prehĺbi. Myseľ prestane predvídať.
+Neprerušovaný horizont má priamy vplyv na nervový systém. Zrak sa upokojí. Dýchanie sa prehĺbi. Myseľ prestane predvídať.
 
 Mnoho ľudí zažíva:
 

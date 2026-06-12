@@ -7,15 +7,14 @@ oldUrls:
 heroImage: "~/assets/pages/ikigai/ikigaisailing.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/ikigai/ikigaisailing.avif"
   - "~/assets/trips/10-days-on-board/lucabrano5.avif"
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
   - "~/assets/trips/acconto/skipper.webp"
+
 ---
-## IKIGAI
+## Ikigai
 
 **COS’È IKIGAI**
 
@@ -27,25 +26,25 @@ Trova il tuo Ikigai, salpa con noi e scopri una vita oltre i confini del quotidi
 
 01.
 
-### [PASSIONE](https://www.ikigaisailing.com/services/service001/)
+### [PASSIONE](/it/chi-siamo/)
 
 Per il mare, la vela, l’avventura, i viaggi, la cucina, gli sport
 
 02.
 
-### VOCAZIONE
+### Vocazione
 
-Avvicinare le persone alle loro passioni, ad altre persone, alla natura ed a sè stesse. 
+Avvicinare le persone alle loro passioni, ad altre persone, alla natura ed a sè stesse.
 
 03.
 
-### MISSIONE
+### Missione
 
-Promuoviamo un turismo sostenibile ed uno stile di vita sano grazie al quale nutrire a pieno i semplici bisogni primari capaci di produrre il vero Ben-Essere, nostro obiettivo primario, come per la pratica di attività sportive, l’alimentazione secondo natura, la convivialità, la condivisione di intenti e di passioni. Ci muoviamo grazie al vento alla scoperta del Globo e di noi stessi immergendoci nelle culture, scoprendone le bellezze ed assaporandone i frutti. 
+Promuoviamo un turismo sostenibile ed uno stile di vita sano grazie al quale nutrire a pieno i semplici bisogni primari capaci di produrre il vero Ben-Essere, nostro obiettivo primario, come per la pratica di attività sportive, l’alimentazione secondo natura, la convivialità, la condivisione di intenti e di passioni. Ci muoviamo grazie al vento alla scoperta del Globo e di noi stessi immergendoci nelle culture, scoprendone le bellezze ed assaporandone i frutti.
 
 04.
 
-### PROFESSIONE
+### Professione
 
 Skipper professionisti ed istruttori, promuoviamo la cultura marinaresca all’insegna dell’avventura e del benessere. Ci occupiamo della gestione della barca e dei servizi a bordo quali la cucina e la gestione delle attrezzature sportive per il piacere di ogni associato. Svolgiamo corsi formativi e stage delle attività che amiamo e che pratichiamo quali la vela, l’apnea, la pesca, il diving, il kitesurf e lo yoga.
 
@@ -53,24 +52,24 @@ Il nostro Ikigai
 
 01.
 
-### [COSE DI CUI IL MONDO HA BISOGNO ](https://www.ikigaisailing.com/services/service001/)
+### [COSE DI CUI IL MONDO HA BISOGNO ](/it/chi-siamo/)
 
-Libertà, condivisione, consapevolezza, amicizia, fiducia, sostenibilità, sognare, prendersi cura di sè stessi, scoprire e capire nuove culture 
+Libertà, condivisione, consapevolezza, amicizia, fiducia, sostenibilità, sognare, prendersi cura di sè stessi, scoprire e capire nuove culture
 
 02.
 
-### PER COSA POSSIAMO ESSERE PAGATI
+### Per Cosa Possiamo Essere Pagati
 
 Condivisione della vita di bordo, organizzazione di viaggi, corsi on board di varie discipline sportive.
 
 03.
 
-### COSA AMIAMO
+### Cosa Amiamo
 
-Avventura, navigazione, amicizia, viaggio, natura, cucina, sport, crescita personale 
+Avventura, navigazione, amicizia, viaggio, natura, cucina, sport, crescita personale
 
 04.
 
-### IN COSA SIAMO BRAVI
+### In Cosa Siamo Bravi
 
 Organizzare e pianificare viaggi, gestire la barca ed i vari aspetti della navigazione, team building, accoglienza – hospitality, think positive, problem solving, cucinare, insegnare

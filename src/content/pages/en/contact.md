@@ -12,16 +12,14 @@ gallery:
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
   - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
 ---
 ## Contact us
 
 Want to embark on a unique adventure aboard our catamaran as we sail around the world?
 
-We’re here to answer your questions and help you book your experience. 
+We’re here to answer your questions and help you book your experience.
 
-+39 331 32 926 29 
++39 331 32 926 29
 
 LUCA
 

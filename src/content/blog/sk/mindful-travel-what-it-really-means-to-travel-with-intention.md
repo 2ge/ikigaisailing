@@ -8,21 +8,19 @@ locale: sk
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
-sourceHash: 32c6f2dfb1bac519
+sourceHash: 73869769fa5f699b
 needsReview: true
 ---
 
 Vedomé cestovanie možno definovať ako cestu, pri ktorej sa zámer stáva hnacou silou objavovania, zakotvenou v pohľade, kde uvedomenie si a prítomnosť sú súčasťou samotného cieľa.
 
-Cestovanie už nie je len o dosiahnutí cieľa.  
-Pre mnohých sa stalo spôsobom, ako sa znovu spojiť – s prítomnosťou, zmyslom a vnútornou jasnosťou.
+Cestovanie už nie je len o dosiahnutí cieľa. Pre mnohých sa stalo spôsobom, ako sa opäť spojiť – s prítomnosťou, zmyslom a vnútornou jasnosťou.
 
-Tu začína **uvedomelé cestovanie**.  
-Nie ako trend, ale ako odpoveď na hlbšiu túžbu: pohybovať sa po svete so zámerom.
+Tu začína **uvedomelé cestovanie**. Nie ako trend, ale ako odpoveď na hlbšiu túžbu: pohybovať sa po svete so zámerom.
 
-## **Cestovanie so zámerom začína zvnútra**
+## Cestovanie so zámerom začína zvnútra
 
-Vedomé cestovanie nie je o tom, robiť menej – je o tom, **byť viac prítomný**.
+Vedomé cestovanie nie je o tom, robiť menej – je to o tom, **byť viac prítomný**.
 
 Znamená to:
 
@@ -30,10 +28,9 @@ Znamená to:
 -   dostatočne spomaliť, aby sme cítili, čo sa deje vo vnútri
 -   nechávať priestor namiesto toho, aby sme vyplnili každý okamih
 
-Cestovanie s úmyslom nie je únikom pred životom.  
-Je to vytváranie podmienok na to, aby sme sa s ním stretli úprimnejšie.
+Cestovanie s úmyslom nie je únikom pred životom. Je to vytváranie podmienok na to, aby sme sa s ním stretli úprimnejšie.
 
-## **Život na mori ako priestor pre uvedomenie**
+## Život na mori ako priestor pre uvedomenie
 
 Medzi zážitkami z uvedomelého cestovania ponúka život na mori niečo jedinečné.
 
@@ -43,13 +40,11 @@ Medzi zážitkami z uvedomelého cestovania ponúka život na mori niečo jedine
 -   ponorenie sa do prírodných cyklov
 -   prítomnosť prostredníctvom pohybu, ticha a jednoduchosti
 
-Na mori si uvedomenie nevyžaduje žiadne úsilie.  
-Vzniká prostredníctvom samotného prostredia.
+Na mori si uvedomenie nevyžaduje žiadne úsilie. Vzniká prostredníctvom samotného prostredia.
 
-## **Vedomé plachtenie ako cesta vzťahov**
+## Vedomé plachtenie ako cesta vzťahov
 
-**Vedomý zážitok z plavby** nie je o luxuse ani o spotrebe.  
-Je o vzťahoch.
+**Vedomý zážitok z plavby** nie je o luxuse ani o spotrebe. Je o vzťahoch.
 
 Vzťah s:
 
@@ -57,12 +52,11 @@ Vzťah s:
 -   ostatnými na palube
 -   vlastným vnútorným svetom
 
-Plachtenie vyžaduje pozornosť, spoluprácu a prispôsobivosť.  
-Každá akcia má význam. Každý okamih je spoločný.
+Plachtenie vyžaduje pozornosť, spoluprácu a prispôsobivosť. Každá akcia má význam. Každý okamih je spoločný.
 
 Preto sa plachtenie stáva silnou formou **plachtenia** v **duchu všímavosti** – prežívanou, stelesnenou a skutočnou.
 
-## **Plachtenie s plnou pozornosťou: prítomnosť v každodenných gestách**
+## Plachtenie s plnou pozornosťou: prítomnosť v každodenných gestách
 
 Na plachetnici je všímavosť prepletená s každodenným životom.
 
@@ -73,13 +67,11 @@ Prejavuje sa:
 -   v jednoduchých rutinách
 -   v spoločnom tichu
 
-Neexistuje žiadne oddelenie medzi praxou a skúsenosťou.  
-Prítomnosť sa stáva súčasťou života.
+Neexistuje žiadne oddelenie medzi praxou a skúsenosťou. Prítomnosť sa stáva súčasťou života.
 
-## **Rozhodnutie pre cestovanie s plnou pozornosťou je vnútorné rozhodnutie**
+## Rozhodnutie pre cestovanie s plnou pozornosťou je vnútorné rozhodnutie
 
-Vedomé cestovanie nie je pre každého.  
-Oslovuje tých, ktorí cítia, že:
+Vedomé cestovanie nie je pre každého. Oslovuje tých, ktorí cítia, že:
 
 -   bežné cestovanie ich už nenapĺňa
 -   ich telo si žiada iné tempo
@@ -87,14 +79,12 @@ Oslovuje tých, ktorí cítia, že:
 
 Cestovať s úmyslom znamená zvoliť si byť plne prítomný – kdekoľvek sa nachádzate.
 
-## **Ikigai Sailing: kde sa zámer stretáva s morom**
+## Ikigai Sailing: kde sa zámer stretáva s morom
 
 Ikigai Sailing je určený pre tých, ktorí hľadajú viac než len destináciu.
 
-Ponúka priestor, rytmus a prítomnosť.  
-Nie je to sľub transformácie, ale prostredie, v ktorom sa transformácia môže prirodzene odohrávať.
+Ponúka priestor, rytmus a prítomnosť. Nie je to sľub transformácie, ale prostredie, v ktorom sa transformácia môže prirodzene odohrávať.
 
-Cesta vedená zámerom.  
-Cesta formovaná morom.
+Cesta vedená zámerom. Cesta formovaná morom.
 
-### **Objavte Ikigai Sailing**
+### Objavte Ikigai Sailing

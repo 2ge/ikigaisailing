@@ -8,7 +8,7 @@ description: >-
   nautiques. Notre objectif est d'offrir des expériences uniques à ceux qui
   partagent notre passion pour la mer et le sport.…
 locale: fr
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/catana-47/Screenshot-2025-06-20-alle-09.05.14-scaled.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -16,15 +16,13 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: 43b438b1c8e2a064
+sourceHash: e6e19c20c2def80d
 ---
 
 ### 1\. Conditions de réservation :
 
-Les activités et expériences proposées par notre association sont réservées exclusivement aux membres de l’association sportive. Nous sommes une association qui promeut les activités liées à la voile, au kitesurf, à la plongée en apnée et à d’autres disciplines de sports nautiques. Notre objectif est d’offrir des expériences uniques à ceux qui partagent notre passion pour la mer et le sport.
+Les activités et expériences proposées par notre organisation sont exclusivement réservées aux membres de l'association sportive. Nous sommes une association qui promeut des activités liées à la voile, au kitesurf, à la plongée en apnée et à d'autres disciplines de sports nautiques. Notre objectif est d'offrir des expériences uniques à ceux qui partagent notre passion pour la mer et le sport.
 
 Au moment de réserver l'une de nos expériences, les participants qui ne sont pas encore membres de l'association doivent faire une demande d'adhésion. La cotisation, qui comprend la carte de membre pour la première année, est déjà incluse dans le montant demandé pour l'expérience en question. Cela garantit que tous les participants ont pleinement accès aux activités et aux avantages réservés aux membres.
 
@@ -54,17 +52,15 @@ Pour les réservations effectuées après la date limite, le paiement intégral 
 
 Si tu annules ta réservation jusqu'à 2 mois avant le départ, tu auras le droit de demander le remboursement du montant déjà versé.
 
-Pour les annulations effectuées moins de 2 mois avant le début de l'expérience, la contribution versée ne sera pas remboursée, mais tu pourras l'utiliser comme crédit pour participer à d'autres propositions et expériences organisées par l'association.  
-Nous te recommandons tout de même de souscrire une assurance voyage couvrant cette éventualité.
+Pour les annulations effectuées moins de 2 mois avant le début de l'expérience, la contribution versée ne sera pas remboursée, mais tu pourras l'utiliser comme crédit pour participer à d'autres propositions et expériences organisées par l'association. Nous te recommandons tout de même de souscrire une assurance voyage couvrant cette éventualité.
 
 **b) Annulation de notre part :**
 
 En cas de circonstances exceptionnelles, telles que des catastrophes naturelles ou une détérioration de la stabilité politique du pays de destination, si nous estimons que la sécurité du voyage est compromise, ou si le nombre minimum de participants n'est pas atteint dans les 30 jours précédant la date de départ, le participant aura le droit de :
 
-Utiliser la contribution versée pour participer à d’autres activités ou options de voile proposées dans le programme saisonnier de l’association.  
-Demander le remboursement du montant déjà versé.
+Utiliser la contribution versée pour participer à d’autres activités ou options de voile proposées dans le programme saisonnier de l’association. Demander le remboursement du montant déjà versé.
 
-Remarque : aucun coût ou dépense supplémentaire, au-delà de la contribution versée, ne sera pris en compte à titre de compensation pour l'annulation du voyage. Nous te conseillons donc vivement de souscrire une assurance voyage pour couvrir d'éventuels frais supplémentaires.
+Remarque : aucun coût ou frais supplémentaire, au-delà de la contribution versée, ne sera pris en compte à titre de compensation pour l'annulation du voyage. Nous te conseillons donc vivement de souscrire une assurance voyage pour couvrir d'éventuels frais supplémentaires.
 
 ### 3\. Conditions de voyage et assurance :
 
@@ -102,7 +98,7 @@ L'association ne sera pas responsable des retards ou annulations causés par des
 
 ### 8\. Confidentialité et utilisation des données personnelles :
 
-Les données personnelles fournies lors de la réservation seront utilisées exclusivement à des fins administratives liées à l'expérience et ne seront pas partagées avec des tiers sans le consentement du client, conformément à la réglementation en vigueur en matière de confidentialité.
+Les données personnelles fournies au moment de la réservation seront utilisées exclusivement à des fins administratives liées à l'expérience et ne seront pas partagées avec des tiers sans le consentement du client, conformément à la réglementation en vigueur en matière de confidentialité.
 
 ### 9\. Responsabilité relative au matériel :
 

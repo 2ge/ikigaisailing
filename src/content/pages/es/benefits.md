@@ -7,7 +7,7 @@ description: >-
   crecimiento personal y el enriquecimiento cultural hasta nuevas oportunidades
   profesionales y la aventura.
 locale: es
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -15,13 +15,11 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: 1b0173628b8912d1
+sourceHash: 78534d31ba2a713b
 ---
 
-## BENEFICIOS DE LA IKIGAI SAILING
+## Beneficios de la Ikigai Sailing
 
 El mar como forma de vida
 
@@ -77,4 +75,4 @@ Fortalece los lazos personales compartiendo experiencias únicas y auténticas.
 
 ¡Súbete a bordo de tu libertad!
 
-[Pide más información](https://www.ikigaisailing.com/contact/)
+[Pide más información](/es/contacto/)

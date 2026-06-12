@@ -15,7 +15,7 @@ gallery:
   - "~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg"
   - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
 ---
-## CATANA 47
+## Catana 47
 
 CATANA 47
 
@@ -23,15 +23,13 @@ Il Catana 47 è una barca concepita per godere delle comodità e degli spazi sen
 
 [Virtual tour](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-[](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
-
 Il Catana 47 è una barca concepita per godere delle comodità e degli spazi senza rinunciare alle emozioni della vela e del mare.E’ un catamarano dalle alte performance, in grado di mantenere velocità elevate durante le lunghe traversate e di muoversi agevolmente anche con poco vento mentre gli interni spaziosi garantiscono comfort in ogni condizione meteo.
 
 La barca dispone di **2 cabine doppie** (configurabili con 2 letti singoli od 1 grande letto matrimoniale) ed **1 cabina con un letto matrimoniale**. La quarta cabina e’ stata trasformata in un **grande bagno con doccia panoramica per due persone** mentre i wc (elettrici) sono 2, uno su ogni scafo.
 
 A prua si trova la cabina dell’equipaggio, il cala vele ed un intera cabina adibita allo stoccaggio di attrezzature sportive mentre a poppa in grande tavolo del pozzetto puo essere abbassato per creare un altro grande letto matrimoniale.
 
-## IN CUCINA:
+## In Cucina:
 
 In cucina essendo amanti del buon cibo ed ex ristoratori di professione, questo ambiente ricopre un ruolo centrale a bordo ed e’ cosi allestito:
 
@@ -45,13 +43,13 @@ Bread Maker: sfornare il proprio pane giornalmente non ha prezzo
 
 ### Impianto di acqua potabile capace di erogare acqua frizzante/naturale fredda o temperatura ambiente.
 
-## AUTONOMIA:
+## Autonomia:
 
 Sotto il profilo energetico siamo completamente autonomi disponendo di 12 pannelli solari, idroturbina, 600 amper di batterie al litio ed un generatore diesel da 5kw.
 
 Disponiamo inoltre di 2 watermaker per un totale di 150 LT/H e di 1 lavatrice.
 
-## ATTREZZATURA SPORTIVA:
+## Attrezzatura Sportiva:
 
 A bordo troverete anche :
 - Dinghy 25hp,
@@ -62,29 +60,9 @@ A bordo troverete anche :
 - Attrezzatura per kitesurfing
 - Mat Yoga
 
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_8e548b8301844ce39be1761967b738c4mv2.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_8e548b8301844ce39be1761967b738c4mv2.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/20221213_090006-scaled.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/7DCEF313-82F8-4B99-A9CE-0A0AF7792C05_1_201_a-scaled.avif)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/9d81ff7c-0f84-48ed-b44a-efc36ece6d56-scaled.avif)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/77153A04-394A-4BF7-ABE8-562BB9D30533_1_201_a-scaled.avif)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/IMG_20250523_170428_304-scaled.avif)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2025/06/FA81EF04-3D2F-40C0-AE13-8A9A15863DD1_1_201_a-scaled.avif)
-
 ALLESTIMENTO
 
-## VELE
+## Vele
 
 Vele (nuove nel 2017):
 
@@ -104,7 +82,7 @@ Code 0 di 81 m2 si avvolgitore per bompresso in tessuti laminati carbonio aramid
 
 Secondo gioco di vele in dacron, randa e genoa.
 
-## ELETTRONICA
+## Elettronica
 
 Elettronica Raymarine (nuova nel 2017):
 
@@ -128,7 +106,7 @@ Radar Quantum
 
 Ricetrasmettitore AIS 650 Classe B
 
-## VARIE
+## Varie
 
 Dissalatore 12V Aquabase 105L/h ESW901
 

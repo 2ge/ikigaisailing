@@ -29,8 +29,8 @@ Grazie di cuore a tutti i 31 associati che hanno preso parte a questa avventura 
 
 Entusiasti di aver praticato insieme le nostre passioni come la vela d’altura, l’apnea, le immersioni subacquee, la pesca subacquea, il kitesurf, lo yoga, il trekking, il kayak ecc ecc oltre alla cucina e al buon cibo.
 
-Orgogliosi di aver attraversato insieme il primo oceano, l’Atlantico.  
-  
+Orgogliosi di aver attraversato insieme il primo oceano, l’Atlantico.
+
 Felice di aver condiviso insieme tanti momenti indimenticabili
 
 Restiamo in contatto!

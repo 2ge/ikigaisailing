@@ -7,15 +7,14 @@ oldUrls:
 heroImage: "~/assets/pages/ikigai/ikigaisailing.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/ikigai/ikigaisailing.avif"
   - "~/assets/trips/10-days-on-board/lucabrano5.avif"
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
   - "~/assets/trips/acconto/skipper.webp"
+
 ---
-## IKIGAI
+## Ikigai
 
 **WHAT IS IKIGAI?**
 
@@ -27,55 +26,55 @@ With**Ikigai Sailing** , we apply this philosophy by transforming it into a **wa
 
 01.
 
-### PASSION
+### Passion
 
 For the **sea, sailing, adventure, travel, cuisine, and sports**.
 
 02.
 
-### VOCATION
+### Vocation
 
 Bringing people **closer to their passions, to others, to nature, and to themselves**.
 
 03.
 
-### MISSION
+### Mission
 
 We promote **sustainable tourism** and a **healthy lifestyle** , one that nourishes our essential needs and fosters true **well-being** —our primary goal.
 
-This includes **sports activities, natural nutrition, social connection, shared intentions, and passions**.  
+This includes **sports activities, natural nutrition, social connection, shared intentions, and passions**.
 Guided by the wind, we explore the world and ourselves, immersing in cultures, discovering beauty, and savoring life’s gifts.
 
 04.
 
-### PROFESSION
+### Profession
 
-As**professional skippers and instructors** , we promote **a seafaring culture of adventure and well-being**.  
-We manage the **boat and onboard services** , including **cooking and sports equipment** , ensuring every member enjoys the experience.  
+As**professional skippers and instructors** , we promote **a seafaring culture of adventure and well-being**.
+We manage the **boat and onboard services** , including **cooking and sports equipment** , ensuring every member enjoys the experience.
 We offer **training courses and workshops** in the activities we love and practice, such as **sailing, freediving, fishing, diving, kitesurfing, and yoga**.
 
-OUR IKIGAI 
+OUR IKIGAI
 
 01.
 
-### WHAT THE WORLD NEEDS 
+### What The World Needs
 
 Freedom, sharing, awareness, friendship, trust, sustainability, dreaming, self-care, discovering, and understanding new cultures.
 
 02.
 
-### WHAT WE CAN BE PAID FOR
+### What We Can Be Paid For
 
 Sharing life on board, organizing trips, and offering **onboard courses in various sports disciplines**.
 
 03.
 
-### WHAT WE LOVE
+### What We Love
 
-Adventure, sailing, friendship, travel, nature, cuisine, sports, and personal growth. 
+Adventure, sailing, friendship, travel, nature, cuisine, sports, and personal growth.
 
 04.
 
-### WHAT WE ARE GOOD AT
+### What We Are Good At
 
 **Planning and organizing trips** , managing the boat and navigation, **team building, hospitality, positive thinking, problem-solving, cooking, and teaching**.

@@ -2,30 +2,28 @@
 title: O spoločnosti Ikigai Sailing – Zažite pokoj plavby na lodi
 description: >-
   Objavte Ikigai Sailing a nechajte sa uniesť umením plachtenia, ktoré vám
-  prinesie naplňujúci život na vode. Objavte vášeň pre dobrodružstvo, pokoj a
+  prinesie naplnený život na vode. Objavte vášeň pre dobrodružstvo, pokoj a
   prírodu
 locale: sk
-heroImage: ~/assets/pages/about/R-C.png
+heroImage: ~/assets/pages/about/20221114_180633.jpg
 gallery:
   - ~/assets/activities/janzu/janzu1.jpg
   - ~/assets/activities/kitesurf/kite-surf7.jpg
   - ~/assets/activities/project/meditazione1.jpg
   - ~/assets/activities/diving/scuba-diving-3.jpg
   - ~/assets/activities/project/yoga-ikigai.jpg
-  - ~/assets/pages/about/20221114_180633.jpg
   - ~/assets/trips/acconto/20221220_125124.jpg
   - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 translated: deepl
-sourceHash: 3c97f9b42de2b265
+sourceHash: 2645e2cb789f9f99
 needsReview: true
 ---
 
-## O NÁS
+## O nás
 
 Ikigai Sailing je rastúca komunita snílkov, námorníkov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.
 
-Sme neziskové amatérske športové združenie, uznané organizáciou **CONI** a pridružené k organizácii **MSP Italia** Sports Promotion Organization.  
-Spája nás láska k moru, slobode a dobrému jedlu, s jediným poslaním: žiť v harmónii s prírodou, nasledovať vietor a vlny.
+Sme neziskové amatérske športové združenie, uznané organizáciou **CONI** a pridružené k organizácii **MSP Italia** Sports Promotion Organization. Spojuje nás láska k moru, slobode a dobrému jedlu, s jediným poslaním: žiť v harmónii s prírodou, nasledovať vietor a vlny.
 
 od
 
@@ -53,8 +51,7 @@ Luca
 
 **Kapitán, inštruktor kitesurfingu a freedivingu Kapitán, inštruktor kitesurfingu a freedivingu**
 
-Luca je držiteľom certifikátu **RYA Yachtmaster Offshore** a **inštruktorom** **plachtenia uznávaným organizáciou CONI.**  
-Je tiež **inštruktorom** **freedivingu** pre **organizácie AIDA a Apnea Totale** a **certifikovaným inštruktorom kitesurfingu IKO International.**
+Luca je držiteľom certifikátu **RYA Yachtmaster Offshore** a **inštruktorom** **plachtenia uznávaným organizáciou CONI.** Je tiež **inštruktorom** **freedivingu** pre **organizácie AIDA a Apnea Totale** a **certifikovaným inštruktorom kitesurfingu IKO International.**
 
 Jeho vášeň pre pohostinnosť v kombinácii s láskou k dobrému jedlu vytvára **jedinečný zážitok na palube** zameraný na **fyzickú a duševnú pohodu**, spájajúci športové aktivity s praktikami ako **meditácia a Janzu**, všetko obohatené o radosti zdravého **Dolce Vita**.
 
@@ -78,19 +75,17 @@ Na palube katamaránu Ikigai som našla ideálne miesto, kde môžem spojiť tú
 
 PRÍBEH
 
-[Prečítajte si príbeh](https://www.ikigaisailing.com/en/the-story/)
+[Prečítajte si príbeh](/sk/pribeh/)
 
 Ikigai Sailing
 
-Ikigai Sailing nie je len plachetnica: **je to vízia, spôsob života**.  
-Je to **návrat k prírode, objavovanie nových horizontov a venovanie sa aktivitám, ktoré vyživujú telo i dušu**.
+Ikigai Sailing nie je len plachetnica: **je to vízia, spôsob života**. Je to **návrat k prírode, objavovanie nových horizontov a venovanie sa aktivitám, ktoré vyživujú telo i dušu**.
 
-Je to **radosť zo zdieľania autentických okamihov**, športovania, spoznávania rôznych kultúr a **prežívania každého dňa ako oddychu od rýchleho tempa moderného sveta**.  
-Inými slovami, **je to únik z Matrixu**.
+Je to **radosť zo zdieľania autentických okamihov**, športovania, spoznávania rôznych kultúr a **prežívania každého dňa ako oddychu od rýchleho tempa moderného sveta**. Inými slovami, **je to únik z Matrixu**.
 
 Náš projekt je **plavba okolo sveta**, počas ktorej učíme a zdieľame naše vášne a propagujeme **zdravý a udržateľný životný štýl**. Zažívame všetko od **preplavieb oceánov po relaxačné týždne na lodi** a rozvíjame záujmy aj mimo plachtenia: **od jedla po wellness, od športu po meditáciu**.
 
-[Objavte svoje Ikigai s nami](https://www.ikigaisailing.com/en/ikigai-2/)
+[Objavte svoje Ikigai s nami](/sk/ikigai/)
 
 ![scuba-diving-3](../../../assets/activities/diving/scuba-diving-3.jpg)
 
@@ -105,5 +100,3 @@ Náš projekt je **plavba okolo sveta**, počas ktorej učíme a zdieľame naše
 ![ikigaisailing-2024-anguilla](../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
 
 ![20221220\_125124](../../../assets/trips/acconto/20221220_125124.jpg)
-
-![20221114\_180633](../../../assets/pages/about/20221114_180633.jpg)

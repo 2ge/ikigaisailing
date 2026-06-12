@@ -7,7 +7,7 @@ image: "~/assets/pages/vita-a-bordo-social/sperafishing.webp"
 ---
 ## Cos’è la pesca in apnea e perché è speciale
 
-La pesca in apnea è forse la forma più antica di caccia e approvvigionamento che l’uomo abbia mai praticato. Ed è anche una delle più sostenibili, perché ci consente un livello di **selettività e consapevolezza** che nessun’altra tecnica può offrire.  
+La pesca in apnea è forse la forma più antica di caccia e approvvigionamento che l’uomo abbia mai praticato. Ed è anche una delle più sostenibili, perché ci consente un livello di **selettività e consapevolezza** che nessun’altra tecnica può offrire.
 Sott’acqua possiamo **scegliere con rispetto** quale preda prelevare, prendendo solo ciò che serve e lasciando che il resto continui a vivere, in un equilibrio naturale con il mare che ci ospita.
 
 ## Una disciplina sportiva e interiore
@@ -20,11 +20,11 @@ Un altro aspetto che amiamo condividere è il rispetto per la **vita dell’anim
 
 ## Dimensione umana e comunitaria
 
-C’è poi una dimensione che va oltre la pesca: quella **umana e comunitaria**.  
+C’è poi una dimensione che va oltre la pesca: quella **umana e comunitaria**.
 Uscire con i pescatori locali diventa un momento di incontro, di scambio e di amicizia. Insieme condividiamo il mare, le storie e il pasto che abbiamo conquistato con rispetto e gratitudine. È un ritorno a un istinto primordiale e a un senso di appartenenza che unisce uomo e natura in un unico respiro.
 
 ## Perché scegliere Ikigai per la pesca in apnea
 
-Per tutti questi motivi, la pesca in apnea occupa un posto speciale a bordo di **Ikigai**.  
-Non è solo un’attività, ma un’esperienza di connessione, equilibrio e gratitudine verso il mare.  
+Per tutti questi motivi, la pesca in apnea occupa un posto speciale a bordo di **Ikigai**.
+Non è solo un’attività, ma un’esperienza di connessione, equilibrio e gratitudine verso il mare.
 E non vediamo l’ora di condividerla con voi.

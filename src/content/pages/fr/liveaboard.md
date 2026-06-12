@@ -1,6 +1,8 @@
 ---
-title: Liveaboard
-description: Liveaboard
+title: La vie à bord
+description: >-
+  Curiosités, conseils et moments forts de la vie à bord d'un catamaran à voile
+  avec Ikigai Sailing — la vie en mer, loin de la terre ferme.
 locale: fr
 heroImage: ~/assets/pages/vita-a-bordo-social/respiro.jpg
 gallery:
@@ -13,13 +15,11 @@ gallery:
   - ~/assets/pages/vita-a-bordo-social/clouds-shape.webp
   - ~/assets/trips/acconto/san-blas.webp
 translated: deepl
-sourceHash: a9d2048de73df349
+sourceHash: e1eeeef7f7af36bc
 ---
 
-**La vie à bord : anecdotes, conseils et aventures d'Ikigai Sailing**
+La voile, c'est bien plus qu'un simple voyage ; c'est un mode de vie fait de découvertes, de liberté et d'un lien profond avec la nature. Nous explorons ici tous les aspects de la vie en mer : des conseils pratiques pour la vie à bord aux bienfaits d'une existence loin de la terre ferme, en passant par les étapes marquantes du voyage **Ikigai Sailing**.
 
-La voile, c'est bien plus qu'un simple voyage ; c'est un mode de vie fait de découvertes, de liberté et d'un lien profond avec la nature. Sur **La vie à bord**, on explore tout ce qui touche à la vie en mer : des meilleurs conseils pour vivre à bord aux bienfaits d'une vie loin de la terre ferme, en passant par les incroyables étapes franchies par **Ikigai Sailing**.
+Si tu rêves de prendre la mer ou si tu veux simplement comprendre ce que c'est que de vivre à plein temps à bord d'un catamaran, notre journal de bord est le point de départ idéal.
 
-Si tu rêves de prendre le large ou si tu souhaites simplement en savoir plus sur cette aventure fascinante, suis nos articles et laisse-toi inspirer par le vent et les vagues !
-
-[ToutLes](https://www.ikigaisailing.com/liveaboard/) [avantages de la vie à bordLes](https://www.ikigaisailing.com/liveaboard/?term=benefits-of-life-aboard) [étapesLa vie à](https://www.ikigaisailing.com/liveaboard/?term=life-on-board) [bordBateau multidisciplina](https://www.ikigaisailing.com/liveaboard/?term=multidisciplinary-boat)[ire](https://www.ikigaisailing.com/liveaboard/?term=life-on-board)
+[Lire le journal de bord →](/fr/blog/)

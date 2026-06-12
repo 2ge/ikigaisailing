@@ -1,10 +1,49 @@
 ---
 title: "La Rotta di Ikigai Sailing - Rotte e Destinazioni"
-description: "Segui le nostre rotte nei mari più affascinanti: dai Caraibi all’Oceano Pacifico, tra isole remote e paradisi nascosti."
+description: "Segui il viaggio di Ikigai Sailing: da Roma attraverso l'Atlantico fino ai Caraibi e a Panama — oltre 20 paesi, più di 10.000 miglia e la traversata del Pacifico all'orizzonte."
 locale: "it"
 oldUrls:
   - "/it/itinerario/"
 heroImage: "~/assets/pages/route/ikigaisailing-next-australia.jpg"
+lead: "Dal 2022 Ikigai ha navigato da Roma fino alle isole di San Blas, a Panama — oltre 10.000 miglia nautiche attraverso più di 20 paesi. Ecco il diario di bordo finora, ancoraggio dopo ancoraggio, e dove punta la prua adesso."
+voyage:
+  - year: "2022"
+    title: "Si parte"
+    legs:
+      - { when: "Luglio", place: "Roma, Italia", note: "Il punto di partenza del viaggio — un addio carico di emozioni alla capitale italiana, ricca di storia e cultura." }
+      - { when: "Agosto", place: "Sardegna, Italia", note: "La costa frastagliata dell'isola e le acque cristalline regalano scenari mozzafiato e una navigazione fluida." }
+      - { when: "Settembre", place: "Isole Baleari, Spagna", note: "Spiagge incontaminate e cale nascoste, soprattutto intorno a Maiorca e Ibiza." }
+      - { when: "Ottobre", place: "Almerimar, Spagna", note: "Una sosta tecnica per la preparazione e la manutenzione della barca in vista dell'Atlantico." }
+      - { when: "Novembre", place: "Gibilterra", note: "La porta dell'Atlantico, dove l'equipaggio si prepara per la traversata verso le Canarie." }
+      - { when: "Dicembre", place: "Capo Verde", note: "Una sosta breve e intensa ai tropici — cultura creola e paesaggi vulcanici." }
+  - year: "2023"
+    title: "Traversata atlantica e Caraibi"
+    legs:
+      - { when: "Gennaio", place: "Saint Martin", note: "Un'isola caraibica, metà francese e metà olandese, nota per le spiagge splendide e una cultura mista." }
+      - { when: "Gennaio", place: "Isole Vergini", note: "Un arcipelago da sogno di baie tranquille, perfetto per la vela e le immersioni." }
+      - { when: "Gennaio", place: "Barbuda e Antigua", note: "Spiagge di sabbia rosa e natura incontaminata; le 365 spiagge di Antigua e la sua profonda storia nautica." }
+      - { when: "Febbraio", place: "Guadalupa e Dominica", note: "Guadalupa a forma di farfalla per lo snorkeling; Dominica, l'Isola Natura, per foreste pluviali e cascate." }
+      - { when: "Marzo", place: "Le Grenadine", note: "Grenada l'Isola delle Spezie, la tradizione cantieristica di Bequia, i coralli dei Tobago Cays e la quiete di Mayreau e Union Island." }
+      - { when: "Giugno", place: "Grenada", note: "Un ritorno per godere ancora dell'ospitalità e della bellezza naturale dell'isola." }
+      - { when: "Settembre", place: "Martinica", note: "Una sosta più lunga per godere del clima favorevole e dei comfort dell'isola." }
+  - year: "2024"
+    title: "Venezuela e isole del sud"
+    legs:
+      - { when: "Gennaio", place: "Anguilla e Guadalupa", note: "Lungo l'arco settentrionale delle Piccole Antille." }
+      - { when: "Febbraio", place: "Dominica", note: "Di nuovo all'Isola Natura." }
+      - { when: "Marzo", place: "Venezuela e Los Roques", note: "Tra gli atolli selvaggi e protetti di Los Roques." }
+      - { when: "Giugno", place: "Curaçao e Los Roques", note: "Tra le isole ABC e gli arcipelaghi venezuelani." }
+      - { when: "Dicembre", place: "Los Roques", note: "Chiudendo l'anno tra acque turchesi." }
+  - year: "2025"
+    title: "Isole ABC e Panama"
+    legs:
+      - { when: "Marzo", place: "Aruba · Bonaire · Curaçao", note: "Le isole ABC, poi verso nord alla Colombia e attraverso il Canale di Panama per raggiungere il Pacifico." }
+  - year: "2026"
+    title: "San Blas, Panama"
+    legs:
+      - { when: "Adesso", place: "San Blas (Guna Yala), Panama", note: "Acque di casa per la stagione — l'arcipelago dove oggi si svolgono i nostri viaggi.", now: true }
+aheadTitle: "La rotta che ci aspetta"
+ahead: "Da qui l'avventura punta a ovest, attraverso il Pacifico — le Galápagos, le Marchesi, Tahiti e le Figi — fino al nord dell'Australia. Da lì risaliremo verso Indonesia, Thailandia, Sri Lanka e Maldive, prima di attraversare l'Oceano Indiano verso India e Dubai. Poi lungo le coste di Oman e Yemen nel Mar Rosso, oltre Sudan ed Egitto, e di nuovo nel Mediterraneo attraverso il Canale di Suez — chiudendo il cerchio."
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"
@@ -13,87 +52,4 @@ gallery:
   - "~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg"
   - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
   - "~/assets/pages/route/ikigaisailing-2025-los-roques.jpg"
-  - "~/assets/pages/route/ikigaisailing-next-australia.jpg"
 ---
-## LA ROTTA
-
-posizione in tempo reale
-
-Scopri dove ci troviamo ora e tutti i nostri spostamenti
-
-Itinerario
-
-Ecco l’elenco dei luoghi visitati da _Ikigai Sailing_ durante il suo viaggio intorno al mondo, con una breve descrizione per ciascuno:
-
-## 2022
-### Si parte!
-- **Luglio – Roma, Italia** Punto di partenza del viaggio, con un addio carico di emozioni alla capitale italiana, ricca di storia e cultura.
-- **Agosto – Sardegna, Italia** Le coste frastagliate e le acque cristalline dell’isola hanno offerto panorami mozzafiato e una navigazione tranquilla.
-- **Settembre – Baleari, Spagna** Esplorazione delle isole famose per le spiagge incontaminate, le calette nascoste e l’energia vivace, specialmente a Maiorca e Ibiza.
-- **Ottobre – Almerimar, Spagna** Tappa tecnica dedicata alla preparazione e manutenzione della barca per le sfide dell’Atlantico.
-- **Novembre – Gibilterra** La “porta dell’Atlantico”, dove l’equipaggio si è preparato per attraversare il tratto verso le Canarie.
-- **Dicembre – Capo Verde**(15-18 dicembre) Breve ma intensa sosta nelle isole tropicali, ricche di cultura creola e paesaggi vulcanici.
-
-## 2023
-### Attraversata dell'oceano
-
-**Gennaio**
-- **Saint Martin Isola caraibica metà francese e metà olandese, conosciuta per le spiagge incantevoli e lo stile europeo mescolato alla cultura locale.
-- **Isole Vergini Un arcipelago da sogno con baie tranquille, perfette per navigare e immergersi.
-- **Antigua Celebre per i suoi 365 giorni di sole e altrettante spiagge, un luogo ricco di storia nautica.
-
-**Febbraio**
-- **Guadalupa Isola a forma di farfalla, famosa per la sua biodiversità e le acque limpide perfette per lo snorkeling.
-- **Dominica La “natura dei Caraibi”, con foreste pluviali, cascate spettacolari e una cultura accogliente.
-- **Martinica Una fusione perfetta di influenze francesi e caraibiche, con paesaggi vulcanici e spiagge di sabbia nera.
-
-**Marzo**
-- **Grenada L’isola delle spezie, nota per le piantagioni di noce moscata e per le spiagge dorate.
-- **Saint Vincent Montuosa e verdeggiante, Saint Vincent ha incantato con il suo fascino autentico e selvaggio.
-- **Bequia Un’isola pittoresca famosa per la costruzione artigianale di barche e le acque tranquille.
-- **Mustique Rifugio esclusivo di celebrità, con spiagge da sogno e un’atmosfera lussuosa.
-- **Martinica Un ritorno all’isola per ulteriori esplorazioni e relax.
-- **Canouan Piccola isola nota per i resort di lusso e i panorami mozzafiato.
-- **Tobago Cays Un paradiso marino di isole disabitate e barriere coralline.
-- **Petit Saint Vincent Rifugio esclusivo con una natura rigogliosa e spiagge deserte.
-- **Union Island Vivace e caratteristica, amata per la sua atmosfera accogliente e i mercati locali.
-- **Mayreau Piccola isola dall’atmosfera intima, perfetta per una fuga tranquilla.
-- **Martinica Nuova sosta sull’isola per riposo e rifornimenti.
-- **Dominica Ritorno sull’isola per approfondire l’esplorazione della natura rigogliosa.
-
-**Giugno**
-- **Grenada Ancora una visita per apprezzare ulteriormente l’ospitalità locale e la bellezza naturale.
-
-**Settembre – Martinica Una sosta prolungata per godere del clima favorevole e delle comodità offerte dall’isola.
-
-## 2024
-### Venezuela e Isole
-
-Gennaio Anguilla, Guadalupe
-
-Febbraio Dominica
-
-Marzo Venezuela, Los Roques
-
-Giugno Curacao, Los Roques
-
-Dicembre Los Roques
-
-## 2025
-### Colombia e Panama
-
-A breve ci attende la Colombia, poi lo stretto di Panama per incontrare il Pacifico…
-
-NEXT
-
-### Febbraio 2027
-
-Pacifico
-
-NEXT
-
-### Il viaggio continua
-
-Sarà poi la volta di Isole Galapagos, Isole Marchesi, Tahiti e Figi per arrivare sulla costa settentrionale dell’Australia. Si sale poi in Indonesia per arrivare in Thailandia poi Sri Lanka, Maldive per incontrare l’Oceano Indiano poi India verso Dubai.
-
-Scendiamo a costeggiare l’Oman e lo Yemen per entrare nel Mar Rosso costeggiando il Sudan e l’Egitto per entrare nuovamente nel Mediterraneo attraverso lo Stretto di Suez e concludere con la sua esplorazione

@@ -5,26 +5,24 @@ description: >-
   vie épanouissante sur l'eau. Laisse-toi porter par la passion de l'aventure,
   de la tranquillité et de la nature
 locale: fr
-heroImage: ~/assets/pages/about/R-C.png
+heroImage: ~/assets/pages/about/20221114_180633.jpg
 gallery:
   - ~/assets/activities/janzu/janzu1.jpg
   - ~/assets/activities/kitesurf/kite-surf7.jpg
   - ~/assets/activities/project/meditazione1.jpg
   - ~/assets/activities/diving/scuba-diving-3.jpg
   - ~/assets/activities/project/yoga-ikigai.jpg
-  - ~/assets/pages/about/20221114_180633.jpg
   - ~/assets/trips/acconto/20221220_125124.jpg
   - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 translated: deepl
-sourceHash: 3c97f9b42de2b265
+sourceHash: 2645e2cb789f9f99
 ---
 
-## À PROPOS DE NOUS
+## À propos de nous
 
 Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, d'apnéistes, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
 
-Nous sommes une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**.  
-Nous sommes unis par l'amour de la mer, de la liberté et de la bonne cuisine, avec une seule mission : vivre en harmonie avec la nature, au gré du vent et des vagues.
+Nous sommes une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**. Nous sommes unis par l'amour de la mer, de la liberté et de la bonne cuisine, avec une seule mission : vivre en harmonie avec la nature, au gré du vent et des vagues.
 
 depuis
 
@@ -52,8 +50,7 @@ Luca
 
 **Skipper, moniteur de kitesurf et d'apnée Skipper, moniteur de kitesurf et d'apnée**
 
-Luca est titulaire du diplôme **RYA Yachtmaster Offshore** et **moniteur** **de voile reconnu par le CONI.**  
-Il est également **moniteur** **de plongée en apnée** pour **l'AIDA et Apnea Totale**, ainsi que **moniteur de kitesurf certifié IKO International.**
+Luca est titulaire du diplôme **RYA Yachtmaster Offshore** et **moniteur** **de voile reconnu par le CONI.** Il est également **moniteur** **de plongée en apnée** pour **l'AIDA et Apnea Totale**, ainsi que **moniteur de kitesurf certifié IKO International.**
 
 Sa passion pour l'hospitalité, combinée à son amour de la bonne cuisine, crée une **expérience à bord unique** axée sur **le bien-être physique et mental**, mêlant activités sportives à des pratiques telles que **la méditation et le Janzu**, le tout enrichi par les plaisirs d'une **Dolce Vita** saine.
 
@@ -61,7 +58,7 @@ Brano
 
 **Dive Master, chasse sous-marine et esprit d'aventure**
 
-Brano est un plongeur expert, avec des certifications allant de **Divemaster IANTD à Cave Diver et Rescue Diver**, en passant par la plongée avancée et l'apnée.
+Brano est un plongeur expert, titulaire de certifications allant de **Divemaster IANTD à Cave Diver et Rescue Diver**, en passant par la plongée avancée et l'apnée.
 
 Sa passion pour la mer l'a conduit à explorer **plus de 30 pays**, en s'adonnant aux sports extrêmes, aux voyages d'aventure et à l'innovation technologique.
 
@@ -77,19 +74,17 @@ La cuisine a toujours été ma façon d’exprimer ma créativité, mon attentio
 
 L'HISTOIRE
 
-[Lire l'histoire](https://www.ikigaisailing.com/en/the-story/)
+[Lire l'histoire](/fr/histoire/)
 
 Ikigai Sailing
 
-Ikigai Sailing n’est pas seulement un voilier : **c’est une vision, un mode de vie**.  
-C’est un **retour à la nature, la découverte de nouveaux horizons et la pratique d’activités qui nourrissent à la fois le corps et l’esprit**.
+Ikigai Sailing n’est pas seulement un voilier : **c’est une vision, un mode de vie**. C’est un **retour à la nature, la découverte de nouveaux horizons et l’adoption d’activités qui nourrissent à la fois le corps et l’esprit**.
 
-C'est le **plaisir de partager des moments authentiques**, **de** pratiquer des sports, d'explorer différentes cultures et **de vivre chaque jour comme une pause dans le monde moderne trépidant**.  
-En d'autres termes, **c'est une évasion hors de la Matrix**.
+C'est le **plaisir de partager des moments authentiques**, **de** pratiquer des sports, d'explorer différentes cultures et **de vivre chaque jour comme une pause dans le monde moderne trépidant**. En d'autres termes, **c'est une évasion de la Matrix**.
 
 Notre projet est un **voyage à la voile autour du monde**, où nous enseignons et partageons nos passions, en promouvant un **mode de vie sain et durable**. Nous vivons de tout, des **traversées océaniques aux semaines de navigation relaxantes**, en cultivant des intérêts au-delà de la voile : **de la gastronomie au bien-être, du sport à la méditation**.
 
-[Découvre ton Ikigai avec nous](https://www.ikigaisailing.com/en/ikigai-2/)
+[Découvre ton Ikigai avec nous](/fr/ikigai/)
 
 ![scuba-diving-3](../../../assets/activities/diving/scuba-diving-3.jpg)
 
@@ -104,5 +99,3 @@ Notre projet est un **voyage à la voile autour du monde**, où nous enseignons 
 ![ikigaisailing-2024-anguilla](../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
 
 ![20221220\_125124](../../../assets/trips/acconto/20221220_125124.jpg)
-
-![20221114\_180633](../../../assets/pages/about/20221114_180633.jpg)

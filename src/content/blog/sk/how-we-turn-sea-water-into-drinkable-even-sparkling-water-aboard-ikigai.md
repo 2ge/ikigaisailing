@@ -8,7 +8,7 @@ locale: sk
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp
 translated: deepl
-sourceHash: de2ecf6ec4bc289d
+sourceHash: dbb723cd087cccf4
 needsReview: true
 ---
 
@@ -16,24 +16,24 @@ Uprostred oceánu nie je **zásoba** **čerstvej vody** nikdy zaručená, a to j
 
 Každý deň vyrábame vlastnú **pitnú vodu**, dokonca aj **perlivú**, priamo z **morskej vody**. To nám umožňuje žiť **mimo siete** a výrazne znížiť náš dopad na životné prostredie.
 
-## **Premena morskej vody na pitnú vodu: prvým procesom je reverzná osmóza**
+## Premena morskej vody na pitnú vodu: prvým procesom je reverzná osmóza
 
-### **Odsoľovacie jednotky na palube**
+### Odsoľovacie jednotky na palube
 
 Náš systém sa opiera o dve **odsoľovacie jednotky**:
 
 -   50 litrov/hodinu
 -   100 litrov/hodinu
 
-### **Filtrácia a reverzná osmóza morskej vody Morská voda** prechádza cez **5-mikrónový filter** a potom **reverznou osmózou**, ktorá prepúšťa iba molekuly vody a zadržiava soli a nečistoty.
+### Filtrácia a reverzná osmóza morskej vody Morská voda prechádza cez 5-mikrónový filter a potom reverznou osmózou, ktorá prepúšťa iba molekuly vody a zadržiava soli a nečistoty.
 
 **Výsledok:** čistá pitná voda na všetky účely na palube: varenie, umývanie a pitie.
 
 **Od odsolovania až do vášho pohára: „Gurmánska“ úprava**
 
-### **4-cestný kohútik s pitnou vodou**
+### 4-cestný kohútik s pitnou vodou
 
-Na zlepšenie chuti a kvality prechádza voda cez:
+Na zlepšenie chuti a kvality voda prechádza:
 
 -   **UV lampou** → eliminuje baktérie
 -   **5-mikrónový uhlíkový filter** → zvyšuje čistotu a chuť
@@ -47,9 +47,9 @@ Všetka voda je k dispozícii prostredníctvom **4-cestného kohútika**:
 3.  Pitná voda izbovej teploty
 4.  Perlivá pitná voda
 
-## **Vplyv na životné prostredie**
+## Vplyv na životné prostredie
 
-### **Zníženie množstva plastov**
+### Zníženie množstva plastov
 
 Vďaka tomuto systému sme takmer úplne eliminovali **fľaškovú vodu**. S piatimi ľuďmi na palube desať mesiacov v roku sme sa vyhli tisícom plastových fliaš.
 

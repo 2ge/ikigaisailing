@@ -1,39 +1,30 @@
 ---
 title: Intercambio / Alojamiento pagado
 description: >-
-  Vive 10 días a bordo del Ikigai: una experiencia llena de vida auténtica,
-  esencial y revitalizante.
+  Únete a la tripulación del Ikigai en San Blas: hazte voluntario o intercambia
+  tus habilidades profesionales por un puesto a bordo de nuestro Catana 47; vive
+  la navegación, el buceo libre y la vida en el océano como un auténtico
+  protagonista.
 locale: es
 currency: EUR
 duration: flexible
 location: 'San Blas, Panama'
 membersOnly: false
 heroImage: ~/assets/trips/crew-exchange/skipper-copia.webp
-gallery:
-  - ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: fd701866a031b424
+sourceHash: c2b4017f9bbba155
 ---
 
-[![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
+Ikigai Sailing es un proyecto de vida, una vuelta al mundo por etapas que combina la navegación, la exploración, el crecimiento personal y la inmersión en la naturaleza.
 
-# Intercambio / Alojamiento pagado
-
-Ikigai Sailing es un proyecto de vida, un viaje alrededor del mundo por etapas, que combina la navegación, la exploración, el crecimiento personal y la inmersión en la naturaleza.
-
--   Descripción
--   Logística
-
-## Descripción
-
-# **Únete a la tripulación del Ikigai**
+## Únete a la tripulación del Ikigai
 
 A bordo _del Ikigai_, un catamarán de alto rendimiento Catana 47 de 14 metros, no solo ofrecemos experiencias únicas de navegación, buceo libre, kitesurf y vida marina: estamos construyendo una comunidad.
 
 Si sientes la llamada del océano y quieres ponerte a prueba, hay dos formas de formar parte de nuestra tripulación:
 
-## **Voluntarios**
+## Voluntarios
 
 ¿Quieres aprender, crecer y adquirir experiencia práctica a bordo?
 
@@ -51,21 +42,21 @@ Si eres videógrafo, narrador, bloguero de viajes, fotógrafo o creador de conte
 
 Esta es la oportunidad perfecta si tienes poca experiencia en el mar y quieres aprender sobre la marcha, o si quieres poner en práctica tu talento creativo mientras vives y cuentas una aventura única.
 
-## **Profesionales**
+## Profesionales
 
 Si ya tienes experiencia en el sector náutico y quieres contribuir de una manera más específica, buscamos azafatas y marineros con habilidades en la gestión y el mantenimiento de embarcaciones.
 
 -   Puedes presentar tu candidatura como tripulante con experiencia.
 -   Ofrecemos un entorno dinámico y estimulante, donde tus habilidades serán valoradas y puestas al servicio del proyecto.
 
-## **¿Por qué presentar tu solicitud?**
+## ¿Por qué presentar tu solicitud?
 
 -   Para vivir el mar como un hogar, no solo como unas simples vacaciones.
 -   Para formar parte de un proyecto que combina deporte, naturaleza y comunidad.
 -   Para crecer como persona y como marinero, compartiendo experiencias y responsabilidades.
 -   Para contribuir con tu trabajo o tus habilidades creativas a un proyecto auténtico y en constante evolución.
 
-[**Envía tu solicitud**](https://www.ikigaisailing.com/contact-2/)
+[**Envía tu solicitud**](/es/contacto/)
 
 Cuéntanos quién eres, cuál es tu experiencia y por qué quieres unirte a Ikigai. Tanto si eres un voluntario en busca de aventuras, un creativo que desea aportar sus habilidades o un profesional dispuesto a ofrecer apoyo concreto, nuestra tripulación te está esperando.
 
@@ -75,11 +66,10 @@ Tu viaje probablemente comenzará con tu llegada al Aeropuerto Internacional de 
 
 Por este motivo, será necesario pasar al menos una noche en la capital. Es la oportunidad perfecta para explorar la ciudad y, quizás, pasear por las encantadoras calles del Casco Viejo, el barrio histórico declarado Patrimonio de la Humanidad por la UNESCO.
 
-🕔 Al día siguiente, temprano por la mañana, un jeep 4×4 privado te recogerá directamente en tu hotel y te llevará hacia la costa caribeña.  
-Desde allí, tras aproximadamente 2,5 horas de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 a. m.
+🕔 Al día siguiente, temprano por la mañana, un jeep 4×4 privado te recogerá directamente en tu hotel y te llevará hacia la costa caribeña. Desde allí, tras aproximadamente dos horas y media de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 de la mañana.
 
-Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: un barco local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
+Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: una embarcación local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
 
-✈️ Organizamos todo el viaje en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
+✈️ Todo el viaje lo organizamos nosotros en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
 
 Si tienes alguna necesidad específica (como vuelos tempranos, retrasos o una estancia prolongada), háznoslo saber para que podamos encontrar juntos la solución más adecuada.

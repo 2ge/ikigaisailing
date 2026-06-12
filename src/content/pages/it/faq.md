@@ -13,7 +13,6 @@ gallery:
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
   - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
 ---
 ### Devo avere già esperienza di yoga, meditazione o apnea?
 
@@ -90,20 +89,15 @@ _**IMPORTANTE NON PORTARE TROLLEY O BORSE RIGIDE**_
 
 Il gruppo è composto da un massimo di 6 partecipanti, per garantire un’esperienza intima, curata e autentica.
 
-### FORMULE DI IMBARCO
+### Formule Di Imbarco
 
-[](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
-
-#### [10 Days experience](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/ "10 Days experience")
+#### [10 Days experience](/it/imbarchi/10-days-on-board/)
 
 3.000,00 €
 
-[Aggiungi al carrello](/it/faq/?add-to-cart=40826)
+[Esperienza riservata ai soci](/it/imbarchi/one-month/)
 
-[Esperienza riservata ai soci](https://www.ikigaisailing.com/it/prodotto/un-mese/)
-
-#### [Un Mese a Bordo](https://www.ikigaisailing.com/it/prodotto/un-mese/ "Un Mese a Bordo")
+#### [Un Mese a Bordo](/it/imbarchi/one-month/)
 
 2.000,00 €
 
-[Aggiungi al carrello](/it/faq/?add-to-cart=38744)

@@ -22,21 +22,23 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: 34f6145cb21088fe
+sourceHash: 3c86d008cd4ed33b
 ---
 
-## **Introducción**
+## Introducción
 
 Todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades. Esta experiencia está diseñada para ayudarte a explorar el equilibrio entre **el compromiso y la escucha**, entre **la disciplina y la libertad**. Sin expectativas, sin rendir: solo la oportunidad de reconectar contigo mismo, con los demás y con el ritmo natural de la vida.
 
-## **Rutina diaria Mañana (aprox. 1 h 30 min):** Cada día comienza con una sesión guiada que puede incluir:
+## Rutina diaria Mañana (aprox. 1 h 30 min)
+
+Cada día comienza con una sesión guiada que puede incluir:
 
 -   Técnicas de respiración consciente
 -   Secuencias de yoga dinámicas o restaurativas
 -   Meditación sentada o en movimiento
--   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo)_. Todas las sesiones se adaptan a la energía del grupo y al tiempo._
+-   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo) _Todas las sesiones se adaptan a la energía del grupo y al tiempo._\_\_
 
-**Tarde:** Termina el día con actividades centradas en **la introspección, la relajación y la regeneración**, como:
+**Por la tarde:** Termina el día con actividades centradas en **la introspección, la relajación y la regeneración**, como:
 
 -   Yoga al atardecer
 -   Meditación
@@ -44,7 +46,7 @@ Todas las actividades propuestas son **muy recomendables**, pero nunca obligator
 
 **Tiempo libre:** Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. **No hay nada que hacer más que ser.**
 
-## **La vida a bordo y la comida**
+## La vida a bordo y la comida
 
 La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el mar con lo que intercambiamos con la comunidad Guna:
 
@@ -52,9 +54,9 @@ La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el ma
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin compromiso.
 
-## **Nota importante**
+## Nota importante
 
 El programa puede sufrir modificaciones en función de:
 
@@ -64,15 +66,15 @@ El programa puede sufrir modificaciones en función de:
 
 **Cualquier cambio tiene como objetivo garantizar la seguridad y la calidad de la experiencia.**
 
-## **Itinerario día a día**
+## Itinerario día a día
 
-### **Llegada a la ciudad de Panamá**
+### Llegada a la ciudad de Panamá
 
 -   Traslado privado desde el aeropuerto
 -   Noche en **el Casco Viejo**, barrio declarado Patrimonio de la Humanidad por la UNESCO
 -   Paseo nocturno por callejuelas coloniales, animadas terrazas, música y gastronomía local
 
-### **Día 1 – Bienvenido a Banedup. Lo más destacado:**
+### Día 1 – Bienvenido a Banedup. Lo más destacado:
 
 -   Snorkel, voleibol de playa, primeros baños
 -   Charla de seguridad y presentación de la tripulación
@@ -85,18 +87,18 @@ El programa puede sufrir modificaciones en función de:
 -   Snorkel en los arrecifes de coral
 -   Routine nocturna opcional
 
-### **Día 2 – Chichime Una isla animada con cabañas en la playa y ambiente caribeño**
+### Día 2 – Chichime Una isla animada con cabañas en la playa y ambiente caribeño
 
 -   06:30–08:00: Rutina matutina
 -   09:00: Desayuno
--   10:00: Navegación hacia Chichime
+-   10:00: Navegamos hacia Chichime
 -   11:00–16:00: Tiempo libre — buceo con tubo, natación, juegos en la playa
 -   Almuerzo en un restaurante frente al mar
 -   17:30–19:00: Rutina de la tarde
 -   20:00: Cena
 -   21:00: Música en directo y karaoke opcionales en tierra
 
-### **Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
+### Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida
 
 -   06:30–08:00: Rutina matutina
 -   08:30: Desayuno
@@ -107,7 +109,7 @@ El programa puede sufrir modificaciones en función de:
 -   19:00: Teoría del buceo libre (respiración, compensación, seguridad)
 -   20:30: Cena y observación de la vida marina bajo las luces del barco
 
-### **Día 4 – Cayos del Oeste de los Países Bajos Práctica de buceo libre y conexión profunda**
+### Día 4 – Cayos del Oeste de los Países Bajos Práctica de buceo libre y conexión profunda
 
 -   06:30–07:30: Respiración y estiramientos para el buceo libre
 -   07:30: Desayuno ligero
@@ -118,7 +120,7 @@ El programa puede sufrir modificaciones en función de:
 -   17:30: Rutina de la tarde
 -   20:00: Cena
 
-### **Día 5 – Laguna de Dutch Cays Aventuras en la laguna, yoga y noche de hoguera**
+### Día 5 – Laguna de Dutch Cays Aventuras en la laguna, yoga y noche de hoguera
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -129,7 +131,7 @@ El programa puede sufrir modificaciones en función de:
 -   17:30: Yoga al atardecer o cardio/artes marciales
 -   19:30: Barbacoa en la playa y hoguera con las familias Guna
 
-### **Día 6 – Dutch Cays «Piscina natural» El fondeadero con las mejores vistas**
+### Día 6 – Dutch Cays «Piscina natural» El fondeadero con las mejores vistas
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -139,7 +141,7 @@ El programa puede sufrir modificaciones en función de:
 -   17:00: Isla de las Tortugas – yoga, descanso, Tabata
 -   19:30: Cena barbacoa bajo las estrellas
 
-### **Día 7 – Dutch Cays / Green Island: cocos, artesanía, snorkel y noche de cine**
+### Día 7 – Dutch Cays / Green Island: cocos, artesanía, snorkel y noche de cine
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -151,7 +153,7 @@ El programa puede sufrir modificaciones en función de:
 -   20:00: Cena
 -   21:30: Noche de cine al aire libre
 
-### **Día 8 – Isla Verde Janzu, libertad y descanso**
+### Día 8 – Isla Verde Janzu, libertad y descanso
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -159,7 +161,7 @@ El programa puede sufrir modificaciones en función de:
 -   18:30: Rutina nocturna opcional
 -   20:00: Cena
 
-### **Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta**
+### Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -169,14 +171,14 @@ El programa puede sufrir modificaciones en función de:
 -   17:00: Rutina de la tarde
 -   19:00–23:00: Hoguera de despedida: langosta a la parrilla y música
 
-### **Día 10 – Regreso a Banedup Últimos momentos en el paraíso**
+### Día 10 – Regreso a Banedup Últimos momentos en el paraíso
 
 -   Por la mañana: Desayuno tranquilo
 -   12:00: Navegamos de vuelta a Banedup
 -   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
 -   19:00: Cena
--   20:30: Ceremonia de clausura y vídeo resumen
+-   20:30: Ceremonia de clausura y resumen en vídeo
 
-### **Día 11 – Regreso**
+### Día 11 – Regreso
 
-Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** ![🌍](https://s.w.org/images/core/emoji/16.0.1/svg/1f30d.svg)
+Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** 🌍

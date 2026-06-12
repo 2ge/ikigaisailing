@@ -1,6 +1,6 @@
 ---
-title: "Liveaboard"
-description: "Liveaboard"
+title: "Life Aboard"
+description: "Curiosities, tips and the milestones of living full-time aboard a sailing catamaran with Ikigai Sailing — life at sea, away from land."
 locale: "en"
 oldUrls:
   - "/liveaboard/"
@@ -15,10 +15,8 @@ gallery:
   - "~/assets/pages/vita-a-bordo-social/clouds-shape.webp"
   - "~/assets/trips/acconto/san-blas.webp"
 ---
-**Life on a Boat: Curiosities, Tips, and the Adventures of Ikigai Sailing**
+Sailing is more than a journey; it’s a lifestyle of discovery, freedom, and deep connection with nature. Here we explore everything about life at sea — from the practical tips of living on board, to the benefits of a life away from land, to the milestones of the **Ikigai Sailing** voyage.
 
-Sailing is more than just a journey; it’s a lifestyle of discovery, freedom, and deep connection with nature. On **Life on a Boat** , we explore everything about life at sea: from the best tips for living on board to the benefits of a life away from land, and the incredible milestones of **Ikigai Sailing**.
+If you dream of setting sail, or simply want to understand what full-time life aboard a catamaran really feels like, our logbook is the place to start.
 
-If you dream of setting sail or simply want to learn more about this fascinating adventure, follow our articles and let yourself be inspired by the wind and the waves!
-
-[All](https://www.ikigaisailing.com/liveaboard/)[Benefits of life aboard](https://www.ikigaisailing.com/liveaboard/?term=benefits-of-life-aboard)[Legs](https://www.ikigaisailing.com/liveaboard/?term=legs)[Life on board](https://www.ikigaisailing.com/liveaboard/?term=life-on-board)[Multidisciplinary boat](https://www.ikigaisailing.com/liveaboard/?term=multidisciplinary-boat)
+[Read the logbook →](/blog/)

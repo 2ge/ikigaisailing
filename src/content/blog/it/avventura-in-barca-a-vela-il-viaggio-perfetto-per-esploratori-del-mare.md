@@ -20,6 +20,6 @@ Scoprire il mondo dal mare offre un senso di libertà senza pari. **I viaggi avv
 
 ### Prenota la Tua Prossima Avventura
 
-Se desideri un’esperienza di viaggio fuori dal comune, un **sailing adventure trip** è ciò che fa per te. Scopri le nostre offerte e parti per un viaggio indimenticabile. 
+Se desideri un’esperienza di viaggio fuori dal comune, un **sailing adventure trip** è ciò che fa per te. Scopri le nostre offerte e parti per un viaggio indimenticabile.
 
 Contact us and book your boarding now

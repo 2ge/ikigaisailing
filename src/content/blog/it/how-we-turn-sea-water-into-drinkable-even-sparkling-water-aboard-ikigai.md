@@ -9,23 +9,23 @@ Trasformare l’acqua del mare in acqua potabile in mezzo all’oceano, dove l�
 
 Ogni giorno produciamo la nostra **acqua potabile** e persino **frizzante** , direttamente dall’**acqua di mare**. Questo ci permette di vivere **off-grid** e ridurre drasticamente l’impatto ambientale della navigazione.
 
-## **Il primo processo: l’osmosi inversa**
+## Il primo processo: l’osmosi inversa
 
-### **Dissalatori a bordo**
+### Dissalatori a bordo
 
 Alla base del sistema ci sono due **dissalatori** :
 - 50 litri/ora
 - 100 litri/ora
 
-### **Filtrazione e osmosi inversa**
+### Filtrazione e osmosi inversa
 
 L’**acqua di mare** passa attraverso un **filtro a 5 micron** , quindi un sistema di **osmosi inversa** che lascia passare solo le molecole d’acqua, bloccando sali e impurità.
 
 **Risultato:** acqua pulita, potabile e pronta per tutti gli usi a bordo: cucinare, lavare e bere.
 
-## **Dal dissalatore al bicchiere: il trattamento “gourmet”**
+## Dal dissalatore al bicchiere: il trattamento “gourmet”
 
-### **Rubinetto a 4 vie**
+### Rubinetto a 4 vie
 
 Per migliorare gusto e qualità, l’acqua passa attraverso:
 - **Lampada UV** → elimina batteri
@@ -40,9 +40,9 @@ Il sistema arriva a un **rubinetto a 4 vie** :
   3. Acqua potabile a temperatura ambiente
   4. Acqua potabile frizzante
 
-## **L’impatto ambientale**
+## L’impatto ambientale
 
-### **Riduzione della plastica**
+### Riduzione della plastica
 
 Grazie al sistema, abbiamo eliminato quasi completamente l’acquisto di **acqua in bottiglia**. Con cinque persone a bordo per dieci mesi l’anno, abbiamo evitato migliaia di bottiglie di plastica.
 

@@ -7,16 +7,16 @@ image: "~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg"
 ---
 Have you ever thought at sailing as a tool for personal evolution and growth?
 
-Some experiences don’t need much explanation. You feel them.  
+Some experiences don’t need much explanation. You feel them.
 Sailing is one of them.
 
 The rhythm of the wind, the movement of the sea, the absence of constant noise. This isn’t just relaxation — it’s a **natural reset for the nervous system**.
 
 Long before wellness trends, sailors knew: **life at sea slows the mind by restoring safety to the body**. This is why sailing can be a powerful tool for our personal growth.
 
-## **The nervous system responds to rhythm, not speed**
+## The nervous system responds to rhythm, not speed
 
-Our nervous system isn’t designed for constant stimulation.  
+Our nervous system isn’t designed for constant stimulation.
 Notifications, deadlines and multitasking keep us in survival mode.
 
 At sea, the opposite happens:
@@ -26,17 +26,17 @@ At sea, the opposite happens:
 
 This allows the body to shift from **fight-or-flight** into regulation and recovery. Personal growth has to go through the co-regulation of our nervous system, and sailing promotes this process.
 
-## **Why sailing works better than a typical holiday**
+## Why sailing works better than a typical holiday
 
 Unlike conventional vacations, sailing:
 - invites gentle presence, not performance
 - removes unnecessary stimuli
 - creates co-regulation (crew, wind, sea)
 
-You’re not a spectator — you’re part of a living system.  
+You’re not a spectator — you’re part of a living system.
 That balance is what helps the nervous system settle.
 
-## **Open water and inner safety**
+## Open water and inner safety
 
 It may seem counterintuitive, but simplicity creates calm.
 
@@ -47,9 +47,9 @@ On a catamaran:
 
 This external simplicity builds **internal safety** , a key element for deep wellbeing.
 
-## **Silence and the horizon effect**
+## Silence and the horizon effect
 
-A continuous horizon has a direct impact on the nervous system.  
+A continuous horizon has a direct impact on the nervous system.
 Vision softens. Breathing deepens. The mind stops anticipating.
 
 Many people experience:

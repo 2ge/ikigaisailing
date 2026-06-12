@@ -1,8 +1,10 @@
 ---
 title: Expérience Ikigai
 description: >-
-  Vivre 10 jours à bord de l'Ikigai : un concentré de vie authentique,
-  essentielle et revigorante.
+  Dix jours à bord de l'Ikigai dans l'archipel de San Blas : un concentré de vie
+  authentique, essentielle et régénérante : plongée en apnée, yoga, navigation
+  tranquille et pratiques transformatrices avec nos moniteurs
+  multidisciplinaires.
 locale: fr
 price: 300
 currency: EUR
@@ -24,14 +26,16 @@ gallery:
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 translated: deepl
-sourceHash: f1445669ea39b4cc
+sourceHash: b8400332256a6c72
 ---
 
-## **Introduction**
+## Introduction
 
-Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
+Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation, c’est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
 
-## **Programme quotidien Matin (env. 1h30) :** Chaque journée commence par une séance guidée pouvant inclure :
+## Programme quotidien Matin (env. 1h30)
+
+Chaque journée commence par une séance guidée qui peut inclure :
 
 -   Des techniques de respiration consciente
 -   Des enchaînements de yoga dynamiques ou réparateurs
@@ -44,9 +48,9 @@ Toutes les activités proposées sont **vivement recommandées**, mais jamais ob
 -   Méditation
 -   Partage en silence ou en cercle _(selon le groupe et le lieu)_\_\_
 
-**Temps libre :** les pauses entre les activités sont volontairement laissées libres — pour se reposer, lire, nager, profiter du silence ou vivre des moments spontanés. **Il n’y a rien d’autre à faire que d’être.**
+**Temps libre :** les pauses entre les activités sont volontairement laissées libres — pour le repos, la lecture, la baignade, le silence ou des moments spontanés. **Il n’y a rien d’autre à faire que d’être.**
 
-## **La vie à bord et la nourriture**
+## La vie à bord et la nourriture
 
 La nourriture est au cœur de la vie sur _l'Ikigai_. On mélange ce que la mer nous offre avec ce qu'on échange avec la communauté Guna :
 
@@ -56,7 +60,7 @@ La nourriture est au cœur de la vie sur _l'Ikigai_. On mélange ce que la mer n
 
 Nous pêchons dès que possible et préparons des plats créatifs : **carpaccio, tartare, sashimi**, et bien plus encore. **Partager les repas est un moment sacré.** Tu es le bienvenu pour participer à la préparation — dans un esprit de communauté, sans aucune obligation.
 
-## **Remarque importante**
+## Remarque importante
 
 Le programme peut être modifié en fonction :
 
@@ -66,17 +70,17 @@ Le programme peut être modifié en fonction :
 
 **Chaque modification vise à garantir la sécurité et la qualité de l'expérience.**
 
-## **Itinéraire jour par jour – exemple d'une expérience de 10 jours**
+## Itinéraire jour par jour – exemple d'une expérience de 10 jours
 
-### Remarque : les activités seront adaptées et reprogrammées en fonction des jours réservés et des expériences choisies par les autres participants à bord.
+_Remarque : les activités seront adaptées et reprogrammées en fonction des jours réservés et des expériences choisies par les autres participants à bord._
 
-### **Arrivée à Panama City**
+### Arrivée à Panama City
 
 -   Transfert privé depuis l'aéroport
 -   Nuit à **Casco Viejo**, quartier classé au patrimoine de l'UNESCO
 -   Promenade en soirée dans les ruelles coloniales, entre terrasses animées, musique et cuisine locale
 
-### **Jour 1 – Bienvenue à Banedup Points forts :**
+### Jour 1 – Bienvenue à Banedup Points forts :
 
 -   Plongée avec tuba, beach-volley, premières baignades
 -   Briefing sur la sécurité et présentation de l'équipage
@@ -89,7 +93,7 @@ Le programme peut être modifié en fonction :
 -   Plongée libre sur les récifs coralliens
 -   Soirée libre
 
-### **Jour 2 – Chichime Une île animée avec des cabanes de plage et une ambiance caribéenne**
+### Jour 2 – Chichime Une île animée avec des cabanes de plage et une ambiance caribéenne
 
 -   06h30–08h00 : Programme du matin
 -   09h00 : Petit-déjeuner
@@ -100,7 +104,7 @@ Le programme peut être modifié en fonction :
 -   20h00 : Dîner
 -   21h00 : Musique live et karaoké en option à terre
 
-### **Jour 3 – Cays néerlandais occidentaux (Cayo Holandés Oeste) Une nature intacte et des récifs coralliens colorés**
+### Jour 3 – Cays néerlandais occidentaux (Cayo Holandés Oeste) Une nature intacte et des récifs coralliens colorés
 
 -   06h30–08h00 : Routine matinale
 -   08h30 : Petit-déjeuner
@@ -111,7 +115,7 @@ Le programme peut être modifié en fonction :
 -   19h00 : Théorie de la plongée en apnée (respiration, équilibrage, sécurité)
 -   20h30 : Dîner et observation de la vie marine à la lumière des projecteurs du bateau
 
-### **Jour 4 – West Dutch Cays Entraînement à la plongée en apnée et connexion profonde**
+### Jour 4 – West Dutch Cays Entraînement à la plongée en apnée et connexion profonde
 
 -   06h30–07h30 : Respiration et étirements pour la plongée en apnée
 -   07h30 : Petit-déjeuner léger
@@ -122,7 +126,7 @@ Le programme peut être modifié en fonction :
 -   17h30 : Routine du soir
 -   20h00 : Dîner
 
-### **Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp**
+### Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp
 
 -   06h30 : Routine du matin
 -   08h30 : Petit-déjeuner
@@ -133,7 +137,7 @@ Le programme peut être modifié en fonction :
 -   17h30 : Yoga au coucher du soleil ou cardio/arts martiaux
 -   19h30 : Barbecue sur la plage et feu de camp avec les familles Guna
 
-### **Jour 6 – Dutch Cays « Swimming Pool » Le mouillage le plus pittoresque**
+### Jour 6 – Dutch Cays « Swimming Pool » Le mouillage le plus pittoresque
 
 -   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
@@ -143,7 +147,7 @@ Le programme peut être modifié en fonction :
 -   17h00 : Turtle Island – yoga, repos, Tabata
 -   19h30 : Dîner barbecue sous les étoiles
 
-### **Jour 7 – Dutch Cays / Green Island Noix de coco, artisanat, plongée avec tuba et soirée cinéma**
+### Jour 7 – Dutch Cays / Green Island Noix de coco, artisanat, plongée avec tuba et soirée cinéma
 
 -   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
@@ -155,7 +159,7 @@ Le programme peut être modifié en fonction :
 -   20h00 : Dîner
 -   21h30 : Soirée cinéma en plein air
 
-### **Jour 8 – Green Island Janzu, liberté et repos**
+### Jour 8 – Green Island Janzu, liberté et repos
 
 -   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
@@ -163,7 +167,7 @@ Le programme peut être modifié en fonction :
 -   18h30 : Routine du soir (facultative)
 -   20h00 : Dîner
 
-### **Jour 9 – Île privée de Coco Bandero, requins, soirée festive**
+### Jour 9 – Île privée de Coco Bandero, requins, soirée festive
 
 -   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
@@ -173,7 +177,7 @@ Le programme peut être modifié en fonction :
 -   17h00 : Routine du soir
 -   19h00–23h00 : Dernière soirée autour du feu de camp : homard grillé et musique
 
-### **Jour 10 – Retour à Banedup Derniers instants au paradis**
+### Jour 10 – Retour à Banedup Derniers instants au paradis
 
 -   Matin : Petit-déjeuner tranquille
 -   12h00 : Retour à Banedup
@@ -181,6 +185,6 @@ Le programme peut être modifié en fonction :
 -   19h00 : Dîner
 -   20h30 : Cérémonie de clôture et récapitulatif vidéo
 
-### **Jour 11 – Retour**
+### Jour 11 – Retour
 
-Un bateau Guna viendra te chercher et te ramènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** ![🌍](https://s.w.org/images/core/emoji/16.0.1/svg/1f30d.svg)
+Un bateau Guna viendra te chercher et t'emmènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍

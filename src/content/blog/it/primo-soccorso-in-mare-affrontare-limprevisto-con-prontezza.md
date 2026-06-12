@@ -9,7 +9,7 @@ image: "~/assets/pages/vita-a-bordo-social/first-aid.webp"
 
 🚑 **L’importanza del primo soccorso in barca In mare, l’imprevedibilità è parte dell’avventura, ma anche una sfida. Un piccolo incidente può trasformarsi in un problema serio se non si è preparati. Sapere come gestire emergenze come ferite, ustioni, malesseri improvvisi o addirittura situazioni più critiche è fondamentale per garantire la sicurezza di tutti a bordo.
 
-### **Situazioni comuni di emergenza in barca e come affrontarle**
+### Situazioni comuni di emergenza in barca e come affrontarle
 
   1. **Tagli e ferite**
 - **Cosa fare:** Pulire la ferita con acqua dolce, disinfettarla e applicare una medicazione sterile. Fermare l’emorragia con pressione diretta, se necessario.

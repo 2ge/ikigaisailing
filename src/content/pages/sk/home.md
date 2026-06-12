@@ -1,5 +1,7 @@
 ---
-title: Ikigai Sailing – Plachtenie s plným sústredením a dobrodružstvá na mori
+title: >-
+  Ikigai Sailing – Plachtenie s dôrazom na prítomný okamih a dobrodružstvá na
+  mori
 description: >-
   Objavte čaro plavby v súlade s prírodou s Ikigai Sailing. Šnorchlovanie,
   kitesurfing a dobrodružstvá na najkrajších moriach sveta.
@@ -15,40 +17,39 @@ gallery:
   - ~/assets/trips/acconto/ikigaisailing.webp
   - ~/assets/trips/acconto/lucabrano5.webp
 translated: deepl
-sourceHash: f9c05460afe7ec68
+sourceHash: 36aa570fbb33271b
 needsReview: true
 ---
 
-## O NÁS
+## O nás
 
-Ikigai Sailing je neziskové amatérske športové združenie, uznané organizáciou **CONI** a pridružené k organizácii **MSP Italia** Sports Promotion Organization.  
-Rastúca komunita snílkov, jachtárov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.
+Ikigai Sailing je neziskové amatérske športové združenie, uznané organizáciou **CONI** a pridružené k organizácii **MSP Italia** Sports Promotion Organization. Rastúca komunita snílkov, jachtárov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.
 
-[Zisti viac](https://www.ikigaisailing.com/about-us/)
+[Zisti viac](/sk/o-nas/)
 
 ## Ikigai Sailing – sezóna 2025/26 San Blas
 
 Zažite Ikigai na otvorenom mori: dobrodružstvo, sloboda a osobný rast v karibských zázrakoch.
 
-[Zistite viac a rezervujte si už teraz](https://www.ikigaisailing.com/2025-26-season/)
+[Zistite viac a rezervujte si už teraz](/sk/sezona-2025-26/)
 
-## VÁŠEŇ
+## Vášeň
 
-Pre more, plachtenie, dobrodružstvo, cestovanie, varenie, šport.
+K moru, plachteniu, dobrodružstvu, cestovaniu, vareniu, športu.
 
-[ZISTITE VIAC](https://www.ikigaisailing.com/2025-26-season/)
+[ZISTITE VIAC](/sk/sezona-2025-26/)
 
-## POSLANIE
+## Poslanie
 
 Približovať ľudí k ich vášňam, k ostatným, k prírode a k sebe samým.
 
-[ZISTITE VIAC](https://www.ikigaisailing.com/2025-26-season/)
+[ZISTITE VIAC](/sk/sezona-2025-26/)
 
-## POVOLANIE
+## Povolanie
 
 Ponúkame školenia a stáže v aktivitách, ktoré milujeme a praktizujeme, ako je plachtenie, freediving, rybárčenie, potápanie, kitesurfing a jóga.
 
-[ZISTITE VIAC](https://www.ikigaisailing.com/2025-26-season/)
+[ZISTITE VIAC](/sk/sezona-2025-26/)
 
 ## Zažite more ako svoj domov
 
@@ -58,7 +59,7 @@ Mesiac na znovuobjavenie seba samého
 
 Mesiac na znovuobjavenie seba samého
 
-[Zistite viac a rezervujte si už teraz](https://www.ikigaisailing.com/2025-26-season/)
+[Zistite viac a rezervujte si už teraz](/sk/sezona-2025-26/)
 
 PLÁVANIE PO
 
@@ -70,13 +71,13 @@ Naša budúca trasa nás zavedie do Kolumbie, **cez Panamský prieplav a Tichý 
 
 **Pridajte sa k nám a zažite vzrušenie z plavby do neznáma a objavovania sveta z jedinečnej perspektívy.**
 
-[O NÁS](https://www.ikigaisailing.com/en/about-us/)
+[O NÁS](/sk/o-nas/)
 
 od
 
 2022
 
-Plachtenie po oceánoch
+Plavba po oceánoch
 
 20
 
@@ -90,50 +91,34 @@ AKTIVITY NA PALUBE
 
 Striedame dlhé plavby cez nepreskúmané miesta s pokojnejšími obdobiami, keď objavujeme destinácie, ktoré dokonale ladia s našou filozofiou a aktivitami, ktorým sa venujeme.
 
-## [A oveľa viac... Objavte všetky aktivity tu](https://www.ikigaisailing.com/en/sport/)
+## [A oveľa viac... Objavte všetky aktivity tu](/sk/aktivity/)
 
-### MOŽNOSTI PLÁVANIA
+### Možnosti plavby
 
-Vyrazte na dobrodružstvo s Ikigai Sailing!
+Vyplávajte za dobrodružstvom s Ikigai Sailing!
 
-Objavte radosť zo slobody, objavovania a pohody na mori vďaka jedinečným zážitkom navrhnutým pre každého dobrodruha. Od týždňov čistej únikovej dovolenky až po transformatívne pobyty – máme pre vás tú správnu cestu.
+Objavte radosť zo slobody, objavovania a pohody na mori vďaka jedinečným zážitkom navrhnutým pre každého dobrodružného ducha. Od týždňov čistej únikovej dovolenky až po transformatívne pobyty – máme pre vás tú správnu cestu.
 
-[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+#### [Ikigai Experience](/sk/plavby/ikigai-experience/)
 
-[Pridať do košíka](/sk/?add-to-cart=95653)
+#### [10 dní na palube Ikigai](/sk/plavby/10-days-on-board/)
 
-#### [Ikigai Experience](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
+[Zážitok vyhradený pre členov!](/sk/plavby/pacific-crossing/)
 
-[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+#### [Preplavba Tichým oceánom](/sk/plavby/pacific-crossing/)
 
-[Pridať do košíka](/sk/?add-to-cart=40866)
+[Prečítajte si viac](/sk/plavby/crew-exchange/)
 
-#### [10 dní na palube Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
+#### [Výmena / Platené ubytovanie](/sk/plavby/crew-exchange/)
 
-[Zážitok vyhradený pre členov!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[Zážitok vyhradený pre členov](/sk/plavby/one-month/)
 
-[Pridať do košíka](/sk/?add-to-cart=39308)
-
-#### [Plavba cez Tichý oceán](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
-
-[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-[Prečítajte si viac](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-#### [Výmena / Platené ubytovanie](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
-
-[Zážitok vyhradený pre členov](https://www.ikigaisailing.com/prodotto/one-month/)
-
-[Pridať do košíka](/sk/?add-to-cart=39306)
-
-#### [Jeden mesiac na palube](https://www.ikigaisailing.com/prodotto/one-month/ "One month aboard")
-
-## TRASA
+## Trasa
 
 Zistite, kde sa momentálne nachádzame
 
-V rokoch 2025/26 nás naša cesta zavedie na očarujúce ostrovy San Blas, jedinečný karibský raj. Preplavba Tichým oceánom je naplánovaná na rok 2027 a otvorí novú kapitolu dobrodružstiev, ktoré nás čakajú.
+V rokoch 2025/26 nás naša cesta zaviedla na očarujúce ostrovy San Blas, jedinečný karibský raj. Preplavba Tichým oceánom je naplánovaná na rok 2027, čím sa otvorí nová kapitola dobrodružstiev.
 
 -   San Blas
 
-[Objavte trasu](https://www.ikigaisailing.com/en/the-route/)
+[Objavte trasu](/sk/trasa/)

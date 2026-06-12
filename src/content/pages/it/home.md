@@ -1,6 +1,6 @@
 ---
-title: "Ikigai Sailing – A sail toward what truly matters"
-description: "Join our sailing community and explore the world by catamaran: freediving, kitesurfing, spearfishing, and wellness at sea."
+title: "Ikigai Sailing – Una vela verso ciò che conta davvero"
+description: "Unisciti alla nostra comunità velica ed esplora il mondo in catamarano: apnea, kitesurf, pesca subacquea e benessere in mare."
 locale: "it"
 oldUrls:
   - "/it/home/"
@@ -19,49 +19,49 @@ gallery:
 
 Vivi l’esperienza Ikigai in mare aperto: avventura, libertà e crescita personale tra le meraviglie dei Caraibi.
 
-[Scopri di più e prenota ora](https://www.ikigaisailing.com/stagione-2025-26/)
+[Scopri di più e prenota ora](/it/stagione-2025-26/)
 
-## Vivi il mare come casa   
+## Vivi il mare come casa
 Un mese per ritrovarti
 
-## Vivi il mare come casa   
+## Vivi il mare come casa
 Un mese per ritrovarti
 
-**Contributo: 2.000€ per un mese di vita a bordo**   
+**Contributo: 2.000€ per un mese di vita a bordo**
  _Inizia con una settimana di prova a 1.000€_
 
-[Scopri di più e prenota ora](https://www.ikigaisailing.com/it/stagione-2025-26-2/)
+[Scopri di più e prenota ora](/it/stagione-2025-26/)
 
-## PASSIONE
+## Passione
 
 Per il mare, la vela, l’avventura, i viaggi, la cucina, gli sport
 
-[scopri di più](https://www.ikigaisailing.com/ikigai/)
+[scopri di più](/it/ikigai/)
 
-## MISSIONE
+## Missione
 
-Promuoviamo un turismo sostenibile ed uno stile di vita sano grazie al quale nutrire a pieno i semplici bisogni primari capaci di produrre il vero Ben-Essere 
+Promuoviamo un turismo sostenibile ed uno stile di vita sano grazie al quale nutrire a pieno i semplici bisogni primari capaci di produrre il vero Ben-Essere
 
-[scopri di più](https://www.ikigaisailing.com/ikigai/)
+[scopri di più](/it/ikigai/)
 
-## VOCAZIONE
+## Vocazione
 
-Avvicinare le persone alle loro passioni, ad altre persone, alla natura ed a sè stesse. 
+Avvicinare le persone alle loro passioni, ad altre persone, alla natura ed a sè stesse.
 
-[scopri di più](https://www.ikigaisailing.com/ikigai/)
+[scopri di più](/it/ikigai/)
 
-## PROFESSIONE
+## Professione
 
 Svolgiamo corsi formativi e stage delle attività che amiamo e che pratichiamo quali la vela, l’apnea, la pesca, il diving, il kitesurf e lo yoga.
 
-[scopri di più](https://www.ikigaisailing.com/ikigai/)
+[scopri di più](/it/ikigai/)
 
-## ABOUT US
+## About Us
 
-Ikigai Sailing è un’associazione sportiva dilettantistica senza scopo di lucro, riconosciuta dal **CONI** e affiliata all’ente di promozione sportiva **MSP Italia.**  
-Una comunità in crescita di sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di avventura e sport. 
+Ikigai Sailing è un’associazione sportiva dilettantistica senza scopo di lucro, riconosciuta dal **CONI** e affiliata all’ente di promozione sportiva **MSP Italia.**
+Una comunità in crescita di sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di avventura e sport.
 
-[Discover more](https://www.ikigaisailing.com/about-us/)
+[Discover more](/it/chi-siamo/)
 
 SAILING AROUND
 
@@ -71,10 +71,10 @@ THE WORLD
 
 Siamo partiti dal Mediterraneo nell’estate 2022, attraversando l’Atlantico fino ai Caraibi, navigando tra Antille, Los Roques e Antille Olandesi.
 
-La nostra rotta ci porterà ora in Colombia, attraverso il Canale di Panama, verso il Pacifico: Galápagos, Polinesia Francese, Fiji, Indonesia, Asia e infine ritorno nel Mediterraneo.  
+La nostra rotta ci porterà ora in Colombia, attraverso il Canale di Panama, verso il Pacifico: Galápagos, Polinesia Francese, Fiji, Indonesia, Asia e infine ritorno nel Mediterraneo.
 **Unisciti a bordo per scoprire il mondo a vela, da una prospettiva unica.**
 
-[ CHI SIAMO ](https://www.ikigaisailing.com/about/)
+[ CHI SIAMO ](/it/chi-siamo/)
 
 dal
 
@@ -98,49 +98,35 @@ ATTIVITÀ A BORDO
 
 Alterniamo lunghe navigazioni in luoghi inesplorati a periodi di maggiore stabilità quando scopriamo posti che si allineano perfettamente con la nostra filosofia e le attività che pratichiamo
 
-## [E molto altro ancora... Scopri tutte le attività qui](https://www.ikigaisailing.com/sport-attivita/)
+## [E molto altro ancora... Scopri tutte le attività qui](/it/attivita/)
 
-### FORMULE DI IMBARCO
+### Formule Di Imbarco
 
 Salpa verso l’avventura con Ikigai Sailing!
 
 Scopri il piacere della libertà, della scoperta e del benessere in mare con esperienze uniche pensate per ogni spirito avventuroso. Da settimane di pura evasione a ritiri trasformativi, c’è un viaggio perfetto per te.
 
-[](https://www.ikigaisailing.com/it/prodotto/ikigai-experience/)
+#### [Ikigai experience](/it/imbarchi/ikigai-experience/)
 
-[Aggiungi al carrello](/it/home/?add-to-cart=95645)
+[Leggi tutto](/it/imbarchi/crew-exchange/)
 
-#### [Ikigai experience](https://www.ikigaisailing.com/it/prodotto/ikigai-experience/ "Ikigai experience")
+#### [Imbarco a Scambio / Retribuito](/it/imbarchi/crew-exchange/)
 
-[](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/)
+#### [10 Days experience](/it/imbarchi/10-days-on-board/)
 
-[Leggi tutto](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/)
+[Esperienza riservata ai soci!](/it/imbarchi/pacific-crossing/)
 
-#### [Imbarco a Scambio / Retribuito](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/ "Imbarco a Scambio / Retribuito")
+#### [Traversata Oceano Pacifico](/it/imbarchi/pacific-crossing/)
 
-[](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
+[Esperienza riservata ai soci](/it/imbarchi/one-month/)
 
-[Aggiungi al carrello](/it/home/?add-to-cart=40826)
+#### [Un Mese a Bordo](/it/imbarchi/one-month/)
 
-#### [10 Days experience](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/ "10 Days experience")
-
-[Esperienza riservata ai soci!](https://www.ikigaisailing.com/it/prodotto/traversata-pacifica/)
-
-[Aggiungi al carrello](/it/home/?add-to-cart=38746)
-
-#### [Traversata Oceano Pacifico](https://www.ikigaisailing.com/it/prodotto/traversata-pacifica/ "Traversata Oceano Pacifico")
-
-[Esperienza riservata ai soci](https://www.ikigaisailing.com/it/prodotto/un-mese/)
-
-[Aggiungi al carrello](/it/home/?add-to-cart=38744)
-
-#### [Un Mese a Bordo](https://www.ikigaisailing.com/it/prodotto/un-mese/ "Un Mese a Bordo")
-
-## LA ROTTA
+## La Rotta
 
 Scopri dove ci troviamo ora
 
 Nel 2025/26 il nostro viaggio ci vede presso le incantevoli Isole San Blas, un paradiso unico nei Caraibi. La traversata del Pacifico è prevista per il 2027, aprendo un nuovo capitolo di avventure.
 - San Blas
 
-[ Scopri la rotta ](https://www.ikigaisailing.com/itinerario/)
+[ Scopri la rotta ](/it/la-rotta/)

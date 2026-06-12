@@ -10,37 +10,20 @@ gallery:
 order: 1
 oldUrls:
   - "/it/project/yoga/"
+facts:
+  - label: "Livello"
+    value: "Adatto a principianti e avanzati"
+  - label: "Durata delle sessioni"
+    value: "1 ora"
+  - label: "Tipologia di Yoga"
+    value: "Hatha, Vinyasa e Yin Yoga"
+  - label: "Location"
+    value: "A bordo o su spiagge mozzafiato"
 ---
-YOGA
-
 ## Ritrova il tuo equilibrio
 
-Con il mare come sfondo e il suono delle onde, lo yoga diventa una pratica trasformativa. Ogni sessione è pensata per rigenerare corpo e mente, adattandosi a ogni livello di esperienza. 
+Con il mare come sfondo e il suono delle onde, lo yoga diventa una pratica trasformativa. Ogni sessione è pensata per rigenerare corpo e mente, adattandosi a ogni livello di esperienza.
 
-## Cosa aspettarti:
+## Perché provarlo
 
-### Livello:
-
-Adatto a principianti e avanzati 
-
-### Durata delle sessioni:
-
-1 ora 
-
-### Tipologia di Yoga:
-
-Hatha, Vinyasa e Yin Yoga 
-
-### Location:
-
-A bordo o su spiagge mozzafiato 
-
-## Perché provarlo: 
-
-Connetti il tuo respiro con il movimento e vivi la pace interiore. 
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
-
-[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
-
-[!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)
+Connetti il tuo respiro con il movimento e vivi la pace interiore.

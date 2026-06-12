@@ -48,8 +48,8 @@ translations:
     opätovnom skákaní do vody, chutnej raňajkách, opäť vode, chutnom obede,
     freedivingu, sledovaní západu slnka, chutnej večeri, pozorovaní hviezd a
     opakovaní! Plus množstvo morských dobrodružstiev tu a tam…
-sourceHash: 08171d607a565e49
+sourceHash: c448e8535923ebc5
 ---
 
-A floating home with strangers that became friends. That was my experience on Ikigai boat.  
+A floating home with strangers that became friends. That was my experience on Ikigai boat.
 A dream coming true, where I was all the time next to the sea, with all the comfort I love to have in my daily life; I´m talking about waking up in the middle of paradise, jumping in the water, visit the reef, having a double espresso, do my work out, jump in the water again, have a delicious breakfast, water again, delicious lunch, freediving, watching the sunset, delicious dinner, watching the stars and repeat! Plus a lot of sea adventures here and there…

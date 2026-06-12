@@ -1,13 +1,13 @@
 ---
 title: Plachtenie – dobrodružné výlety
 description: >-
-  Plachtenie a dobrodružné výlety sú ideálnou voľbou pre tých, ktorí chcú
-  objavovať nedotknuté miesta a ponoriť sa do prírody.
+  Plachtenie je ideálnou voľbou pre tých, ktorí chcú objavovať nedotknuté miesta
+  a ponoriť sa do prírody.
 locale: sk
 pubDate: '2025-03-15'
 image: ~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp
 translated: deepl
-sourceHash: d63c42a4b5aa6070
+sourceHash: 68af6b31a1d4ec76
 needsReview: true
 ---
 

@@ -7,14 +7,14 @@ translations:
   es: "Pasé seis noches en enero a bordo del Ikigai, y no se me ocurre un mejor comienzo para mis vacaciones o mi año sabático que este.  \nPara empezar, las islas de San Blas son como un paraíso. Vivir en un barco y visitar diferentes islas, despertarse y acostarse con el sonido de las olas y el viento es increíble.\n\nY además de esto, está la experiencia del Ikigai con Luca como capitán y Paola como chef. ¡Forman un equipo perfecto! La comida y el espresso italiano son simplemente... ¡guau! \U0001F60D  \nHicimos meditación, yoga y ejercicio juntos en el barco o en alguna isla remota. Hicimos snorkel y conocimos los entresijos de San Blas.\n\nLa verdad es que no quería irme después de la fecha que tenía prevista inicialmente, e incluso para este deseo Luca encontró una solución genial.  \n¡Grazie per tutto!"
   fr: "J'ai passé 6 nuits en janvier sur l'Ikigai – et je ne pouvais pas rêver mieux pour commencer mes vacances/mon congé sabbatique.  \nD'abord, les îles San Blas, c'est un vrai petit coin de paradis. Vivre sur un bateau et découvrir différentes îles, se réveiller et s'endormir au son des vagues et du vent, c'est incroyable.\n\nEt en plus de ça, il y a l’expérience Ikigai avec Luca comme capitaine et Paola comme chef. Ils forment une équipe parfaite ! La nourriture et l’espresso italien, c’est juste… waouh !! \U0001F60D  \nOn a fait de la méditation, du yoga et des séances de sport ensemble sur le bateau ou sur une île isolée. On a fait de la plongée avec tuba et on a découvert les spécificités de San Blas.\n\nJe n’avais vraiment pas envie de partir après la date initialement prévue – et même pour ça, Luca a trouvé une super solution.  \nGrazie per tutto !"
   sk: "V januári som strávil 6 nocí na lodi Ikigai – a neviem si predstaviť lepší začiatok dovolenky či voľna ako tento.  \nPredovšetkým sú ostrovy San Blas ako raj. Žiť na lodi a spoznávať rôzne ostrovy, prebúdzať sa a zaspávať pri zvuku vĺn a vetra je úžasné.\n\nA k tomu všetkému je tu zážitok na lodi Ikigai s Lucom ako kapitánom a Paolou ako šéfkuchárkou. Tvoria taký perfektný tím! Jedlo a talianske espresso sú proste – wow!! \U0001F60D  \nSpoločne sme meditovali, cvičili jogu a posilňovali na lodi alebo na odľahlom ostrove. Šnorchlovali sme a spoznali špecifiká San Blas.\n\nNaozaj som nechcela odísť po uplynutí pôvodne plánovaného času – a aj pre toto želanie našiel Luca skvelé riešenie.  \nGrazie per tutto!"
-sourceHash: 8a7460fcc0530b3a
+sourceHash: 19e4ee4042a03711
 ---
 
-I spent 6 nights in January on Ikigai – and I cannot think of a better start of my vacation/ sabbatical then this.  
-First of all, San Blas Islands feel like paradise. Living on a boat and seeing different islands, waking up and going to bed to the sound of the waves and the wind is amazing.  
-  
-And on top of this, there is the Ikigai experience with Luca as the captain and Paola as the chef. They form such a perfect team! Food and Italian Espresso is just – wow!! 😍  
-We did meditation, yoga and workouts together on the boat or on a remote island. Went snorkeling and got to know the specifics of San Blas.  
-  
-I really didn’t want to leave after my initially planned time – and even for this wish Luca found a great solution.  
+I spent 6 nights in January on Ikigai – and I cannot think of a better start of my vacation/ sabbatical then this.
+First of all, San Blas Islands feel like paradise. Living on a boat and seeing different islands, waking up and going to bed to the sound of the waves and the wind is amazing.
+
+And on top of this, there is the Ikigai experience with Luca as the captain and Paola as the chef. They form such a perfect team! Food and Italian Espresso is just – wow!! 😍
+We did meditation, yoga and workouts together on the boat or on a remote island. Went snorkeling and got to know the specifics of San Blas.
+
+I really didn’t want to leave after my initially planned time – and even for this wish Luca found a great solution.
 Grazie per tutto!

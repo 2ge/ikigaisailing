@@ -22,7 +22,7 @@ Le barche moderne sono progettate per essere il più autonome possibile grazie a
   5. **Eolico e idrogenerazione:**
 - Alcune barche utilizzano generatori eolici o idrodinamici (che sfruttano il movimento della barca in acqua) per integrare ulteriormente la produzione di energia.
 
-### **Competenze di elettricità ed elettronica per uno skipper**
+### Competenze di elettricità ed elettronica per uno skipper
 
 Uno skipper non deve essere un tecnico esperto, ma deve conoscere e saper gestire gli impianti elettrici ed elettronici di bordo per garantire la sicurezza e l’autonomia. Ecco le principali competenze richieste:
 

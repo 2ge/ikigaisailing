@@ -8,7 +8,7 @@ description: >-
   Nuestro objetivo es ofrecer experiencias únicas a quienes comparten nuestra
   pasión por el mar y el deporte…
 locale: es
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: ~/assets/pages/catana-47/Screenshot-2025-06-20-alle-09.05.14-scaled.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -16,10 +16,8 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: 43b438b1c8e2a064
+sourceHash: e6e19c20c2def80d
 ---
 
 ### 1\. Política de reservas:
@@ -46,7 +44,7 @@ Tu reserva quedará confirmada tras recibir el depósito, mientras que la activi
 
 Una vez confirmada la experiencia, te enviaremos un correo electrónico y deberás abonar el importe restante en un plazo de 30 días a partir de la notificación. Si no se abona el importe restante dentro de este plazo, nos reservamos el derecho a cancelar la reserva y quedarnos con el depósito.
 
-Para las reservas realizadas después de la fecha límite, se exigirá el pago íntegro inmediatamente tras la confirmación de la reserva.
+Para las reservas realizadas después de la fecha límite, se exigirá el pago completo inmediatamente tras la confirmación de la reserva.
 
 ### 2\. Política de cancelación:
 
@@ -54,15 +52,13 @@ Para las reservas realizadas después de la fecha límite, se exigirá el pago �
 
 Si cancelas tu reserva hasta 2 meses antes de la salida, tendrás derecho a solicitar el reembolso del importe ya pagado.
 
-Para cancelaciones realizadas con menos de 2 meses de antelación al inicio de la experiencia, no se reembolsará la cuota abonada, pero podrás utilizarla como crédito para participar en otras propuestas y experiencias organizadas por la asociación.  
-Aun así, te recomendamos contratar un seguro de viaje que cubra esta eventualidad.
+Para cancelaciones realizadas con menos de 2 meses de antelación al inicio de la experiencia, no se reembolsará la cuota abonada, pero podrás utilizarla como crédito para participar en otras propuestas y experiencias organizadas por la asociación. Aun así, te recomendamos contratar un seguro de viaje que cubra esta eventualidad.
 
 **b) Cancelación por nuestra parte:**
 
-En caso de circunstancias extraordinarias, como desastres naturales o un deterioro de la estabilidad política del país de destino, si consideramos que la seguridad del viaje está en peligro, o si no se alcanza el número mínimo de participantes en los 30 días previos a la fecha de salida, el participante tendrá derecho a:
+En caso de circunstancias extraordinarias, como catástrofes naturales o un deterioro de la estabilidad política del país de destino, si consideramos que la seguridad del viaje se ve comprometida, o si no se alcanza el número mínimo de participantes en los 30 días previos a la fecha de salida, el participante tendrá derecho a:
 
-Utilizar la cuota abonada para participar en otras actividades u opciones de navegación previstas en el programa de temporada de la asociación.  
-Solicitar la devolución del importe ya abonado.
+Utilizar la cuota pagada para participar en otras actividades u opciones de navegación incluidas en el programa de temporada de la asociación. Solicitar el reembolso del importe ya pagado.
 
 Nota: No se reconocerán como compensación por la cancelación del viaje ningún coste ni gasto adicional, más allá de la cuota abonada. Por lo tanto, te recomendamos encarecidamente que contrates un seguro de viaje que cubra cualquier gasto adicional.
 

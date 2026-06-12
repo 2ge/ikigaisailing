@@ -4,18 +4,16 @@ description: >-
   Descubre la filosofía del Ikigai con Ikigai Sailing. Encuentra tu verdadero
   propósito en el agua mientras te guiamos en un viaje de autodescubrimiento...
 locale: es
-heroImage: ~/assets/pages/ikigai/ikigai-eng.webp
+heroImage: ~/assets/pages/ikigai/ikigaisailing.avif
 gallery:
   - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
-  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
-  - ~/assets/pages/ikigai/ikigaisailing.avif
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 2acead3e82d0831c
+sourceHash: 08e14f259521f6af
 ---
 
 ## Ikigai
@@ -28,41 +26,38 @@ El término japonés **Ikigai** significa **«razón de ser»** y representa el 
 
 **Encuentra tu Ikigai, zarpa con nosotros y descubre una vida más allá de los límites de lo ordinario**.
 
-### PASIÓN
+### Pasión
 
 Por el **mar, la navegación, la aventura, los viajes, la gastronomía y el deporte**.
 
-### VOCACIÓN
+### Vocación
 
 Acercar **a** las personas **a sus pasiones, a los demás, a la naturaleza y a sí mismas**.
 
-### MISIÓN
+### Misión
 
 Promovemos **el turismo sostenible** y un **estilo de vida saludable**, que nutra nuestras necesidades esenciales y fomente **el** verdadero **bienestar**: nuestro objetivo principal.
 
-Esto incluye **actividades deportivas, alimentación natural, conexión social, intenciones compartidas y pasiones**.  
-Guiados por el viento, exploramos el mundo y a nosotros mismos, sumergiéndonos en culturas, descubriendo la belleza y saboreando los regalos de la vida.
+Esto incluye **actividades deportivas, alimentación natural, conexión social, intenciones compartidas y pasiones**. Guiados por el viento, exploramos el mundo y a nosotros mismos, sumergiéndonos en culturas, descubriendo la belleza y saboreando los regalos de la vida.
 
-### PROFESIÓN
+### Profesión
 
-**Como patrones e instructores profesionales**, promovemos **una cultura marinera de aventura y bienestar**.  
-Nos encargamos de la gestión del **barco y** de **los servicios a bordo**, incluyendo **la cocina y el material deportivo**, asegurándonos de que todos disfruten de la experiencia.  
-Ofrecemos **cursos de formación y talleres** sobre las actividades que amamos y practicamos, como **la vela, el buceo libre, la pesca, el buceo, el kitesurf y el yoga**.
+**Como patrones e instructores profesionales**, promovemos **una cultura marinera de aventura y bienestar**. Nos encargamos de la gestión del **barco y** de **los servicios a bordo**, incluyendo **la cocina y el material deportivo**, asegurándonos de que todos disfruten de la experiencia. Ofrecemos **cursos de formación y talleres** sobre las actividades que nos apasionan y practicamos, como **la vela, el buceo libre, la pesca, el buceo, el kitesurf y el yoga**.
 
 NUESTRO Ikigai
 
-### LO QUE EL MUNDO NECESITA
+### Lo que el mundo necesita
 
 Libertad, compartir, conciencia, amistad, confianza, sostenibilidad, soñar, cuidarse, descubrir y comprender nuevas culturas.
 
-### POR QUÉ NOS PAGAN
+### Por qué nos pueden pagar
 
 Compartir la vida a bordo, organizar viajes y ofrecer **cursos a bordo en diversas disciplinas deportivas**.
 
-### LO QUE NOS ENCANTA
+### Lo que nos apasiona
 
 La aventura, la navegación, la amistad, los viajes, la naturaleza, la gastronomía, los deportes y el crecimiento personal.
 
-### EN QUÉ SOMOS BUENOS
+### En qué somos buenos
 
 **Planificar y organizar viajes**, gestionar el barco y la navegación, **fomentar el espíritu de equipo, la hospitalidad, el pensamiento positivo, la resolución de problemas, cocinar y enseñar**.

@@ -8,29 +8,29 @@ locale: fr
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp
 translated: deepl
-sourceHash: de2ecf6ec4bc289d
+sourceHash: dbb723cd087cccf4
 ---
 
 En pleine mer, l'accès à **l'eau douce** n'est jamais garanti, et c'est l'une des raisons pour lesquelles on a décidé de transformer l'eau de mer en eau potable. À bord de **l'Ikigai Sailing**, on a choisi l'autonomie : pas de bouteilles en plastique, pas d'escales obligatoires dans les ports. Juste la mer, la technologie et l'ingéniosité.
 
 Chaque jour, on produit notre propre **eau potable**, même **gazeuse**, directement à partir de **l'eau de mer**. Ça nous permet de vivre **hors réseau** et de réduire considérablement notre empreinte écologique.
 
-## **Transformer l'eau de mer en eau potable : le premier processus est l'osmose inverse**
+## Transformer l'eau de mer en eau potable : le premier processus est l'osmose inverse
 
-### **Unités de dessalement à bord**
+### Unités de dessalement à bord
 
 Notre système repose sur deux **unités de dessalement** :
 
 -   50 litres/heure
 -   100 litres/heure
 
-### **Filtration et osmose inverse de l'eau de mer L'eau de mer** passe à travers un **filtre de 5 microns**, puis subit **une osmose inverse**, ce qui permet aux molécules d'eau de passer tout en bloquant les sels et les impuretés.
+### Filtration et osmose inverse de l'eau de mer L'eau de mer passe à travers un filtre de 5 microns, puis subit une osmose inverse, ce qui permet aux molécules d'eau de passer tout en bloquant les sels et les impuretés.
 
 **Résultat :** une eau propre et potable pour tous les usages à bord : cuisine, lavage et consommation.
 
 **Du dessalement à ton verre : le traitement « gourmet »**
 
-### **Robinet à 4 sorties d'eau potable**
+### Robinet à 4 voies d'eau potable
 
 Pour améliorer le goût et la qualité, l'eau passe par :
 
@@ -46,9 +46,9 @@ Toute l'eau est disponible via un **robinet à 4 sorties** :
 3.  Eau potable à température ambiante
 4.  Eau gazeuse
 
-## **Impact environnemental**
+## Impact environnemental
 
-### **Réduction du plastique**
+### Réduction du plastique
 
 Grâce à ce système, on a presque complètement éliminé **l'eau en bouteille**. Avec cinq personnes à bord pendant dix mois par an, on a évité des milliers de bouteilles en plastique.
 

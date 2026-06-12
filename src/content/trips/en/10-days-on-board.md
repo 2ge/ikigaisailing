@@ -21,11 +21,13 @@ order: 2
 oldUrls:
   - "/prodotto/10-days-on-board-ikigai/"
 ---
-## **Introduction**
+## Introduction
 
 Every proposed activity is **highly recommended** , but never mandatory. The invitation is to step out of your comfort zone, try new experiences, and strengthen your discipline — while also listening deeply to your body and its needs. This experience is designed to help you explore the balance between **commitment and listening** , between **discipline and freedom**. No expectations, no performance — just the opportunity to reconnect with yourself, others, and the natural rhythm of life.
 
-## **Daily Routine Morning (approx. 1h30):** Each day begins with a guided session that may include:
+## Daily Routine Morning (approx. 1h30)
+
+Each day begins with a guided session that may include:
 - Conscious breathing techniques
 - Dynamic or restorative yoga flows
 - Seated or moving meditation
@@ -38,7 +40,7 @@ Every proposed activity is **highly recommended** , but never mandatory. The inv
 
 **Free Time:** Breaks between activities are intentionally left open — for rest, reading, swimming, silence, or spontaneous moments. **There’s nothing to do but be.**
 
-## **Life on Board & Food**
+## Life on Board & Food
 
 Food is at the heart of life on  _Ikigai_. We blend what the sea provides with what we trade from the Guna community:
 - Fresh lobster
@@ -47,7 +49,7 @@ Food is at the heart of life on  _Ikigai_. We blend what the sea provides with w
 
 We fish when possible and prepare creative dishes: **carpaccio, tartare, sashimi** , and more. **Sharing meals is sacred.** You’re welcome to join in the preparation — in full community spirit, no obligation.
 
-## **Important Note**
+## Important Note
 
 The program may be adjusted based on:
 - Weather and sea conditions
@@ -56,14 +58,14 @@ The program may be adjusted based on:
 
 **Every change aims to preserve the safety and quality of the experience.**
 
-## **Day-by-Day Itinerary**
+## Day-by-Day Itinerary
 
-### **Arrival in Panama City**
+### Arrival in Panama City
 - Private transfer from the airport
 - Overnight in **Casco Viejo** , UNESCO heritage district
 - Evening stroll through colonial alleys, vibrant terraces, music, and local cuisine
 
-### **Day 1 – Welcome to Banedup Highlights:**
+### Day 1 – Welcome to Banedup Highlights:
 - Snorkeling, beach volleyball, first swims
 - Safety briefing & crew introductions
 - Light lunch and arrival rituals
@@ -74,7 +76,7 @@ The program may be adjusted based on:
 - Snorkeling on coral reefs
 - Optional evening routine
 
-### **Day 2 – Chichime A lively island with beach huts and Caribbean vibes**
+### Day 2 – Chichime A lively island with beach huts and Caribbean vibes
 - 06:30–08:00: Morning routine
 - 09:00: Breakfast
 - 10:00: Sail to Chichime
@@ -84,7 +86,7 @@ The program may be adjusted based on:
 - 20:00: Dinner
 - 21:00: Optional live music & karaoke onshore
 
-### **Day 3 – West Dutch Cays (Cayo Holandés Oeste) Untouched nature and vibrant coral reefs**
+### Day 3 – West Dutch Cays (Cayo Holandés Oeste) Untouched nature and vibrant coral reefs
 - 06:30–08:00: Morning routine
 - 08:30: Breakfast
 - 10:00: Sail to West Dutch Cays
@@ -94,7 +96,7 @@ The program may be adjusted based on:
 - 19:00: Freediving theory (breathing, equalization, safety)
 - 20:30: Dinner & marine life observation under the boat lights
 
-### **Day 4 – West Dutch Cays Freediving practice and deep connection**
+### Day 4 – West Dutch Cays Freediving practice and deep connection
 - 06:30–07:30: Breathing & stretching for freediving
 - 07:30: Light breakfast
 - 08:30: Theory review & technique
@@ -104,7 +106,7 @@ The program may be adjusted based on:
 - 17:30: Evening routine
 - 20:00: Dinner
 
-### **Day 5 – Dutch Cays Lagoon Lagoon adventures, yoga, and bonfire night**
+### Day 5 – Dutch Cays Lagoon Lagoon adventures, yoga, and bonfire night
 - 06:30: Morning routine
 - 08:30: Breakfast
 - 09:30: Sail to the lagoon
@@ -114,7 +116,7 @@ The program may be adjusted based on:
 - 17:30: Sunset yoga or cardio/martial arts
 - 19:30: Beach BBQ & bonfire with Guna families
 
-### **Day 6 – Dutch Cays “Swimming Pool” The most scenic anchorage**
+### Day 6 – Dutch Cays “Swimming Pool” The most scenic anchorage
 - 06:30: Morning routine
 - 08:30: Breakfast
 - 09:30: Sail to East Dutch Cays
@@ -123,7 +125,7 @@ The program may be adjusted based on:
 - 17:00: Turtle Island – yoga, rest, Tabata
 - 19:30: BBQ dinner under the stars
 
-### **Day 7 – Dutch Cays / Green Island Coconuts, crafts, snorkeling, and cinema night**
+### Day 7 – Dutch Cays / Green Island Coconuts, crafts, snorkeling, and cinema night
 - 06:30: Morning routine
 - 08:30: Breakfast
 - 09:30: Coconut plantation or reef snorkeling
@@ -134,14 +136,14 @@ The program may be adjusted based on:
 - 20:00: Dinner
 - 21:30: Outdoor film night
 
-### **Day 8 – Green Island Janzu, freedom, and rest**
+### Day 8 – Green Island Janzu, freedom, and rest
 - 06:30: Morning routine
 - 08:30: Breakfast
 - Free day: Janzu, kayaking, snorkeling, hammocks
 - 18:30: Optional evening routine
 - 20:00: Dinner
 
-### **Day 9 – Coco Bandero Private island, sharks, celebration night**
+### Day 9 – Coco Bandero Private island, sharks, celebration night
 - 06:30: Morning routine
 - 08:30: Breakfast
 - 09:30: Sail to Coco Bandero
@@ -150,13 +152,13 @@ The program may be adjusted based on:
 - 17:00: Evening routine
 - 19:00–23:00: Final bonfire celebration: grilled lobster & music
 
-### **Day 10 – Return to Banedup Final moments in paradise**
+### Day 10 – Return to Banedup Final moments in paradise
 - Morning: Relaxed breakfast
 - 12:00: Sail back to Banedup
 - 16:00: Free time: volleyball, snorkeling, evening practice
 - 19:00: Dinner
 - 20:30: Closing ceremony & video recap
 
-### **Day 11 – Return**
+### Day 11 – Return
 
-A Guna boat will pick you up and take you back to the airport or Panama City. **The journey continues within you.** ![🌍](https://s.w.org/images/core/emoji/16.0.1/svg/1f30d.svg)
+A Guna boat will pick you up and take you back to the airport or Panama City. **The journey continues within you.** 🌍

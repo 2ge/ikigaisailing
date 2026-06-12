@@ -19,7 +19,7 @@ Ai fini della presente Informativa sui cookie:
 
 -   **Società** (indicata come "la Società", "Noi", "Ci" o "Nostro" nella presente Politica sui cookie) si riferisce a Ikigai Sailing ASD, Via Gorlago 37 – 00135 Roma (RM), Italia, codice fiscale 96511650580.
 -   Per **"cookie"** si intendono piccoli file che vengono memorizzati sul tuo computer, dispositivo mobile o qualsiasi altro dispositivo da un sito web e che, tra le altre cose, contengono dettagli sulla tua cronologia di navigazione su quel sito web.
--   **Il termine "Sito web"** si riferisce a Ikigai Sailing, accessibile all'indirizzo [https://www.ikigaisailing.com](https://www.ikigaisailing.com).
+-   **Il termine "Sito web"** si riferisce a Ikigai Sailing, accessibile all'indirizzo [https://www.ikigaisailing.com](/it/).
 -   **Con** **"tu"** si intende la persona fisica che accede o utilizza il sito web, oppure una società o qualsiasi persona giuridica per conto della quale tale persona fisica accede o utilizza il sito web, a seconda dei casi.
 
 ## L'uso dei cookie
@@ -40,4 +40,4 @@ Se preferisci evitare l'uso dei cookie sul sito web, puoi disabilitarli nel tuo 
 
 ## Contattaci
 
-Se hai domande su questa Politica sui cookie, puoi contattarci tramite [la](/it/contact/) nostra [pagina dei contatti](/it/contact/) o su WhatsApp al numero +39 331 32 926 29.
+Se hai domande su questa Politica sui cookie, puoi contattarci tramite [la](/it/contatti/) nostra [pagina dei contatti](/it/contatti/) o su WhatsApp al numero +39 331 32 926 29.

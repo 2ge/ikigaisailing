@@ -2,12 +2,12 @@
 title: El reflejo de inmersión de los mamíferos
 description: >-
   el reflejo de inmersión de los mamíferos, un superpoder oculto que todos los
-  mamíferos poseen, heredado de nuestros lejanos antepasados acuáticos
+  mamíferos tienen, heredado de nuestros lejanos antepasados acuáticos
 locale: es
 pubDate: '2025-03-21'
 image: ~/assets/pages/season-2025-26/apnea6.webp
 translated: deepl
-sourceHash: c0196358e0401db0
+sourceHash: b9fc4c5cb878d46c
 ---
 
 En el agua, tu cuerpo se transforma en una **máquina de buceo perfecta**, ¡como si por un momento fueras un **delfín o una foca**! Se trata del **reflejo de buceo de los mamíferos**, un **superpoder oculto** que todos los mamíferos poseemos, heredado de nuestros lejanos antepasados acuáticos.
@@ -18,7 +18,7 @@ _«¡Tranquilo, yo me encargo!»_
 
 ### Los cinco efectos espectaculares del reflejo de inmersión de los mamíferos
 
-1️⃣ **Bradicardia**: tu frecuencia cardíaca **se ralentiza** (¡hasta un **25 %**!), como un motor que pasa al **modo de ahorro de energía**, lo que te permite **permanecer bajo el agua más tiempo**.
+1️⃣ **Bradicardia**: tu frecuencia cardíaca **se ralentiza** (¡hasta un **25 %**!), como un motor que pasa al **modo de ahorro de energía**, lo que te permite **permanecer más tiempo bajo el agua**.
 
 2️⃣ **Vasoconstricción periférica**: la sangre **se retira de los brazos y las piernas**, concentrándose en los órganos vitales (**corazón, pulmones y cerebro**)**,** creando un **sistema de prioridades perfecto** para conservar el oxígeno.
 
@@ -32,9 +32,7 @@ _«¡Tranquilo, yo me encargo!»_
 
 ¡Este **extraordinario reflejo** es tu **mejor aliado bajo el agua**! Te permite:
 
-✔️ **Permanecer sumergido más tiempo**  
-✔️ **Explorar profundidades**  
-**impresionantes** ✔️ **Sentirte en perfecta armonía con el océano**, ¡todo ello **sin necesidad de botellas**!
+✔️ **Permanecer sumergido más tiempo** ✔️ **Explorar profundidades impresionantes** ✔️ **Sentirte en perfecta armonía con el océano**, ¡todo ello **sin necesidad de botellas**!
 
 A medida que desciendes, el **reflejo de buceo te ayuda a conservar energía y oxígeno**, dándote esa **calma casi mágica** que describen los buceadores en apnea experimentados.
 

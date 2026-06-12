@@ -1,11 +1,11 @@
 ---
 title: Contacte Ikigai Sailing
 description: >-
-  Contacte Ikigai Sailing pour toute question, réservation ou information
-  complémentaire concernant nos sorties en voilier. Notre équipe est là pour
-  t'aider
+  Contacte Ikigai Sailing pour toute question, réservation ou pour en savoir
+  plus sur nos sorties en voilier. Notre équipe est là pour t'aider
 locale: fr
-heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+heroImage: >-
+  ~/assets/pages/catana-47/77153A04-394A-4BF7-ABE8-562BB9D30533_1_201_a-scaled.avif
 gallery:
   - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
   - ~/assets/trips/acconto/itinerario.jpg
@@ -13,10 +13,8 @@ gallery:
   - ~/assets/trips/acconto/attraversata-atlantica.webp
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
-  - ~/assets/trips/acconto/user1.webp
-  - ~/assets/trips/acconto/user3.webp
 translated: deepl
-sourceHash: b84e4c2489295edf
+sourceHash: 1219e31e3ba80965
 ---
 
 ## Contacte-nous
