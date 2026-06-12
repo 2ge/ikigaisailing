@@ -44,7 +44,6 @@ Tu découvriras ainsi l'équilibre entre défi et sérénité, en te plongeant d
 
 Tous les cours sont certifiés IKO.
 
-!
 
 ## À quoi t'attendre
 
@@ -64,7 +63,6 @@ Les meilleures plages avec des vents constants et sûrs
 
 Location de matériel disponible à bord
 
-!
 
 ## POURQUOI NOUS
 

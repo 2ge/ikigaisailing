@@ -18,7 +18,6 @@ YOGA
 
 Con il mare come sfondo e il suono delle onde, lo yoga diventa una pratica trasformativa. Ogni sessione è pensata per rigenerare corpo e mente, adattandosi a ogni livello di esperienza. 
 
-!
 
 ## Cosa aspettarti:
 
@@ -38,7 +37,6 @@ Hatha, Vinyasa e Yin Yoga
 
 A bordo o su spiagge mozzafiato 
 
-!
 
 ## Perché provarlo: 
 

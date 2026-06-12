@@ -21,7 +21,6 @@ JÓGA
 
 S morom v pozadí a šumením vĺn sa joga stáva transformujúcou praktikou. Každá lekcia je navrhnutá tak, aby regenerovala telo i myseľ, a prispôsobuje sa každej úrovni skúseností.
 
-!
 
 ## Čo môžete očakávať:
 
@@ -41,7 +40,6 @@ Hatha, Vinyasa a Yin joga
 
 Na palube alebo na nádherných plážach
 
-!
 
 ## Prečo to vyskúšať:
 

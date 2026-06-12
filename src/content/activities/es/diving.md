@@ -29,7 +29,6 @@ sourceHash: fa1e5675cdd849cc
 
 Sumergirse en un universo submarino lleno de maravillas directamente desde el catamarán es una oportunidad única que ofrece posibilidades que de otro modo serían imposibles. Con un pequeño centro de buceo a bordo, equipado con un compresor y todo el material necesario, podemos bucear en lugares remotos y a nuestro propio ritmo. Cada inmersión es una aventura única, desde las profundidades del mar azul hasta los increíbles jardines de coral. Ikigai Sailing te ofrece una experiencia segura e inolvidable, guiada por un instructor certificado por la IANTD.
 
-!
 
 ## Qué puedes esperar:
 
@@ -53,7 +52,6 @@ Completo e incluido en el paquete
 
 PADI y SSI disponibles bajo petición
 
-!
 
 ## Lo que verás:
 

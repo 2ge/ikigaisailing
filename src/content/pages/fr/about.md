@@ -21,7 +21,6 @@ gallery:
 
 ## À PROPOS DE NOUS
 
-!
 
 Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs sous-marins, de kitesurfeurs et de passionnés d'aventure et de sport.
 
@@ -59,9 +58,7 @@ Il est également **moniteur** **de plongée en apnée** pour **l'AIDA et Apnea 
 
 Sa passion pour l'hospitalité, combinée à son amour de la bonne cuisine, crée une **expérience à bord unique** axée sur **le bien-être physique et mental**, mêlant activités sportives à des pratiques telles que **la méditation et le Janzu**, le tout enrichi par les plaisirs d'une **Dolce Vita** saine.
 
-!
 
-!
 
 Brano
 
@@ -81,7 +78,6 @@ La cuisine a toujours été ma façon d’exprimer ma créativité, mon attentio
 
 À bord du catamaran Ikigai, j’ai trouvé l’endroit idéal pour unir cette passion à mon amour de la mer, aux rencontres enrichissantes et à une vie en mouvement constant. C’est un environnement essentiel et dynamique qui m’inspire chaque jour, laissant place à une cuisine vivante, simple et sincère qui enrichit naturellement le voyage.
 
-!
 
 L'HISTOIRE
 

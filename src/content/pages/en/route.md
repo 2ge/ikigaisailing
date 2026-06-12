@@ -28,7 +28,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2022
 
-!
 
 ### We're Setting Sail!
 
@@ -41,7 +40,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2023
 
-!
 
 ### Atlantic Crossing
 
@@ -81,7 +79,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2024
 
-!
 
 ### Venezuela & Islands
 
@@ -97,7 +94,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2025
 
-!
 
 ### ABC & Panama
 
@@ -107,13 +103,11 @@ Aruba, Bon Air, Curacao
 
 2026
 
-!
 
 ### San Blas
 
 NEXT
 
-!
 
 ### Pacific Crossing
 

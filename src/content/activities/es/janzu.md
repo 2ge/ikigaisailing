@@ -64,4 +64,3 @@ Formados en las técnicas de Janzu y Wata
 
 Vive un viaje regenerador, dejándote mecer por el mar en total armonía.
 
-!

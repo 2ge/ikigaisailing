@@ -31,7 +31,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2022
 
-!
 
 ### On met les voiles !
 
@@ -44,7 +43,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2023
 
-!
 
 ### Traversée de l'Atlantique
 
@@ -96,7 +94,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2024
 
-!
 
 ### Venezuela et îles
 
@@ -112,7 +109,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2025
 
-!
 
 ### ABC et Panama
 
@@ -122,13 +118,11 @@ Curaçao\*\*Ensuite, on mettra le cap sur la Colombie, puis on passera par le ca
 
 2026
 
-!
 
 ### San Blas
 
 SUIVANT
 
-!
 
 ### Traversée du Pacifique
 

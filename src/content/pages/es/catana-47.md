@@ -20,7 +20,6 @@ gallery:
 
 ## Catana 47
 
-!
 
 Catana 47
 
@@ -28,7 +27,6 @@ _El Catana 47_ está diseñado para disfrutar de la comodidad y el espacio sin r
 
 [Visita virtual](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-!
 
 [![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
@@ -117,7 +115,6 @@ EQUIPO DEL BARCO
 
 **Un segundo juego de velas en Dacron: vela mayor y génova.**
 
-!
 
 ## ELECTRÓNICA
 
@@ -129,13 +126,11 @@ EQUIPO DEL BARCO
 
 **Radar Quantum Transceptor AIS 650 Clase B**
 
-!
 
 ## VARIOS
 
 **Desalinizador Aquabase de 12 V (105 l/h ESW901) Hidrogenerador marino Watt & Sea de 600 W Banco de baterías de litio Victron (2021) Orza de carbono (2017) 8 paneles solares de 110 W (2017) Sistema de calefacción Webasto (2021) Frigorífico Liebherr A++ de 220 V con inversor dedicado (2021) Congelador Liebherr A++ de 220 V con inversor dedicado (2021) Lavavajillas (2021) Lavadora Candy de 3 kg (2017)**
 
-!
 
 ![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 

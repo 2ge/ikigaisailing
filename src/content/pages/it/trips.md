@@ -25,7 +25,6 @@ Più tempo dedichi a vivere in armonia con la natura e il mare, più profondi e 
 
 01
 
-!
 
 ### 1 Settimana – Una Boccata di Aria Pura
 
@@ -50,11 +49,9 @@ Dieci giorni per riscoprire il tuo ritmo naturale, respirare a fondo e tornare a
 
 [Prenota](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
 
-!
 
 03
 
-!
 
 ### Find Your Ikigai
 
@@ -78,11 +75,9 @@ Non sei un ospite: sei parte dell’equipaggio, della vita, dello scambio. Navig
 
 [Scopri di più](https://www.ikigaisailing.com/prodotto/un-mese/)
 
-!
 
 ### 05
 
-!
 
 ### Pacific Crossing – La Grande Traversata
 

@@ -62,4 +62,3 @@ Trained in Janzu and Wata techniques
 
 Experience a regenerating journey, letting yourself be cradled by the sea in total harmony. 
 
-!

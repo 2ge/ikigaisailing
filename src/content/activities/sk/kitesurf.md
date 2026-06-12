@@ -45,7 +45,6 @@ Takto objavíte rovnováhu medzi výzvou a pokojom, ponorení do jedného z najv
 
 Všetky kurzy sú certifikované IKO.
 
-!
 
 ## Čo môžete očakávať
 
@@ -65,7 +64,6 @@ Najlepšie pláže s konštantným a bezpečným vetrom
 
 Možnosť zapožičania vybavenia na palube
 
-!
 
 ## PREČO MY
 

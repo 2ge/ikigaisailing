@@ -44,7 +44,6 @@ De esta forma, descubrirás el equilibrio entre el desafío y la serenidad, sume
 
 Todos los cursos están certificados por la IKO.
 
-!
 
 ## Qué puedes esperar
 
@@ -64,7 +63,6 @@ Las mejores playas con vientos constantes y seguros
 
 Alquiler de material disponible a bordo
 
-!
 
 ## POR QUÉ CON NOSOTROS
 

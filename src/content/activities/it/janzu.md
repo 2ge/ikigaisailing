@@ -82,4 +82,3 @@ Formati nelle tecniche di Janzu e Wata
 
 Vivi un’esperienza rigenerante, lasciandoti cullare dal mare in totale armonia.
 
-!

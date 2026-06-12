@@ -31,7 +31,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 2022
 
-!
 
 ### Vyplávame!
 
@@ -44,7 +43,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 2023
 
-!
 
 ### Prechod cez Atlantik
 
@@ -96,7 +94,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 2024
 
-!
 
 ### Venezuela a ostrovy
 
@@ -112,7 +109,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 2025
 
-!
 
 ### ABC a Panama
 
@@ -122,13 +118,11 @@ Curacao\*\*Ďalej sa vydáme do Kolumbie, potom prejdeme Panamským prieplavom a
 
 2026
 
-!
 
 ### San Blas
 
 ĎALEJ
 
-!
 
 ### Preplávanie Tichého oceánu
 

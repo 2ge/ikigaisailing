@@ -33,7 +33,6 @@ Le terme japonais **Ikigai** signifie **« raison d’être »** et représente 
 
 Pour la **mer, la voile, l'aventure, les voyages, la cuisine et le sport**.
 
-!
 
 ### VOCATION
 

@@ -33,7 +33,6 @@ Japonský termín **Ikigai** znamená **„dôvod bytia“** a predstavuje umeni
 
 Pre **more, plachtenie, dobrodružstvo, cestovanie, kuchyňu a šport**.
 
-!
 
 ### POSLANIE
 

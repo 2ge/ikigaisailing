@@ -30,7 +30,6 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2022
 
-!
 
 ### ¡Zarpamos!
 
@@ -43,7 +42,6 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2023
 
-!
 
 ### Travesía del Atlántico
 
@@ -95,7 +93,6 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2024
 
-!
 
 ### Venezuela y sus islas
 
@@ -111,7 +108,6 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2025
 
-!
 
 ### ABC y Panamá
 
@@ -121,13 +117,11 @@ continuación, nos dirigiremos a Colombia y luego pasaremos por el Canal de Pana
 
 2026
 
-!
 
 ### San Blas
 
 PRÓXIMO
 
-!
 
 ### Travesía del Pacífico
 

@@ -28,7 +28,6 @@ Ecco l’elenco dei luoghi visitati da _Ikigai Sailing_ durante il suo viaggio i
 
 2022
 
-!
 
 ### Si parte!
 
@@ -41,7 +40,6 @@ Ecco l’elenco dei luoghi visitati da _Ikigai Sailing_ durante il suo viaggio i
 
 2023
 
-!
 
 ### Attraversata dell'oceano
 
@@ -80,7 +78,6 @@ Ecco l’elenco dei luoghi visitati da _Ikigai Sailing_ durante il suo viaggio i
 
 2024
 
-!
 
 ### Venezuela e Isole
 
@@ -96,7 +93,6 @@ Dicembre Los Roques
 
 2025
 
-!
 
 ### Colombia e Panama
 
@@ -104,7 +100,6 @@ A breve ci attende la Colombia, poi lo stretto di Panama per incontrare il Pacif
 
 NEXT
 
-!
 
 ### Febbraio 2027
 
@@ -112,7 +107,6 @@ Pacifico
 
 NEXT
 
-!
 
 ### Il viaggio continua
 

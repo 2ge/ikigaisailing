@@ -64,7 +64,6 @@ Una comunità in crescita di sognatori, velisti, apneisti, subacquei, kitesurfer
 
 [Discover more](https://www.ikigaisailing.com/about-us/)
 
-!
 
 SAILING AROUND
 

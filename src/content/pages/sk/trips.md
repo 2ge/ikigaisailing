@@ -28,7 +28,6 @@ Fyzická a duševná pohoda v harmónii s prírodou
 
 01
 
-!
 
 ### 1 týždeň – Dych čerstvého vzduchu
 
@@ -58,11 +57,9 @@ Desať dní na to, aby ste znovuobjavili svoj prirodzený rytmus, hlboko dýchal
 
 [Kniha](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-!
 
 03
 
-!
 
 ### Nájdite své Ikigai
 
@@ -87,11 +84,9 @@ Nie si hosť: si súčasťou posádky, života, výmeny. Budeš sa pohybovať me
 
 [Zistiť viac](https://www.ikigaisailing.com/prodotto/one-month/)
 
-!
 
 ### 05
 
-!
 
 ### Preplavba Tichým oceánom – Veľká plavba
 

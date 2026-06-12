@@ -55,7 +55,6 @@ A month to rediscover yourself
 
 [Find out more and book now](https://www.ikigaisailing.com/2025-26-season/)
 
-!
 
 SAILING AROUND
 

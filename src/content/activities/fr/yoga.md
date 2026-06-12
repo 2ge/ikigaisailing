@@ -20,7 +20,6 @@ YOGA
 
 Avec la mer en toile de fond et le bruit des vagues, le yoga devient une pratique transformatrice. Chaque séance est conçue pour régénérer à la fois le corps et l'esprit, et s'adapte à tous les niveaux d'expérience.
 
-!
 
 ## À quoi t'attendre :
 
@@ -40,7 +39,6 @@ Hatha, Vinyasa et Yin Yoga
 
 À bord ou sur des plages à couper le souffle
 
-!
 
 ## Pourquoi essayer :
 

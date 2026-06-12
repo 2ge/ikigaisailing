@@ -22,7 +22,6 @@ gallery:
 
 ## O NÁS
 
-!
 
 Ikigai Sailing je rastúca komunita snílkov, námorníkov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.
 
@@ -60,9 +59,7 @@ Je tiež **inštruktorom** **freedivingu** pre **organizácie AIDA a Apnea Total
 
 Jeho vášeň pre pohostinnosť v kombinácii s láskou k dobrému jedlu vytvára **jedinečný zážitok na palube** zameraný na **fyzickú a duševnú pohodu**, spájajúci športové aktivity s praktikami ako **meditácia a Janzu**, všetko obohatené o radosti zdravého **Dolce Vita**.
 
-!
 
-!
 
 Brano
 
@@ -82,7 +79,6 @@ Varenie bolo vždy mojim spôsobom, ako vyjadriť kreativitu, starostlivosť a z
 
 Na palube katamaránu Ikigai som našla ideálne miesto, kde môžem spojiť túto vášeň s mojou láskou k moru, zmysluplnými stretnutiami a životom v neustálom pohybe. Je to živé prostredie, ktoré ma každý deň inšpiruje a poskytuje priestor pre živú, jednoduchú a úprimnú kuchyňu, ktorá prirodzene obohacuje našu cestu.
 
-!
 
 PRÍBEH
 

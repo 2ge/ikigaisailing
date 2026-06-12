@@ -59,7 +59,6 @@ Un mois pour te redécouvrir
 
 [En savoir plus et réserver dès maintenant](https://www.ikigaisailing.com/2025-26-season/)
 
-!
 
 NAVIGUER À TRAVERS
 

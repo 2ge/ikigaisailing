@@ -27,7 +27,6 @@ Plus tu passes de temps à vivre en harmonie avec la nature et la mer, plus les 
 
 01
 
-!
 
 ### 1 semaine – Une bouffée d'air frais
 
@@ -57,11 +56,9 @@ Dix jours pour redécouvrir ton rythme naturel, respirer profondément et te rec
 
 [Réserver](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-!
 
 03
 
-!
 
 ### Trouve ton Ikigai
 
@@ -86,11 +83,9 @@ Tu n’es pas un invité : tu fais partie de l’équipage, de la vie, de l’é
 
 [En savoir plus](https://www.ikigaisailing.com/prodotto/one-month/)
 
-!
 
 ### 05
 
-!
 
 ### Traversée du Pacifique – La Grande Traversée
 

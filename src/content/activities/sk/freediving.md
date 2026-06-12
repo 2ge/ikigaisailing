@@ -30,7 +30,6 @@ APNEA
 
 Freediving nie je len šport, môže to byť skutočná cesta k sebapoznaniu, zámienka na to, aby ste sa zastavili, nadýchli a načúvali sami sebe. Keď sa ponoríte do tejto disciplíny, budete mať príležitosť naučiť sa, ako upokojiť myseľ (ktorá sama o sebe spotrebuje takmer 40 % kyslíka, ktorý potrebujeme, ale v strese oveľa viac!) a ako správne dýchať (v priemere človek využíva len 30 až 50 percent svojej pľúcnej kapacity). Tieto praktiky nielenže zlepšia váš výkon vo vode a umožnia vám zažiť intenzívne pocity, ktoré môže ponúknuť relaxačný freedive, ale vytvoria aj hlbšiu úroveň spojenia so sebou samým a s morom. Akonáhle si tieto zručnosti osvojíte, budete ich môcť využiť počas svojich výletov pri objavovaní nádherných morských zázrakov, do ktorých sa často ponárame. Plávanie medzi farebnými rybami a fascinujúcim morským dnom na jeden dych sa stane nezabudnuteľným zážitkom, obohateným o vedomosti a techniku, ktoré ste nadobudli. Trénovanie a praktizovanie freedivingu na katamaráne ponúka jedinečný zážitok z hľadiska bezpečnosti a pohodlia. Budete si môcť vychutnať krásu mora a jeho tvorov počas tréningu v pokojnom a príjemnom prostredí. Pridajte sa k nám a vyberte sa na túto mimoriadnu cestu, kde freediving ponúka nielen príležitosť preskúmať podmorský svet, ale aj prehĺbiť vaše spojenie so sebou samým a s prírodou.
 
-!
 
 ## Čo môžete očakávať:
 
@@ -54,7 +53,6 @@ Zlepšiť statické a dynamické zručnosti vo freedivingu
 
 Certifikovaní organizáciami AIDA a Apnea Total
 
-!
 
 ## Výhody:
 

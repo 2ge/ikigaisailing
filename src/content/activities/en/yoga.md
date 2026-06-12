@@ -18,7 +18,6 @@ YOGA
 
 With the sea as a backdrop and the sound of the waves, yoga becomes a transformative practice. Each session is designed to regenerate both body and mind, adapting to every level of experience.
 
-!
 
 ## What to expect:
 
@@ -38,7 +37,6 @@ Hatha, Vinyasa, and Yin Yoga
 
 Onboard or on breathtaking beaches 
 
-!
 
 ## Why try it: 
 

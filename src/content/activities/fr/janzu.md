@@ -65,4 +65,3 @@ Formés aux techniques Janzu et Wata
 
 Vivez un voyage régénérant, en vous laissant bercer par la mer en totale harmonie.
 
-!

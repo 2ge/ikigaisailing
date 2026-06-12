@@ -60,7 +60,6 @@ Mesiac na znovuobjavenie seba samého
 
 [Zistite viac a rezervujte si už teraz](https://www.ikigaisailing.com/2025-26-season/)
 
-!
 
 PLÁVANIE PO
 

@@ -21,7 +21,6 @@ gallery:
 
 ## QUIÉNES SOMOS
 
-!
 
 Ikigai Sailing es una comunidad en crecimiento formada por soñadores, navegantes, buceadores en apnea, buceadores, kitesurfistas y amantes de la aventura y el deporte.
 
@@ -59,9 +58,7 @@ También es **instructor** **de buceo libre** de **AIDA y Apnea Totale**, e **in
 
 Su pasión por la hospitalidad, combinada con su amor por la buena comida, crea una **experiencia a bordo única** centrada en **el bienestar físico y mental**, mezclando actividades deportivas con prácticas como **la meditación y el Janzu**, todo ello enriquecido por los placeres de una saludable **Dolce Vita**.
 
-!
 
-!
 
 Brano
 
@@ -81,7 +78,6 @@ Cocinar siempre ha sido mi forma de expresar creatividad, cariño y generosidad.
 
 A bordo del catamarán Ikigai, he encontrado el lugar perfecto para unir esta pasión con mi amor por el mar, los encuentros significativos y una vida en constante movimiento. Es un entorno esencial y vibrante que me inspira cada día, dejando espacio para una cocina viva, sencilla y sincera que enriquece de forma natural el viaje.
 
-!
 
 LA HISTORIA
 

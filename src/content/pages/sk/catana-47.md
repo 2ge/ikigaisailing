@@ -21,7 +21,6 @@ gallery:
 
 ## Catana 47
 
-!
 
 Catana 47
 
@@ -29,7 +28,6 @@ _Catana 47_ je navrhnutá tak, aby ste si mohli užívať komfort a priestor bez
 
 [Virtuálna prehliadka](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-!
 
 [![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
@@ -118,7 +116,6 @@ VYBAVENIE LODE
 
 **Druhá sada plachiet z materiálu Dacron: hlavná plachta a genoa.**
 
-!
 
 ## ELEKTRONIKA
 
@@ -130,13 +127,11 @@ VYBAVENIE LODE
 
 **Radar Quantum AIS 650 Transceiver triedy B**
 
-!
 
 ## RÔZNE
 
 **12V odsolovač vody Aquabase (105 l/h ESW901) Námorný hydrogenerátor Watt & Sea 600 W Sada lítiových batérií Victron (2021) Uhlíkový škríp (2017) 8 solárnych panelov 110 W (2017) Kúrenie Webasto (2021) Chladnička Liebherr A++ 220 V so špeciálnym meničom (2021) Mraznička Liebherr A++ 220 V so špeciálnym meničom (2021) Umývačka riadu (2021) Candy 3 kg práčka (2017)**
 
-!
 
 ![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 

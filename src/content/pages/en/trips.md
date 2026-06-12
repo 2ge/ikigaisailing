@@ -25,7 +25,6 @@ The more time you spend living in harmony with nature and the sea, the deeper an
 
 01
 
-!
 
 ### 1 Week – A Breath of Fresh Air
 
@@ -54,11 +53,9 @@ Ten days to rediscover your natural rhythm, breathe deeply, and reconnect with y
 
 [Book](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-!
 
 03
 
-!
 
 ### Find Your Ikigai
 
@@ -83,11 +80,9 @@ You are not a guest: you are part of the crew, of life, of the exchange. You wil
 
 [Discover more](https://www.ikigaisailing.com/prodotto/one-month/)
 
-!
 
 ### 05
 
-!
 
 ### Pacific Crossing – The Great Crossing
 

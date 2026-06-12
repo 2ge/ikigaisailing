@@ -18,7 +18,6 @@ gallery:
 
 ## CATANA 47
 
-!
 
 CATANA 47
 
@@ -26,7 +25,6 @@ _The Catana 47_ is designed to enjoy comfort and space without giving up the thr
 
 [Virtual tour](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-!
 
 [![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
@@ -115,7 +113,6 @@ BOAT EQUIPMENT
 
 **A second set of sails in Dacron: mainsail and Genoa.**
 
-!
 
 ## ELECTRONICS
 
@@ -127,13 +124,11 @@ BOAT EQUIPMENT
 
 **Quantum Radar AIS 650 Class B Transceiver**
 
-!
 
 ## MISCELLANEOUS
 
 **12V Aquabase Watermaker (105L/h ESW901) Watt &Sea 600W Marine Hydrogenerator Victron Lithium Battery Bank (2021) Carbon Daggerboard (2017) 8 X 110W Solar Panels (2017) Webasto Heating System (2021) Liebherr A++ 220V Fridge with dedicated inverter (2021) Liebherr A++ 220V Freezer with dedicated inverter (2021) Dishwasher (2021) Candy 3kg Washing Machine (2017)**
 
-!
 
 ![d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 

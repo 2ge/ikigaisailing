@@ -38,7 +38,6 @@ In questo modo, scoprirai l’equilibrio tra sfida e serenità, immerso in uno d
 
 Tutti i corsi sono certificati IKO.
 
-!
 
 ## Cosa aspettarti
 
@@ -58,7 +57,6 @@ Le migliori spiagge con venti costanti e sicuri
 
 Possibilità di noleggio attrezzatura a bordo 
 
-!
 
 ## WHY US
 

@@ -18,7 +18,6 @@ gallery:
 
 ## ABOUT US
 
-!
 
 Ikigai Sailing is a growing community of dreamers, sailors, freedivers, divers, kitesurfers, and adventure and sports enthusiasts.
 
@@ -58,9 +57,7 @@ He is also a **freediving instructor** for **AIDA and Apnea Totale** and a **cer
 
 His passion for hospitality, combined with his love for good food, creates a **unique onboard experience** focused on **physical and mental well-being** , blending sports activities with practices such as **meditation and Janzu** , all enriched by the pleasures of a healthy **Dolce Vita**.
 
-!
 
-!
 
 BRANO
 
@@ -80,7 +77,6 @@ Cooking has always been my way of expressing creativity, care, and sharing. I lo
 
 On board the Ikigai catamaran, I have found the perfect place to unite this passion with my love for the sea, meaningful encounters, and a life in constant motion. It is an essential and vibrant environment that inspires me every day, allowing space for a living, simple, and heartfelt cuisine that naturally enriches the journey.
 
-!
 
 THE STORY 
 

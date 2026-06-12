@@ -65,4 +65,3 @@ Vyškolení v technikách Janzu a Wata
 
 Zažite regeneračnú cestu a nechajte sa v úplnej harmónii kolísať morom.
 
-!

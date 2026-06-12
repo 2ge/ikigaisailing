@@ -18,7 +18,6 @@ gallery:
 
 ## CATANA 47
 
-!
 
 CATANA 47
 
@@ -26,7 +25,6 @@ Il Catana 47 è una barca concepita per godere delle comodità e degli spazi sen
 
 [Virtual tour](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-!
 
 [![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
@@ -110,7 +108,6 @@ Code 0 di 81 m2 si avvolgitore per bompresso in tessuti laminati carbonio aramid
 
 Secondo gioco di vele in dacron, randa e genoa.
 
-!
 
 ## ELETTRONICA
 
@@ -136,7 +133,6 @@ Radar Quantum
 
 Ricetrasmettitore AIS 650 Classe B
 
-!
 
 ## VARIE
 
@@ -160,7 +156,6 @@ Lavastoviglie (2021)
 
 Lavatrice Candy 3kg (2017)
 
-!
 
 ![bandiere](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2.jpg)
 

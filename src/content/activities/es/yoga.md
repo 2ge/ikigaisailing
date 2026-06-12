@@ -20,7 +20,6 @@ YOGA
 
 Con el mar de fondo y el sonido de las olas, el yoga se convierte en una práctica transformadora. Cada sesión está diseñada para regenerar tanto el cuerpo como la mente, adaptándose a todos los niveles de experiencia.
 
-!
 
 ## Qué puedes esperar:
 
@@ -40,7 +39,6 @@ Hatha, Vinyasa y Yin Yoga
 
 A bordo o en playas impresionantes
 
-!
 
 ## Por qué probarlo:
 

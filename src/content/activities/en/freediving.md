@@ -26,7 +26,6 @@ APNEA
 
 Freediving is not just a sport, it can be a true path to self-discovery, an excuse to stop, breathe, and listen to yourself. As you dive into this discipline, you will have the opportunity to learn how to calm the mind (which alone consumes almost 40% of the oxygen we need, but when stressed, much more!) and how to breathe correctly (on average, a human uses only 30 to 50 percent of their lung capacity). These practices will not only improve your performance in the water, allowing you to experience the intense sensations that a relaxing freedive can offer, but will also establish a deeper level of connection with yourself and the sea. Once you have acquired these skills, you will be able to apply them during your trips to explore the beautiful marine wonders we are often immersed in. Swimming among colorful fish and fascinating seabeds in a single breath will become an unforgettable experience, enriched by the awareness and technique you’ve gained. Training and practicing freediving on a catamaran offers a unique experience in terms of safety and comfort. You’ll be able to enjoy the beauty of the sea and its creatures while training in a peaceful and welcoming environment. Join us to embark on this extraordinary journey, where freediving offers not only the opportunity to explore the underwater world, but also to deepen your connection with yourself and with nature. 
 
-!
 
 ## Cosa aspettarti:
 
@@ -50,7 +49,6 @@ Improve static and dynamic freediving skills
 
 Certified by AIDA and Apnea Total 
 
-!
 
 ## Benefits:
 

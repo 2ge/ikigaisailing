@@ -28,7 +28,6 @@ Cuanto más tiempo pases viviendo en armonía con la naturaleza y el mar, más p
 
 01
 
-!
 
 ### 1 semana – Un soplo de aire fresco
 
@@ -58,11 +57,9 @@ Diez días para redescubrir tu ritmo natural, respirar profundamente y reconecta
 
 [Reserva](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-!
 
 03
 
-!
 
 ### Encuentra tu Ikigai
 
@@ -87,11 +84,9 @@ No eres un invitado: eres parte de la tripulación, de la vida, del intercambio.
 
 [Descubre más](https://www.ikigaisailing.com/prodotto/one-month/)
 
-!
 
 ### 05
 
-!
 
 ### Travesía del Pacífico – La Gran Travesía
 

@@ -32,7 +32,6 @@ Trova il tuo Ikigai, salpa con noi e scopri una vita oltre i confini del quotidi
 
 Per il mare, la vela, l’avventura, i viaggi, la cucina, gli sport
 
-!
 
 02.
 
