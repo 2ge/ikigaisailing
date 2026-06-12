@@ -18,7 +18,6 @@ gallery:
 
 ## CHI SIAMO
 
-
 Ikigai Sailing è una comunità in continua crescita, composta da sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di sport e avventura. 
 
 Siamo un’associazione sportiva dilettantistica senza scopo di lucro, riconosciuta dal **CONI** e affiliata all’Ente di Promozione Sportiva **MSP Italia**.  
@@ -56,8 +55,6 @@ Luca è certificato **RYA Yachtmaster Offshore** e istruttore di vela riconosciu
 
 La sua vocazione per l’ospitalità, combinata con la passione per il buon cibo gli permette di creare un’esperienza unica a bordo incentrate sul benEssere psicofisico fondendo l’attività fisica e lo sport con pratiche quali la meditazione ed il **Janzu** arricchendo il tutto con i piaceri di **una sana Dolce Vita**.
 
-
-
 BRANO
 
 **Dive Master, Pesca Subacquea & Spirito Avventuriero**
@@ -73,7 +70,6 @@ Mi chiamo Paola, ho 35 anni e sono francese. Oggi sono qui perché la mia vita r
 Cucinare è da sempre il mio modo di esprimere creatività, cura e condivisione. Amo preparare piatti che raccontano storie, che intrecciano sapori e tradizioni diverse, e che creano momenti di piacere autentico attorno a una tavola.
 
 A bordo del catamarano Ikigai ho trovato il luogo ideale per unire questa passione all’amore per il mare, per gli incontri e per una vita in continuo movimento. Un ambiente essenziale e vibrante, che mi ispira ogni giorno e dà spazio a una cucina viva, semplice e sincera, capace di accompagnare e arricchire l’esperienza di viaggio.
-
 
 la storia
 

@@ -5,13 +5,14 @@ import PageHero from '../../components/PageHero.astro';
 import Prose from '../../components/Prose.astro';
 import Gallery from '../../components/Gallery.astro';
 import JsonLd from '../../components/jsonld/JsonLd.astro';
-import { useTranslations, type Locale } from '../../i18n/ui';
+import { useTranslations, localizePath, type Locale } from '../../i18n/ui';
+import { WHATSAPP_URL } from '../../i18n/nav';
 import { slugOf, entryForLocale, existingLocalePaths } from '../../lib/content';
 import { breadcrumbs } from '../../lib/schema';
 
 export async function getStaticPaths() {
   // Standalone informational pages. Index/landing slugs have their own routes.
-  const RESERVED = new Set(['home', 'activities', 'trips', 'reviews', 'contact']);
+  const RESERVED = new Set(['home', 'activities', 'trips', 'reviews', 'contact', 'season-2025-26']);
   return existingLocalePaths('pages', { filter: (e) => !RESERVED.has(slugOf(e)) });
 }
 
@@ -54,13 +55,28 @@ const crumb = breadcrumbs(site, locale, [
     <PageHero title={d.title} lead={d.description} />
   )}
 
-  <article class="mx-auto max-w-4xl px-4 py-14 sm:px-6">
+  <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
     <Prose entry={entry} />
-    {d.gallery.length > 0 && (
-      <section class="mt-12">
-        <h2 class="font-display text-2xl text-ocean-950">{t('trip.gallery')}</h2>
-        <Gallery images={d.gallery} alt={d.title} />
-      </section>
-    )}
   </article>
+
+  {d.gallery.length > 0 && (
+    <section class="bg-sand-100 py-16">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <p class="coords mb-6 text-ocean-600">{t('trip.gallery')}</p>
+        <Gallery images={d.gallery} alt={d.title} />
+      </div>
+    </section>
+  )}
+
+  {/* closing CTA band — every page ends with a way aboard */}
+  <section class="bg-ocean-900 py-16 text-center text-sand-50">
+    <div class="mx-auto max-w-2xl px-4">
+      <h2 class="font-display text-2xl sm:text-3xl">{t('contact.title')}</h2>
+      <p class="mx-auto mt-3 max-w-md text-sand-100/80">{t('contact.whatsappLead')}</p>
+      <div class="mt-7 flex flex-wrap justify-center gap-3">
+        <a href={localizePath('/trips/', locale)} class="rounded-full bg-coral-500 px-6 py-3 font-semibold text-sand-50 transition hover:bg-coral-400">{t('cta.discoverTrips')}</a>
+        <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="rounded-full border border-sand-100/30 px-6 py-3 font-semibold text-sand-50 transition hover:bg-ocean-950/40">{t('cta.whatsapp')}</a>
+      </div>
+    </div>
+  </section>
 </PageLayout>

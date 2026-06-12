@@ -4,19 +4,19 @@ description: >-
   Vydejte sa na jedinečnú plavbu s Ikigai Sailing. Objavte tie najlepšie
   plavebné trasy, ktoré vás inšpirujú, motivujú a spájajú...
 locale: sk
-translated: deepl
-sourceHash: fe09d0b29d98ff46
-needsReview: true
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/route/attraversata-atlantica-1.jpg"
-  - "~/assets/pages/route/ikigaisailing-2022-sardegna.jpg"
-  - "~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg"
-  - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
-  - "~/assets/pages/route/ikigaisailing-2025-los-roques.jpg"
-  - "~/assets/pages/route/ikigaisailing-next-australia.jpg"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/route/attraversata-atlantica-1.jpg
+  - ~/assets/pages/route/ikigaisailing-2022-sardegna.jpg
+  - ~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg
+  - ~/assets/pages/home/ikigaisailing-2024-anguilla.avif
+  - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
+  - ~/assets/pages/route/ikigaisailing-next-australia.jpg
+translated: deepl
+sourceHash: 2e7d5f9ec803f2fa
+needsReview: true
 ---
 
 ## TRASA
@@ -31,7 +31,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 2022
 
-
 ### Vyplávame!
 
 -   **Júl – Rím, Taliansko** Východiskový bod cesty s emotívnym rozlúčením s talianskym hlavným mestom, ktoré je bohaté na históriu a kultúru.
@@ -42,7 +41,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 -   **December – Kapverdy (15.–18. december)** Krátka, ale intenzívna zastávka na tropických ostrovoch, bohatých na kreolskú kultúru a sopečné krajiny.
 
 2023
-
 
 ### Prechod cez Atlantik
 
@@ -81,7 +79,7 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
     -   **Union Island** Živý a očarujúci ostrov, milovaný pre svoju príjemnú atmosféru a miestne trhy.
     -   **Mayreau** Malý ostrov s intímnou atmosférou, ideálny na pokojný oddych.
     -   **Martinik** Ďalšia zastávka na ostrove na oddych a doplnenie zásob.
-    -   **Dominika** Opätovná návšteva s cieľom ďalej preskúmať bujnú prírodu ostrova.
+    -   **Dominika** Návrat na ostrov, aby sme ďalej preskúmali jeho bujnú prírodu.
 
 **Jún**
 
@@ -93,7 +91,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 **September – Martinik** Dlhšia zastávka, aby sme si užili príjemné podnebie a pohodlie ostrova.
 
 2024
-
 
 ### Venezuela a ostrovy
 
@@ -109,7 +106,6 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 2025
 
-
 ### ABC a Panama
 
 \*\*25  
@@ -118,11 +114,9 @@ Curacao\*\*Ďalej sa vydáme do Kolumbie, potom prejdeme Panamským prieplavom a
 
 2026
 
-
 ### San Blas
 
 ĎALEJ
-
 
 ### Preplávanie Tichého oceánu
 
@@ -130,7 +124,7 @@ Naše dobrodružstvo nás zavedie na **Galapágy, Markézy, Tahiti a Fidži,** a
 
 Odtiaľ budeme sledovať pobrežie **Ománu a Jemenu** do **Červeného mora**, prejdeme cez Sudán a Egypt, a potom cez **Suezský prieplav** opäť vstúpime do **Stredozemného** mora, čím naše dobrodružstvo skončí.
 
-## Sme hrdí, že sme dosiahli tieto ciele
+## Sme hrdí na to, že sme dosiahli tieto ciele
 
 ![Saint Kitts and Nevis](../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Svätý Krištof a Nevis
 

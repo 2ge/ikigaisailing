@@ -5,22 +5,21 @@ description: >-
   de una vida plena en el agua. Explora la pasión por la aventura, la
   tranquilidad y la naturaleza
 locale: es
-translated: deepl
-sourceHash: 9193e1735421180f
-heroImage: "~/assets/pages/about/R-C.png"
+heroImage: ~/assets/pages/about/R-C.png
 gallery:
-  - "~/assets/activities/janzu/janzu1.jpg"
-  - "~/assets/activities/kitesurf/kite-surf7.jpg"
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/diving/scuba-diving-3.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/pages/about/20221114_180633.jpg"
-  - "~/assets/trips/acconto/20221220_125124.jpg"
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/kitesurf/kite-surf7.jpg
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/diving/scuba-diving-3.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/pages/about/20221114_180633.jpg
+  - ~/assets/trips/acconto/20221220_125124.jpg
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+translated: deepl
+sourceHash: 580dc5db8e2f8161
 ---
 
 ## QUIÉNES SOMOS
-
 
 Ikigai Sailing es una comunidad en crecimiento formada por soñadores, navegantes, buceadores en apnea, buceadores, kitesurfistas y amantes de la aventura y el deporte.
 
@@ -58,13 +57,11 @@ También es **instructor** **de buceo libre** de **AIDA y Apnea Totale**, e **in
 
 Su pasión por la hospitalidad, combinada con su amor por la buena comida, crea una **experiencia a bordo única** centrada en **el bienestar físico y mental**, mezclando actividades deportivas con prácticas como **la meditación y el Janzu**, todo ello enriquecido por los placeres de una saludable **Dolce Vita**.
 
-
-
 Brano
 
 **Dive Master, pesca submarina y espíritu aventurero**
 
-Brano es un buceador experto con certificaciones que van desde **IANTD Divemaster hasta Cave Diver y Rescue Diver**, pasando por buceo avanzado y apnea.
+Brano es un buceador experto con certificaciones que van desde **Divemaster de la IANTD hasta buzo de cuevas y buzo de rescate**, pasando por buceo avanzado y apnea.
 
 Su pasión por el mar le ha llevado a explorar **más de 30 países**, abrazando los deportes extremos, los viajes de aventura y la innovación tecnológica.
 
@@ -78,7 +75,6 @@ Cocinar siempre ha sido mi forma de expresar creatividad, cariño y generosidad.
 
 A bordo del catamarán Ikigai, he encontrado el lugar perfecto para unir esta pasión con mi amor por el mar, los encuentros significativos y una vida en constante movimiento. Es un entorno esencial y vibrante que me inspira cada día, dejando espacio para una cocina viva, sencilla y sincera que enriquece de forma natural el viaje.
 
-
 LA HISTORIA
 
 [Lee la historia](https://www.ikigaisailing.com/en/the-story/)
@@ -91,7 +87,7 @@ Se trata de **volver a la naturaleza, descubrir nuevos horizontes y disfrutar de
 Es el **placer de compartir momentos auténticos**, practicar deporte, explorar diferentes culturas y **vivir cada día como un respiro del acelerado mundo moderno**.  
 En otras palabras, **es una escapada de Matrix**.
 
-Nuestro proyecto es un **viaje a vela alrededor del mundo**, donde enseñamos y compartimos nuestras pasiones, promoviendo un **estilo de vida saludable y sostenible**. Vivimos de todo, desde **travesías oceánicas hasta relajantes semanas de navegación**, cultivando intereses más allá de la vela: **desde la gastronomía hasta el bienestar, desde el deporte hasta la meditación**.
+Nuestro proyecto es un **viaje en velero alrededor del mundo**, donde enseñamos y compartimos nuestras pasiones, promoviendo un **estilo de vida saludable y sostenible**. Vivimos de todo, desde **travesías oceánicas hasta relajantes semanas de navegación**, cultivando intereses más allá de la vela: **desde la gastronomía hasta el bienestar, desde el deporte hasta la meditación**.
 
 [Descubre tu Ikigai con nosotros](https://www.ikigaisailing.com/en/ikigai-2/)
 

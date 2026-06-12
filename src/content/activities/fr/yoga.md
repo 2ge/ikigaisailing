@@ -11,15 +11,14 @@ gallery:
   - ~/assets/activities/yoga/yoga-ikigai3.jpg
 order: 1
 translated: deepl
-sourceHash: c6609d63365fef40
+sourceHash: bfffc5cdaf428df6
 ---
 
 YOGA
 
 ## Retrouve ton équilibre
 
-Avec la mer en toile de fond et le bruit des vagues, le yoga devient une pratique transformatrice. Chaque séance est conçue pour régénérer à la fois le corps et l'esprit, et s'adapte à tous les niveaux d'expérience.
-
+Avec la mer en toile de fond et le bruit des vagues, le yoga devient une pratique transformatrice. Chaque séance est conçue pour régénérer le corps et l'esprit, et s'adapte à tous les niveaux d'expérience.
 
 ## À quoi t'attendre :
 
@@ -39,13 +38,12 @@ Hatha, Vinyasa et Yin Yoga
 
 À bord ou sur des plages à couper le souffle
 
-
 ## Pourquoi essayer :
 
 Connecte ta respiration à tes mouvements et fais l'expérience de la paix intérieure.
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
 
-[![yoga sailing retreat, Ritiro Yoga in Barca a vela](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201920%201080'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)

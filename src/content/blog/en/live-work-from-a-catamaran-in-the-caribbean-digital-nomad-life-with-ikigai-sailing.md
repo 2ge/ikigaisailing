@@ -34,7 +34,7 @@ With **satellite Wi-Fi** , fresh meals, and epic sunrises, your productivity wil
 
 Anchored in **San Blas** , a unique archipelago with 365 untouched islands – no mass tourism, just magic.
 
-[![Ikigai Experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
 
 #### [Ikigai Experience](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
 
@@ -42,7 +42,7 @@ Anchored in **San Blas** , a unique archipelago with 365 untouched islands – n
 
 [Add to cart](/live-work-from-a-catamaran-in-the-caribbean-digital-nomad-life-with-ikigai-sailing/?add-to-cart=95653)
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 #### [10 days on board Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
@@ -50,7 +50,7 @@ Anchored in **San Blas** , a unique archipelago with 365 untouched islands – n
 
 [Add to cart](/live-work-from-a-catamaran-in-the-caribbean-digital-nomad-life-with-ikigai-sailing/?add-to-cart=40866)
 
-[![Pacific Crossing](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 #### [Pacific Crossing](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
 
@@ -58,13 +58,13 @@ Anchored in **San Blas** , a unique archipelago with 365 untouched islands – n
 
 [Add to cart](/live-work-from-a-catamaran-in-the-caribbean-digital-nomad-life-with-ikigai-sailing/?add-to-cart=39308)
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 #### [Exchange / Paid Boarding](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
 
 [Read more](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
-[![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[](https://www.ikigaisailing.com/prodotto/one-month/)
 
 #### [One month aboard](https://www.ikigaisailing.com/prodotto/one-month/ "One month aboard")
 
@@ -74,7 +74,7 @@ Anchored in **San Blas** , a unique archipelago with 365 untouched islands – n
 
 Sale!
 
-[![Advance payment](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/advance-payment/)
+[](https://www.ikigaisailing.com/prodotto/advance-payment/)
 
 #### [Advance payment](https://www.ikigaisailing.com/prodotto/advance-payment/ "Advance payment")
 

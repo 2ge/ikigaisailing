@@ -2,26 +2,25 @@
 title: O spoločnosti Ikigai Sailing – Zažite pokoj plavby na lodi
 description: >-
   Objavte Ikigai Sailing a nechajte sa uniesť umením plachtenia, ktoré vám
-  prinesie naplňujúci život na vode. Objavte vášeň pre dobrodružstvo, pokoj a
+  prinesie naplnený život na vode. Objavte vášeň pre dobrodružstvo, pokoj a
   prírodu
 locale: sk
-translated: deepl
-sourceHash: 9193e1735421180f
-needsReview: true
-heroImage: "~/assets/pages/about/R-C.png"
+heroImage: ~/assets/pages/about/R-C.png
 gallery:
-  - "~/assets/activities/janzu/janzu1.jpg"
-  - "~/assets/activities/kitesurf/kite-surf7.jpg"
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/diving/scuba-diving-3.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/pages/about/20221114_180633.jpg"
-  - "~/assets/trips/acconto/20221220_125124.jpg"
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/kitesurf/kite-surf7.jpg
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/diving/scuba-diving-3.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/pages/about/20221114_180633.jpg
+  - ~/assets/trips/acconto/20221220_125124.jpg
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+translated: deepl
+sourceHash: 580dc5db8e2f8161
+needsReview: true
 ---
 
 ## O NÁS
-
 
 Ikigai Sailing je rastúca komunita snílkov, námorníkov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.
 
@@ -55,11 +54,9 @@ Luca
 **Kapitán, inštruktor kitesurfingu a freedivingu Kapitán, inštruktor kitesurfingu a freedivingu**
 
 Luca je držiteľom certifikátu **RYA Yachtmaster Offshore** a **inštruktorom** **plachtenia uznávaným organizáciou CONI.**  
-Je tiež **inštruktorom** **freedivingu** pre **organizácie AIDA a Apnea Totale** a **certifikovaným medzinárodným inštruktorom kitesurfingu IKO.**
+Je tiež **inštruktorom** **freedivingu** pre **organizácie AIDA a Apnea Totale** a **certifikovaným inštruktorom kitesurfingu IKO International.**
 
 Jeho vášeň pre pohostinnosť v kombinácii s láskou k dobrému jedlu vytvára **jedinečný zážitok na palube** zameraný na **fyzickú a duševnú pohodu**, spájajúci športové aktivity s praktikami ako **meditácia a Janzu**, všetko obohatené o radosti zdravého **Dolce Vita**.
-
-
 
 Brano
 
@@ -75,10 +72,9 @@ V roku **2022** spolu s Lucom založil **Ikigai Sailing**, čím vytvoril projek
 
 Volám sa Paola, mám 35 rokov a som Francúzka. Som tu dnes, pretože môj život sa točí okolo dvoch veľkých vášní: varenia a mora.
 
-Varenie bolo vždy mojim spôsobom, ako vyjadriť kreativitu, starostlivosť a zdieľanie. Milujem prípravu jedál, ktoré rozprávajú príbehy, spájajú chute a tradície a vytvárajú momenty skutočného potešenia pri stole.
+Varenie bolo vždy spôsobom, ako vyjadriť kreativitu, starostlivosť a zdieľanie. Milujem prípravu jedál, ktoré rozprávajú príbehy, spájajú chute a tradície a vytvárajú chvíle skutočného potešenia pri stole.
 
 Na palube katamaránu Ikigai som našla ideálne miesto, kde môžem spojiť túto vášeň s mojou láskou k moru, zmysluplnými stretnutiami a životom v neustálom pohybe. Je to živé prostredie, ktoré ma každý deň inšpiruje a poskytuje priestor pre živú, jednoduchú a úprimnú kuchyňu, ktorá prirodzene obohacuje našu cestu.
-
 
 PRÍBEH
 

@@ -20,7 +20,7 @@ gallery:
   - ~/assets/activities/diving/divers.png
 order: 6
 translated: deepl
-sourceHash: fa1e5675cdd849cc
+sourceHash: 9ccbe1068f78381e
 needsReview: true
 ---
 
@@ -29,7 +29,6 @@ needsReview: true
 ## Objavujte podmorský svet
 
 Ponoriť sa do podvodného sveta plného zázrakov priamo z katamaránu je jedinečná príležitosť, ktorá ponúka možnosti, ktoré by inak neboli možné. Vďaka malému potápačskému centru na palube, vybavenému kompresorom a všetkým potrebným vybavením, sa môžeme potápať na odľahlých miestach a vlastným tempom. Každý ponor je jedinečným dobrodružstvom od hlbokej modrej až po neuveriteľné koralové záhrady. Ikigai Sailing ponúka bezpečný a nezabudnuteľný zážitok pod vedením certifikovaného inštruktora IANTD.
-
 
 ## Čo môžete očakávať:
 
@@ -52,7 +51,6 @@ Kompletné a zahrnuté v balíku
 ### Ponúkané certifikáty:
 
 PADI a SSI k dispozícii na požiadanie
-
 
 ## Čo uvidíte:
 

@@ -27,7 +27,6 @@ oldUrls:
 
 Diving into an underwater universe of wonders directly from the catamaran is a unique opportunity that offers possibilities otherwise impossible. With a small diving center on board, complete with a compressor and all necessary equipment, we can dive in remote locations and at our own pace. Each dive is a unique adventure from the deep blue to the incredible coral gardens. Ikigai Sailing offers a safe and unforgettable experience, guided by a certified IANTD instructor.
 
-
 ## What to expect:
 
 ### Level:
@@ -49,7 +48,6 @@ Complete and included in the package
 ### Certifications offered:
 
 PADI and SSI available upon request 
-
 
 ## What you will see:
 

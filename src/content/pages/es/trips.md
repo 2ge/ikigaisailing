@@ -1,25 +1,24 @@
 ---
-title: Formularios de embarque
+title: Opciones de alojamiento
 description: >-
-  Descubre las diferentes opciones de embarque de Ikigai Sailing: camarotes
-  compartidos y viajes personalizados para vivir una experiencia única en el
-  mar.
+  Formas de subir a bordo del Catana 47 Ikigai en San Blas: una semana, diez
+  días, un mes, la travesía por el Pacífico o un intercambio de tripulación.
 locale: es
-translated: deepl
-sourceHash: 0c1de8e916a34a3f
-heroImage: "~/assets/activities/project/meditazione1.jpg"
+heroImage: ~/assets/activities/project/meditazione1.jpg
 gallery:
-  - "~/assets/activities/meditation/meditazione2-copia-2.avif"
-  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/season-2025-26/20230126_101550-scaled.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - ~/assets/activities/meditation/meditazione2-copia-2.avif
+  - ~/assets/trips/acconto/IMG-20221227-WA0019.jpg
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/season-2025-26/20230126_101550-scaled.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+translated: deepl
+sourceHash: 997d2596946685b5
 ---
 
-### Beneficios que van en aumento con el tiempo
+### Beneficios que aumentan con el tiempo
 
 Bienestar físico y mental en armonía con la naturaleza
 
@@ -27,7 +26,6 @@ Vivir inmerso en el mar y la naturaleza es mucho más que unas vacaciones: es un
 Cuanto más tiempo pases viviendo en armonía con la naturaleza y el mar, más profundos y duraderos serán los beneficios para tu cuerpo, mente y espíritu.
 
 01
-
 
 ### 1 semana – Un soplo de aire fresco
 
@@ -57,15 +55,13 @@ Diez días para redescubrir tu ritmo natural, respirar profundamente y reconecta
 
 [Reserva](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-
 03
-
 
 ### Encuentra tu Ikigai
 
 **Más que un retiro: es un regreso a tu propio ritmo**
 
-Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu invitación a reducir el ritmo, reconectarte con tu respiración, tu cuerpo y tu verdad.  
+Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu invitación a bajar el ritmo, reconectar con tu respiración, tu cuerpo y tu verdad.  
 Explorarás ejercicios de respiración diarios, buceo libre, prácticas de movimiento, escritura de diario y círculos grupales significativos, todo ello basado en la filosofía del Ikigai, el concepto japonés que significa «razón de ser».  
 Cada isla es un capítulo. Cada ola, un recordatorio.  
 Esta es tu pausa sagrada: un reinicio para tu sistema nervioso, un renacer del propósito y la alegría.
@@ -75,26 +71,18 @@ Esta es tu pausa sagrada: un reinicio para tu sistema nervioso, un renacer del p
 
 [Reserva](https://www.ikigaisailing.com/prodotto/find-your-ikigai-retreat/)
 
-### 04
-
 ### Un mes: vive el mar como tu hogar, el tiempo como tu maestro
 
-Un mes a bordo para hacer una pausa de verdad, soltar los ritmos impuestos y reconectar con tu esencia. Esta experiencia está pensada para quienes ya han descubierto el mundo del Ikigai y desean sumergirse en un tiempo lento, profundo y regenerador.  
+Un mes a bordo para hacer una pausa de verdad, soltar los ritmos impuestos y reconectar con tu esencia. Esta experiencia está diseñada para quienes ya han conocido el mundo del Ikigai y desean sumergirse en un tiempo lento, profundo y regenerador.  
 No eres un invitado: eres parte de la tripulación, de la vida, del intercambio. Navegarás entre prácticas, naturaleza y compartir, experimentando el mar no como un telón de fondo, sino como un hogar y un espejo.
 
 [Descubre más](https://www.ikigaisailing.com/prodotto/one-month/)
 
-
-### 05
-
-
 ### Travesía del Pacífico – La Gran Travesía
 
-Más de 30 días de navegación desde Panamá hasta las Islas Marquesas. Una experiencia única y transformadora, donde el tiempo se dilata y el océano se convierte en tu hogar. No son unas vacaciones, es un rito de iniciación: compartir, turnos a bordo, cielos estrellados, silencio profundo y la fuerza viva del Pacífico. Si sientes la llamada, prepárate para dar el salto.
+Más de 30 días de navegación desde Panamá hasta las Islas Marquesas. Una experiencia única y transformadora, donde el tiempo se expande y el océano se convierte en tu hogar. No son unas vacaciones, es un rito de iniciación: compartir, turnos a bordo, cielos estrellados, silencio profundo y la fuerza viva del Pacífico. Si sientes la llamada, prepárate para dar el salto.
 
 [Reserva](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
-
-### 06
 
 ### Intercambio – La vida a bordo a cambio de tus talentos
 
@@ -103,8 +91,6 @@ Este programa está diseñado para quienes quieran contribuir activamente al pro
 No se trata de voluntariado, sino de un auténtico intercambio humano, donde el valor engendra valor.
 
 [Descubre más](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20169'%2F%3E)
 
 Contáctanos y reserva tu embarque ahora
 

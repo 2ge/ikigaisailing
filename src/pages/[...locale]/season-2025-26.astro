@@ -1,0 +1,119 @@
+---
+/** Dedicated, designed landing page for the main selling page (Season 2025/26 San Blas). */
+import { Image } from 'astro:assets';
+import PageLayout from '../../layouts/PageLayout.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import TripCard from '../../components/TripCard.astro';
+import ActivityCard from '../../components/ActivityCard.astro';
+import TestimonialRail from '../../components/TestimonialRail.astro';
+import Prose from '../../components/Prose.astro';
+import JsonLd from '../../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, defaultLocale, type Locale } from '../../i18n/ui';
+import { WHATSAPP_URL } from '../../i18n/nav';
+import { entryForLocale, entriesForLocale } from '../../lib/content';
+import { breadcrumbs } from '../../lib/schema';
+
+export async function getStaticPaths() {
+  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
+    params: { locale: locale === defaultLocale ? undefined : locale },
+    props: { locale },
+  }));
+}
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+const lp = (p: string) => localizePath(p, locale);
+
+const page = await entryForLocale('pages', 'season-2025-26', locale);
+const trips = (await entriesForLocale('trips', locale)).sort((a, b) => a.data.order - b.data.order);
+const activities = (await entriesForLocale('activities', locale))
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 6);
+const testimonials = (await entriesForLocale('testimonials', locale)).slice(0, 8);
+
+const site = Astro.site!.origin;
+const crumb = breadcrumbs(site, locale, [
+  { name: 'Ikigai Sailing', path: '/' },
+  { name: page?.data.title ?? 'Season 2025/26', path: '/season-2025-26/' },
+]);
+---
+
+<PageLayout
+  title={page?.data.title ?? 'Season 2025/26 — San Blas'}
+  description={page?.data.description ?? 'The 2025/26 San Blas season aboard Ikigai.'}
+  path="/season-2025-26/"
+  conciergeContext="season"
+>
+  <JsonLd slot="head" schema={crumb} />
+
+  {/* hero */}
+  <header class="relative isolate overflow-hidden bg-ocean-950">
+    {page?.data.heroImage && (
+      <Image src={page.data.heroImage} alt={page.data.title} width={2000} height={1100} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" class="absolute inset-0 -z-10 h-full w-full object-cover opacity-65" />
+    )}
+    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/40 to-ocean-950/20"></div>
+    <div class="mx-auto flex min-h-[78vh] max-w-6xl flex-col justify-end px-4 pb-14 pt-28 sm:px-6">
+      <p class="coords reveal reveal-1 text-ocean-300">Season 2025/26 · 9°33′N 78°57′W · Guna Yala, Panama</p>
+      <h1 class="reveal reveal-2 mt-4 max-w-3xl font-display text-5xl leading-[1.04] tracking-[-0.02em] text-sand-50 sm:text-7xl">
+        {page?.data.title ?? 'A season in San Blas'}
+      </h1>
+      <p class="reveal reveal-3 mt-5 max-w-xl text-lg text-sand-100/90">{page?.data.description}</p>
+      <div class="reveal reveal-4 mt-8 flex flex-wrap gap-3">
+        <a href={lp('/trips/')} class="rounded-full bg-coral-500 px-6 py-3 font-semibold text-sand-50 shadow-lg transition hover:bg-coral-400">{t('cta.discoverTrips')}</a>
+        <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="rounded-full border border-sand-100/30 bg-ocean-950/30 px-6 py-3 font-semibold text-sand-50 backdrop-blur transition hover:bg-ocean-950/50">{t('cta.whatsapp')}</a>
+      </div>
+    </div>
+  </header>
+
+  {/* boarding options — the real CTA, as cards */}
+  <section class="bg-sand-50 py-20">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <SectionHeading eyebrow={t('home.tripsEyebrow')} title={t('home.tripsTitle')} />
+      <div class="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {trips.map((trip) => <TripCard trip={trip} locale={locale} />)}
+      </div>
+    </div>
+  </section>
+
+  {/* activities */}
+  <section class="bg-sand-100 py-20">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <SectionHeading eyebrow={t('home.activitiesEyebrow')} title={t('home.activitiesTitle')} />
+        <a href={lp('/activities/')} class="coords text-ocean-600 hover:text-ocean-800">{t('cta.allActivities')} →</a>
+      </div>
+      <div class="mt-12 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
+        {activities.map((activity) => <ActivityCard activity={activity} locale={locale} />)}
+      </div>
+    </div>
+  </section>
+
+  {/* the season in full — the narrative prose, kept for depth + SEO */}
+  {page && (
+    <section class="bg-sand-50 py-20">
+      <div class="mx-auto max-w-3xl px-4 sm:px-6">
+        <SectionHeading eyebrow="The season in full" title="Life in San Blas, day by day." />
+        <article class="mt-10"><Prose entry={page} /></article>
+      </div>
+    </section>
+  )}
+
+  {/* testimonials */}
+  <section class="bg-sand-100 py-20">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <SectionHeading eyebrow={t('home.logbook')} title={t('home.testimonialsTitle')} />
+        <a href={lp('/reviews/')} class="coords text-ocean-600 hover:text-ocean-800">{t('cta.allReviews')} →</a>
+      </div>
+      <div class="mt-12"><TestimonialRail testimonials={testimonials} locale={locale} /></div>
+    </div>
+  </section>
+
+  {/* CTA */}
+  <section class="bg-coral-500 py-20 text-center text-sand-50">
+    <div class="mx-auto max-w-2xl px-4">
+      <h2 class="font-display text-3xl sm:text-4xl">{t('home.ctaTitle')}</h2>
+      <p class="mt-4 text-sand-50/90">{t('footer.nonprofit')}</p>
+      <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="mt-8 inline-block rounded-full bg-sand-50 px-7 py-3 font-semibold text-coral-600 shadow-lg transition hover:bg-sand-100">{t('cta.whatsapp')}</a>
+    </div>
+  </section>
+</PageLayout>

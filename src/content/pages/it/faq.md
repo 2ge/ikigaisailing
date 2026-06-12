@@ -94,7 +94,7 @@ Il gruppo è composto da un massimo di 6 partecipanti, per garantire un’esperi
 
 ### FORMULE DI IMBARCO
 
-[![10 Days experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![Breath catamaran Holiday](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%201243'%2F%3E)](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
+[](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
 
 #### [10 Days experience](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/ "10 Days experience")
 
@@ -102,7 +102,7 @@ Il gruppo è composto da un massimo di 6 partecipanti, per garantire un’esperi
 
 [Aggiungi al carrello](/it/faq/?add-to-cart=40826)
 
-[Esperienza riservata ai soci![Un Mese a Bordo](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/it/prodotto/un-mese/)
+[Esperienza riservata ai soci](https://www.ikigaisailing.com/it/prodotto/un-mese/)
 
 #### [Un Mese a Bordo](https://www.ikigaisailing.com/it/prodotto/un-mese/ "Un Mese a Bordo")
 

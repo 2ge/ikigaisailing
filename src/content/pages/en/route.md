@@ -28,7 +28,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2022
 
-
 ### We're Setting Sail!
 
   * **July – Rome, Italy** The starting point of the journey, with an emotional farewell to the Italian capital, which rich in history and culture.
@@ -39,7 +38,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
   * **December – Cape Verde (15-18 December)** A short but intense stop in the tropical islands, rich in Creole culture and volcanic landscapes.
 
 2023
-
 
 ### Atlantic Crossing
 
@@ -79,7 +77,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2024
 
-
 ### Venezuela & Islands
 
 **January** – Anguilla, Guadeloupe
@@ -94,7 +91,6 @@ Here is the list of places visited by Ikigai Sailing during its journey around t
 
 2025
 
-
 ### ABC & Panama
 
 **March 25  
@@ -103,11 +99,9 @@ Aruba, Bon Air, Curacao
 
 2026
 
-
 ### San Blas
 
 NEXT
-
 
 ### Pacific Crossing
 

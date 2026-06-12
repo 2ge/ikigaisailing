@@ -11,7 +11,7 @@ gallery:
   - ~/assets/activities/yoga/yoga-ikigai3.jpg
 order: 1
 translated: deepl
-sourceHash: c6609d63365fef40
+sourceHash: bfffc5cdaf428df6
 needsReview: true
 ---
 
@@ -19,8 +19,7 @@ JÓGA
 
 ## Objavte svoju rovnováhu
 
-S morom v pozadí a šumením vĺn sa joga stáva transformujúcou praktikou. Každá lekcia je navrhnutá tak, aby regenerovala telo i myseľ, a prispôsobuje sa každej úrovni skúseností.
-
+S morom v pozadí a šumením vĺn sa joga stáva transformujúcou praxou. Každá lekcia je navrhnutá tak, aby regenerovala telo i myseľ, a prispôsobuje sa každej úrovni skúseností.
 
 ## Čo môžete očakávať:
 
@@ -40,13 +39,12 @@ Hatha, Vinyasa a Yin joga
 
 Na palube alebo na nádherných plážach
 
-
 ## Prečo to vyskúšať:
 
 Prepojte svoj dych s pohybom a zažite vnútorný pokoj.
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
 
-[![yoga sailing retreat, Ritiro Yoga in Barca a vela](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201920%201080'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)

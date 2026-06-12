@@ -25,7 +25,7 @@ gallery:
   - ~/assets/activities/janzu/Janzu-terapia2-1536x862.avif
 order: 4
 translated: deepl
-sourceHash: ba88ee0a64b38192
+sourceHash: c8a6f3bc576ad6e2
 needsReview: true
 ---
 
@@ -39,7 +39,7 @@ Janzu nie je len cvičením na uvoľnenie emócií, ale vychádza aj z princípo
 
 ### Trvanie:
 
-Individuálne sedenia trvajúce 1 hodinu
+Individuálne sedenia v dĺžke 1 hodiny
 
 ### Miesto:
 
@@ -64,4 +64,3 @@ Vyškolení v technikách Janzu a Wata
 ## Prečo to vyskúšať:
 
 Zažite regeneračnú cestu a nechajte sa v úplnej harmónii kolísať morom.
-

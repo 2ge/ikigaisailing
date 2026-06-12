@@ -80,5 +80,10 @@
   "home.tripsEyebrow": "Options de navigation",
   "home.activitiesEyebrow": "À bord",
   "home.routeEyebrow": "L'itinéraire",
-  "home.logbook": "Journal de bord"
+  "home.logbook": "Journal de bord",
+  "concierge.open": "Demande à l'équipe",
+  "concierge.title": "Demande à Ikigai",
+  "concierge.subtitle": "Tu as des questions sur le voyage, le bateau ou San Blas ? N'hésite pas à les poser.",
+  "concierge.placeholder": "Tape ta question…",
+  "concierge.send": "Envoyer"
 }

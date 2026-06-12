@@ -8,18 +8,18 @@ description: >-
   guider en toute sécurité et t'accompagner tout au long de ces expériences.
   Qu'est-ce que…
 locale: fr
-translated: deepl
-sourceHash: c4935f2192801476
-heroImage: "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+  - ~/assets/trips/acconto/user1.webp
+translated: deepl
+sourceHash: 4e53529614bf0236
 ---
 
 ### Ai-je besoin d'une expérience préalable en yoga, en méditation ou en apnée ?
@@ -64,11 +64,11 @@ Ton voyage commencera probablement par un vol vers l'aéroport international de 
 
 ### Comment l'électricité est-elle gérée à bord ? Quel type de tension et de prises vais-je trouver ?
 
-Sur l'Ikigai, nous sommes totalement autonomes en énergie. Grâce à des panneaux solaires, un hydrogénérateur et un générateur de secours, nous produisons et stockons toute l'énergie nécessaire à la vie à bord, même pendant les longues périodes en mer. Le système électrique fonctionne en 220 volts (norme européenne) et en 12 volts (courant continu). Chaque cabine est équipée de prises européennes de type Schuko. Il y a également une station d'alimentation commune dans le cockpit pour recharger téléphones, appareils photo, tablettes et ordinateurs portables. Évite d'utiliser des appareils à forte consommation (comme les sèche-cheveux ou les bouilloires électriques), car ils peuvent surcharger le système. Si tu viens d'un pays où les prises sont différentes (par exemple le Royaume-Uni ou les États-Unis), nous te recommandons d'apporter un adaptateur universel. Nous te demandons de bien vouloir utiliser l'électricité de manière responsable — notre système est efficace, mais conçu pour un mode de vie durable en harmonie avec la mer.
+Sur l'Ikigai, nous sommes totalement autonomes en énergie. Grâce à des panneaux solaires, un hydrogénérateur et un générateur de secours, nous produisons et stockons toute l'énergie nécessaire à la vie à bord, même pendant les longues périodes en mer. Le système électrique fonctionne en 220 volts (norme européenne) et en 12 volts (courant continu). Chaque cabine est équipée de prises européennes de type Schuko. Il y a également une station d'alimentation commune dans le cockpit pour recharger les téléphones, appareils photo, tablettes et ordinateurs portables. Évite d'utiliser des appareils à forte consommation (comme les sèche-cheveux ou les bouilloires électriques), car ils peuvent surcharger le système. Si tu viens d'un pays où les prises sont différentes (par exemple le Royaume-Uni ou les États-Unis), nous te recommandons d'apporter un adaptateur universel. Nous te demandons de bien vouloir utiliser l'électricité de manière responsable — notre système est efficace, mais conçu pour un mode de vie durable en harmonie avec la mer.
 
 ### Que dois-je emporter ?
 
-La vie à bord est merveilleusement minimaliste 🙂 Tu n'auras besoin que de très peu de choses, car tu passeras la plupart du temps pieds nus et en maillot de bain. Même à terre, la tenue vestimentaire est décontractée et informelle. N'oublie pas d'apporter :
+La vie à bord est merveilleusement minimaliste 🙂 Tu auras besoin de très peu de choses, car tu passeras la plupart du temps pieds nus et en maillot de bain. Même à terre, la tenue vestimentaire est décontractée et informelle. N'oublie pas d'apporter :
 
 -   De la crème solaire
 -   Un chapeau
@@ -77,7 +77,7 @@ La vie à bord est merveilleusement minimaliste 🙂 Tu n'auras besoin que de tr
 -   Des shorts
 -   Maillots de bain
 -   Serviette de plage
--   Serviette de douche
+-   Serviette de bain
 -   Sweat-shirt léger et/ou coupe-vent (pour la navigation de nuit)
 -   Comprimés contre le mal de mer (si nécessaire)
 -   Tongs
@@ -99,7 +99,7 @@ Oui, il est important d'être à l'aise dans l'eau. Tu n'as pas besoin d'être u
 
 ### FORMULE D'EMBARQUEMENT
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 #### [10 jours à bord de l'Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
@@ -107,7 +107,7 @@ Oui, il est important d'être à l'aise dans l'eau. Tu n'as pas besoin d'être u
 
 [Ajouter au panier](/fr/faq-2/?add-to-cart=40866)
 
-[Expérience réservée aux membres![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[Expérience réservée aux membres](https://www.ikigaisailing.com/prodotto/one-month/)
 
 #### [Un mois à bord](https://www.ikigaisailing.com/prodotto/one-month/ "One month aboard")
 

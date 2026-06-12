@@ -18,7 +18,6 @@ YOGA
 
 Con il mare come sfondo e il suono delle onde, lo yoga diventa una pratica trasformativa. Ogni sessione è pensata per rigenerare corpo e mente, adattandosi a ogni livello di esperienza. 
 
-
 ## Cosa aspettarti:
 
 ### Livello:
@@ -37,13 +36,12 @@ Hatha, Vinyasa e Yin Yoga
 
 A bordo o su spiagge mozzafiato 
 
-
 ## Perché provarlo: 
 
 Connetti il tuo respiro con il movimento e vivi la pace interiore. 
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai-v.jpg)
 
-[![yoga sailing retreat, Ritiro Yoga in Barca a vela](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201920%201080'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai.jpg)
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/yoga-ikigai3.jpg)

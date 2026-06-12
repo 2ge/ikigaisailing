@@ -1,6 +1,6 @@
 ---
-title: "Formule di imbarco"
-description: "Scopri le diverse formule di imbarco di Ikigai Sailing: cabine condivise, viaggi personalizzati per un'esperienza unica in mare."
+title: "Boarding Options"
+description: "Ways to come aboard the Catana 47 Ikigai in San Blas: a week, ten days, a month, the Pacific crossing, or a crew exchange."
 locale: "en"
 oldUrls:
   - "/formule-di-imbarco-new/"
@@ -24,7 +24,6 @@ Living immersed in the sea and nature is much more than a vacation: it’s a tra
 The more time you spend living in harmony with nature and the sea, the deeper and more lasting the benefits for your body, mind, and spirit will be.
 
 01
-
 
 ### 1 Week – A Breath of Fresh Air
 
@@ -53,9 +52,7 @@ Ten days to rediscover your natural rhythm, breathe deeply, and reconnect with y
 
 [Book](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-
 03
-
 
 ### Find Your Ikigai
 
@@ -71,8 +68,6 @@ This is your sacred pause — a reset for your nervous system, a reawakening of 
 
 [Book](https://www.ikigaisailing.com/prodotto/find-your-ikigai-retreat/)
 
-### 04
-
 ### One Month – Experience the Sea as Home, Time as Your Teacher
 
 A month on board to truly pause, let go of imposed rhythms, and reconnect with your essence. This experience is designed for those who have already encountered the world of Ikigai and wish to immerse themselves in a slow, profound, and regenerating time.  
@@ -80,17 +75,11 @@ You are not a guest: you are part of the crew, of life, of the exchange. You wil
 
 [Discover more](https://www.ikigaisailing.com/prodotto/one-month/)
 
-
-### 05
-
-
 ### Pacific Crossing – The Great Crossing
 
 Over 30 days of sailing from Panama to the Marquesas Islands. A rare and transformative experience, where time expands and the ocean becomes home. It’s not a vacation, it’s a rite of passage: sharing, shifts on board, starry skies, profound silence, and the living force of the Pacific. If you feel the call, prepare to leap.
 
 [Book](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
-
-### 06
 
 ### Exchange – Life on Board in Exchange for Talents
 
@@ -99,8 +88,6 @@ This program is designed for those who want to actively contribute to the Ikigai
 This isn’t volunteering, but a genuine human exchange, where value begets value.
 
 [Discover More](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20169'%2F%3E)
 
 Contact us and book your boarding now
 

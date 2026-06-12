@@ -4,18 +4,18 @@ description: >-
   Descubre la filosofía del Ikigai con Ikigai Sailing. Encuentra tu verdadero
   propósito en el agua mientras te guiamos en un viaje de autodescubrimiento...
 locale: es
-translated: deepl
-sourceHash: d63745b62b3ae212
-heroImage: "~/assets/pages/ikigai/ikigai-eng.webp"
+heroImage: ~/assets/pages/ikigai/ikigai-eng.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/ikigai/ikigaisailing.avif"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/ikigai/ikigaisailing.avif
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+translated: deepl
+sourceHash: e52db14392e14b47
 ---
 
 ## Ikigai
@@ -30,8 +30,7 @@ El término japonés **Ikigai** significa **«razón de ser»** y representa el 
 
 ### PASIÓN
 
-Por el **mar, la navegación, la aventura, los viajes, la gastronomía y el deporte**.
-
+Por el **mar, la navegación, la aventura, los viajes, la gastronomía y los deportes**.
 
 ### VOCACIÓN
 
@@ -39,7 +38,7 @@ Acercar **a** las personas **a sus pasiones, a los demás, a la naturaleza y a s
 
 ### MISIÓN
 
-Promovemos **el turismo sostenible** y un **estilo de vida saludable**, que nutra nuestras necesidades esenciales y fomente **el** verdadero **bienestar**: nuestro objetivo principal.
+Promovemos **el turismo sostenible** y un **estilo de vida saludable**, que satisfaga nuestras necesidades esenciales y fomente **el** verdadero **bienestar**: nuestro objetivo principal.
 
 Esto incluye **actividades deportivas, alimentación natural, conexión social, intenciones compartidas y pasiones**.  
 Guiados por el viento, exploramos el mundo y a nosotros mismos, sumergiéndonos en culturas, descubriendo la belleza y saboreando los regalos de la vida.
@@ -62,7 +61,7 @@ Compartir la vida a bordo, organizar viajes y ofrecer **cursos a bordo en divers
 
 ### LO QUE NOS ENCANTA
 
-La aventura, la navegación, la amistad, los viajes, la naturaleza, la gastronomía, el deporte y el crecimiento personal.
+La aventura, la navegación, la amistad, los viajes, la naturaleza, la gastronomía, los deportes y el crecimiento personal.
 
 ### EN QUÉ SOMOS BUENOS
 

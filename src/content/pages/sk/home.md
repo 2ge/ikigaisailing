@@ -4,19 +4,19 @@ description: >-
   Objavte čaro plavby v súlade s prírodou s Ikigai Sailing. Šnorchlovanie,
   kitesurfing a dobrodružstvá na najkrajších moriach sveta.
 locale: sk
-translated: deepl
-sourceHash: 122309edf396832e
-needsReview: true
-heroImage: "~/assets/activities/project/Apnea.jpg"
+heroImage: ~/assets/activities/project/Apnea.jpg
 gallery:
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/trips/acconto/20221220_125124-scaled.jpg"
-  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/home/ikigai-group.jpg"
-  - "~/assets/trips/acconto/ikigaisailing.webp"
-  - "~/assets/trips/acconto/lucabrano5.webp"
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/trips/acconto/20221220_125124-scaled.jpg
+  - ~/assets/trips/acconto/IMG-20221227-WA0019.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/home/ikigai-group.jpg
+  - ~/assets/trips/acconto/ikigaisailing.webp
+  - ~/assets/trips/acconto/lucabrano5.webp
+translated: deepl
+sourceHash: 7ecd6c0a1f3c51ba
+needsReview: true
 ---
 
 ## O NÁS
@@ -60,14 +60,13 @@ Mesiac na znovuobjavenie seba samého
 
 [Zistite viac a rezervujte si už teraz](https://www.ikigaisailing.com/2025-26-season/)
 
-
 PLÁVANIE PO
 
 SVET
 
 Naša cesta začala v Stredozemnom mori v **lete 2022**, keď sme vyplávali z Ríma a zastavili sa na Sardínii, v Španielsku, na Kanárskych ostrovoch a na Kapverdách, než sme preplávali Atlantik a v januári 2023 dorazili do Karibiku. Odvtedy sme preskúmali Malé Antily od Britských Panenských ostrovov po Grenadu, potom Los Roques vo Venezuele a Holandské Antily.
 
-Naša budúca trasa nás zavedie do Kolumbie, **cez Panamský prieplav a Tichý oceán, cez Galapágy, Francúzsku Polynéziu, Fidži a Indonéziu,** až kým nedosiahneme Áziu a nakoniec sa cez Červené more nevrátime do Stredozemného mora.
+Naša budúca trasa nás zavedie do Kolumbie, **cez Panamský prieplav a do Tichého oceánu, cez Galapágy, Francúzsku Polynéziu, Fidži a Indonéziu,** až kým nedosiahneme Áziu a nakoniec sa cez Červené more nevrátime do Stredozemného mora.
 
 **Pridajte sa k nám a zažite vzrušenie z plavby do neznáma a objavovania sveta z jedinečnej perspektívy.**
 
@@ -77,7 +76,7 @@ od
 
 2022
 
-Plachtenie po oceánoch
+Plavba po oceánoch
 
 20
 
@@ -141,31 +140,31 @@ Vyplávajte za dobrodružstvom s Ikigai Sailing!
 
 Objavte radosť zo slobody, objavovania a pohody na mori vďaka jedinečným zážitkom navrhnutým pre každého dobrodruha. Od týždňov čistej únikovej dovolenky až po transformatívne pobyty – máme pre vás tú správnu cestu.
 
-[![Ikigai Experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
 
 [Pridať do košíka](/sk/?add-to-cart=95653)
 
 #### [Ikigai Experience](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 [Pridať do košíka](/sk/?add-to-cart=40866)
 
 #### [10 dní na palube Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
-[Zážitok vyhradený pre členov![Pacific Crossing](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[Zážitok vyhradený pre členov!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 [Pridať do košíka](/sk/?add-to-cart=39308)
 
 #### [Plavba cez Tichý oceán](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 [Prečítajte si viac](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 #### [Výmena / Platené ubytovanie](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
 
-[Zážitok vyhradený pre členov![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[Zážitok vyhradený pre členov](https://www.ikigaisailing.com/prodotto/one-month/)
 
 [Pridať do košíka](/sk/?add-to-cart=39306)
 
@@ -175,7 +174,7 @@ Objavte radosť zo slobody, objavovania a pohody na mori vďaka jedinečným zá
 
 Zistite, kde sa momentálne nachádzame
 
-V rokoch 2025/26 nás naša cesta zavedie na očarujúce ostrovy San Blas, jedinečný karibský raj. Preplavba Tichým oceánom je naplánovaná na rok 2027 a otvorí novú kapitolu dobrodružstiev, ktoré nás čakajú.
+V rokoch 2025/26 nás naša cesta zavedie na očarujúce ostrovy San Blas, jedinečný karibský raj. Preplavba Tichým oceánom je naplánovaná na rok 2027, čím sa otvorí nová kapitola dobrodružstiev.
 
 -   San Blas
 

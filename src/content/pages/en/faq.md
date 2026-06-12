@@ -93,7 +93,7 @@ Yes, being comfortable in the water is important. You don’t need to be an athl
 
 ### FORMULE DI IMBARCO
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 #### [10 days on board Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
@@ -101,7 +101,7 @@ Yes, being comfortable in the water is important. You don’t need to be an athl
 
 [Add to cart](/faq-2/?add-to-cart=40866)
 
-[Experience reserved for members![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[Experience reserved for members](https://www.ikigaisailing.com/prodotto/one-month/)
 
 #### [One month aboard](https://www.ikigaisailing.com/prodotto/one-month/ "One month aboard")
 

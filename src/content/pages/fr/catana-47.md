@@ -2,24 +2,23 @@
 title: 'Le catamaran Ikigai – Confort, performances et aventure'
 description: >-
   Découvre le catamaran Ikigai Sailing : un mélange parfait de confort et de
-  performances pour des aventures en mer inoubliables.
+  performance pour des aventures en mer inoubliables.
 locale: fr
-translated: deepl
-sourceHash: 7465ba0ab5b82b14
-heroImage: "~/assets/pages/catana-47/8W2A0251-scaled.jpg"
+heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/catana-47/20221213_090006-scaled.jpg"
-  - "~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/catana-47/20221213_090006-scaled.jpg
+  - ~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg
+  - ~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg
+  - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
+  - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
+translated: deepl
+sourceHash: 91a8cd0df209fbab
 ---
 
 ## Catana 47
-
 
 Catana 47
 
@@ -27,8 +26,7 @@ _Le Catana 47_ est conçu pour profiter du confort et de l'espace sans renoncer 
 
 [Visite virtuelle](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-
-[![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
 Caractéristiques du bateau :
 
@@ -115,7 +113,6 @@ En plus, on a **2 dessalinisateurs** qui produisent **150 L/h** et une **machine
 
 **Un deuxième jeu de voiles en Dacron : grand-voile et génois.**
 
-
 ## ÉLECTRONIQUE
 
 (Raymarine, neuf en 2017) :
@@ -126,11 +123,9 @@ En plus, on a **2 dessalinisateurs** qui produisent **150 L/h** et une **machine
 
 **Radar Quantum Émetteur-récepteur AIS 650 de classe B**
 
-
 ## DIVERS
 
 **Dessalinisateur Aquabase 12 V (105 L/h ESW901) Hydrogénérateur marin Watt & Sea 600 W Banque de batteries au lithium Victron (2021) Dérive en carbone (2017) 8 panneaux solaires de 110 W (2017) Système de chauffage Webasto (2021) Réfrigérateur Liebherr A++ 220 V avec onduleur dédié (2021) Congélateur Liebherr A++ 220 V avec onduleur dédié (2021) Lave-vaisselle (2021) Lave-linge Candy 3 kg (2017)**
-
 
 ![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 

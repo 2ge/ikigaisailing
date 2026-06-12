@@ -2,26 +2,27 @@
 title: Ikigai Sailing – Voile en pleine conscience et aventures en mer
 description: >-
   Découvre la magie de la voile en pleine conscience avec Ikigai Sailing.
-  Plongée en apnée, kitesurf et aventures sur les plus belles mers du monde.
+  Plongée en apnée, kitesurf et aventures dans les mers les plus magnifiques du
+  monde.
 locale: fr
-translated: deepl
-sourceHash: 122309edf396832e
-heroImage: "~/assets/activities/project/Apnea.jpg"
+heroImage: ~/assets/activities/project/Apnea.jpg
 gallery:
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/trips/acconto/20221220_125124-scaled.jpg"
-  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/home/ikigai-group.jpg"
-  - "~/assets/trips/acconto/ikigaisailing.webp"
-  - "~/assets/trips/acconto/lucabrano5.webp"
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/trips/acconto/20221220_125124-scaled.jpg
+  - ~/assets/trips/acconto/IMG-20221227-WA0019.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/home/ikigai-group.jpg
+  - ~/assets/trips/acconto/ikigaisailing.webp
+  - ~/assets/trips/acconto/lucabrano5.webp
+translated: deepl
+sourceHash: 7ecd6c0a1f3c51ba
 ---
 
 ## À PROPOS DE NOUS
 
 Ikigai Sailing est une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**.  
-Une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
+Une communauté grandissante de rêveurs, de marins, d'apnéistes, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
 
 [En savoir plus](https://www.ikigaisailing.com/about-us/)
 
@@ -59,14 +60,13 @@ Un mois pour te redécouvrir
 
 [En savoir plus et réserver dès maintenant](https://www.ikigaisailing.com/2025-26-season/)
 
-
 NAVIGUER À TRAVERS
 
 LE MONDE
 
-Notre voyage a commencé en Méditerranée à **l’été 2022**, au départ de Rome, avec des escales en Sardaigne, en Espagne, aux Canaries et au Cap-Vert, avant de traverser l’Atlantique et d’atteindre les Caraïbes en janvier 2023. Depuis, nous avons exploré les Petites Antilles, des Îles Vierges britanniques à la Grenade, puis Los Roques au Venezuela et les Antilles néerlandaises.
+Notre voyage a commencé en Méditerranée à **l’été 2022**, au départ de Rome, avec des escales en Sardaigne, en Espagne, aux îles Canaries et au Cap-Vert, avant de traverser l’Atlantique et d’atteindre les Caraïbes en janvier 2023. Depuis, nous avons exploré les Petites Antilles, des îles Vierges britanniques à la Grenade, puis Los Roques au Venezuela et les Antilles néerlandaises.
 
-Notre itinéraire futur nous mènera en Colombie, **au canal de Panama et dans le Pacifique, en passant par les Galápagos, la Polynésie française, les Fidji et l'Indonésie,** jusqu'à atteindre l'Asie et finalement revenir en Méditerranée via la mer Rouge.
+Notre futur itinéraire nous mènera en Colombie, **au canal de Panama et dans le Pacifique, en passant par les Galápagos, la Polynésie française, les Fidji et l'Indonésie,** jusqu'à atteindre l'Asie et finalement revenir en Méditerranée via la mer Rouge.
 
 **Rejoins-nous pour vivre le frisson de naviguer vers l'inconnu et de découvrir le monde sous un angle unique.**
 
@@ -138,33 +138,33 @@ On alterne entre de longues navigations à travers des lieux inexplorés et des 
 
 Mets le cap sur l'aventure avec Ikigai Sailing !
 
-Découvre la joie de la liberté, de l'exploration et du bien-être en mer grâce à des expériences uniques conçues pour tous les esprits aventuriers. Des semaines d'évasion totale aux retraites transformatrices, il y a un voyage parfait pour toi.
+Découvre la joie de la liberté, de l'exploration et du bien-être en mer grâce à des expériences uniques conçues pour tous les esprits aventuriers. Des escapades de plusieurs semaines aux retraites transformatrices, il y a un voyage parfait pour toi.
 
-[![Ikigai Experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
 
 [Ajouter au panier](/fr/?add-to-cart=95653)
 
 #### [Expérience Ikigai](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 [Ajouter au panier](/fr/?add-to-cart=40866)
 
 #### [10 jours à bord de l'Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
-[Expérience réservée aux membres ![Pacific Crossing](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[Expérience réservée aux membres !](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 [Ajouter au panier](/fr/?add-to-cart=39308)
 
 #### [Traversée du Pacifique](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 [En savoir plus](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 #### [Échange / Embarquement payant](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
 
-[Expérience réservée aux membres![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[Expérience réservée aux membres](https://www.ikigaisailing.com/prodotto/one-month/)
 
 [Ajouter au panier](/fr/?add-to-cart=39306)
 

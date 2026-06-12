@@ -4,18 +4,18 @@ description: >-
   Descubre la magia de la navegación consciente con Ikigai Sailing. Buceo a
   pulmón, kitesurf y aventuras en los mares más impresionantes del mundo.
 locale: es
-translated: deepl
-sourceHash: 122309edf396832e
-heroImage: "~/assets/activities/project/Apnea.jpg"
+heroImage: ~/assets/activities/project/Apnea.jpg
 gallery:
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/trips/acconto/20221220_125124-scaled.jpg"
-  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/home/ikigai-group.jpg"
-  - "~/assets/trips/acconto/ikigaisailing.webp"
-  - "~/assets/trips/acconto/lucabrano5.webp"
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/trips/acconto/20221220_125124-scaled.jpg
+  - ~/assets/trips/acconto/IMG-20221227-WA0019.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/home/ikigai-group.jpg
+  - ~/assets/trips/acconto/ikigaisailing.webp
+  - ~/assets/trips/acconto/lucabrano5.webp
+translated: deepl
+sourceHash: 7ecd6c0a1f3c51ba
 ---
 
 ## SOBRE NOSOTROS
@@ -33,7 +33,7 @@ Vive la experiencia Ikigai en mar abierto: aventura, libertad y crecimiento pers
 
 ## PASIÓN
 
-Por el mar, la navegación, la aventura, los viajes, la cocina y el deporte.
+Por el mar, la vela, la aventura, los viajes, la cocina y el deporte.
 
 [DESCUBRE MÁS](https://www.ikigaisailing.com/2025-26-season/)
 
@@ -58,7 +58,6 @@ Un mes para redescubrirte
 Un mes para redescubrirte
 
 [Descubre más y reserva ya](https://www.ikigaisailing.com/2025-26-season/)
-
 
 NAVEGANDO POR
 
@@ -140,31 +139,31 @@ Alternamos largas travesías por lugares inexplorados con periodos más tranquil
 
 Descubre la alegría de la libertad, la exploración y el bienestar en el mar con experiencias únicas diseñadas para todos los espíritus aventureros. Desde semanas de pura evasión hasta retiros transformadores, hay un viaje perfecto para ti.
 
-[![Ikigai Experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
 
 [Añadir al carrito](/es/?add-to-cart=95653)
 
 #### [Experiencia Ikigai](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 [Añadir al carrito](/es/?add-to-cart=40866)
 
 #### [10 días a bordo del Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
-[¡Experiencia reservada para miembros![Pacific Crossing](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[¡Experiencia reservada para miembros!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 [Añadir al carrito](/es/?add-to-cart=39308)
 
 #### [Travesía del Pacífico](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 [Más información](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 #### [Intercambio / Alojamiento pagado](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
 
-[Experiencia reservada para socios![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[Experiencia reservada para socios](https://www.ikigaisailing.com/prodotto/one-month/)
 
 [Añadir al carrito](/es/?add-to-cart=39306)
 

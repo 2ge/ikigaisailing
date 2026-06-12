@@ -80,5 +80,10 @@
   "home.tripsEyebrow": "Možnosti plavby",
   "home.activitiesEyebrow": "Na palube",
   "home.routeEyebrow": "Trasa",
-  "home.logbook": "Lodný denník"
+  "home.logbook": "Lodný denník",
+  "concierge.open": "Opýtajte sa posádky",
+  "concierge.title": "Opýtaj sa Ikigai",
+  "concierge.subtitle": "Máte otázky týkajúce sa výletu, lode alebo San Blasu? Neváhajte sa opýtať.",
+  "concierge.placeholder": "Napíšte svoju otázku…",
+  "concierge.send": "Odoslať"
 }

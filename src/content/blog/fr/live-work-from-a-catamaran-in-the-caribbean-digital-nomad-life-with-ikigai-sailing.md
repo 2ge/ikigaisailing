@@ -10,7 +10,7 @@ locale: fr
 pubDate: '2024-04-16'
 image: ~/assets/pages/vita-a-bordo-social/nomadi-digitali.avif
 translated: deepl
-sourceHash: ff36a78ac50b0acb
+sourceHash: 6a4b2f70e0810c47
 ---
 
 Imagine-toi te réveiller chaque matin au milieu d'eaux turquoise, de cocotiers et de silence.  
@@ -18,7 +18,7 @@ Si tu es un **nomade numérique** à la recherche d'une expérience de vie profe
 
 ### **🌊 Travaille à distance depuis un catamaran**
 
-Nous naviguons actuellement dans les magnifiques **îles San Blas, au Panama**, et offrons aux nomades numériques la chance de vivre et de travailler à bord d’un catamaran confortable et respectueux de l’environnement.  
+Nous naviguons actuellement dans les superbes **îles San Blas, au Panama**, et offrons aux nomades numériques la chance de vivre et de travailler à bord d’un catamaran confortable et respectueux de l’environnement.  
 Avec **le Wi-Fi par satellite**, des repas frais et des levers de soleil épiques, ta productivité aura une vue imprenable !
 
 ### **⚓ Pourquoi choisir Ikigai ?**
@@ -39,9 +39,9 @@ Avec **le Wi-Fi par satellite**, des repas frais et des levers de soleil épique
 
 ### **📌 Emplacement actuel :**
 
-Au mouillage à **San Blas**, un archipel unique comptant 365 îles préservées – pas de tourisme de masse, juste de la magie.
+Au mouillage à **San Blas**, un archipel unique composé de 365 îles préservées – pas de tourisme de masse, juste de la magie.
 
-[![Ikigai Experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
 
 #### [Expérience Ikigai](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
 
@@ -49,7 +49,7 @@ Au mouillage à **San Blas**, un archipel unique comptant 365 îles préservées
 
 [Ajouter au panier](/fr/live-work-from-a-catamaran-in-the-caribbean-digital-nomad-life-with-ikigai-sailing/?add-to-cart=95653)
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 #### [10 jours à bord de l'Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
@@ -57,7 +57,7 @@ Au mouillage à **San Blas**, un archipel unique comptant 365 îles préservées
 
 [Ajouter au panier](/fr/live-work-from-a-catamaran-in-the-caribbean-digital-nomad-life-with-ikigai-sailing/?add-to-cart=40866)
 
-[![Pacific Crossing](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 #### [Traversée du Pacifique](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
 
@@ -65,13 +65,13 @@ Au mouillage à **San Blas**, un archipel unique comptant 365 îles préservées
 
 [Ajouter au panier](/fr/live-work-from-a-catamaran-in-the-caribbean-digital-nomad-life-with-ikigai-sailing/?add-to-cart=39308)
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 #### [Échange / Hébergement payant](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
 
 [En savoir plus](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
-[![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[](https://www.ikigaisailing.com/prodotto/one-month/)
 
 #### [Un mois à bord](https://www.ikigaisailing.com/prodotto/one-month/ "One month aboard")
 
@@ -81,7 +81,7 @@ Au mouillage à **San Blas**, un archipel unique comptant 365 îles préservées
 
 Soldes !
 
-[![Advance payment](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/advance-payment/)
+[](https://www.ikigaisailing.com/prodotto/advance-payment/)
 
 #### [Paiement anticipé](https://www.ikigaisailing.com/prodotto/advance-payment/ "Advance payment")
 

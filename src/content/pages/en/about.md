@@ -18,7 +18,6 @@ gallery:
 
 ## ABOUT US
 
-
 Ikigai Sailing is a growing community of dreamers, sailors, freedivers, divers, kitesurfers, and adventure and sports enthusiasts.
 
 We are a non-profit amateur sports association, recognized by **CONI** and affiliated with the **MSP Italia** Sports Promotion Organization.  
@@ -57,8 +56,6 @@ He is also a **freediving instructor** for **AIDA and Apnea Totale** and a **cer
 
 His passion for hospitality, combined with his love for good food, creates a **unique onboard experience** focused on **physical and mental well-being** , blending sports activities with practices such as **meditation and Janzu** , all enriched by the pleasures of a healthy **Dolce Vita**.
 
-
-
 BRANO
 
 **Dive Master, Spearfishing & Adventure Spirit**
@@ -76,7 +73,6 @@ My name is Paola, I am 35 years old and I am French. I am here today because my 
 Cooking has always been my way of expressing creativity, care, and sharing. I love preparing dishes that tell stories, blending flavors and traditions, and creating moments of genuine pleasure around the table.
 
 On board the Ikigai catamaran, I have found the perfect place to unite this passion with my love for the sea, meaningful encounters, and a life in constant motion. It is an essential and vibrant environment that inspires me every day, allowing space for a living, simple, and heartfelt cuisine that naturally enriches the journey.
-
 
 THE STORY 
 

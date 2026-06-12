@@ -2,28 +2,28 @@
 title: Ikigai – Objavte svoj skutočný zmysel života s Ikigai Sailing
 description: >-
   Objavte filozofiu Ikigai s Ikigai Sailing. Nájdite svoj skutočný zmysel života
-  na vode, keď vás prevedieme cestou sebapoznávania...
+  na vode, kým vás prevedieme cestou sebapoznávania...
 locale: sk
-translated: deepl
-sourceHash: d63745b62b3ae212
-needsReview: true
-heroImage: "~/assets/pages/ikigai/ikigai-eng.webp"
+heroImage: ~/assets/pages/ikigai/ikigai-eng.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/ikigai/ikigaisailing.avif"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/ikigai/ikigaisailing.avif
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+translated: deepl
+sourceHash: e52db14392e14b47
+needsReview: true
 ---
 
 ## Ikigai
 
 **ČO JE Ikigai?**
 
-Japonský termín **Ikigai** znamená **„dôvod bytia“** a predstavuje umenie nájsť svoju vnútornú rovnováhu. Je to kompas, ktorý nás vedie k hlbokému naplneniu tým, že spája **to, čo milujeme, v čom sme dobrí, čo svet potrebuje a za čo nám môžu zaplatiť**.
+Japonský termín **Ikigai** znamená **„dôvod bytia“** a predstavuje umenie nájsť vnútornú rovnováhu. Je to kompas, ktorý nás vedie k hlbokému naplneniu tým, že spája **to, čo milujeme, v čom sme dobrí, čo svet potrebuje a za čo nám môžu zaplatiť**.
 
 **V Ikigai Sailing** uplatňujeme túto filozofiu tým, že ju premieňame na **spôsob života**, ktorý nielen objavuje svet, ale aj obohacuje každého, kto nastúpi na palubu, a ponúka zážitok **osobného a kolektívneho rastu**.
 
@@ -33,10 +33,9 @@ Japonský termín **Ikigai** znamená **„dôvod bytia“** a predstavuje umeni
 
 Pre **more, plachtenie, dobrodružstvo, cestovanie, kuchyňu a šport**.
 
-
 ### POSLANIE
 
-Približovať ľudí **k ich vášňam, k ostatným, k prírode a k sebe samým**.
+Priblížiť ľudí **k ich vášňam, k ostatným, k prírode a k sebe samým**.
 
 ### POSLANIE
 
@@ -57,7 +56,7 @@ NAŠE Ikigai
 
 Sloboda, zdieľanie, uvedomenie si, priateľstvo, dôvera, udržateľnosť, snívanie, starostlivosť o seba, objavovanie a pochopenie nových kultúr.
 
-### ZA ČO NÁS MOŽNO ODPLATIŤ
+### ZA ČO NÁS MOŽNO OPLATIŤ
 
 Zdieľanie života na palube, organizovanie výletov a ponuka **kurzov rôznych športových disciplín na palube**.
 

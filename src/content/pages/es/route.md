@@ -4,18 +4,18 @@ description: >-
   Embárcate en un viaje único con Ikigai Sailing. Descubre las mejores rutas de
   navegación, diseñadas para inspirarte, ponerte a prueba y conectarte con...
 locale: es
-translated: deepl
-sourceHash: fe09d0b29d98ff46
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/route/attraversata-atlantica-1.jpg"
-  - "~/assets/pages/route/ikigaisailing-2022-sardegna.jpg"
-  - "~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg"
-  - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
-  - "~/assets/pages/route/ikigaisailing-2025-los-roques.jpg"
-  - "~/assets/pages/route/ikigaisailing-next-australia.jpg"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/route/attraversata-atlantica-1.jpg
+  - ~/assets/pages/route/ikigaisailing-2022-sardegna.jpg
+  - ~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg
+  - ~/assets/pages/home/ikigaisailing-2024-anguilla.avif
+  - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
+  - ~/assets/pages/route/ikigaisailing-next-australia.jpg
+translated: deepl
+sourceHash: 2e7d5f9ec803f2fa
 ---
 
 ## LA RUTA
@@ -30,18 +30,16 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2022
 
-
 ### ¡Zarpamos!
 
 -   **Julio – Roma, Italia** El punto de partida del viaje, con una emotiva despedida de la capital italiana, rica en historia y cultura.
 -   **Agosto – Cerdeña, Italia** La escarpada costa de la isla y sus aguas cristalinas nos regalaron paisajes impresionantes y una navegación tranquila.
--   **Septiembre – Islas Baleares, España:** Explorando islas famosas por sus playas vírgenes, calas recónditas y energía vibrante, especialmente Mallorca e Ibiza.
+-   **Septiembre – Islas Baleares, España:** Explorando islas famosas por sus playas vírgenes, calas escondidas y energía vibrante, especialmente Mallorca e Ibiza.
 -   **Octubre – Almerimar, España** Una parada técnica dedicada a la preparación y el mantenimiento del barco para los retos del Atlántico.
 -   **Noviembre – Gibraltar** La «puerta del Atlántico», donde la tripulación se preparó para la travesía hacia las Islas Canarias.
 -   **Diciembre – Cabo Verde (15-18 de diciembre)** Una parada breve pero intensa en estas islas tropicales, ricas en cultura criolla y paisajes volcánicos.
 
 2023
-
 
 ### Travesía del Atlántico
 
@@ -51,7 +49,7 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
     * **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
     ```
     
-    -   **Islas Vírgenes** Un archipiélago de ensueño con bahías tranquilas, perfecto para navegar y bucear.
+    -   **Islas Vírgenes** Un archipiélago de ensueño con bahías tranquilas, perfectas para navegar y bucear.
     -   **Barbuda:** Playas de arena rosa y naturaleza virgen, un auténtico paraíso tropical.
     -   **Antigua** Famosa por sus 365 días de sol y otras tantas playas, un lugar con una gran tradición náutica.
 
@@ -93,8 +91,7 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2024
 
-
-### Venezuela y sus islas
+### Venezuela y las islas
 
 **Enero** – Anguila, Guadalupe
 
@@ -108,7 +105,6 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2025
 
-
 ### ABC y Panamá
 
 \*\*25  
@@ -117,11 +113,9 @@ continuación, nos dirigiremos a Colombia y luego pasaremos por el Canal de Pana
 
 2026
 
-
 ### San Blas
 
 PRÓXIMO
-
 
 ### Travesía del Pacífico
 

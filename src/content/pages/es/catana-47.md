@@ -4,22 +4,21 @@ description: >-
   Descubre el catamarán Ikigai Sailing: una combinación perfecta de comodidad y
   rendimiento para vivir aventuras inolvidables en el mar.
 locale: es
-translated: deepl
-sourceHash: 7465ba0ab5b82b14
-heroImage: "~/assets/pages/catana-47/8W2A0251-scaled.jpg"
+heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/catana-47/20221213_090006-scaled.jpg"
-  - "~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/catana-47/20221213_090006-scaled.jpg
+  - ~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg
+  - ~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg
+  - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
+  - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
+translated: deepl
+sourceHash: 91a8cd0df209fbab
 ---
 
 ## Catana 47
-
 
 Catana 47
 
@@ -27,8 +26,7 @@ _El Catana 47_ está diseñado para disfrutar de la comodidad y el espacio sin r
 
 [Visita virtual](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-
-[![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
 Características del barco:
 
@@ -37,11 +35,11 @@ Características del barco:
 -   **Una cuarta cabina convertida en un amplio cuarto de baño** con ducha panorámica para dos personas
 -   **2 aseos eléctricos**, uno en cada casco
 
-En la proa, se encuentra el **camarote de la tripulación**, **el pañol de velas** y un **camarote** completo para **guardar** el material deportivo. En la popa, la **gran mesa de la bañera** se puede bajar para crear otra espaciosa cama doble.
+En la proa se encuentran el **camarote de la tripulación**, **el pañol de velas** y un **camarote** completo **destinado al almacenamiento** de material deportivo. En la popa, la **gran mesa de la bañera** se puede bajar para crear otra amplia cama doble.
 
 ## COCINA:
 
-Como nos apasiona la buena comida y somos antiguos restauradores profesionales, la cocina juega un papel central a bordo. Está equipada con:
+Como nos apasiona la buena comida y somos antiguos restauradores profesionales, la cocina tiene un papel central a bordo. Está equipada con:
 
 Panificadora: porque hornear pan fresco cada día no tiene precio
 
@@ -107,14 +105,13 @@ EQUIPO DEL BARCO
 
 **Vela mayor**: 86 m² de tejido Hydranet 483/433 con 5 sables, 3 puntos de rizo e indicadores
 
-**Carros con rodamientos de bolas Harken T32. Bolsa de rizo (nueva en 2021). Génova**: 53 m² de corte triradial en tejido Hydranet 433, con banda de protección UV
+**Carros con rodamientos de bolas Harken T32. Bolsa de gavia (nueva en 2021). Génova**: 53 m² de corte triradial en tejido Hydranet 433, con banda de protección UV
 
 **Gennaker**: 130 m² con botavara enrollable de tejido Stormlite azul, cable antitorsión y banda de protección UV
 
 **Code 0**: botavara enrollable de 81 m² en tejido laminado de carbono-aramida, cable antitorsión, tejido con protección UV CZ60/30
 
 **Un segundo juego de velas en Dacron: vela mayor y génova.**
-
 
 ## ELECTRÓNICA
 
@@ -126,11 +123,9 @@ EQUIPO DEL BARCO
 
 **Radar Quantum Transceptor AIS 650 Clase B**
 
-
 ## VARIOS
 
 **Desalinizador Aquabase de 12 V (105 l/h ESW901) Hidrogenerador marino Watt & Sea de 600 W Banco de baterías de litio Victron (2021) Orza de carbono (2017) 8 paneles solares de 110 W (2017) Sistema de calefacción Webasto (2021) Frigorífico Liebherr A++ de 220 V con inversor dedicado (2021) Congelador Liebherr A++ de 220 V con inversor dedicado (2021) Lavavajillas (2021) Lavadora Candy de 3 kg (2017)**
-
 
 ![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 

@@ -32,7 +32,6 @@ Allenarsi e praticare l’apnea su un catamarano ti regala un’esperienza unica
 
 Unisciti a noi per intraprendere questo viaggio straordinario, dove l’apnea ti offre non solo l’opportunità di esplorare il mondo sott’acqua, ma anche di approfondire la tua connessione con te stesso e con la natura.
 
-
 ## Cosa aspettarti:
 
 ### Livello:
@@ -54,7 +53,6 @@ Migliorare la capacità di apnea statica e dinamica
 ### Istruttori:
 
 Certificati AIDA e Apnea Total 
-
 
 ## Benefici: 
 

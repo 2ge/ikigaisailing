@@ -27,7 +27,6 @@ oldUrls:
 
 Immergersi in un universo di meraviglie sottomarine direttamente dal catamarano è una opportunità unica che offre possibilità altrimenti impossibili. Avendo infatti a bordo un piccolo centro diving con tanto di compressore e tutto il necessario possiamo fare diving in posti remoti e con i nostri tempi. Dal blu profondo agli incredibili giardini di corallo, ogni immersione è un’avventura unica. Ikigai Sailing ti offre un’esperienza sicura e indimenticabile, guidata guida certificata IANTD.
 
-
 ## Cosa aspettarti:
 
 ### Livello:
@@ -49,7 +48,6 @@ Completa e inclusa nel pacchetto
 ### Certificazioni offerte:
 
 PADI e SSI disponibili su richiesta 
-
 
 ## Cosa vedrai:
 

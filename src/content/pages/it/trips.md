@@ -25,7 +25,6 @@ Più tempo dedichi a vivere in armonia con la natura e il mare, più profondi e 
 
 01
 
-
 ### 1 Settimana – Una Boccata di Aria Pura
 
 **DISPONIBILE SOLO A NATALE E CAPODANNO**
@@ -49,9 +48,7 @@ Dieci giorni per riscoprire il tuo ritmo naturale, respirare a fondo e tornare a
 
 [Prenota](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
 
-
 03
-
 
 ### Find Your Ikigai
 
@@ -66,8 +63,6 @@ Ogni giorno è un viaggio profondo attraverso i pilastri dell’Ikigai — prese
 
 [Prenota](https://www.ikigaisailing.com/it/prodotto/find-your-ikigai-retreat-2/)
 
-### 04
-
 ### Un Mese – Vivi il Mare come Casa, il Tempo come Maestro
 
 Un mese a bordo per fermarti davvero, lasciar andare i ritmi imposti e riconnetterti alla tua essenza. Questa esperienza è pensata per chi ha già incontrato il mondo Ikigai e desidera immergersi in un tempo lento, profondo e rigenerante.  
@@ -75,17 +70,11 @@ Non sei un ospite: sei parte dell’equipaggio, della vita, dello scambio. Navig
 
 [Scopri di più](https://www.ikigaisailing.com/prodotto/un-mese/)
 
-
-### 05
-
-
 ### Pacific Crossing – La Grande Traversata
 
 Oltre 30 giorni di navigazione a vela da Panama alle Isole Marchesi. Un’esperienza rara e trasformativa, dove il tempo si dilata e l’oceano diventa casa.Non è una vacanza, è un rito di passaggio: condivisione, turni di bordo, cielo stellato, silenzi profondi e la forza viva del Pacifico. Se senti il richiamo, preparati al salto. 
 
 [Prenota](https://www.ikigaisailing.com/it/prodotto/traversata-pacifica/)
-
-### 06
 
 ### Scambio – Vita di Bordo in Cambio di Talenti
 
@@ -94,8 +83,6 @@ Questa formula è pensata per chi vuole contribuire attivamente al progetto Ikig
 Non si tratta di volontariato, ma di uno scambio umano e reale, in cui valore genera valore. 
 
 [Scopri di più](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/)
-
-![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20169'%2F%3E)
 
 Contattaci ora per pianificare il tuo soggiorno
 

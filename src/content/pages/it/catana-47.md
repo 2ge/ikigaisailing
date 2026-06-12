@@ -18,15 +18,13 @@ gallery:
 
 ## CATANA 47
 
-
 CATANA 47
 
 Il Catana 47 è una barca concepita per godere delle comodità e degli spazi senza rinunciare alle emozioni della vela e del mare. E’ un catamarano dalle alte performance, in grado di mantenere velocità elevate durante le lunghe traversate e di muoversi agevolmente anche con poco vento mentre gli interni spaziosi garantiscono comfort in ogni condizione meteo. Può accogliere dalle 6 alle 7 persone in 4 cabine.
 
 [Virtual tour](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-
-[![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
 Il Catana 47 è una barca concepita per godere delle comodità e degli spazi senza rinunciare alle emozioni della vela e del mare.E’ un catamarano dalle alte performance, in grado di mantenere velocità elevate durante le lunghe traversate e di muoversi agevolmente anche con poco vento mentre gli interni spaziosi garantiscono comfort in ogni condizione meteo.
 
@@ -108,7 +106,6 @@ Code 0 di 81 m2 si avvolgitore per bompresso in tessuti laminati carbonio aramid
 
 Secondo gioco di vele in dacron, randa e genoa.
 
-
 ## ELETTRONICA
 
 Elettronica Raymarine (nuova nel 2017):
@@ -133,7 +130,6 @@ Radar Quantum
 
 Ricetrasmettitore AIS 650 Classe B
 
-
 ## VARIE
 
 Dissalatore 12V Aquabase 105L/h ESW901
@@ -155,7 +151,6 @@ Congelatore Lieberr A++ 220V su inverter dedicato (2021)
 Lavastoviglie (2021)
 
 Lavatrice Candy 3kg (2017)
-
 
 ![bandiere](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2.jpg)
 

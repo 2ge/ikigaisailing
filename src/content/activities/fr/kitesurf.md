@@ -29,7 +29,7 @@ gallery:
   - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 translated: deepl
-sourceHash: 9ad8f4dd60cf84de
+sourceHash: ce13edc955bca7f1
 ---
 
 ## Kitesurf
@@ -39,11 +39,10 @@ sourceHash: 9ad8f4dd60cf84de
 Surfe sur les vagues et laisse-toi porter par le vent
 
 **Le kitesurf** est bien plus qu'un sport : c'est une véritable célébration de la liberté, de l'énergie et d'un lien profond avec la nature.  
-Laisse le vent devenir ton allié tandis que tu voles au-dessus des vagues, en découvrant non seulement le frisson de l'adrénaline, mais aussi des moments de pleine conscience et d'harmonie avec les éléments.  
+Laisse le vent devenir ton allié tandis que tu voles au-dessus des vagues, en découvrant non seulement les sensations fortes de l'adrénaline, mais aussi des moments d'intense conscience et d'harmonie avec les éléments.  
 Tu découvriras ainsi l'équilibre entre défi et sérénité, en te plongeant dans l'un des sports nautiques les plus passionnants et captivants au monde.
 
 Tous les cours sont certifiés IKO.
-
 
 ## À quoi t'attendre
 
@@ -62,7 +61,6 @@ Les meilleures plages avec des vents constants et sûrs
 ### Équipement
 
 Location de matériel disponible à bord
-
 
 ## POURQUOI NOUS
 

@@ -32,7 +32,6 @@ With**Ikigai Sailing** , we apply this philosophy by transforming it into a **wa
 
 For the **sea, sailing, adventure, travel, cuisine, and sports**.
 
-
 02.
 
 ### VOCATION

@@ -5,25 +5,25 @@ description: >-
   raison d'être sur l'eau tandis que nous te guidons dans un voyage à la
   découverte de toi-même...
 locale: fr
-translated: deepl
-sourceHash: d63745b62b3ae212
-heroImage: "~/assets/pages/ikigai/ikigai-eng.webp"
+heroImage: ~/assets/pages/ikigai/ikigai-eng.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/ikigai/ikigaisailing.avif"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/ikigai/ikigaisailing.avif
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+translated: deepl
+sourceHash: e52db14392e14b47
 ---
 
 ## Ikigai
 
 **QU'EST-CE QUE L'IKIGAI ?**
 
-Le terme japonais **Ikigai** signifie **« raison d’être »** et représente l’art de trouver son équilibre intérieur. C’est la boussole qui nous guide vers un épanouissement profond en combinant **ce qu’on aime, ce pour quoi on est doué, ce dont le monde a besoin et ce pour quoi on peut être rémunéré**.
+Le terme japonais **Ikigai** signifie **« raison d'être »** et représente l'art de trouver son équilibre intérieur. C'est la boussole qui nous guide vers un épanouissement profond en combinant **ce qu'on aime, ce pour quoi on est doué, ce dont le monde a besoin et ce pour quoi on peut être rémunéré**.
 
 **Avec Ikigai Sailing**, on applique cette philosophie en la transformant en un **mode de vie** qui non seulement explore le monde, mais enrichit aussi tous ceux qui montent à bord, en offrant une expérience de **croissance personnelle et collective**.
 
@@ -33,10 +33,9 @@ Le terme japonais **Ikigai** signifie **« raison d’être »** et représente 
 
 Pour la **mer, la voile, l'aventure, les voyages, la cuisine et le sport**.
 
-
 ### VOCATION
 
-Rapprocher les gens **de leurs passions, des autres, de la nature et d’eux-mêmes**.
+Rapprocher les gens **de leurs passions, des autres, de la nature et d'eux-mêmes**.
 
 ### MISSION
 
@@ -49,7 +48,7 @@ Guidés par le vent, on explore le monde et on se découvre soi-même, en s’im
 
 **En tant que skippers et moniteurs professionnels**, on promeut **une culture maritime d’aventure et de bien-être**.  
 On gère le **bateau et les services à bord**, y compris **la cuisine et le matériel sportif**, pour que chaque membre profite pleinement de l’expérience.  
-On propose **des stages et des ateliers** dans les activités qu’on aime et qu’on pratique, comme **la voile, l’apnée, la pêche, la plongée, le kitesurf et le yoga**.
+On propose **des stages et des ateliers** sur les activités qu’on aime et qu’on pratique, comme **la voile, l’apnée, la pêche, la plongée, le kitesurf et le yoga**.
 
 NOTRE Ikigai
 

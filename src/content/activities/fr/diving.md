@@ -20,15 +20,14 @@ gallery:
   - ~/assets/activities/diving/divers.png
 order: 6
 translated: deepl
-sourceHash: fa1e5675cdd849cc
+sourceHash: 9ccbe1068f78381e
 ---
 
 ## Plongée
 
 ## Explore le monde sous-marin
 
-Plonger dans un univers sous-marin merveilleux directement depuis le catamaran est une occasion unique qui offre des possibilités autrement impossibles. Grâce à un petit centre de plongée à bord, équipé d'un compresseur et de tout le matériel nécessaire, on peut plonger dans des endroits reculés et à notre rythme. Chaque plongée est une aventure unique, des profondeurs bleues aux incroyables jardins de corail. Ikigai Sailing t'offre une expérience sûre et inoubliable, guidée par un instructeur certifié IANTD.
-
+Plonger dans un univers sous-marin merveilleux directement depuis le catamaran est une opportunité unique qui offre des possibilités autrement impossibles. Grâce à un petit centre de plongée à bord, équipé d'un compresseur et de tout le matériel nécessaire, on peut plonger dans des endroits reculés et à notre rythme. Chaque plongée est une aventure unique, des profondeurs bleues aux incroyables jardins de corail. Ikigai Sailing t'offre une expérience sûre et inoubliable, guidée par un instructeur certifié IANTD.
 
 ## À quoi s'attendre :
 
@@ -51,7 +50,6 @@ Complet et inclus dans le forfait
 ### Certifications proposées :
 
 PADI et SSI disponibles sur demande
-
 
 ## Ce que tu verras :
 

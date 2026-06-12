@@ -1,26 +1,25 @@
 ---
 title: 'Katamarán Ikigai – komfort, výkon a dobrodružstvo'
 description: >-
-  Objavte katamarán Ikigai Sailing: dokonalé spojenie pohodlia a výkonu pre
+  Objavte katamarán Ikigai Sailing: dokonalé spojenie komfortu a výkonu pre
   nezabudnuteľné dobrodružstvá na mori.
 locale: sk
-translated: deepl
-sourceHash: 7465ba0ab5b82b14
-needsReview: true
-heroImage: "~/assets/pages/catana-47/8W2A0251-scaled.jpg"
+heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
 gallery:
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/catana-47/20221213_090006-scaled.jpg"
-  - "~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg"
-  - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/catana-47/20221213_090006-scaled.jpg
+  - ~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg
+  - ~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg
+  - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
+  - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
+translated: deepl
+sourceHash: 91a8cd0df209fbab
+needsReview: true
 ---
 
 ## Catana 47
-
 
 Catana 47
 
@@ -28,8 +27,7 @@ _Catana 47_ je navrhnutá tak, aby ste si mohli užívať komfort a priestor bez
 
 [Virtuálna prehliadka](https://www.catana.com/visite/Catana-47/Catana-47.html)
 
-
-[![catana 47](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20753%201368'%2F%3E)](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
+[](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
 Vybavenie lode:
 
@@ -46,9 +44,9 @@ Keďže sme nadšenci dobrého jedla a bývalí profesionálni reštauratéri, k
 
 Pekárňou na chlieb – pretože pečenie čerstvého chleba každý deň je na nezaplatenie
 
-### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom výlete na ryby
+### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom rybárskom výlete
 
-### 4-horákovým sporákom, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom atď.
+### 4-horákový sporák, nerezová plynová rúra, chladnička, mraznička, umývačka riadu, stroj na výrobu čerstvých cestovín, mixér atď.
 
 ### Automatický kávovar s integrovaným mlynčekom
 
@@ -106,16 +104,15 @@ VYBAVENIE LODE
 
 (Novinka v roku 2017):
 
-**Hlavná plachta**: 86 m² tkanina Hydranet 483/433 s 5 latami, 3 bodmi na zrážanie a indikátormi
+**Hlavná plachta**: 86 m² tkanina Hydranet 483/433 s 5 latami, 3 bodmi na zúženie a indikátormi
 
 **Kĺbové vozíky Harken T32 s guľôčkovými ložiskami Lazy bag (novinka 2021) Genua**: 53 m² s trojradovým strihom z tkaniny Hydranet 433, pásik na ochranu proti UV žiareniu
 
 **Gennaker**: 130 m² rolovací výložník z modrej tkaniny Stormlite, protitorzný kábel, UV ochranný pás
 
-**Code 0**: 81 m² rolovací výložník z laminovanej uhlíkovo-aramidovej tkaniny, kábel proti krúteniu, tkanina s UV ochranou CZ60/30
+**Code 0**: 81 m² rolovací výložník z laminovanej uhlíkovo-aramidovej tkaniny, protitorzný kábel, tkanina s UV ochranou CZ60/30
 
 **Druhá sada plachiet z materiálu Dacron: hlavná plachta a genoa.**
-
 
 ## ELEKTRONIKA
 
@@ -127,11 +124,9 @@ VYBAVENIE LODE
 
 **Radar Quantum AIS 650 Transceiver triedy B**
 
-
 ## RÔZNE
 
 **12V odsolovač vody Aquabase (105 l/h ESW901) Námorný hydrogenerátor Watt & Sea 600 W Sada lítiových batérií Victron (2021) Uhlíkový škríp (2017) 8 solárnych panelov 110 W (2017) Kúrenie Webasto (2021) Chladnička Liebherr A++ 220 V so špeciálnym meničom (2021) Mraznička Liebherr A++ 220 V so špeciálnym meničom (2021) Umývačka riadu (2021) Candy 3 kg práčka (2017)**
-
 
 ![d7f8a8\_50ac67bf66574b89b14f136d6d6f4ea8mv2](../../../assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2-ra7m4tjdyl8tt0mmbt9vhu9c83bh0rl6ppp7kcmvmo.avif)
 

@@ -55,7 +55,6 @@ A month to rediscover yourself
 
 [Find out more and book now](https://www.ikigaisailing.com/2025-26-season/)
 
-
 SAILING AROUND
 
 THE WORLD
@@ -140,31 +139,31 @@ Set sail for adventure with Ikigai Sailing!
 
 Discover the joy of freedom, exploration, and well-being at sea with unique experiences designed for every adventurous spirit. From weeks of pure escape to transformative retreats, there’s a perfect journey for you. 
 
-[![Ikigai Experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
+[](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/)
 
 [Add to cart](/?add-to-cart=95653)
 
 #### [Ikigai Experience](https://www.ikigaisailing.com/prodotto/ikigai-experience-2/ "Ikigai Experience")
 
-[![10 days on board Ikigai](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![San Blas Cruise Vacation](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%20788'%2F%3E)](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
+[](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
 [Add to cart](/?add-to-cart=40866)
 
 #### [10 days on board Ikigai](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/ "10 days on board Ikigai")
 
-[Experience reserved for members![Pacific Crossing](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
+[Experience reserved for members!](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 [Add to cart](/?add-to-cart=39308)
 
 #### [Pacific Crossing](https://www.ikigaisailing.com/prodotto/pacific-crossing/ "Pacific Crossing")
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
+[](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 [Read more](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
 
 #### [Exchange / Paid Boarding](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/ "Exchange / Paid Boarding")
 
-[Experience reserved for members![One month aboard](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/prodotto/one-month/)
+[Experience reserved for members](https://www.ikigaisailing.com/prodotto/one-month/)
 
 [Add to cart](/?add-to-cart=39306)
 

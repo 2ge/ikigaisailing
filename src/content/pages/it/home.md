@@ -64,7 +64,6 @@ Una comunità in crescita di sognatori, velisti, apneisti, subacquei, kitesurfer
 
 [Discover more](https://www.ikigaisailing.com/about-us/)
 
-
 SAILING AROUND
 
 THE WORLD
@@ -150,31 +149,31 @@ Salpa verso l’avventura con Ikigai Sailing!
 
 Scopri il piacere della libertà, della scoperta e del benessere in mare con esperienze uniche pensate per ogni spirito avventuroso. Da settimane di pura evasione a ritiri trasformativi, c’è un viaggio perfetto per te.
 
-[![Ikigai experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![Breath catamaran Holiday](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%201243'%2F%3E)](https://www.ikigaisailing.com/it/prodotto/ikigai-experience/)
+[](https://www.ikigaisailing.com/it/prodotto/ikigai-experience/)
 
 [Aggiungi al carrello](/it/home/?add-to-cart=95645)
 
 #### [Ikigai experience](https://www.ikigaisailing.com/it/prodotto/ikigai-experience/ "Ikigai experience")
 
-[![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E)](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/)
+[](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/)
 
 [Leggi tutto](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/)
 
 #### [Imbarco a Scambio / Retribuito](https://www.ikigaisailing.com/it/prodotto/imbarco-a-scambio/ "Imbarco a Scambio / Retribuito")
 
-[![10 Days experience](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)![Breath catamaran Holiday](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201400%201243'%2F%3E)](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
+[](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/)
 
 [Aggiungi al carrello](/it/home/?add-to-cart=40826)
 
 #### [10 Days experience](https://www.ikigaisailing.com/it/prodotto/vivere-10-giorni-a-bordo/ "10 Days experience")
 
-[Esperienza riservata ai soci![Traversata Oceano Pacifico](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)!](https://www.ikigaisailing.com/it/prodotto/traversata-pacifica/)
+[Esperienza riservata ai soci!](https://www.ikigaisailing.com/it/prodotto/traversata-pacifica/)
 
 [Aggiungi al carrello](/it/home/?add-to-cart=38746)
 
 #### [Traversata Oceano Pacifico](https://www.ikigaisailing.com/it/prodotto/traversata-pacifica/ "Traversata Oceano Pacifico")
 
-[Esperienza riservata ai soci![Un Mese a Bordo](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202560%201440'%2F%3E)](https://www.ikigaisailing.com/it/prodotto/un-mese/)
+[Esperienza riservata ai soci](https://www.ikigaisailing.com/it/prodotto/un-mese/)
 
 [Aggiungi al carrello](/it/home/?add-to-cart=38744)
 

@@ -5,18 +5,18 @@ description: >-
   itinéraires de voile, conçus pour t'inspirer, te mettre au défi et te
   permettre de te reconnecter avec toi-même...
 locale: fr
-translated: deepl
-sourceHash: fe09d0b29d98ff46
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/route/attraversata-atlantica-1.jpg"
-  - "~/assets/pages/route/ikigaisailing-2022-sardegna.jpg"
-  - "~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg"
-  - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
-  - "~/assets/pages/route/ikigaisailing-2025-los-roques.jpg"
-  - "~/assets/pages/route/ikigaisailing-next-australia.jpg"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/route/attraversata-atlantica-1.jpg
+  - ~/assets/pages/route/ikigaisailing-2022-sardegna.jpg
+  - ~/assets/pages/route/ikigaisailing-2023-attraatavers.jpg
+  - ~/assets/pages/home/ikigaisailing-2024-anguilla.avif
+  - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
+  - ~/assets/pages/route/ikigaisailing-next-australia.jpg
+translated: deepl
+sourceHash: 2e7d5f9ec803f2fa
 ---
 
 ## L'ITINÉRAIRE
@@ -31,7 +31,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2022
 
-
 ### On met les voiles !
 
 -   **Juillet – Rome, Italie** Le point de départ du voyage, avec des adieux émouvants à la capitale italienne, riche en histoire et en culture.
@@ -42,7 +41,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 -   **Décembre – Cap-Vert (15-18 décembre)** Une escale courte mais intense dans ces îles tropicales, riches en culture créole et en paysages volcaniques.
 
 2023
-
 
 ### Traversée de l'Atlantique
 
@@ -73,7 +71,7 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
     
     -   **Saint-Vincent** Une île montagneuse et luxuriante au charme authentique et sauvage.
     -   **Bequia** Une île pittoresque réputée pour sa construction navale artisanale et ses eaux calmes.
-    -   **Mustique** Une retraite exclusive pour les célébrités, avec des plages de rêve et une atmosphère luxueuse.
+    -   **Mustique** Une retraite exclusive pour les célébrités, avec des plages de rêve et une ambiance luxueuse.
     -   **Martinique** Un retour sur l'île pour continuer à l'explorer et te détendre.
     -   **Canouan** Une petite île connue pour ses complexes hôteliers de luxe et ses vues à couper le souffle.
     -   **Tobago Cays** Un paradis marin composé d'îles inhabitées et de récifs coralliens.
@@ -94,7 +92,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2024
 
-
 ### Venezuela et îles
 
 **Janvier** – Anguilla, Guadeloupe
@@ -109,7 +106,6 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 2025
 
-
 ### ABC et Panama
 
 \*\*25  
@@ -118,11 +114,9 @@ Curaçao\*\*Ensuite, on mettra le cap sur la Colombie, puis on passera par le ca
 
 2026
 
-
 ### San Blas
 
 SUIVANT
-
 
 ### Traversée du Pacifique
 

@@ -5,22 +5,21 @@ description: >-
   vie épanouissante sur l'eau. Laisse-toi porter par la passion de l'aventure,
   de la tranquillité et de la nature
 locale: fr
-translated: deepl
-sourceHash: 9193e1735421180f
-heroImage: "~/assets/pages/about/R-C.png"
+heroImage: ~/assets/pages/about/R-C.png
 gallery:
-  - "~/assets/activities/janzu/janzu1.jpg"
-  - "~/assets/activities/kitesurf/kite-surf7.jpg"
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/diving/scuba-diving-3.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/pages/about/20221114_180633.jpg"
-  - "~/assets/trips/acconto/20221220_125124.jpg"
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/kitesurf/kite-surf7.jpg
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/diving/scuba-diving-3.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/pages/about/20221114_180633.jpg
+  - ~/assets/trips/acconto/20221220_125124.jpg
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+translated: deepl
+sourceHash: 580dc5db8e2f8161
 ---
 
 ## À PROPOS DE NOUS
-
 
 Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs sous-marins, de kitesurfeurs et de passionnés d'aventure et de sport.
 
@@ -58,13 +57,11 @@ Il est également **moniteur** **de plongée en apnée** pour **l'AIDA et Apnea 
 
 Sa passion pour l'hospitalité, combinée à son amour de la bonne cuisine, crée une **expérience à bord unique** axée sur **le bien-être physique et mental**, mêlant activités sportives à des pratiques telles que **la méditation et le Janzu**, le tout enrichi par les plaisirs d'une **Dolce Vita** saine.
 
-
-
 Brano
 
 **Dive Master, chasse sous-marine et esprit d'aventure**
 
-Brano est un plongeur expert, titulaire de certifications allant de **Divemaster IANTD à Cave Diver et Rescue Diver**, en passant par la plongée avancée et l'apnée.
+Brano est un plongeur expert, avec des certifications allant de **Divemaster IANTD à Cave Diver et Rescue Diver**, en passant par la plongée avancée et l'apnée.
 
 Sa passion pour la mer l'a conduit à explorer **plus de 30 pays**, en s'adonnant aux sports extrêmes, aux voyages d'aventure et à l'innovation technologique.
 
@@ -77,7 +74,6 @@ Je m’appelle Paola, j’ai 35 ans et je suis française. Je suis ici aujourd�
 La cuisine a toujours été ma façon d’exprimer ma créativité, mon attention et mon envie de partager. J’adore préparer des plats qui racontent des histoires, mélanger les saveurs et les traditions, et créer des moments de pur plaisir autour de la table.
 
 À bord du catamaran Ikigai, j’ai trouvé l’endroit idéal pour unir cette passion à mon amour de la mer, aux rencontres enrichissantes et à une vie en mouvement constant. C’est un environnement essentiel et dynamique qui m’inspire chaque jour, laissant place à une cuisine vivante, simple et sincère qui enrichit naturellement le voyage.
-
 
 L'HISTOIRE
 

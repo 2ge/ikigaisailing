@@ -1,21 +1,21 @@
 ---
-title: Formulaire d'embarquement
+title: Options d'hébergement
 description: >-
-  Découvre les différentes formules d'embarquement proposées par Ikigai Sailing
-  : cabines partagées, voyages sur mesure pour une expérience unique en mer.
+  Comment embarquer sur le Catana 47 Ikigai à San Blas : une semaine, dix jours,
+  un mois, la traversée du Pacifique ou un échange d'équipage.
 locale: fr
-translated: deepl
-sourceHash: 0c1de8e916a34a3f
-heroImage: "~/assets/activities/project/meditazione1.jpg"
+heroImage: ~/assets/activities/project/meditazione1.jpg
 gallery:
-  - "~/assets/activities/meditation/meditazione2-copia-2.avif"
-  - "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/season-2025-26/20230126_101550-scaled.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
+  - ~/assets/activities/meditation/meditazione2-copia-2.avif
+  - ~/assets/trips/acconto/IMG-20221227-WA0019.jpg
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/season-2025-26/20230126_101550-scaled.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+translated: deepl
+sourceHash: 997d2596946685b5
 ---
 
 ### Des bienfaits qui s'amplifient avec le temps
@@ -26,7 +26,6 @@ Vivre en immersion dans la mer et la nature, c'est bien plus que des vacances : 
 Plus tu passes de temps à vivre en harmonie avec la nature et la mer, plus les bienfaits pour ton corps, ton esprit et ton âme seront profonds et durables.
 
 01
-
 
 ### 1 semaine – Une bouffée d'air frais
 
@@ -51,14 +50,12 @@ Plus tu passes de temps à vivre en harmonie avec la nature et la mer, plus les 
 
 ### Dix jours – Le moment idéal pour te retrouver
 
-Une expérience immersive au cœur des îles préservées de Guna Yala, où la vie ralentit et revient à l'essentiel. Tu navigueras à travers des eaux cristallines et des îles désertes, tu t'endormiras bercé par la mer, tu pratiqueras le yoga, la plongée en apnée et la méditation, et tu te nourriras d'aliments frais et authentiques.  
+Une expérience immersive au cœur des îles préservées de Guna Yala, où la vie ralentit et se concentre sur l'essentiel. Tu navigueras à travers des eaux cristallines et des îles désertes, tu dormiras bercé par la mer, tu pratiqueras le yoga, la plongée en apnée et la méditation, et tu te nourriras d’aliments frais et authentiques.  
 Dix jours pour redécouvrir ton rythme naturel, respirer profondément et te reconnecter avec toi-même.
 
 [Réserver](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
 
-
 03
-
 
 ### Trouve ton Ikigai
 
@@ -74,8 +71,6 @@ C'est ta pause sacrée — une remise à zéro de ton système nerveux, un réve
 
 [Réserve](https://www.ikigaisailing.com/prodotto/find-your-ikigai-retreat/)
 
-### 04
-
 ### Un mois – Fais de la mer ton chez-toi, du temps ton maître
 
 Un mois à bord pour faire une véritable pause, lâcher prise sur les rythmes imposés et renouer avec ton essence. Cette expérience est conçue pour ceux qui ont déjà découvert le monde de l’Ikigai et souhaitent s’immerger dans un temps lent, profond et régénérateur.  
@@ -83,17 +78,11 @@ Tu n’es pas un invité : tu fais partie de l’équipage, de la vie, de l’é
 
 [En savoir plus](https://www.ikigaisailing.com/prodotto/one-month/)
 
-
-### 05
-
-
 ### Traversée du Pacifique – La Grande Traversée
 
 Plus de 30 jours de navigation du Panama aux îles Marquises. Une expérience rare et transformatrice, où le temps s’étire et où l’océan devient un foyer. Ce ne sont pas des vacances, c’est un rite de passage : le partage, les quarts à bord, les ciels étoilés, le silence profond et la force vivante du Pacifique. Si tu sens l’appel, prépare-toi à sauter le pas.
 
-[Réserver](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
-
-### 06
+[Réserve](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 
 ### Échange – La vie à bord en échange de tes talents
 
@@ -102,8 +91,6 @@ Ce programme est conçu pour ceux qui souhaitent contribuer activement au projet
 Ce n’est pas du bénévolat, mais un véritable échange humain, où la valeur engendre la valeur.
 
 [En savoir plus](https://www.ikigaisailing.com/prodotto/crew-exchange-boarding/)
-
-![skipper](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20169'%2F%3E)
 
 Contacte-nous et réserve ton embarquement dès maintenant
 

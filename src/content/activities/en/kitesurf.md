@@ -36,7 +36,6 @@ In this way, you will discover the balance between challenge and serenity, immer
 
 All courses are IKO-certified.
 
-
 ## What to expect
 
 ### Level
@@ -54,7 +53,6 @@ The best beaches with constant and safe winds
 ### Equipment
 
 Equipment rental available on board 
-
 
 ## WHY US
 
