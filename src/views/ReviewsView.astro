@@ -8,18 +8,14 @@ import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
 import { entriesForLocale, entryForLocale, slugOf } from '../lib/content';
 import { translationToHtml } from '../lib/format';
 import googleReviews from '../data/google-reviews.json';
+import trustpilot from '../data/trustpilot.json';
 
 const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string; lang?: string | null; translations?: Record<string, string> }[] };
 const hasGoogle = g.reviews.length > 0;
+const tp = trustpilot as { rating: number; count: number; url: string };
 
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
-
-// Trustpilot TrustBox (free official "Review Carousel" widget) — business unit
-// for ikigaisailing.com (TrustScore 4.6 / 24 reviews). data-locale maps the page
-// language to Trustpilot's format; sk falls back to en-US (not a widget locale).
-const TRUSTPILOT_BUID = '5fe0cf3580728900010a6211';
-const TP_LOCALE: Record<Locale, string> = { en: 'en-US', it: 'it-IT', es: 'es-ES', fr: 'fr-FR', sk: 'en-US' };
 const intro = await entryForLocale('pages', 'reviews', locale);
 const testimonials = await entriesForLocale('testimonials', locale);
 
@@ -60,28 +56,40 @@ const reviewSchema = {
     </div>
   </section>
 
-  {/* external reviews CTAs */}
-  <section class="bg-sand-50 pt-12 text-center">
-    <div class="flex flex-wrap items-center justify-center gap-3">
+  {/* external review sources — rating + link (Trustpilot value is build-time; Google is live) */}
+  <section class="bg-sand-50 pt-12">
+    <div class="mx-auto grid max-w-3xl gap-4 px-4 sm:grid-cols-2 sm:px-6">
       <a
-        href="https://www.trustpilot.com/review/ikigaisailing.com"
+        href={tp.url}
         target="_blank"
         rel="noopener"
-        class="inline-flex items-center gap-2 rounded-full bg-[#00b67a] px-6 py-3 font-semibold text-white shadow-sm transition hover:brightness-105"
+        class="group flex items-center gap-3 rounded-2xl bg-white p-4 shadow-sm ring-1 ring-ocean-950/10 transition hover:ring-ocean-300"
       >
-        <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="m12 2 2.95 6.7 7.05.62-5.32 4.67 1.6 6.99L12 17.3 5.72 21l1.6-6.99L2 9.32l7.05-.62L12 2Z"/></svg>
-        {t('reviews.external')}
-        <span aria-hidden="true">↗</span>
+        <svg class="h-7 w-7 shrink-0 text-[#00b67a]" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="m12 2 2.95 6.7 7.05.62-5.32 4.67 1.6 6.99L12 17.3 5.72 21l1.6-6.99L2 9.32l7.05-.62L12 2Z"/></svg>
+        <span class="flex-1 text-left">
+          <span class="flex items-baseline gap-1.5">
+            <span class="font-display text-xl text-ocean-950">{tp.rating.toFixed(1)}</span>
+            <span class="text-sm text-[#00b67a]">★★★★★</span>
+            <span class="text-sm text-ink-soft">· {tp.count}</span>
+          </span>
+          <span class="block text-sm font-medium text-ocean-700 group-hover:text-ocean-900">{t('reviews.external')} <span aria-hidden="true">↗</span></span>
+        </span>
       </a>
       <a
         href="https://www.google.com/maps?cid=15753278920699617280"
         target="_blank"
         rel="noopener"
-        class="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-semibold text-ocean-950 shadow-sm ring-1 ring-ocean-950/10 transition hover:bg-sand-100"
+        class="group flex items-center gap-3 rounded-2xl bg-white p-4 shadow-sm ring-1 ring-ocean-950/10 transition hover:ring-ocean-300"
       >
-        <svg class="h-5 w-5" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.5a5.6 5.6 0 0 1-2.4 3.6v3h3.9c2.3-2.1 3.5-5.2 3.5-8.8Z"/><path fill="#34A853" d="M12 24c3.2 0 6-1.1 8-3l-3.9-3a7.2 7.2 0 0 1-10.7-3.8H1.3v3.1A12 12 0 0 0 12 24Z"/><path fill="#FBBC05" d="M5.4 14.2a7.2 7.2 0 0 1 0-4.6V6.5H1.3a12 12 0 0 0 0 11l4.1-3.3Z"/><path fill="#EA4335" d="M12 4.8c1.8 0 3.3.6 4.6 1.8l3.4-3.4A12 12 0 0 0 1.3 6.5l4.1 3.1A7.2 7.2 0 0 1 12 4.8Z"/></svg>
-        {t('reviews.google')}
-        <span aria-hidden="true">↗</span>
+        <svg class="h-7 w-7 shrink-0" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.5a5.6 5.6 0 0 1-2.4 3.6v3h3.9c2.3-2.1 3.5-5.2 3.5-8.8Z"/><path fill="#34A853" d="M12 24c3.2 0 6-1.1 8-3l-3.9-3a7.2 7.2 0 0 1-10.7-3.8H1.3v3.1A12 12 0 0 0 12 24Z"/><path fill="#FBBC05" d="M5.4 14.2a7.2 7.2 0 0 1 0-4.6V6.5H1.3a12 12 0 0 0 0 11l4.1-3.3Z"/><path fill="#EA4335" d="M12 4.8c1.8 0 3.3.6 4.6 1.8l3.4-3.4A12 12 0 0 0 1.3 6.5l4.1 3.1A7.2 7.2 0 0 1 12 4.8Z"/></svg>
+        <span class="flex-1 text-left">
+          <span class="flex items-baseline gap-1.5">
+            <span class="font-display text-xl text-ocean-950">{(g.rating ?? 5).toFixed(1)}</span>
+            <span class="text-sm text-coral-500">★★★★★</span>
+            {g.count > 0 && <span class="text-sm text-ink-soft">· {g.count}</span>}
+          </span>
+          <span class="block text-sm font-medium text-ocean-700 group-hover:text-ocean-900">{t('reviews.google')} <span aria-hidden="true">↗</span></span>
+        </span>
       </a>
     </div>
   </section>
@@ -128,26 +136,6 @@ const reviewSchema = {
       </div>
     </section>
   )}
-
-  {/* live Trustpilot reviews — free official TrustBox (Review Carousel), loaded only on this page */}
-  <section class="bg-sand-50 pt-12">
-    <div class="mx-auto max-w-6xl px-4 sm:px-6">
-      <p class="coords mb-5 text-ocean-600">Live on Trustpilot</p>
-      {/* TrustBox widget - Review Carousel */}
-      <div
-        class="trustpilot-widget"
-        data-locale={TP_LOCALE[locale]}
-        data-template-id="53aa8912dec7e10d38f59f36"
-        data-businessunit-id={TRUSTPILOT_BUID}
-        data-style-height="240px"
-        data-style-width="100%"
-        data-stars="4,5"
-      >
-        <a href="https://www.trustpilot.com/review/ikigaisailing.com" target="_blank" rel="noopener">Trustpilot</a>
-      </div>
-      {/* End TrustBox widget */}
-    </div>
-  </section>
 
   {/* written guest letters — labelled divider sets these apart from the live Google block */}
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
@@ -238,23 +226,5 @@ const reviewSchema = {
       el.classList.add('ring-2', 'ring-coral-400');
     }
     document.addEventListener('astro:page-load', flash);
-
-    // Trustpilot TrustBox: load the official bootstrap once, then (re)render the
-    // widget on every page-load so it also works when /reviews/ is reached via
-    // View Transitions (the bootstrap only auto-inits on a full document load).
-    function renderTrustpilot() {
-      const el = document.querySelector('.trustpilot-widget');
-      if (!el) return; // not on the reviews page
-      const TP = (window as any).Trustpilot;
-      if (TP) { TP.loadFromElement(el, true); return; }
-      if (document.getElementById('tp-bootstrap')) return; // already loading
-      const s = document.createElement('script');
-      s.id = 'tp-bootstrap';
-      s.async = true;
-      s.src = 'https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js';
-      s.onload = renderTrustpilot;
-      document.head.appendChild(s);
-    }
-    document.addEventListener('astro:page-load', renderTrustpilot);
   </script>
 </PageLayout>

@@ -8,6 +8,10 @@ on:
   push:
     branches: [main]
   pull_request:
+  schedule:
+    # Weekly rebuild (Mon 06:00 UTC) so the live Google rating + reviews (and
+    # Trustpilot, if the plan ever exposes it) refresh without a content change.
+    - cron: '0 6 * * 1'
 
 concurrency:
   group: deploy-${{ github.ref }}
