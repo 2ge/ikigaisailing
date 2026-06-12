@@ -5,8 +5,15 @@
  */
 import { Image } from 'astro:assets';
 import logo from '../assets/brand/logo.webp';
+import gbFlag from '../assets/flags/gb.svg?raw';
+import itFlag from '../assets/flags/it.svg?raw';
+import esFlag from '../assets/flags/es.svg?raw';
+import frFlag from '../assets/flags/fr.svg?raw';
+import skFlag from '../assets/flags/sk.svg?raw';
 import { useTranslations, localizePath, getLocaleFromUrl, locales, localeNames, type Locale } from '../i18n/ui';
 import { mainNav, WHATSAPP_URL } from '../i18n/nav';
+
+const flags: Record<Locale, string> = { en: gbFlag, it: itFlag, es: esFlag, fr: frFlag, sk: skFlag };
 
 const locale = getLocaleFromUrl(Astro.url);
 const t = useTranslations(locale);
@@ -64,9 +71,10 @@ const lp = (p: string) => localizePath(p, locale);
       {/* language switcher */}
       <div class="group relative">
         <button
-          class="coords flex items-center gap-1.5 rounded-full px-3 py-2 text-ink-soft hover:bg-ocean-100"
+          class="coords flex items-center gap-1.5 rounded-full px-2.5 py-2 text-ink-soft hover:bg-ocean-100"
           aria-label={t('lang.switch')}
         >
+          <span class="flag" set:html={flags[locale]} />
           {locale.toUpperCase()}
           <svg class="h-3 w-3 opacity-50" viewBox="0 0 12 12" fill="none" aria-hidden="true">
             <path d="M2.5 4.5L6 8l3.5-3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
@@ -78,13 +86,16 @@ const lp = (p: string) => localizePath(p, locale);
           {locales.map((l) => (
             <a
               href={localizePath(basePath, l as Locale)}
+              data-lang={l}
               class:list={[
-                'block rounded-lg px-3 py-1.5 text-sm hover:bg-ocean-100',
+                'flex items-center gap-2.5 rounded-lg px-3 py-1.5 text-sm hover:bg-ocean-100',
                 l === locale ? 'font-semibold text-ocean-700' : 'text-ink-soft',
               ]}
               hreflang={l}
             >
-              <span class="coords mr-2">{l.toUpperCase()}</span>{localeNames[l as Locale]}
+              <span class="flag" set:html={flags[l as Locale]} />
+              <span class="coords">{l.toUpperCase()}</span>
+              <span>{localeNames[l as Locale]}</span>
             </a>
           ))}
         </div>

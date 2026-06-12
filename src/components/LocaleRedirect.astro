@@ -1,0 +1,47 @@
+---
+/**
+ * Browser-language serving (NOT IP/geo).
+ * On a default-locale (EN, unprefixed) page, if the visitor's browser prefers
+ * one of our other locales — and they haven't already chosen a language — send
+ * them to the localized version once, and remember the choice in a cookie.
+ * Crawlers (no JS) always get EN, so SEO/hreflang are unaffected.
+ * Runs inline in <head>, before paint, to avoid a flash of the wrong language.
+ */
+---
+
+<script is:inline>
+  (function () {
+    var SUPP = ['it', 'es', 'fr', 'sk'];
+    function getC(n) { var m = document.cookie.match('(?:^|; )' + n + '=([^;]*)'); return m ? decodeURIComponent(m[1]) : null; }
+    function setC(n, v) { document.cookie = n + '=' + v + '; path=/; max-age=31536000; samesite=lax'; }
+
+    // Persist a manual choice from the language switcher so we never override it.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('[data-lang]');
+      if (a) setC('ikigai_lang', a.getAttribute('data-lang'));
+    });
+
+    function run() {
+      var seg = location.pathname.split('/')[1];
+      var current = SUPP.indexOf(seg) > -1 ? seg : 'en';
+      var pref = getC('ikigai_lang');
+      if (!pref) {
+        var langs = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || 'en'];
+        pref = 'en';
+        for (var i = 0; i < langs.length; i++) {
+          var two = String(langs[i]).slice(0, 2).toLowerCase();
+          if (two === 'en') { pref = 'en'; break; }
+          if (SUPP.indexOf(two) > -1) { pref = two; break; }
+        }
+        setC('ikigai_lang', pref);
+      }
+      // Only auto-redirect from an EN page to a preferred non-EN locale.
+      if (current === 'en' && pref !== 'en' && SUPP.indexOf(pref) > -1) {
+        location.replace('/' + pref + location.pathname + location.search + location.hash);
+      }
+    }
+
+    if (document.prerendering) document.addEventListener('prerenderingchange', run, { once: true });
+    else run();
+  })();
+</script>

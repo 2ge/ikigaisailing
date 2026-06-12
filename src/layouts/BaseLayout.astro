@@ -7,6 +7,7 @@ import '@fontsource-variable/figtree';
 import '@fontsource-variable/fraunces';
 import { ClientRouter } from 'astro:transitions';
 import SEO from '../components/SEO.astro';
+import LocaleRedirect from '../components/LocaleRedirect.astro';
 import Analytics from '../components/Analytics.astro';
 import { getLocaleFromUrl } from '../i18n/ui';
 import '../styles/global.css';
@@ -29,6 +30,7 @@ const locale = getLocaleFromUrl(Astro.url);
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <LocaleRedirect />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <meta name="generator" content={Astro.generator} />
