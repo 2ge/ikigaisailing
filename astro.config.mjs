@@ -30,7 +30,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
     resolve: { alias: { '~': src } },
-    // dev preview is proxied as ikigai.2pu.net via local haproxy
-    server: { allowedHosts: ['ikigai.2pu.net'] },
+    // hot-reload dev preview is proxied as dev-ikigai.2pu.net via local haproxy
+    server: { allowedHosts: ['dev-ikigai.2pu.net'] },
   },
 });

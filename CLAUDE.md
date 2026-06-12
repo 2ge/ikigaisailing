@@ -54,7 +54,7 @@ Production (`ikigaisailing.com` / `ikigai.2pu.net`) updates **only** by merging 
 
 - **https://ikigai.2pu.net is PRODUCTION** (Cloudflare Pages — DNS bypasses this box; same deployment that will serve ikigaisailing.com). Local edits are NEVER visible there. Hot-reload does not exist on any public URL.
 - To show a change on a real URL: push a branch + open a PR → use the per-branch preview URL (`https://<branch>.ikigai-sailing.pages.dev`, auto-commented on the PR). To make it live: merge (see Publishing contract).
-- Local dev server (`npm run dev`, PM2 app `ikigai`, `127.0.0.1:3014`, claimed in `~/projects/PORTS.md`) is reachable only from the box itself — useful for quick checks via curl/Playwright, not shareable.
+- **Instant preview: https://dev-ikigai.2pu.net** — the Astro dev server (PM2 app `ikigai`, `127.0.0.1:3014` via haproxy, hot-reload) serving the LIVE WORKING TREE. Edits appear there within seconds, for everyone, unpublished. Tell the user to check changes there immediately; remind them it shows work-in-progress, while publishing (PR + merge) is what updates the real site.
 - `docs/SEO-STRATEGY.md` — direct-booking keyword portfolio (10 landing pages + 50 blog spokes).
 - `CONTENT-INVENTORY.md` — every old WP URL → content file → new URL (drives `public/_redirects`).
 
