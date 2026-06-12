@@ -8,6 +8,12 @@ import { entryForLocale } from '../lib/content';
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 const intro = await entryForLocale('pages', 'contact', locale);
+
+// Cloudflare Turnstile widget for "Ikigai contact form". The site key is PUBLIC
+// (it ships in the HTML), so it lives in code; an env override is still honoured.
+// Server-side verification uses the secret TURNSTILE_SECRET, set as an encrypted
+// var on the Pages project. Set the key to '' to disable the widget entirely.
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITEKEY ?? '0x4AAAAAADjns1PkgXd3MitS';
 ---
 <PageLayout title={`${t('nav.contact')} — Ikigai Sailing`} description={intro?.data.description ?? t('contact.whatsappLead')} path="/contact/">
   <PageHero eyebrow="9°33′N · 78°57′W" title={t('contact.title')} lead={t('contact.whatsappLead')} />
@@ -41,13 +47,13 @@ const intro = await entryForLocale('pages', 'contact', locale);
         <label for="cf-msg" class="coords text-ocean-700">{t('contact.message')}</label>
         <textarea required name="message" id="cf-msg" rows="5" class="mt-1 w-full rounded-lg border border-ocean-950/10 bg-sand-50 px-3 py-2.5 focus:border-ocean-400 focus:outline-none"></textarea>
       </div>
-      <div class="cf-turnstile" data-sitekey="1x00000000000000000000AA"></div>
+      {turnstileSiteKey && <div class="cf-turnstile" data-sitekey={turnstileSiteKey}></div>}
       <button type="submit" class="w-full rounded-full bg-ocean-700 px-5 py-3 font-semibold text-sand-50 transition hover:bg-ocean-600">{t('contact.send')}</button>
       <p id="cf-status" class="hidden text-center text-sm text-ocean-700">{t('contact.sent')}</p>
     </form>
   </div>
 
-  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  {turnstileSiteKey && <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
   <script is:inline>
     // prefill trip name from ?trip=
     const params = new URLSearchParams(location.search);

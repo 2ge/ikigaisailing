@@ -60,7 +60,7 @@ function normalize(href: string): string | null {
 function isPageHref(h: string): boolean {
   if (!h.startsWith('/')) return false; // external / anchor / mailto
   if (/^\/(_astro|api|assets|og-|fonts|favicon|images|_)/.test(h)) return false;
-  if (/\.(jpg|jpeg|png|webp|avif|svg|ico|txt|pdf|xml|json|css|js)$/.test(h.split('?')[0])) return false;
+  if (/\.(jpg|jpeg|png|webp|avif|svg|ico|txt|pdf|xml|json|css|js|webmanifest)$/.test(h.split('?')[0])) return false;
   return true;
 }
 

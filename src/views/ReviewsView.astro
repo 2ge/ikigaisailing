@@ -6,9 +6,10 @@ import JsonLd from '../components/jsonld/JsonLd.astro';
 import YouTubeEmbed from '../components/YouTubeEmbed.astro';
 import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
 import { entriesForLocale, entryForLocale, slugOf } from '../lib/content';
+import { translationToHtml } from '../lib/format';
 import googleReviews from '../data/google-reviews.json';
 
-const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string }[] };
+const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string; lang?: string | null; translations?: Record<string, string> }[] };
 const hasGoogle = g.reviews.length > 0;
 
 const { locale } = Astro.props as { locale: Locale };
@@ -100,19 +101,27 @@ const reviewSchema = {
           )}
         </div>
         <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {g.reviews.map((r) => (
+          {g.reviews.map((r, i) => {
+            const tr = r.translations?.[locale];
+            const canTranslate = !!tr && (r.lang || 'en').slice(0, 2) !== locale;
+            return (
             <figure class="flex flex-col rounded-2xl border border-ocean-950/10 bg-sand-100 p-6">
               <div class="text-coral-500" aria-label={`${r.rating} stars`}>{'★'.repeat(Math.round(r.rating))}</div>
-              <blockquote class="prose-ikigai mt-3 flex-1 text-[0.95rem]">{r.text}</blockquote>
+              <blockquote class="prose-ikigai mt-3 flex-1 text-[0.95rem]">
+                <div data-orig={`g${i}`} set:html={translationToHtml(r.text)} />
+                {canTranslate && <div data-trans={`g${i}`} hidden set:html={translationToHtml(tr!)} />}
+              </blockquote>
               <figcaption class="mt-4 flex items-center gap-3 border-t border-ocean-950/5 pt-3">
                 {r.photo && <img src={r.photo} alt="" width="32" height="32" loading="lazy" class="h-8 w-8 rounded-full object-cover" referrerpolicy="no-referrer" />}
-                <div>
+                <div class="flex-1">
                   <p class="font-semibold text-ocean-950">{r.author}</p>
                   {r.when && <p class="coords text-ocean-600">{r.when}</p>}
                 </div>
+                {canTranslate && <button class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800" data-toggle={`g${i}`}>{t('reviews.translated')}</button>}
               </figcaption>
             </figure>
-          ))}
+            );
+          })}
         </div>
       </div>
     </section>
@@ -138,15 +147,21 @@ const reviewSchema = {
     </div>
   </section>
 
-  {/* written reviews */}
+  {/* written guest letters — labelled divider sets these apart from the live Google block */}
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="mb-8 flex items-center gap-4">
+      <span class="coords whitespace-nowrap text-ocean-600">{t('reviews.guests')}</span>
+      <span class="h-px flex-1 bg-ocean-950/10"></span>
+    </div>
     <div class="columns-1 gap-6 sm:columns-2 lg:columns-3 [&>*]:mb-6">
       {cards.map(({ item, slug, Content, translated }, i) => (
         <figure id={slug} class="scroll-mt-28 break-inside-avoid rounded-2xl bg-sand-100 p-6 ring-1 ring-ocean-950/5 target:ring-2 target:ring-coral-400">
-          <blockquote class="prose-ikigai text-[0.95rem]">
+          {/* clamped to a uniform height so one long letter can't dwarf the column; expands on click or when deep-linked (#slug) */}
+          <blockquote class="testimonial-clamp prose-ikigai text-[0.95rem]">
             <div data-orig={i}><Content /></div>
-            {translated && <div data-trans={i} hidden set:html={translated.replace(/\n\n/g, '<br><br>')} />}
+            {translated && <div data-trans={i} hidden set:html={translationToHtml(translated)} />}
           </blockquote>
+          <button class="review-more mt-2 hidden text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800" data-more={i} data-more-label={t('reviews.more')} data-less-label={t('reviews.less')}>{t('reviews.more')}</button>
           <figcaption class="mt-4 flex items-center justify-between border-t border-ocean-950/10 pt-3">
             <div>
               <p class="font-semibold text-ocean-950">{item.data.author}</p>
@@ -160,6 +175,31 @@ const reviewSchema = {
   </div>
 
   <script>
+    // Show the "Read more" button only when a card actually overflows its clamp,
+    // and keep it in sync after a translation toggle (translated text differs in length).
+    function refreshMore(card: Element | null) {
+      const clamp = card?.querySelector<HTMLElement>('.testimonial-clamp');
+      const btn = card?.querySelector<HTMLButtonElement>('[data-more]');
+      if (!clamp || !btn) return;
+      const open = clamp.classList.contains('testimonial-clamp--open');
+      const overflowing = open || clamp.scrollHeight - clamp.clientHeight > 4;
+      btn.classList.toggle('hidden', !overflowing);
+    }
+    function bindExpand() {
+      document.querySelectorAll<HTMLButtonElement>('[data-more]').forEach((btn) => {
+        const card = btn.closest('figure');
+        refreshMore(card);
+        if (btn.dataset.bound) return;
+        btn.dataset.bound = '1';
+        const clamp = card?.querySelector<HTMLElement>('.testimonial-clamp');
+        btn.addEventListener('click', () => {
+          const open = clamp?.classList.toggle('testimonial-clamp--open');
+          btn.textContent = open ? btn.dataset.lessLabel! : btn.dataset.moreLabel!;
+        });
+      });
+    }
+    document.addEventListener('astro:page-load', bindExpand);
+
     // Re-bind on every (View Transitions) navigation, not just first load —
     // otherwise the toggle is dead when /reviews/ is reached via client-side nav.
     function bindToggles() {
@@ -175,14 +215,25 @@ const reviewSchema = {
           showing = !showing;
           if (orig) orig.hidden = showing;
           if (trans) trans.hidden = !showing;
+          refreshMore(card); // text length changed — re-evaluate the clamp
         });
       });
     }
     document.addEventListener('astro:page-load', bindToggles);
-    // briefly emphasise a review deep-linked from the homepage (#slug)
+
+    // A review deep-linked (#slug) from the homepage rail: scroll to it, flash it,
+    // and expand it in full — matching the owner's "extended only when with #" ask.
     function flash() {
       const el = location.hash && document.querySelector(location.hash);
-      if (el) { el.scrollIntoView({ block: 'center' }); el.classList.add('ring-2','ring-coral-400'); }
+      if (!el) return;
+      const clamp = el.querySelector?.('.testimonial-clamp');
+      const btn = el.querySelector?.('[data-more]') as HTMLButtonElement | null;
+      if (clamp) {
+        clamp.classList.add('testimonial-clamp--open');
+        if (btn) { btn.classList.remove('hidden'); btn.textContent = btn.dataset.lessLabel!; }
+      }
+      el.scrollIntoView({ block: 'center' });
+      el.classList.add('ring-2', 'ring-coral-400');
     }
     document.addEventListener('astro:page-load', flash);
 
