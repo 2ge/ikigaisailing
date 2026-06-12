@@ -1,0 +1,58 @@
+---
+/**
+ * Designed FAQ page: hero + accordion (parsed from the markdown `### Q` / answer
+ * pairs) + FAQPage JSON-LD. Replaces the plain prose dump.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import WhatsAppButton from '../components/WhatsAppButton.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, type Locale } from '../i18n/ui';
+import { entryForLocale, availableLocalesFor } from '../lib/content';
+import { faqPage } from '../lib/schema';
+
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+const entry = await entryForLocale('pages', 'faq', locale);
+const availableLocales = await availableLocalesFor('pages', 'faq');
+const d = entry?.data;
+
+// parse "### Question\n\nAnswer" pairs out of the markdown body
+const body = entry?.body ?? '';
+const faq: { q: string; a: string }[] = [];
+const re = /^###\s+(.+?)\s*\n+([\s\S]*?)(?=\n###\s|\n##\s|$)/gm;
+let m: RegExpExecArray | null;
+while ((m = re.exec(body))) {
+  const a = m[2].trim().replace(/\s*\n\s*/g, ' ').replace(/\s+/g, ' ');
+  if (m[1].trim() && a) faq.push({ q: m[1].trim(), a });
+}
+---
+
+<PageLayout
+  title={d?.title ?? `${t('nav.faq')} — Ikigai Sailing`}
+  description={d?.description ?? 'Frequently asked questions about sailing with Ikigai.'}
+  path="/faq/"
+  availableLocales={availableLocales}
+>
+  {faq.length > 0 && <JsonLd slot="head" schema={faqPage(faq)} />}
+
+  <PageHero eyebrow="9°33′N · 78°57′W" title={d?.title ?? t('nav.faq')} />
+
+  <section class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
+    {faq.length > 0 ? (
+      <FaqAccordion faq={faq} />
+    ) : (
+      <p class="text-ink-soft">—</p>
+    )}
+  </section>
+
+  {/* CTA */}
+  <section class="bg-ocean-900 py-16 text-center text-sand-50">
+    <div class="mx-auto max-w-2xl px-4">
+      <h2 class="font-display text-2xl sm:text-3xl">{t('contact.title')}</h2>
+      <p class="mx-auto mt-3 max-w-md text-sand-100/80">{t('contact.whatsappLead')}</p>
+      <div class="mt-7 flex justify-center"><WhatsAppButton /></div>
+    </div>
+  </section>
+</PageLayout>

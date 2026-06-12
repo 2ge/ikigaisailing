@@ -67,19 +67,24 @@ const cards = await Promise.all(
 </div>
 
 <script>
-  document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
-    const i = btn.dataset.toggle;
-    const card = btn.closest('figure');
-    const orig = card?.querySelector<HTMLElement>(`[data-orig="${i}"]`);
-    const trans = card?.querySelector<HTMLElement>(`[data-trans="${i}"]`);
-    const clamp = card?.querySelector<HTMLElement>('.testimonial-clamp');
-    let showing = false;
-    btn.addEventListener('click', () => {
-      showing = !showing;
-      if (orig) orig.hidden = showing;
-      if (trans) trans.hidden = !showing;
-      // expand when translated (translations can be longer) so nothing is cut
-      clamp?.classList.toggle('testimonial-clamp--open', showing);
+  // bind on every View Transitions navigation, not only first load
+  function bindRailToggles() {
+    document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
+      if (btn.dataset.bound) return;
+      btn.dataset.bound = '1';
+      const i = btn.dataset.toggle;
+      const card = btn.closest('figure');
+      const orig = card?.querySelector<HTMLElement>(`[data-orig="${i}"]`);
+      const trans = card?.querySelector<HTMLElement>(`[data-trans="${i}"]`);
+      const clamp = card?.querySelector<HTMLElement>('.testimonial-clamp');
+      let showing = false;
+      btn.addEventListener('click', () => {
+        showing = !showing;
+        if (orig) orig.hidden = showing;
+        if (trans) trans.hidden = !showing;
+        clamp?.classList.toggle('testimonial-clamp--open', showing);
+      });
     });
-  });
+  }
+  document.addEventListener('astro:page-load', bindRailToggles);
 </script>

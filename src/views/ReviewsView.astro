@@ -49,6 +49,20 @@ const reviewSchema = {
     </div>
   </section>
 
+  {/* external reviews CTA */}
+  <section class="bg-sand-50 pt-12 text-center">
+    <a
+      href="https://www.trustpilot.com/review/ikigaisailing.com"
+      target="_blank"
+      rel="noopener"
+      class="inline-flex items-center gap-2 rounded-full bg-[#00b67a] px-6 py-3 font-semibold text-white shadow-sm transition hover:brightness-105"
+    >
+      <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="m12 2 2.95 6.7 7.05.62-5.32 4.67 1.6 6.99L12 17.3 5.72 21l1.6-6.99L2 9.32l7.05-.62L12 2Z"/></svg>
+      {t('reviews.external')}
+      <span aria-hidden="true">↗</span>
+    </a>
+  </section>
+
   {/* written reviews */}
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
     <div class="columns-1 gap-6 sm:columns-2 lg:columns-3 [&>*]:mb-6">
@@ -71,13 +85,25 @@ const reviewSchema = {
   </div>
 
   <script>
-    document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
-      const i = btn.dataset.toggle;
-      const orig = document.querySelector<HTMLElement>(`[data-orig="${i}"]`);
-      const trans = document.querySelector<HTMLElement>(`[data-trans="${i}"]`);
-      let showing = false;
-      btn.addEventListener('click', () => { showing = !showing; if (orig) orig.hidden = showing; if (trans) trans.hidden = !showing; });
-    });
+    // Re-bind on every (View Transitions) navigation, not just first load —
+    // otherwise the toggle is dead when /reviews/ is reached via client-side nav.
+    function bindToggles() {
+      document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
+        if (btn.dataset.bound) return;
+        btn.dataset.bound = '1';
+        const card = btn.closest('figure');
+        const i = btn.dataset.toggle;
+        const orig = card?.querySelector<HTMLElement>(`[data-orig="${i}"]`);
+        const trans = card?.querySelector<HTMLElement>(`[data-trans="${i}"]`);
+        let showing = false;
+        btn.addEventListener('click', () => {
+          showing = !showing;
+          if (orig) orig.hidden = showing;
+          if (trans) trans.hidden = !showing;
+        });
+      });
+    }
+    document.addEventListener('astro:page-load', bindToggles);
     // briefly emphasise a review deep-linked from the homepage (#slug)
     function flash() {
       const el = location.hash && document.querySelector(location.hash);
