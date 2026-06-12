@@ -24,18 +24,20 @@
     function run() {
       var seg = location.pathname.split('/')[1];
       var current = SUPP.indexOf(seg) > -1 ? seg : 'en';
+      // Only a *manual* choice is remembered — we never persist an auto-detected
+      // guess, so a first-visit guess can't trap the visitor on the wrong language.
       var pref = getC('ikigai_lang');
       if (!pref) {
         var langs = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || 'en'];
+        // Prefer a localized version we offer (it/es/fr/sk) if it appears anywhere
+        // in the browser's languages — a Slovak visitor whose browser lists English
+        // first still gets Slovak. Fall back to EN only when none of ours match.
         pref = 'en';
         for (var i = 0; i < langs.length; i++) {
           var two = String(langs[i]).slice(0, 2).toLowerCase();
-          if (two === 'en') { pref = 'en'; break; }
           if (SUPP.indexOf(two) > -1) { pref = two; break; }
         }
-        setC('ikigai_lang', pref);
       }
-      // Only auto-redirect from an EN page to a preferred non-EN locale.
       if (current === 'en' && pref !== 'en' && SUPP.indexOf(pref) > -1) {
         location.replace('/' + pref + location.pathname + location.search + location.hash);
       }
