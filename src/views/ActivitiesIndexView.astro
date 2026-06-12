@@ -14,9 +14,9 @@ const intro = await entryForLocale('pages', 'activities', locale);
 <PageLayout title={`${t('nav.activities')} — Ikigai Sailing`} description={intro?.data.description ?? 'Activities aboard Ikigai: yoga, freediving, meditation, Janzu and more.'} path="/activities/">
   <PageHero eyebrow="On board" title={intro?.data.title ?? t('nav.activities')} lead={intro?.data.description} />
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    {intro && <article class="mb-12 max-w-3xl"><Prose entry={intro} /></article>}
     <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
       {activities.map((activity) => <ActivityCard activity={activity} locale={locale} />)}
     </div>
-    {intro && <article class="mt-14"><Prose entry={intro} /></article>}
   </div>
 </PageLayout>
