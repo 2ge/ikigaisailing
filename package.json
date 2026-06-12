@@ -11,7 +11,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "translate": "tsx scripts/translate.ts",
-    "prebuild": "tsx scripts/check-routes.ts && tsx scripts/gen-knowledge.ts && tsx scripts/gen-redirects.ts && tsx scripts/gen-llms.ts",
+    "prebuild": "tsx scripts/check-routes.ts && tsx scripts/gen-google-reviews.ts && tsx scripts/gen-knowledge.ts && tsx scripts/gen-redirects.ts && tsx scripts/gen-llms.ts",
     "concierge:report": "tsx scripts/concierge-report.ts",
     "test": "playwright test"
   },

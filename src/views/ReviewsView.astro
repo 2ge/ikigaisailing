@@ -6,6 +6,10 @@ import JsonLd from '../components/jsonld/JsonLd.astro';
 import YouTubeEmbed from '../components/YouTubeEmbed.astro';
 import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
 import { entriesForLocale, entryForLocale, slugOf } from '../lib/content';
+import googleReviews from '../data/google-reviews.json';
+
+const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string }[] };
+const hasGoogle = g.reviews.length > 0;
 
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
@@ -74,6 +78,39 @@ const reviewSchema = {
       </a>
     </div>
   </section>
+
+  {/* live Google reviews (Places API — shows once GOOGLE_MAPS_API_KEY + GOOGLE_PLACE_ID are set) */}
+  {hasGoogle && (
+    <section class="bg-sand-50 pt-12">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <div class="flex flex-wrap items-end justify-between gap-3">
+          <p class="coords text-ocean-600">Live on Google</p>
+          {g.rating != null && (
+            <p class="flex items-center gap-2 text-sm text-ink-soft">
+              <span class="font-display text-2xl text-ocean-950">{g.rating.toFixed(1)}</span>
+              <span class="text-coral-500">{'★★★★★'}</span>
+              <span>· {g.count} {t('nav.reviews').toLowerCase()}</span>
+            </p>
+          )}
+        </div>
+        <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {g.reviews.map((r) => (
+            <figure class="flex flex-col rounded-2xl border border-ocean-950/10 bg-sand-100 p-6">
+              <div class="text-coral-500" aria-label={`${r.rating} stars`}>{'★'.repeat(Math.round(r.rating))}</div>
+              <blockquote class="prose-ikigai mt-3 flex-1 text-[0.95rem]">{r.text}</blockquote>
+              <figcaption class="mt-4 flex items-center gap-3 border-t border-ocean-950/5 pt-3">
+                {r.photo && <img src={r.photo} alt="" width="32" height="32" loading="lazy" class="h-8 w-8 rounded-full object-cover" referrerpolicy="no-referrer" />}
+                <div>
+                  <p class="font-semibold text-ocean-950">{r.author}</p>
+                  {r.when && <p class="coords text-ocean-600">{r.when}</p>}
+                </div>
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
   {/* written reviews */}
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">

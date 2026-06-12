@@ -30,6 +30,11 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env:
+          # Live Google reviews on /reviews/ (Places API New, build-time fetch).
+          # Absent on forks/PRs from forks → build keeps the last committed reviews.
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          GOOGLE_PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}
 
       - name: Deploy to Cloudflare Pages
         id: deploy

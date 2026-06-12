@@ -9,3 +9,7 @@ TURNSTILE_SECRET=...
 # Build-time only (lives in .env, not here — listed for completeness):
 # DEEPL_API_KEY=...
 # CLOUDFLARE_API_TOKEN=... (deploys)
+
+# Google Places API (live reviews on /reviews/) — set these in Cloudflare Pages too
+GOOGLE_MAPS_API_KEY=
+GOOGLE_PLACE_ID=
