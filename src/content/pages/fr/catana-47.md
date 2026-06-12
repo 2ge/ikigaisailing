@@ -6,14 +6,18 @@ description: >-
 locale: fr
 heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
 gallery:
-  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
-  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
-  - ~/assets/trips/acconto/itinerario.jpg
-  - ~/assets/pages/catana-47/20221213_090006-scaled.jpg
-  - ~/assets/pages/catana-47/a3c4150c127c42259e30a361e4464f57.jpg
-  - ~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg
-  - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
-  - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
+  - "~/assets/pages/catana-47/d7f8a8_1ef33af2ebbc4e95ad5fe1d48c6edafdmv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_abee4bd9a75243eba907fcec3e58e747mv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_09714f0af32e4564866ba986526ff186mv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_1660ab678a5647ada185b9a773df766fmv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_ca4d9b505ddf4784b4e3acb814deaf26mv2.jpg"
+  - "~/assets/pages/catana-47/20221213_090006-scaled.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_8e548b8301844ce39be1761967b738c4mv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_30788652b2514a90a51083e0a902dd90mv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_50ac67bf66574b89b14f136d6d6f4ea8mv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2.jpg"
+  - "~/assets/pages/catana-47/d7f8a8_528ae1d908324ad0a67ef9d885e70210mv2.jpg"
 translated: deepl
 sourceHash: 77ba25e7dfa4b095
 ---
