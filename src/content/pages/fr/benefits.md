@@ -1,23 +1,26 @@
 ---
-title: Les avantages de vivre à l'étranger - Profite de la nature avec Ikigai Sailing
+title: >-
+  Les avantages de vivre à l'étranger - Profite pleinement de la nature avec
+  Ikigai Sailing
 description: >-
   Découvre les nombreux avantages de vivre à l'étranger, qu'il s'agisse
   d'épanouissement personnel, d'enrichissement culturel, de nouvelles
   opportunités professionnelles ou d'aventure.
 locale: fr
-translated: deepl
-sourceHash: 8c9361f8485d15cb
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+  - ~/assets/trips/acconto/user1.webp
+  - ~/assets/trips/acconto/user3.webp
+translated: deepl
+sourceHash: 1b0173628b8912d1
 ---
+
 ## LES BIENFAITS DE L'IKIGAI SAILING
 
 La mer comme mode de vie
@@ -70,7 +73,7 @@ Passe chaque jour au cœur de la nature : soleil, vent et eau cristalline.
 
 Renforce tes liens personnels en partageant des expériences uniques et authentiques.
 
-Contacte-nous dès maintenant pour organiser ton séjour !
+Contacte-nous dès maintenant pour planifier ton séjour !
 
 Embarque pour la liberté !
 

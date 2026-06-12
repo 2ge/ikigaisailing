@@ -8,19 +8,20 @@ description: >-
   Nuestro objetivo es ofrecer experiencias únicas a quienes comparten nuestra
   pasión por el mar y el deporte…
 locale: es
-translated: deepl
-sourceHash: aa8a2ad6ca585c6c
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+  - ~/assets/trips/acconto/user1.webp
+  - ~/assets/trips/acconto/user3.webp
+translated: deepl
+sourceHash: 43b438b1c8e2a064
 ---
+
 ### 1\. Política de reservas:
 
 Las actividades y experiencias que ofrece nuestra organización están reservadas exclusivamente a los socios de la asociación deportiva. Somos una asociación que promueve actividades relacionadas con la vela, el kitesurf, el buceo libre y otras disciplinas de deportes acuáticos. Nuestro objetivo es ofrecer experiencias únicas a quienes comparten nuestra pasión por el mar y el deporte.
@@ -60,7 +61,7 @@ Aun así, te recomendamos contratar un seguro de viaje que cubra esta eventualid
 
 En caso de circunstancias extraordinarias, como desastres naturales o un deterioro de la estabilidad política del país de destino, si consideramos que la seguridad del viaje está en peligro, o si no se alcanza el número mínimo de participantes en los 30 días previos a la fecha de salida, el participante tendrá derecho a:
 
-Utilizar la cuota abonada para participar en otras actividades u opciones de navegación incluidas en el programa de temporada de la asociación.  
+Utilizar la cuota abonada para participar en otras actividades u opciones de navegación previstas en el programa de temporada de la asociación.  
 Solicitar la devolución del importe ya abonado.
 
 Nota: No se reconocerán como compensación por la cancelación del viaje ningún coste ni gasto adicional, más allá de la cuota abonada. Por lo tanto, te recomendamos encarecidamente que contrates un seguro de viaje que cubra cualquier gasto adicional.

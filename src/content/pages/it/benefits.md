@@ -4,7 +4,7 @@ description: "Benefici vita in barca: Benessere, connessione con la natura, libe
 locale: "it"
 oldUrls:
   - "/it/benefici/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

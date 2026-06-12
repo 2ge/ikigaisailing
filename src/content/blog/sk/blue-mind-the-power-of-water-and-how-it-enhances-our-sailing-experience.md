@@ -7,16 +7,17 @@ locale: sk
 pubDate: '2025-02-27'
 image: ~/assets/pages/vita-a-bordo-social/blue-mind.webp
 translated: deepl
-sourceHash: 7d7df8f400dae185
+sourceHash: 1b1ccc883656f49f
 needsReview: true
 ---
+
 Pojem **„Blue Mind“** vymyslel Wallace J. Nichols, morský biológ, ktorý objavil hlboké upokojujúce účinky, ktoré má voda na náš mozog a duševnú pohodu. Jednoducho povedané, Blue Mind je stav duševného pokoja, mieru a jasnosti, ktorý zažívame, keď sme v blízkosti vody alebo vo vode. Či už je to zvuk vĺn narážajúcich na breh, jemné kolísanie lode na mori alebo hlbokomodrý horizont, voda má neporovnateľnú schopnosť upokojiť, omladiť a inšpirovať.
 
 V **Ikigai Sailing** využívame silu Blue Mind ako podstatnú súčasť našej filozofie plachtenia. Naše cesty nie sú len o dosiahnutí cieľa – sú o ponorení sa do pokoja a krásy oceánu, opätovnom spojení s prírodou a posilnení pocitu duševnej jasnosti. Tu je dôvod, prečo je koncept Blue Mind taký dôležitý pre zážitok z Ikigai Sailing:
 
 ### **Liečivá sila vody**
 
-Výskumy ukazujú, že trávenie času v blízkosti vody môže znížiť stres, zvýšiť kreativitu a posilniť celkovú spokojnosť. Ukludňujúce zvuky vody, či už ide o rytmické narážanie vĺn alebo jemné špliechanie vody o trup lode, aktivujú parasympatický nervový systém, čím pomáhajú telu relaxovať a zresetovať sa.
+Výskumy ukazujú, že trávenie času v blízkosti vody môže znížiť stres, zvýšiť kreativitu a posilniť celkovú spokojnosť. Ukludňujúce zvuky vody, či už ide o rytmické narážanie vĺn alebo jemné špliechanie vody o trup lode, aktivujú parasympatický nervový systém, čo pomáha telu relaxovať a zresetovať sa.
 
 Pobyt na vode nám umožňuje odpútať sa od neustáleho hluku moderného života. Namiesto toho, aby sme boli bombardovaní tlakom každodenných povinností, viac sa naladíme na prirodzený rytmus mora. Táto všímavosť, toto mentálne zresetovanie, je srdcom **Blue Mind**.
 

@@ -6,6 +6,7 @@ import SectionHeading from '../../components/SectionHeading.astro';
 import Prose from '../../components/Prose.astro';
 import MapEmbed from '../../components/MapEmbed.astro';
 import DestinationFlags from '../../components/DestinationFlags.astro';
+import WhatsAppButton from '../../components/WhatsAppButton.astro';
 import JsonLd from '../../components/jsonld/JsonLd.astro';
 import { useTranslations, localizePath, defaultLocale, type Locale } from '../../i18n/ui';
 import { WHATSAPP_URL } from '../../i18n/nav';
@@ -77,7 +78,7 @@ const crumb = breadcrumbs(site, locale, [
       <p class="mx-auto mt-3 max-w-md text-sand-50/90">{t('contact.whatsappLead')}</p>
       <div class="mt-7 flex flex-wrap justify-center gap-3">
         <a href={lp('/trips/')} class="rounded-full bg-sand-50 px-6 py-3 font-semibold text-coral-600 transition hover:bg-sand-100">{t('cta.discoverTrips')}</a>
-        <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="rounded-full border border-sand-50/40 px-6 py-3 font-semibold text-sand-50 transition hover:bg-coral-400">{t('cta.whatsapp')}</a>
+        <WhatsAppButton />
       </div>
     </div>
   </section>

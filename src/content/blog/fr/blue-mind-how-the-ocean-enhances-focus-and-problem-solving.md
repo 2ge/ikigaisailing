@@ -9,8 +9,9 @@ locale: fr
 pubDate: '2025-03-27'
 image: ~/assets/pages/vita-a-bordo-social/blue-mind-focus.avif
 translated: deepl
-sourceHash: 8bb3670be9ed3450
+sourceHash: aed34a1b8d95e790
 ---
+
 On vit dans un monde où tout va de plus en plus vite, où les distractions numériques et les obligations quotidiennes peuvent facilement nous submerger. Mais il existe un allié naturel puissant qui peut nous aider à retrouver clarté et concentration : l’océan. Le concept de **« Blue Mind** », développé par le biologiste marin Wallace J. Nichols, décrit l’état mental détendu et revigorant que l’on ressent lorsqu’on est près de l’eau. Cet état réduit non seulement le stress, mais peut aussi améliorer nos capacités cognitives, en renforçant notre concentration et nos compétences en matière de résolution de problèmes.
 
 ### L'effet réparateur de l'eau sur le cerveau
@@ -30,7 +31,7 @@ De nombreux professionnels, des écrivains aux entrepreneurs, trouvent l’inspi
 
 ### La voile pour renforcer la concentration et la résilience
 
-Être en mer, surtout dans une expérience immersive comme la voile, nous oblige à développer une concentration profonde. À bord d’un catamaran comme **l’Ikigai**, chaque décision — de la lecture du vent à la coordination des manœuvres — exige de l’attention et de la réactivité. Cet entraînement mental améliore la concentration et les compétences en résolution de problèmes, même dans la vie quotidienne.
+Être en mer, surtout dans une expérience immersive comme la voile, nous oblige à développer une concentration profonde. À bord d’un catamaran comme **l’Ikigai**, chaque décision — de la lecture du vent à la coordination des manœuvres — exige de l’attention et de la réactivité. Cet entraînement mental améliore la concentration et les capacités de résolution de problèmes, même dans la vie quotidienne.
 
 ### Le pouvoir du « Blue Mind » à bord de l’Ikigai
 

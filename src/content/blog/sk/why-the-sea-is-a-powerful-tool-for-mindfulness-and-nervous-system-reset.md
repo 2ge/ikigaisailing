@@ -8,16 +8,17 @@ locale: sk
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg
 translated: deepl
-sourceHash: b101fd5d1513b21e
+sourceHash: 40beff6f32888405
 needsReview: true
 ---
+
 Plachtenie môže byť silným a účinným prostriedkom, ktorý prostredníctvom všímavosti vedie k obnoveniu rovnováhy nervového systému.
 
 Sú chvíle, keď zmena nezačína myšlienkou, ale pocitom.  
-Jemnou únavou. Tichou nepokojnosťou. Pocitom, že niečo v spôsobe, akým žijeme, reagujeme a pohybujeme sa vo svete, už nie je v súlade.
+Jemnou únavou. Tichou nepokojnosťou. Pocitom, že niečo v spôsobe, akým žijeme, reagujeme a pohybujeme sa svetom, už nie je v súlade.
 
 Pre mnohých ľudí transformácia začína práve tu – nie ako jasné rozhodnutie, ale ako **telesný signál**.  
-A práve v tomto priestore sa more často stáva sprievodcom.
+A často práve v tomto priestore sa more stáva sprievodcom.
 
 Nie ako únik, ale ako **regulujúce prostredie** – prostredie, ktoré jemne privádza myseľ a telo späť do súladu.
 
@@ -35,10 +36,10 @@ Dlho pred vznikom jazyka sa ľudia naladili na rytmus, pohyb, zvuk a priestor. M
 -   nepretržitý, jemný pohyb
 -   hlboký, nerušivý zvuk
 
-Tieto prvky prirodzene podporujú **reset a reguláciu nervového systému** a pomáhajú telu prekonať chronický stres, hypervigilanciu alebo emocionálne odpojenie.
+Tieto prvky prirodzene podporujú **reset a reguláciu nervového systému**, pomáhajú telu zbaviť sa chronického stresu, hypervigilancie alebo emocionálneho vypnutia.
 
 Namiesto stimulácie nervového systému ho more **spolureguluje** – vyvoláva stav bezpečia, prítomnosti a prispôsobivosti.  
-Z tohto stavu sa stáva možná jasnosť.
+Z tohto stavu sa stáva jasnosť možnou.
 
 * * *
 
@@ -53,7 +54,7 @@ Na plachetnici:
 
 -   telo reaguje na pohyb
 -   dýchanie sa spomaľuje a prehlbuje
--   pozornosť sa prirodzene upokojí v pocitoch
+-   pozornosť sa prirodzene upevňuje na vnemoch
 -   čas stráca svoj vplyv
 
 Nie je potrebné „cvičiť“ všímavosť.  
@@ -64,7 +65,7 @@ Vyzýva k vnímaniu – a v tom vnímaní sa niečo zmierňuje.
 
 * * *
 
-## **Príroda, rozľahlosť a vnútorná zmena Príroda** nedáva okamžité odpovede.
+## **Príroda, nekonečnosť a vnútorná zmena Príroda** nedáva okamžité odpovede.
 
 Vytvára podmienky, aby sa vynorili tie správne otázky.
 
@@ -74,7 +75,7 @@ Keď sa ponoríte do rozľahlosti mora:
 -   problémy prestávajú dominovať vnútornému svetu
 -   telo zažíva bezpečie prostredníctvom otvorenosti
 
-Táto vnútorná priestrannosť je nevyhnutná pre každého, kto pociťuje potrebu zmeny, ale ešte nevie, ako na to alebo ktorým smerom.
+Táto vnútorná priestrannosť je nevyhnutná pre každého, kto pociťuje potrebu zmeny, ale ešte nevie ako a ktorým smerom.
 
 Jasnosť neprichádza z vynútených rozhodnutí.  
 Objavuje sa, keď je dostatok vnútorného priestoru na vnímanie nových možností.
@@ -83,7 +84,7 @@ Objavuje sa, keď je dostatok vnútorného priestoru na vnímanie nových možno
 
 ## **More ako reset nervového systému**
 
-**Reset nervového systému** neznamená vypnutie — znamená obnovenie flexibility.
+**Reset nervového systému** neznamená vypnutie – znamená obnovenie flexibility.
 
 Na mori:
 
@@ -109,8 +110,8 @@ A to je zámerné.
 
 Zážitky spojené s morom oslovujú ľudí, ktorí:
 
--   pocítia potrebu spomaliť
--   cítia odpojenie medzi mysľou a telom
+-   pociťujú potrebu spomaliť
+-   cítia oddelenie medzi mysľou a telom
 -   sú zvedaví na zmenu, ktorá začína zvnútra
 
 Pre mnohých sa to stáva prvým stretnutím so **zážitkom spojeným s telom** – nie je to workshop ani metóda, ale živé prostredie, kde telo môže viesť.
@@ -120,10 +121,10 @@ Pre mnohých sa to stáva prvým stretnutím so **zážitkom spojeným s telom**
 ## **Ikigai Sailing: Keď sa more stáva priestorom na počúvanie**
 
 V programe Ikigai Sailing nie je more len kulisou – je aktívnou súčasťou zážitku.  
-Každá plavba je navrhnutá tak, aby podporovala prítomnosť, reguláciu a hlboké počúvanie.
+Každá plavba je navrhnutá tak, aby podporovala prítomnosť, reguláciu a hlboké načúvanie.
 
 Zámerom nie je vrátiť sa „premenený“  
-, ale vrátiť sa **viac v súlade** – viac prepojený s tým, čo sa zdá byť pravdivé, podstatné a pripravené na zmenu.
+, ale vrátiť sa **viac v súlade** – viac prepojený s tým, čo sa cíti ako pravdivé, podstatné a pripravené na zmenu.
 
 * * *
 

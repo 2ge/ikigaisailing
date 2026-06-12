@@ -29,8 +29,9 @@ gallery:
   - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 translated: deepl
-sourceHash: ce13edc955bca7f1
+sourceHash: 7eab3d55ba40eac4
 ---
+
 ## Kitesurf
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
@@ -39,7 +40,7 @@ Surca las olas y deja que el viento te lleve
 
 **El kitesurf** es mucho más que un deporte: es una auténtica celebración de la libertad, la energía y una profunda conexión con la naturaleza.  
 Deja que el viento se convierta en tu aliado mientras vuelas sobre las olas, explorando no solo la emoción de la adrenalina, sino también momentos de intensa conciencia y armonía con los elementos.  
-De esta forma, descubrirás el equilibrio entre el desafío y la serenidad, sumergido en uno de los deportes acuáticos más emocionantes y apasionantes del mundo.
+De esta forma, descubrirás el equilibrio entre el desafío y la serenidad, sumergido en uno de los deportes acuáticos más emocionantes y cautivadores del mundo.
 
 Todos los cursos están certificados por la IKO.
 

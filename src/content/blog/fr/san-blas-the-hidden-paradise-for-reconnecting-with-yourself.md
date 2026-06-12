@@ -7,9 +7,10 @@ locale: fr
 pubDate: '2025-02-27'
 image: ~/assets/trips/acconto/san-blas.webp
 translated: deepl
-sourceHash: 703595d9dc3e78b5
+sourceHash: 311a7995aa3261c6
 ---
-Un archipel de plus de 360 îles baignées par les eaux cristallines des Caraïbes, des plages de sable blanc, des palmiers qui se balancent au vent et un monde sous-marin enchanteur grouillant de vie. Bienvenue à San Blas, un lieu hors du temps, où la nature intacte et la culture indigène Guna Yala t'offrent une expérience authentique et revigorante.
+
+Un archipel de plus de 360 îles baignées par les eaux cristallines des Caraïbes, des plages de sable blanc, des palmiers qui se balancent au vent et un monde sous-marin enchanteur grouillant de vie. Bienvenue à San Blas, un lieu hors du temps où la nature intacte et la culture indigène Guna Yala t'offrent une expérience authentique et revigorante.
 
 ### **La nature sauvage de San Blas**
 
@@ -27,13 +28,13 @@ Mais les surprises les plus extraordinaires se trouvent sous la surface. Les ré
 
 Les eaux turquoise de San Blas recèlent un véritable trésor sous-marin. Les coraux, encore intacts et colorés, abritent une myriade de créatures marines nageant librement parmi les formations récifales. Faire du snorkeling ici est une expérience incomparable : chaque plongée révèle un univers de couleurs, de mouvement et de rencontres palpitantes avec des bancs de poissons tropicaux, des étoiles de mer géantes et des pieuvres curieuses se camouflant parmi les rochers.
 
-Pour les passionnés de plongée, San Blas offre des fonds marins spectaculaires avec des épaves et des murs de corail plongeant dans le bleu profond. L'excellente visibilité et la température chaude de l'eau font de chaque exploration sous-marine un moment magique à chérir pour toujours.
+Pour les passionnés de plongée, San Blas offre des fonds marins spectaculaires avec des épaves coulées et des murs de corail plongeant dans le bleu profond. L'excellente visibilité et la température chaude de l'eau font de chaque exploration sous-marine un moment magique à chérir pour toujours.
 
 ### **San Blas : l'endroit parfait pour se déconnecter et se détendre**
 
 San Blas n'est pas seulement un paradis naturel, c'est aussi l'endroit idéal pour se ressourcer, tant physiquement que mentalement. Ici, le temps s'écoule lentement, rythmé uniquement par le bruit des vagues et le bruissement des palmiers dans la brise. L'absence de connexion Internet sur de nombreuses îles permet une véritable détox numérique, aidant les visiteurs à redécouvrir la joie de la simplicité.
 
-Les journées s’écoulent à nager dans des eaux cristallines, à se promener sur des plages désertes et à admirer les couchers de soleil flamboyants qui peignent le ciel de teintes à couper le souffle. Le contact avec la nature, le mode de vie sans stress et la possibilité de vivre des expériences authentiques avec la population locale font de San Blas un refuge parfait pour ceux qui cherchent à se reconnecter avec eux-mêmes et à trouver la paix intérieure.
+Les journées s’écoulent à nager dans des eaux cristallines, à se promener sur des plages désertes et à admirer des couchers de soleil flamboyants qui peignent le ciel de teintes à couper le souffle. Le contact avec la nature, le mode de vie sans stress et la possibilité de vivre des expériences authentiques avec la population locale font de San Blas un refuge parfait pour ceux qui cherchent à se reconnecter avec eux-mêmes et à trouver la paix intérieure.
 
 ### **San Blas : un voyage au cœur de la nature**
 

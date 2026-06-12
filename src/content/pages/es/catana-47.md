@@ -15,8 +15,9 @@ gallery:
   - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
   - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
 translated: deepl
-sourceHash: 91a8cd0df209fbab
+sourceHash: d51b12af845811fd
 ---
+
 ## Catana 47
 
 Catana 47
@@ -34,11 +35,11 @@ Características del barco:
 -   **Una cuarta cabina convertida en un amplio cuarto de baño** con ducha panorámica para dos personas
 -   **2 aseos eléctricos**, uno en cada casco
 
-En la proa se encuentran el **camarote de la tripulación**, **el pañol de velas** y un **camarote** completo **destinado al almacenamiento** de material deportivo. En la popa, la **gran mesa de la bañera** se puede bajar para crear otra amplia cama doble.
+En la proa, se encuentra el **camarote de la tripulación**, **el pañol de velas** y un **camarote** completo para **guardar** el material deportivo. En la popa, la **gran mesa de la bañera** se puede bajar para crear otra espaciosa cama doble.
 
 ## COCINA:
 
-Como nos apasiona la buena comida y somos antiguos restauradores profesionales, la cocina tiene un papel central a bordo. Está equipada con:
+Como nos apasiona la buena comida y somos antiguos restauradores profesionales, la cocina juega un papel central a bordo. Está equipada con:
 
 Panificadora: porque hornear pan fresco cada día no tiene precio
 
@@ -104,7 +105,7 @@ EQUIPO DEL BARCO
 
 **Vela mayor**: 86 m² de tejido Hydranet 483/433 con 5 sables, 3 puntos de rizo e indicadores
 
-**Carros con rodamientos de bolas Harken T32. Bolsa de gavia (nueva en 2021). Génova**: 53 m² de corte triradial en tejido Hydranet 433, con banda de protección UV
+**Carros con rodamientos de bolas Harken T32. Bolsa de rizo (nueva en 2021). Génova**: 53 m² de corte triradial en tejido Hydranet 433, con banda de protección UV
 
 **Gennaker**: 130 m² con botavara enrollable de tejido Stormlite azul, cable antitorsión y banda de protección UV
 

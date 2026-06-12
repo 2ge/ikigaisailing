@@ -1,15 +1,16 @@
 ---
 title: 'Ikigai y viajes: cómo redescubrir tu ritmo natural en el mar'
 description: >-
-  Encuentra tu ikigai entre el viento y el mar. Con Ikigai Sailing, redescubre
+  Encuentra tu Ikigai entre el viento y el mar. Con Ikigai Sailing, redescubre
   tu ritmo natural a través de la navegación y una experiencia sensorial única.
 locale: es
 pubDate: '2026-03-31'
 image: >-
   ~/assets/blog/ikigai-and-travel-how-to-rediscover-your-natural-rhythm-at-sea/Copia-di-Immagini-per-sito-web-1500-x-1000-10.png
 translated: deepl
-sourceHash: 5b01608ac0091a06
+sourceHash: d21f996d1e1110a5
 ---
+
 En el mundo moderno, estamos constantemente «conectados». Nuestro sistema nervioso está sobreestimulado por el ruido digital y el ritmo frenético de la ciudad. Encontrar tu **Ikigai** a través de los viajes no consiste en escapar de la realidad, sino en reajustar tu reloj biológico.
 
 En **Ikigai Sailing**, no ofrecemos un retiro de bienestar tradicional ni un crucero de lujo pasivo. Ofrecemos una **experiencia integral** en la que el mar actúa como un entorno transformador para tu mente y tu cuerpo.

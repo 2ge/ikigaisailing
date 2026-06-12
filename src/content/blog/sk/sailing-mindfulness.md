@@ -1,24 +1,25 @@
 ---
 title: Plachtenie a všímavosť
 description: >-
-  Ako nájsť vnútorný pokoj na mori Objavte silu plavby s plným vedomím pre
+  Ako nájsť vnútorný pokoj na mori Objavte silu plavby v duchu všímavosti pre
   duševnú a telesnú pohodu More malo na ľudskú dušu vždy upokojujúci účinok, ale
-  spojenie plavby s plným vedomím posúva tento zážitok na úplne novú úroveň.
-  Plavba s plným vedomím nie je len cestou cez vlny…
+  spojenie plavby s všímavosťou posúva tento zážitok na úplne novú úroveň.
+  Plavba v duchu všímavosti nie je len cestou cez vlny…
 locale: sk
 pubDate: '2025-03-13'
 image: ~/assets/pages/vita-a-bordo-social/sailingmindfullness.webp
 translated: deepl
-sourceHash: eafd32ffdae8af0f
+sourceHash: 97ac998c3e195af2
 needsReview: true
 ---
+
 # Ako nájsť vnútorný pokoj na mori
 
 **Objavte silu vedomého plachtenia pre duševnú a telesnú pohodu** More malo vždy upokojujúci účinok na ľudskú dušu, ale kombinácia plachtenia s vedomou prítomnosťou posúva tento zážitok na úplne novú úroveň. **Cesta** **vedomého plachtenia** nie je len plavbou po vlnách, ale vnútornou cestou, ktorá pomáha obnoviť rovnováhu, jasnosť a pokoj.
 
 ## Prečo sú plachtenie a meditácia dokonalou kombináciou?
 
-Plachtenie vyžaduje prítomnosť, uvedomenie si a hlboké spojenie s živlami. Vietor, vlny a rytmus lode nás učia zbaviť sa kontroly a prijať prítomný okamih – základné princípy všímavosti. **Výhody plachtenia s plným vedomím:**
+Plachtenie vyžaduje prítomnosť, uvedomenie si a hlboké spojenie s živlami. Vietor, vlny a rytmus lode nás učia, ako sa zbaviť kontroly a prijať prítomný okamih – základné princípy všímavosti. **Výhody plachtenia s plným vedomím:**
 
 -   Znižuje stres a úzkosť
 -   Zlepšuje sústredenie a duševnú jasnosť

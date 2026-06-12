@@ -16,8 +16,9 @@ gallery:
   - ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 order: 4
 translated: deepl
-sourceHash: 661afafdfe8674bb
+sourceHash: b1fcbde2c9b76905
 ---
+
 [![Pacific Crossing](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
 [![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -129,15 +130,15 @@ Mais l’intention commence dès maintenant.
     
 -   Gazole et essence
     
--   Frais de dédouanement pour le départ du Panama et l'entrée en Polynésie française (ou sur d'autres îles intermédiaires)
+-   Frais de formalités pour le départ du Panama et l'entrée en Polynésie française (ou sur d'autres îles intermédiaires)
     
 -   Traversée du canal de Panama (péage, manutentionnaires, location de cordages/défenses, éventuels frais d'agence)
     
--   Frais de mouillage ou de parcs marins (Galápagos, Gambier, Tuamotu, etc.)
+-   Frais d'ancrage ou de parcs marins (Galápagos, Gambier, Tuamotu, etc.)
     
 -   Frais d'amarrage éventuels en marina
     
--   Abonnements communication/météo : Iridium GO! / Starlink Ocean, PredictWind, crédits de téléphone satellite
+-   Abonnements de communication/météo : Iridium GO! / Starlink Ocean, PredictWind, crédits de téléphone satellite
     
 -   Cartes SIM locales dans les ports intermédiaires
     

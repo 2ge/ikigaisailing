@@ -4,7 +4,7 @@ description: "Segui le nostre rotte nei mari pi√π affascinanti: dai Caraibi all‚
 locale: "it"
 oldUrls:
   - "/it/itinerario/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/route/ikigaisailing-next-australia.jpg"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

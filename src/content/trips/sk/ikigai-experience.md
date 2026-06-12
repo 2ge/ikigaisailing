@@ -24,9 +24,10 @@ gallery:
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 translated: deepl
-sourceHash: 69c94499db228dd9
+sourceHash: f1445669ea39b4cc
 needsReview: true
 ---
+
 ## **Úvod**
 
 Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povinná. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám. Tento zážitok je navrhnutý tak, aby vám pomohol objavovať rovnováhu medzi **oddanosťou a načúvaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon — len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
@@ -54,7 +55,7 @@ Strava je srdcom života na _lodi Ikigai_. Kombinujeme to, čo nám poskytuje mo
 -   Tropické ovocie
 -   Miestna zelenina
 
-Keď je to možné, lovíme ryby a pripravujeme kreatívne jedlá: **carpaccio, tatarák, sashimi** a ďalšie. **Spoločné stolovanie je posvätné.** Ste vítaní, aby ste sa zapojili do prípravy – v duchu komunity, bez akýchkoľvek záväzkov.
+Keď je to možné, lovíme ryby a pripravujeme kreatívne jedlá: **carpaccio, tatarák, sashimi** a ďalšie. **Spoločné stolovanie je posvätné.** Môžete sa zapojiť do prípravy jedál – v duchu komunity, bez akýchkoľvek záväzkov.
 
 ## **Dôležitá poznámka**
 
@@ -73,7 +74,7 @@ Program sa môže upraviť na základe:
 ### **Príchod do Panamy**
 
 -   Súkromný transfer z letiska
--   Prenocovanie v **Casco Viejo**, štvrti zapísanej na zozname svetového dedičstva UNESCO
+-   Prenocovanie v **Casco Viejo**, štvrti zapísanej na zozname UNESCO
 -   Večerná prechádzka koloniálnymi uličkami, živými terasami, hudbou a miestnou kuchyňou
 
 ### **Deň 1 – Vitajte v Banedupe Najdôležitejšie body:**
@@ -100,7 +101,7 @@ Program sa môže upraviť na základe:
 -   20:00: Večera
 -   21:00: Voliteľná živá hudba a karaoke na brehu
 
-### **Deň 3 – Západné holandské ostrovčeky (Cayo Holandés Oeste) Nedotknutá príroda a žiarivé koralové útesy**
+### **Deň 3 – Západné holandské ostrovčeky (Cayo Holandés Oeste) Nedotknutá príroda a živé koralové útesy**
 
 -   06:30–08:00: Ranná rutina
 -   08:30: Raňajky
@@ -109,9 +110,9 @@ Program sa môže upraviť na základe:
 -   14:00: Obed
 -   17:30: Večerná rutina
 -   19:00: Teória voľného potápania (dýchanie, vyrovnávanie tlaku, bezpečnosť)
--   20:30: Večera a pozorovanie morského života pri svetlách lode
+-   20:30: Večera a pozorovanie morského života pri svetle lodí
 
-### **Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké spojenie**
+### **Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké prepojenie**
 
 -   06:30–07:30: Dýchanie a strečing pre freediving
 -   07:30: Ľahké raňajky

@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-03-15'
 image: ~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp
 translated: deepl
-sourceHash: 33585453c246a9d9
+sourceHash: d63c42a4b5aa6070
 ---
+
 Explorar el mundo desde el mar te ofrece una sensación de libertad sin igual. **Los viajes de aventura en velero** son la opción perfecta para quienes quieren descubrir lugares vírgenes, sumergirse en la naturaleza y disfrutar de una experiencia auténtica y sostenible. **Ikigai Sailing está dando la vuelta al mundo y ahora se encuentra en Panamá, con planes de cruzar el océano en 2026.**
 
 ### ¿Por qué elegir un viaje de aventura en velero?

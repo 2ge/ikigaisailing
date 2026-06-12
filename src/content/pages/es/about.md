@@ -16,8 +16,9 @@ gallery:
   - ~/assets/trips/acconto/20221220_125124.jpg
   - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 translated: deepl
-sourceHash: 580dc5db8e2f8161
+sourceHash: 3c97f9b42de2b265
 ---
+
 ## QUIÉNES SOMOS
 
 Ikigai Sailing es una comunidad en crecimiento formada por soñadores, navegantes, buceadores en apnea, buceadores, kitesurfistas y amantes de la aventura y el deporte.
@@ -52,7 +53,7 @@ Luca
 **Patrón, instructor de kitesurf y buceo libre Patrón, instructor de kitesurf y buceo libre**
 
 Luca es **RYA Yachtmaster Offshore** e **instructor** **de vela reconocido por el CONI.**  
-También es **instructor** **de buceo libre** de **AIDA y Apnea Totale**, e **instructor** **certificado de kitesurf por la IKO International.**
+También es **instructor** **de buceo libre** para **AIDA y Apnea Totale**, e **instructor** **certificado de kitesurf por la IKO International.**
 
 Su pasión por la hospitalidad, combinada con su amor por la buena comida, crea una **experiencia a bordo única** centrada en **el bienestar físico y mental**, mezclando actividades deportivas con prácticas como **la meditación y el Janzu**, todo ello enriquecido por los placeres de una saludable **Dolce Vita**.
 
@@ -60,7 +61,7 @@ Brano
 
 **Dive Master, pesca submarina y espíritu aventurero**
 
-Brano es un buceador experto con certificaciones que van desde **Divemaster de la IANTD hasta buzo de cuevas y buzo de rescate**, pasando por buceo avanzado y apnea.
+Brano es un buceador experto con certificaciones que van desde **Divemaster de la IANTD hasta buceador de cuevas y de rescate**, pasando por buceo avanzado y apnea.
 
 Su pasión por el mar le ha llevado a explorar **más de 30 países**, abrazando los deportes extremos, los viajes de aventura y la innovación tecnológica.
 
@@ -72,7 +73,7 @@ Me llamo Paola, tengo 35 años y soy francesa. Hoy estoy aquí porque mi vida gi
 
 Cocinar siempre ha sido mi forma de expresar creatividad, cariño y generosidad. Me encanta preparar platos que cuentan historias, mezclando sabores y tradiciones, y creando momentos de auténtico placer alrededor de la mesa.
 
-A bordo del catamarán Ikigai, he encontrado el lugar perfecto para unir esta pasión con mi amor por el mar, los encuentros significativos y una vida en constante movimiento. Es un entorno esencial y vibrante que me inspira cada día, dejando espacio para una cocina viva, sencilla y sincera que enriquece de forma natural el viaje.
+A bordo del catamarán Ikigai, he encontrado el lugar perfecto para unir esta pasión con mi amor por el mar, los encuentros significativos y una vida en constante movimiento. Es un entorno esencial y vibrante que me inspira cada día, dejando espacio para una cocina viva, sencilla y sincera que enriquece naturalmente el viaje.
 
 LA HISTORIA
 
@@ -84,9 +85,9 @@ Ikigai Sailing no es solo un velero: **es una visión, una forma de vida**.
 Se trata de **volver a la naturaleza, descubrir nuevos horizontes y disfrutar de actividades que nutren tanto el cuerpo como el alma**.
 
 Es el **placer de compartir momentos auténticos**, practicar deporte, explorar diferentes culturas y **vivir cada día como un respiro del acelerado mundo moderno**.  
-En otras palabras, **es una escapada de Matrix**.
+En otras palabras, **es un escape de Matrix**.
 
-Nuestro proyecto es un **viaje en velero alrededor del mundo**, donde enseñamos y compartimos nuestras pasiones, promoviendo un **estilo de vida saludable y sostenible**. Vivimos de todo, desde **travesías oceánicas hasta relajantes semanas de navegación**, cultivando intereses más allá de la vela: **desde la gastronomía hasta el bienestar, desde el deporte hasta la meditación**.
+Nuestro proyecto es un **viaje a vela alrededor del mundo**, donde enseñamos y compartimos nuestras pasiones, promoviendo un **estilo de vida saludable y sostenible**. Vivimos de todo, desde **travesías oceánicas hasta relajantes semanas de navegación**, cultivando intereses más allá de la vela: **desde la gastronomía hasta el bienestar, desde el deporte hasta la meditación**.
 
 [Descubre tu Ikigai con nosotros](https://www.ikigaisailing.com/en/ikigai-2/)
 

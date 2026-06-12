@@ -8,9 +8,10 @@ pubDate: '2026-05-06'
 image: >-
   ~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-9.png
 translated: deepl
-sourceHash: d8f2195c02ebf4b6
+sourceHash: 650e122b115a64bf
 needsReview: true
 ---
+
 Ak hľadáte **dovolenku** spojenú s **plachtením a freedivingom**, pravdepodobne ste už zistili, že skutočné zotavenie neprichádza prostredníctvom pasivity. Keď premýšľame o wellness, často si predstavujeme tiché kúpele alebo nedotknutú záhradu luxusného rezortu. Pre tých, ktorí žijú veľmi intenzívny život, je však tradičná relaxácia často len dočasným anestetikom, ktoré nedokáže obnoviť hlboké spojenie so sebou samým.
 
 **Ikigai Sailing** vznikol s cieľom ponúknuť radikálne odlišnú alternatívu. Nie sme plávajúce meditačné centrum, ani duchovný úkryt či bežný rezort zameraný na jógu. Namiesto toho ponúkame zážitok zo života na palube, kde more pôsobí ako katalyzátor fyzickej a duševnej transformácie, ktorú definujeme ako **telesný zážitok**.
@@ -19,7 +20,7 @@ Ak hľadáte **dovolenku** spojenú s **plachtením a freedivingom**, pravdepodo
 
 V klasickom rezorte je wellness služba, ktorú si zakúpite, napríklad masáž alebo kurz s inštruktorom. V tomto kontexte zostáva vaše telo pasívnym príjemcom vonkajšej činnosti.
 
-Naopak, na palube katamaránu sa wellness stáva činnosťou, ktorú aktívne vykonávate každý deň. Loď vyžaduje neustálu prítomnosť: musíte nastavovať plachty, pohybovať sa medzi lanami a nájsť rovnováhu podľa pohybu vĺn. V dôsledku toho nielen „praktizujete“ všímavosť, ale **prostredníctvom pohybu** žijete stavom **telesného uvedomenia**.
+Naopak, na palube katamaránu sa wellness stáva činnosťou, ktorú aktívne vykonávate každý deň. Loď vyžaduje neustálu prítomnosť: musíte nastavovať plachty, pohybovať sa medzi lanami a nájsť rovnováhu podľa pohybu vĺn. V dôsledku toho nielen „praktizujete“ všímavosť, ale **prostredníctvom pohybu** žijete v stave **telesného uvedomenia**.
 
 ### Prečo dovolenka s plachtením a freedivingom regeneruje nervový systém
 
@@ -34,7 +35,7 @@ Dnes je náš nervový systém nadmerne stimulovaný notifikáciami a digitálny
 -   **Technické vedenie:** Kľúčovou postavou je **Luca**, kapitán a inštruktor, ktorý využíva šport ako bránu k osobnému rastu.
     
 
-### Za hranicami klišé: zážitok pre aktívne publikum
+### Za klišé: zážitok pre aktívne publikum
 
 Projekt Ikigai Sailing je určený pre aktívne, zvedavé a zdravé publikum. Zameriavame sa na profesionálov, manažérov a freelancerov, ktorí pociťujú ťažobu vyhorenia a hľadajú autenticitu, ktorú balíčky „all-inclusive“ jednoducho nemôžu ponúknuť.
 

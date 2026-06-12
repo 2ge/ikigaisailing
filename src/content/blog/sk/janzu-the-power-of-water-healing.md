@@ -2,15 +2,16 @@
 title: 'Janzu: Regeneračná sila vody'
 description: >-
   Janzu je relaxačná a liečebná technika založená na vode, ktorá si získava
-  čoraz väčšiu obľubu. Vytvoril ju v 90. rokoch mexický terapeut
+  čoraz väčšiu popularitu. Vytvoril ju v 90. rokoch mexický terapeut
 locale: sk
 pubDate: '2025-04-05'
 image: ~/assets/pages/vita-a-bordo-social/janzu.avif
 translated: deepl
-sourceHash: 7c984e5a782a48c6
+sourceHash: 2094ac87bc480388
 needsReview: true
 ---
-**Janzu: Regeneračná sila vody Janzu** je relaxačná a liečebná technika založená na vode, ktorá si získava čoraz väčšiu obľubu medzi ľuďmi hľadajúcimi hlboký a prirodzený pocit pohody. Túto metódu vytvoril v 90. rokoch mexický terapeut **Juan Villatoro** a kombinuje plynulé pohyby vo vode, dychové cvičenia a hlbokú meditáciu, čím prináša silné uvoľnenie na fyzickej, emocionálnej a mentálnej úrovni.
+
+**Janzu: Regeneračná sila vody Janzu** je relaxačná a liečebná technika založená na vode, ktorá si získava čoraz väčšiu obľubu medzi ľuďmi hľadajúcimi hlboký a prirodzený pocit pohody. Túto metódu vytvoril v 90. rokoch mexický terapeut **Juan Villatoro** a kombinuje plynulé pohyby vo vode, dychové cvičenia a hlbokú meditáciu, čím ponúka silné uvoľnenie na fyzickej, emocionálnej a mentálnej úrovni.
 
 **Čo je Janzu a ako funguje?**
 
@@ -34,4 +35,4 @@ Janzu je viac než len technika, je to **transformatívny zážitok**. Kontakt s
 
 Je ideálne pre každého, kto hľadá prirodzený a silný spôsob, ako sa uvoľniť, znovu sa prepojiť a **zbaviť sa toho**, **čo mu už neslúži**.
 
-Či už ste na ceste uzdravenia, hľadáte osobnú starostlivosť alebo jednoducho túžite po hlbokom vnútornom spojení, Janzu ponúka jemný, ale hlboký spôsob, ako **sa vrátiť k svojmu telu, dychu a duši**.
+Či už ste na ceste k uzdraveniu, hľadáte osobnú starostlivosť alebo jednoducho túžite po hlbokom vnútornom spojení, Janzu ponúka jemný, ale hlboký spôsob, ako **sa vrátiť k svojmu telu, dychu a duši**.

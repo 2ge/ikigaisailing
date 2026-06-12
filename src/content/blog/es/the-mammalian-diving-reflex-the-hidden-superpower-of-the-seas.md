@@ -2,13 +2,14 @@
 title: El reflejo de inmersión de los mamíferos
 description: >-
   el reflejo de inmersión de los mamíferos, un superpoder oculto que todos los
-  mamíferos tienen, heredado de nuestros lejanos antepasados acuáticos
+  mamíferos poseen, heredado de nuestros lejanos antepasados acuáticos
 locale: es
 pubDate: '2025-03-21'
 image: ~/assets/pages/season-2025-26/apnea6.webp
 translated: deepl
-sourceHash: ce7c84090510b6f3
+sourceHash: c0196358e0401db0
 ---
+
 En el agua, tu cuerpo se transforma en una **máquina de buceo perfecta**, ¡como si por un momento fueras un **delfín o una foca**! Se trata del **reflejo de buceo de los mamíferos**, un **superpoder oculto** que todos los mamíferos poseemos, heredado de nuestros lejanos antepasados acuáticos.
 
 Cuando buceamos en apnea, sobre todo en **agua fría**, nuestro cuerpo **se activa de una forma extraordinaria**, desencadenando una serie de **increíbles adaptaciones fisiológicas** que se combinan para convertirnos en **auténticos exploradores de las profundidades**. Es como si nuestro cuerpo dijera:

@@ -4,7 +4,7 @@ description: "Learn about the origins of Ikigai Sailing, where passion for the s
 locale: "en"
 oldUrls:
   - "/the-story/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/catana-47/9d81ff7c-0f84-48ed-b44a-efc36ece6d56-scaled.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

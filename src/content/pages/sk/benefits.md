@@ -1,23 +1,24 @@
 ---
 title: Výhody života v zahraničí – Objavte prírodu s Ikigai Sailing
 description: >-
-  Objavte množstvo výhod života v zahraničí – od osobného rastu a kultúrneho
-  obohatenia až po nové kariérne príležitosti a dobrodružstvá.
+  Objavte množstvo výhod života v zahraničí, od osobného rastu a kultúrneho
+  obohatenia až po nové kariérne príležitosti a dobrodružstvo.
 locale: sk
-translated: deepl
-sourceHash: 8c9361f8485d15cb
-needsReview: true
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+  - ~/assets/trips/acconto/user1.webp
+  - ~/assets/trips/acconto/user3.webp
+translated: deepl
+sourceHash: 1b0173628b8912d1
+needsReview: true
 ---
+
 ## PRÍNOSY PLÁVANIA S IKIGAI
 
 More ako spôsob života

@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-02-27'
 image: ~/assets/trips/acconto/san-blas.webp
 translated: deepl
-sourceHash: 703595d9dc3e78b5
+sourceHash: 311a7995aa3261c6
 ---
+
 Un archipiélago de más de 360 islas sumergidas en las aguas cristalinas del Caribe, con playas de arena blanca, palmeras que se mecen al viento y un mundo submarino encantador y rebosante de vida. Bienvenido a San Blas, un lugar fuera del tiempo, donde la naturaleza virgen y la cultura indígena de Guna Yala te ofrecen una experiencia auténtica y revitalizante.
 
 ### **La naturaleza salvaje de San Blas**
@@ -27,7 +28,7 @@ Pero las sorpresas más extraordinarias se encuentran bajo la superficie. Los ar
 
 Las aguas turquesas de San Blas esconden un auténtico tesoro submarino. Los corales, aún intactos y coloridos, albergan una miríada de criaturas marinas que nadan libremente entre las formaciones del arrecife. Hacer snorkel aquí es una experiencia sin igual: cada inmersión revela un universo de colores, movimiento y emocionantes encuentros con bancos de peces tropicales, estrellas de mar gigantes y curiosos pulpos camuflados entre las rocas.
 
-Para los amantes del buceo, San Blas ofrece espectaculares fondos marinos con pecios hundidos y paredes de coral que descienden hacia el azul profundo. La excelente visibilidad y las cálidas temperaturas del agua hacen de cada exploración submarina un momento mágico que recordarás para siempre.
+Para los amantes del buceo, San Blas ofrece espectaculares fondos marinos con pecios hundidos y paredes de coral que descienden hacia el azul profundo. La excelente visibilidad y las cálidas temperaturas del agua hacen de cada exploración submarina un momento mágico que atesorarás para siempre.
 
 ### **San Blas: el lugar perfecto para desconectar y liberarte del estrés**
 

@@ -2,7 +2,7 @@
 title: O spoločnosti Ikigai Sailing – Zažite pokoj plavby na lodi
 description: >-
   Objavte Ikigai Sailing a nechajte sa uniesť umením plachtenia, ktoré vám
-  prinesie naplnený život na vode. Objavte vášeň pre dobrodružstvo, pokoj a
+  prinesie naplňujúci život na vode. Objavte vášeň pre dobrodružstvo, pokoj a
   prírodu
 locale: sk
 heroImage: ~/assets/pages/about/R-C.png
@@ -16,9 +16,10 @@ gallery:
   - ~/assets/trips/acconto/20221220_125124.jpg
   - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 translated: deepl
-sourceHash: 580dc5db8e2f8161
+sourceHash: 3c97f9b42de2b265
 needsReview: true
 ---
+
 ## O NÁS
 
 Ikigai Sailing je rastúca komunita snílkov, námorníkov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.
@@ -63,7 +64,7 @@ Brano
 
 Brano je skúsený potápač s certifikátmi od **IANTD Divemaster po Cave Diver a Rescue Diver**, vrátane pokročilého potápania a freedivingu.
 
-Jeho vášeň pre more ho priviedla k preskúmaniu **viac ako 30 krajín**, kde sa venoval extrémnym športom, dobrodružným cestám a technologickým inováciám.
+Jeho vášeň pre more ho viedla k preskúmaniu **viac ako 30 krajín**, kde sa venoval extrémnym športom, dobrodružným cestám a technologickým inováciám.
 
 V roku **2022** spolu s Lucom založil **Ikigai Sailing**, čím vytvoril projekt, ktorý spája **dobrodružstvo, udržateľnosť a slobodu** a inšpiruje ostatných k plnohodnotnému životu.
 

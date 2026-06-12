@@ -16,11 +16,12 @@ gallery:
   - ~/assets/trips/acconto/20221220_125124.jpg
   - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 translated: deepl
-sourceHash: 580dc5db8e2f8161
+sourceHash: 3c97f9b42de2b265
 ---
+
 ## À PROPOS DE NOUS
 
-Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs sous-marins, de kitesurfeurs et de passionnés d'aventure et de sport.
+Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, d'apnéistes, de plongeurs, de kitesurfeurs et de passionnés d'aventure et de sport.
 
 Nous sommes une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**.  
 Nous sommes unis par l'amour de la mer, de la liberté et de la bonne cuisine, avec une seule mission : vivre en harmonie avec la nature, au gré du vent et des vagues.
@@ -81,9 +82,9 @@ L'HISTOIRE
 Ikigai Sailing
 
 Ikigai Sailing n’est pas seulement un voilier : **c’est une vision, un mode de vie**.  
-C’est un **retour à la nature, la découverte de nouveaux horizons et l’adoption d’activités qui nourrissent à la fois le corps et l’esprit**.
+C’est un **retour à la nature, la découverte de nouveaux horizons et la pratique d’activités qui nourrissent à la fois le corps et l’esprit**.
 
-C'est le **plaisir de partager des moments authentiques**, **de** pratiquer des sports, d'explorer différentes cultures et **de vivre chaque jour comme une pause loin du monde moderne trépidant**.  
+C'est le **plaisir de partager des moments authentiques**, **de** pratiquer des sports, d'explorer différentes cultures et **de vivre chaque jour comme une pause dans le monde moderne trépidant**.  
 En d'autres termes, **c'est une évasion hors de la Matrix**.
 
 Notre projet est un **voyage à la voile autour du monde**, où nous enseignons et partageons nos passions, en promouvant un **mode de vie sain et durable**. Nous vivons de tout, des **traversées océaniques aux semaines de navigation relaxantes**, en cultivant des intérêts au-delà de la voile : **de la gastronomie au bien-être, du sport à la méditation**.

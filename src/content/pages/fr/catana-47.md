@@ -15,8 +15,9 @@ gallery:
   - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
   - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
 translated: deepl
-sourceHash: 91a8cd0df209fbab
+sourceHash: d51b12af845811fd
 ---
+
 ## Catana 47
 
 Catana 47
@@ -42,7 +43,7 @@ Comme on est passionnés de bonne cuisine et qu'on a été restaurateurs profess
 
 Une machine à pain – parce que faire du pain frais tous les jours n'a pas de prix
 
-### Barbecue Magma XL – la star d’innombrables barbecues, surtout après une sortie de pêche réussie
+### Barbecue Magma XL – la star d’innombrables barbecues, surtout après une sortie de pêche fructueuse
 
 ### Une cuisinière à 4 feux, un four à gaz en acier inoxydable, un réfrigérateur, un congélateur, un lave-vaisselle, une machine à pâtes fraîches, un mixeur, etc.
 
@@ -104,7 +105,7 @@ En plus, on a **2 dessalinisateurs** qui produisent **150 L/h** et une **machine
 
 **Grand-voile** : 86 m² en tissu Hydranet 483/433 avec 5 lattes, 3 points de ris et des indicateurs
 
-**Chariots à roulements à billes Harken T32, sac de rangement (neuf 2021) Génois** : 53 m², coupe triradiale en tissu Hydranet 433, bande de protection UV
+**Chariots à roulements à billes Harken T32, sac de rangement (neuf 2021) Génois** : 53 m² de coupe triradiale en tissu Hydranet 433, bande de protection UV
 
 **Gennaker** : bôme enrouleur de 130 m² en tissu Stormlite bleu, câble anti-torsion, bande de protection UV
 

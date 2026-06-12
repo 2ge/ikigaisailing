@@ -9,9 +9,10 @@ pubDate: '2026-05-06'
 image: >-
   ~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-9.png
 translated: deepl
-sourceHash: d8f2195c02ebf4b6
+sourceHash: 650e122b115a64bf
 ---
-Si tu cherches des **vacances** alliant **voile et plongée en apnée**, tu as sans doute déjà compris que le véritable ressourcement ne vient pas de la passivité. Souvent, quand on pense au bien-être, on imagine un spa silencieux ou le jardin immaculé d’un complexe hôtelier de luxe. Cependant, pour ceux qui mènent une vie trépidante, la détente traditionnelle n’est souvent qu’un anesthésiant temporaire qui ne parvient pas à rétablir un lien profond avec soi-même.
+
+Si tu cherches des **vacances** alliant **voile et plongée en apnée**, tu as sans doute déjà compris que le véritable ressourcement ne vient pas de la passivité. Souvent, quand on pense au bien-être, on imagine un spa silencieux ou le jardin immaculé d’un complexe hôtelier de luxe. Cependant, pour ceux qui mènent une vie trépidante, la relaxation traditionnelle n’est souvent qu’un anesthésiant temporaire qui ne parvient pas à rétablir un lien profond avec soi-même.
 
 **Ikigai Sailing** a été créé pour offrir une alternative radicalement différente. Nous ne sommes ni un centre de méditation flottant, ni une retraite spirituelle, ni un complexe de yoga classique. Au contraire, nous proposons une expérience de vie à bord où la mer agit comme un catalyseur d’une transformation physique et mentale que nous définissons comme une **expérience incarnée**.
 
@@ -27,7 +28,7 @@ Pourquoi des **vacances** **à la voile et en apnée** ont-elles un impact si pr
 
 Aujourd’hui, nos systèmes nerveux sont hyperstimulés par les notifications et les échéances numériques. À bord, cependant, le rythme est dicté exclusivement par le vent et les marées. Cette remise à zéro biologique s’opère grâce à trois piliers fondamentaux :
 
--   **Sport et conscience :** l’union de la voile et de l’apnée nécessite d’écouter les battements de ton cœur et de réguler consciemment ta respiration.
+-   **Sport et conscience :** l’union de la voile et de l’apnée exige d’écouter les battements de ton cœur et de réguler consciemment ta respiration.
     
 -   **Un environnement transformateur :** la mer ouverte élimine les distractions superflues, ramenant l'esprit à l'« ici et maintenant ».
     

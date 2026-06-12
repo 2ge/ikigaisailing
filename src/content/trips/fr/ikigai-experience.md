@@ -24,11 +24,12 @@ gallery:
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 translated: deepl
-sourceHash: 69c94499db228dd9
+sourceHash: f1445669ea39b4cc
 ---
+
 ## **Introduction**
 
-Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. On t'invite à sortir de ta zone de confort, à tenter de nouvelles expériences et à renforcer ta discipline, tout en restant à l'écoute de ton corps et de ses besoins. Cette expérience est conçue pour t'aider à explorer l'équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
+Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
 
 ## **Programme quotidien Matin (env. 1h30) :** Chaque journée commence par une séance guidée pouvant inclure :
 
@@ -47,7 +48,7 @@ Toutes les activités proposées sont **vivement recommandées**, mais jamais ob
 
 ## **La vie à bord et la nourriture**
 
-La nourriture est au cœur de la vie sur _l’Ikigai_. On mélange ce que la mer nous offre avec ce qu’on échange avec la communauté Guna :
+La nourriture est au cœur de la vie sur _l'Ikigai_. On mélange ce que la mer nous offre avec ce qu'on échange avec la communauté Guna :
 
 -   Homard frais
 -   Fruits tropicaux
@@ -123,7 +124,7 @@ Le programme peut être modifié en fonction :
 
 ### **Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp**
 
--   06h30 : Routine matinale
+-   06h30 : Routine du matin
 -   08h30 : Petit-déjeuner
 -   09h30 : Navigation vers le lagon
 -   11h00 : Balade d'île en île en SUP ou en kayak
@@ -166,7 +167,7 @@ Le programme peut être modifié en fonction :
 
 -   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
--   09h30 : Départ vers Coco Bandero
+-   09h30 : Navigation vers Coco Bandero
 -   12h00 : Déjeuner sur la plage
 -   13h00–17h00 : Baignade avec les requins (facultatif), plongée avec tuba, hamacs
 -   17h00 : Routine du soir

@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-02-27'
 image: ~/assets/pages/vita-a-bordo-social/waves-types.webp
 translated: deepl
-sourceHash: c657b4ee235af46e
+sourceHash: bc44ea031822d518
 ---
+
 Las olas marinas se clasifican en diferentes tipos según su origen, cómo se forman y su comportamiento. Estos son los principales tipos de olas y lo que indican:
 
 1.  **Olas de viento**
@@ -17,7 +18,7 @@ Las olas marinas se clasifican en diferentes tipos según su origen, cómo se fo
         -   **Olas de brisa**: Pequeñas e irregulares, formadas por vientos ligeros.
         -   **Olas estacionarias**: olas que permanecen casi inmóviles y no se propagan mucho, típicas de vientos débiles o zonas cerradas.
         -   **Olas de tormenta**: Grandes y potentes, generadas por vientos fuertes y persistentes.
-    -   **Qué indican**: La fuerza y la dirección del viento en la zona, así como durante cuánto tiempo y en qué extensión ha actuado el viento sobre la superficie del mar (alcance).
+    -   **Qué indican**: La fuerza y la dirección del viento en la zona, así como cuánto tiempo y en qué extensión ha actuado el viento sobre la superficie del mar (alcance).
 2.  **Oleaje**
     -   **Origen**: Olas formadas por tormentas lejanas, que se propagan a lo largo de cientos de kilómetros.
     -   **Características**:

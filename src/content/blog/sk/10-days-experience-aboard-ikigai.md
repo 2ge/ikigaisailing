@@ -7,14 +7,15 @@ locale: sk
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 5a610fcb38be6bff
+sourceHash: aae2be8888b87747
 needsReview: true
 ---
+
 ### **Úvod**
 
 Počas Ikigai Experience sú všetky navrhované aktivity **vysoko odporúčané**, ale nikdy nie sú povinné. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám.
 
-Tento program Ikigai Experience je navrhnutý tak, aby vám pomohol nájsť rovnováhu medzi **odhodlaním a vnímaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon – len príležitosť znovu sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
+Tento program Ikigai Experience je navrhnutý tak, aby vám pomohol objaviť rovnováhu medzi **odhodlaním a vnímaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon – len príležitosť znovu sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
 
 ### \*\*🌅 Denný program 🕐 Ráno (cca 1h30): Každý deň začína vedenou reláciou, ktorá môže zahŕňať:
 
@@ -87,11 +88,11 @@ Program sa môže upraviť na základe:
 -   🍽️ 20:00: Večera
 -   🎶 21:00: Voliteľná živá hudba a karaoke na brehu
 
-### **🐬 Deň 3 – West Dutch Cays (Cayo Holandés Oeste) Nedotknutá príroda a živé koralové útesy**
+### **🐬 Deň 3 – West Dutch Cays (Cayo Holandés Oeste) Nedotknutá príroda a žiarivé koralové útesy**
 
 -   🧘 06:30–08:00: Ranná rutina
 -   ☕ 08:30: Raňajky
--   ⛵ 10:00: Plavba do West Dutch Cays
+-   ⛵ 10:00: Plavba na West Dutch Cays
 -   🐠 12:00–14:00: Šnorchlovanie
 -   🍽️ 14:00: Obed
 -   🌇 17:30: Večerná rutina
@@ -130,7 +131,7 @@ Program sa môže upraviť na základe:
 -   🧘‍♂️ 17:00: Turtle Island – jóga, oddych, Tabata
 -   🌌 19:30: Večera v podobe grilovania pod hviezdami
 
-### **🐚 7. deň – Dutch Cays / Green Island Kokosové orechy, remeslá, šnorchlovanie a filmový večer**
+### **🐚 7. deň – Dutch Cays / Green Island Kokosy, remeslá, šnorchlovanie a filmový večer**
 
 -   🧘 06:30: Ranná rutina
 -   ☕ 08:30: Raňajky
@@ -170,7 +171,7 @@ Program sa môže upraviť na základe:
 
 ### **🛶 11. deň – Návrat**
 
-Loď Guna vás vyzdvihne a odvezie späť na letisko alebo do mesta Panama.  
+Loď Guna vás vyzdvihne a odvezie späť na letisko alebo do Panamy.  
 **Cesta pokračuje vo vašom vnútri.** 🌍
 
 [Späť k produktu](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)

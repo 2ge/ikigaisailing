@@ -2,21 +2,23 @@
 title: Política de cookies
 description: Cómo utiliza Ikigai Sailing las cookies en este sitio web.
 locale: es
+heroImage: "~/assets/trips/acconto/20221220_125124.jpg"
 translated: deepl
-sourceHash: 069ccce68dec954d
+sourceHash: 6b885f4623285cea
 ---
+
 ## Interpretación y definiciones
 
 ### Interpretación
 
-Las palabras que empiezan con mayúscula tienen los significados que se definen a continuación. Las siguientes definiciones tendrán el mismo significado, independientemente de si aparecen en singular o en plural.
+Las palabras que empiezan con mayúscula tienen los significados que se definen a continuación. Las siguientes definiciones tendrán el mismo significado tanto si aparecen en singular como en plural.
 
 ### Definiciones
 
 A los efectos de esta Política de cookies:
 
 -   **Empresa** (denominada «la Empresa», «Nosotros», «Nos» o «Nuestro» en esta Política de cookies) se refiere a Ikigai Sailing ASD, Via Gorlago 37 – 00135 Roma (RM), Italia, código fiscal 96511650580.
--   **Las cookies** son pequeños archivos que un sitio web coloca en tu ordenador, dispositivo móvil o cualquier otro dispositivo y que, entre otras muchas funciones, contienen detalles de tu historial de navegación en ese sitio web.
+-   **Las cookies** son pequeños archivos que un sitio web coloca en tu ordenador, dispositivo móvil o cualquier otro dispositivo y que, entre sus muchos usos, contienen detalles de tu historial de navegación en ese sitio web.
 -   **«Sitio web»** se refiere a Ikigai Sailing, accesible desde [https://www.ikigaisailing.com](https://www.ikigaisailing.com).
 -   **«Tú»** se refiere a la persona que accede o utiliza el sitio web, o a una empresa, o a cualquier entidad jurídica en nombre de la cual dicha persona acceda o utilice el sitio web, según corresponda.
 

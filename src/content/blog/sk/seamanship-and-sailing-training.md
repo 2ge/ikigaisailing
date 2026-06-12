@@ -7,9 +7,10 @@ locale: sk
 pubDate: '2025-03-23'
 image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: ff71a52bbac8d079
+sourceHash: 38a92be8fe55b019
 needsReview: true
 ---
+
 #### **Úvod do života na palube**
 
 Naučte sa základy života na katamaráne: organizácia priestoru, hospodárenie s vodou a energiou, aby ste zažili autentický a zodpovedný zážitok z plavby.
@@ -32,11 +33,11 @@ Získajte praktické skúsenosti: viazanie uzlov (námorných uzlov), kotvenie v
 
 #### **Ovládanie kormidla**
 
-Zaujmite miesto za kormidlom a pod osobným vedením sa naučte udržiavať kurz a reagovať na zmeny vetra.
+Zaujmite miesto za kormidlom a pod individuálnym vedením sa naučte udržiavať kurz a reagovať na zmeny vetra.
 
 #### **Porozumenie vetrom a prúdom**
 
-Naučte sa interpretovať poveternostné podmienky, prevládajúce vetry a prúdy v oblasti San Blas a plaviť sa v súlade s prírodou.
+Naučte sa interpretovať poveternostné podmienky, prevládajúce vetry a prúdy v oblasti San Blas a navigovať v súlade s prírodou.
 
 #### **Pomoc pri plánovaní trasy**
 
@@ -44,7 +45,7 @@ Spolupracujte s kapitánom pri plánovaní denných trás, zohľadňujúc povete
 
 #### **Námorná kultúra**
 
-Ponorte sa do tradícií a jazyka mora a obohacujte svoje zážitky anekdotami a osvedčenými námornými postupmi.
+Ponorte sa do tradícií a jazyka mora a obohacujte svoje zážitky o zaujímavé príbehy a osvedčené námorné postupy.
 
 #### **Tímová práca pri navigácii**
 

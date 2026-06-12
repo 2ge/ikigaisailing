@@ -2,9 +2,11 @@
 title: Informativa sui cookie
 description: Come Ikigai Sailing utilizza i cookie su questo sito web.
 locale: it
+heroImage: "~/assets/trips/acconto/20221220_125124.jpg"
 translated: deepl
-sourceHash: 069ccce68dec954d
+sourceHash: 6b885f4623285cea
 ---
+
 ## Interpretazione e definizioni
 
 ### Interpretazione
@@ -24,13 +26,13 @@ Ai fini della presente Informativa sui cookie:
 
 ### Tipi di cookie che utilizziamo
 
-I cookie possono essere "persistenti" o "di sessione". I cookie persistenti rimangono sul tuo computer o dispositivo mobile quando ti disconnetti, mentre i cookie di sessione vengono eliminati non appena chiudi il browser web.
+I cookie possono essere "persistenti" o "di sessione". I cookie persistenti rimangono sul tuo computer o dispositivo mobile quando ti disconnetti, mentre i cookie di sessione vengono cancellati non appena chiudi il browser web.
 
 Utilizziamo sia cookie di sessione che persistenti per le finalità indicate di seguito:
 
 -   **Cookie necessari/essenziali** (di sessione, gestiti da noi) — essenziali per fornirti i servizi disponibili attraverso il sito web e per consentirti di utilizzare alcune delle sue funzionalità. Senza questi cookie, i servizi che hai richiesto non possono essere forniti.
 -   **Cookie di funzionalità** (persistenti, gestiti da noi) — ci permettono di ricordare le scelte che fai quando usi il sito web, come la tua lingua preferita, per offrirti un'esperienza più personalizzata.
--   **Cookie analitici e di prestazione** (persistenti, gestiti da terze parti) — utilizzati per comprendere il traffico sul Sito Web e il modo in cui i visitatori lo utilizzano, in modo da poterlo migliorare. A tal fine utilizziamo Google Tag Manager e uno strumento di analisi rispettoso della privacy.
+-   **Cookie analitici e di prestazione** (persistenti, gestiti da terze parti) — utilizzati per comprendere il traffico sul sito web e come i visitatori lo utilizzano, in modo da poterlo migliorare. A tal fine utilizziamo Google Tag Manager e uno strumento di analisi rispettoso della privacy.
 
 ### Le tue scelte riguardo ai cookie
 

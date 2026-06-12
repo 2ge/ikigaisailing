@@ -2,7 +2,7 @@
 title: Potápanie
 summary: >-
   Pri potápaní je každý ponor cestou cez žiarivé farby, podmorský život a
-  tajomstvá potopených vrakov. Ponorte sa do hlbín...
+  tajomstvá potopených lodí. Ponorte sa do hlbín...
 locale: sk
 category: watersports
 image: ~/assets/activities/project/scuba-diving.jpg
@@ -20,9 +20,10 @@ gallery:
   - ~/assets/activities/diving/divers.png
 order: 6
 translated: deepl
-sourceHash: 9ccbe1068f78381e
+sourceHash: 07cdf38e98b95d74
 needsReview: true
 ---
+
 ## Potápanie
 
 ## Objavujte podmorský svet

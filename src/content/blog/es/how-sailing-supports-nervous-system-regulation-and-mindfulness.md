@@ -8,8 +8,9 @@ pubDate: '2026-04-20'
 image: >-
   ~/assets/pages/life-on-the-boat/Copia-di-Immagini-per-sito-web-1500-x-1000-12.png
 translated: deepl
-sourceHash: 9882348b2549e05f
+sourceHash: baf3da20a79ef613
 ---
+
 El silencio no es la ausencia de sonido, sino la presencia de uno mismo. En un mundo saturado de notificaciones, plazos y ruido digital, nuestro sistema nervioso vive en un estado constante de alerta: un «modo de supervivencia» que agota nuestras reservas de energía. **Ikigai Sailing** no te propone «desconectarte» de forma pasiva, tal vez tumbándote en una playa abarrotada, sino que te invita a reconectar con un ritmo diferente, primitivo y poderoso: el del viento y las olas.
 
 A través de la experiencia de **la navegación regenerativa**, te ofrecemos un camino activo para redescubrir la claridad mental y la energía vital necesarias para afrontar los retos diarios con una nueva conciencia.
@@ -24,9 +25,9 @@ Bajo la guía de **Luca**, un patrón e instructor experto, aprenderás que gobe
 
 Participar en una sesión **de navegación regenerativa** significa sumergirte en un entorno donde cada elemento contribuye a tu bienestar:
 
--   **Ritmo:** Tu respiración se sincroniza de forma natural con el balanceo del casco. Este movimiento oscilatorio estimula el nervio vago, lo que favorece una relajación profunda e inmediata.
+-   **Ritmo:** Tu respiración se sincroniza de forma natural con el balanceo del casco. Este movimiento oscilatorio estimula el nervio vago, favoreciendo una relajación profunda e inmediata.
     
--   **Viento:** El viento se convierte en tu única referencia. Aprender a interpretarlo y sentirlo en tu piel despeja la mente de la sobrecarga de información típica de la vida urbana.
+-   **Viento:** El viento se convierte en tu única retroalimentación. Aprender a leerlo y sentirlo en tu piel despeja la mente de la sobrecarga de información típica de la vida urbana.
     
 -   **Silencio:** Cuando el ruido del motor da paso al sonido del agua chocando contra la quilla, ocurre un milagro. Ese silencio permite un profundo reinicio del estrés acumulado.
     

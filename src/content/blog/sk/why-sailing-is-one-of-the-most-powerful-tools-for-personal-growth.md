@@ -1,15 +1,16 @@
 ---
 title: Prečo je plachtenie dôležitým prostriedkom osobného rastu
 description: >-
-  Plachtenie je účinným prostriedkom osobného rastu. Niektoré zážitky
-  nepotrebujú veľa vysvetľovania – jednoducho ich prežívate.
+  Plachtenie je skvelým prostriedkom na osobný rast. Niektoré zážitky netreba
+  príliš vysvetľovať – jednoducho ich prežijete.
 locale: sk
 pubDate: '2026-02-02'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg
 translated: deepl
-sourceHash: 9a7729ffb9f2caf0
+sourceHash: b69a64db48c251e2
 needsReview: true
 ---
+
 Premýšľali ste niekedy o plachtení ako o prostriedku osobného rozvoja a rastu?
 
 Niektoré zážitky nepotrebujú veľa vysvetľovania. Cítite ich.  

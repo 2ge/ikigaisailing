@@ -15,8 +15,9 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: e52db14392e14b47
+sourceHash: 2acead3e82d0831c
 ---
+
 ## Ikigai
 
 **¿QUÉ ES EL IKIGAI?**
@@ -29,7 +30,7 @@ El término japonés **Ikigai** significa **«razón de ser»** y representa el 
 
 ### PASIÓN
 
-Por el **mar, la navegación, la aventura, los viajes, la gastronomía y los deportes**.
+Por el **mar, la navegación, la aventura, los viajes, la gastronomía y el deporte**.
 
 ### VOCACIÓN
 
@@ -37,7 +38,7 @@ Acercar **a** las personas **a sus pasiones, a los demás, a la naturaleza y a s
 
 ### MISIÓN
 
-Promovemos **el turismo sostenible** y un **estilo de vida saludable**, que satisfaga nuestras necesidades esenciales y fomente **el** verdadero **bienestar**: nuestro objetivo principal.
+Promovemos **el turismo sostenible** y un **estilo de vida saludable**, que nutra nuestras necesidades esenciales y fomente **el** verdadero **bienestar**: nuestro objetivo principal.
 
 Esto incluye **actividades deportivas, alimentación natural, conexión social, intenciones compartidas y pasiones**.  
 Guiados por el viento, exploramos el mundo y a nosotros mismos, sumergiéndonos en culturas, descubriendo la belleza y saboreando los regalos de la vida.

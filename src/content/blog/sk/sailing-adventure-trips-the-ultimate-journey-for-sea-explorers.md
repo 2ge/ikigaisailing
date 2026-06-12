@@ -7,9 +7,10 @@ locale: sk
 pubDate: '2025-03-15'
 image: ~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp
 translated: deepl
-sourceHash: 33585453c246a9d9
+sourceHash: d63c42a4b5aa6070
 needsReview: true
 ---
+
 Objavovanie sveta z mora ponúka neopakovateľný pocit slobody. **Dobrodružné plavby** sú ideálnou voľbou pre tých, ktorí chcú objavovať nedotknuté miesta, ponoriť sa do prírody a zažiť autentický a udržateľný zážitok. **Ikigai Sailing momentálne pláva okolo sveta a momentálne sa nachádza v Paname, pričom plánuje prekročiť oceán v roku 2026.**
 
 ### Prečo si vybrať plachtenie?

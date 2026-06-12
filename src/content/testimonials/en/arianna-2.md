@@ -40,10 +40,10 @@ translations:
   es: >-
     Nos sentimos de verdad afortunados cuando, no hace mucho, un querido amigo
     nuestro se encontró con Luca en una playa de Los Roques. Desde ese momento,
-    descubrimos el proyecto Ikigai Sailing. Incluso antes de formar parte de
-    esta increíble experiencia, ya seguíamos desde la distancia a esta
-    tripulación de marineros soñadores. Poco después, nos encontramos a bordo
-    del catamarán con ellos. ¡Qué suerte!
+    descubrimos el proyecto Ikigai Sailing. Incluso antes de participar en esta
+    increíble experiencia, ya seguíamos desde la distancia a esta tripulación de
+    marineros soñadores. Poco después, nos encontramos a bordo del catamarán con
+    ellos. ¡Qué suerte!
 
 
     Mi pareja y yo disfrutamos cada momento de este viaje inolvidable.
@@ -69,15 +69,14 @@ translations:
 
 
     No creo que podamos expresarlo con palabras. Esto es solo un adiós por
-    ahora, nos volveremos a ver en el nuevo mundo. Ikigai se ha ganado nuestros
-    corazones!
+    ahora, nos volveremos a ver en el nuevo mundo. Ikigai se ha ganado nuestro
+    corazón!
   fr: >-
-    On s'est vraiment senti chanceux quand, il n'y a pas longtemps, un de nos
-    chers amis a rencontré Luca sur une plage de Los Roques. C'est à ce
-    moment-là qu'on a découvert le projet Ikigai Sailing. Avant même de
-    participer à cette incroyable aventure, on suivait déjà de loin cette équipe
-    de marins rêveurs. Peu après, on s’est retrouvés à bord du catamaran avec
-    eux. Quelle chance !
+    On s'est vraiment senti chanceux quand, il y a peu, un de nos chers amis a
+    rencontré Luca sur une plage de Los Roques. C'est à ce moment-là qu'on a
+    découvert le projet Ikigai Sailing. Avant même de participer à cette
+    incroyable aventure, on suivait déjà de loin cette équipe de marins rêveurs.
+    Peu après, on s’est retrouvés à bord du catamaran avec eux. Quelle chance !
 
 
     Mon partenaire et moi avons savouré chaque instant de ce voyage inoubliable.
@@ -97,9 +96,9 @@ translations:
     On a découvert des endroits qui nous ont émus aux larmes, partagé des
     moments émouvants au coucher du soleil et rencontré le peuple Guna,
     résilient et profondément connecté spirituellement à la nature. On s’est
-    complètement immergés dans cette aventure, on s’est sentis comme des membres
-    de la « famille » Ikigai Sailing, et en même temps si petits face à
-    l’immensité de la nature des îles San Blas.
+    pleinement immergés dans cette aventure, on s’est sentis membres de la «
+    famille » Ikigai Sailing, et en même temps si petits face à l’immensité de
+    la nature des îles San Blas.
 
 
     Je ne pense pas qu’on pourra jamais vraiment trouver les mots pour le
@@ -111,7 +110,7 @@ translations:
     Ikigai Sailing. Ešte skôr, ako sme sa zapojili do tohto neuveriteľného
     zážitku, sledovali sme túto posádku snívajúcich námorníkov z diaľky. O
     krátky čas neskôr sme sa ocitli na palube katamaránu spolu s nimi. Naozaj
-    sme mali šťastie!
+    šťastie!
 
 
     Môj partner a ja sme si užili každý okamih tejto nezabudnuteľnej cesty.
@@ -140,6 +139,7 @@ translations:
     srdcia!
 sourceHash: 862e6cc3cb865408
 ---
+
 We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
 
 My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger.

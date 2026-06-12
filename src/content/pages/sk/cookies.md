@@ -2,10 +2,12 @@
 title: Zásady používania súborov cookie
 description: Ako spoločnosť Ikigai Sailing využíva súbory cookie na tejto webovej stránke.
 locale: sk
+heroImage: "~/assets/trips/acconto/20221220_125124.jpg"
 translated: deepl
-sourceHash: 069ccce68dec954d
+sourceHash: 6b885f4623285cea
 needsReview: true
 ---
+
 ## Výklad a definície
 
 ### Výklad
@@ -16,7 +18,7 @@ Slová, ktorých prvé písmeno je veľké, majú významy definované v nasledu
 
 Na účely týchto zásad používania súborov cookie:
 
--   **Spoločnosť** (označovaná ako „Spoločnosť“, „my“, „nás“ alebo „náš“ v týchto zásadách používania súborov cookie) sa rozumie spoločnosť Ikigai Sailing ASD, Via Gorlago 37 – 00135 Rím (RM), Taliansko, daňové identifikačné číslo 96511650580.
+-   **Spoločnosť** (označovaná ako „Spoločnosť“, „my“, „nás“ alebo „naše“ v týchto zásadách používania súborov cookie) sa rozumie spoločnosť Ikigai Sailing ASD, Via Gorlago 37 – 00135 Rím (RM), Taliansko, daňové identifikačné číslo 96511650580.
 -   **Súbory cookie** znamenajú malé súbory, ktoré sa ukladajú do vášho počítača, mobilného zariadenia alebo akéhokoľvek iného zariadenia prostredníctvom webovej stránky a ktoré obsahujú okrem iného podrobnosti o vašej histórii prehliadania na danej webovej stránke.
 -   **Webová stránka** označuje Ikigai Sailing, dostupnú na adrese [https://www.ikigaisailing.com](https://www.ikigaisailing.com).
 -   **Vy** znamená fyzickú osobu, ktorá pristupuje na webovú stránku alebo ju používa, alebo spoločnosť, alebo akúkoľvek právnickú osobu, v mene ktorej táto fyzická osoba pristupuje na webovú stránku alebo ju používa, podľa toho, čo je relevantné.
@@ -35,7 +37,7 @@ Používame reláciové aj trvalé súbory cookie na účely uvedené nižšie:
 
 ### Vaše voľby týkajúce sa súborov cookie
 
-Ak si želáte zabrániť používaniu súborov cookie na webovej stránke, môžete súbory cookie vo svojom prehliadači deaktivovať a vymazať súbory cookie, ktoré prehliadač pre túto webovú stránku uložil. Ak naše súbory cookie neprijmete, môže to spôsobiť určité ťažkosti pri používaní webovej stránky a niektoré funkcie môžu fungovať nesprávne. Na stránkach pomoci vášho prehliadača nájdete vysvetlenie, ako vymazať alebo odmietnuť súbory cookie (tieto informácie sú k dispozícii v prehliadačoch Chrome, Firefox, Safari a Edge).
+Ak si želáte zabrániť používaniu súborov cookie na webovej stránke, môžete súbory cookie vo svojom prehliadači deaktivovať a vymazať súbory cookie, ktoré prehliadač pre túto webovú stránku uložil. Ak naše súbory cookie neprijmete, môže to spôsobiť určité ťažkosti pri používaní webovej stránky a niektoré funkcie môžu fungovať nesprávne. Na stránkach pomoci vášho prehliadača nájdete vysvetlenie, ako vymazať alebo odmietnuť súbory cookie (toto je zdokumentované v prehliadačoch Chrome, Firefox, Safari a Edge).
 
 ## Kontakt
 

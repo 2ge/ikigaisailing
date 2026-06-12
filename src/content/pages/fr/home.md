@@ -16,8 +16,9 @@ gallery:
   - ~/assets/trips/acconto/ikigaisailing.webp
   - ~/assets/trips/acconto/lucabrano5.webp
 translated: deepl
-sourceHash: 7ecd6c0a1f3c51ba
+sourceHash: f9c05460afe7ec68
 ---
+
 ## À PROPOS DE NOUS
 
 Ikigai Sailing est une association sportive amateur à but non lucratif, reconnue par **le CONI** et affiliée à l'organisation de promotion sportive **MSP Italia**.  
@@ -84,12 +85,6 @@ pays visités
 10 000
 
 Miles parcourus
-
-Îles Vierges britanniques
-
-Guadeloupe
-
-Martinique
 
 ACTIVITÉS À BORD
 

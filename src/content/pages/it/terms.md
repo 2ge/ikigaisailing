@@ -4,7 +4,7 @@ description: "Politica di Prenotazione Le attività e le esperienze offerte dall
 locale: "it"
 oldUrls:
   - "/it/terms-conditions/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/catana-47/Screenshot-2025-06-20-alle-09.05.14-scaled.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

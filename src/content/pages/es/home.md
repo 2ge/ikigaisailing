@@ -15,8 +15,9 @@ gallery:
   - ~/assets/trips/acconto/ikigaisailing.webp
   - ~/assets/trips/acconto/lucabrano5.webp
 translated: deepl
-sourceHash: 7ecd6c0a1f3c51ba
+sourceHash: f9c05460afe7ec68
 ---
+
 ## SOBRE NOSOTROS
 
 Ikigai Sailing es una asociación deportiva amateur sin ánimo de lucro, reconocida por **el CONI** y afiliada a la Organización de Promoción Deportiva **MSP Italia**.  
@@ -84,12 +85,6 @@ países visitados
 
 Millas recorridas
 
-Islas Vírgenes Británicas
-
-Guadalupe
-
-Martinica
-
 ACTIVIDADES A BORDO
 
 Alternamos largas travesías por lugares inexplorados con periodos más tranquilos en los que descubrimos destinos que encajan perfectamente con nuestra filosofía y las actividades que practicamos.
@@ -136,7 +131,7 @@ Descubre la alegría de la libertad, la exploración y el bienestar en el mar co
 
 Descubre dónde estamos ahora
 
-En 2025/26 nuestro viaje nos llevó a las encantadoras Islas San Blas, un paraíso único del Caribe. La travesía del Pacífico está prevista para 2027, lo que abrirá un nuevo capítulo de aventuras por delante.
+En 2025/26 nuestro viaje nos llevó a las encantadoras Islas de San Blas, un paraíso único del Caribe. La travesía del Pacífico está prevista para 2027, lo que abrirá un nuevo capítulo de aventuras por delante.
 
 -   San Blas
 

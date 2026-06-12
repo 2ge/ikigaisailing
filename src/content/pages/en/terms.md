@@ -4,7 +4,7 @@ description: "1. Booking Policy: The activities and experiences offered by our o
 locale: "en"
 oldUrls:
   - "/terms-conditions-2/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/catana-47/Screenshot-2025-06-20-alle-09.05.14-scaled.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

@@ -4,7 +4,7 @@ description: "Ikigai è la ricerca della propria essenza. Scopri come applichiam
 locale: "it"
 oldUrls:
   - "/it/ikigai/"
-heroImage: "~/assets/pages/ikigai/ikigai-eng.webp"
+heroImage: "~/assets/pages/ikigai/ikigaisailing.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"

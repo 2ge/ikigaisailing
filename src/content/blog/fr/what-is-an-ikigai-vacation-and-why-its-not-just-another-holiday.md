@@ -3,15 +3,16 @@ title: >-
   C'est quoi, des vacances « Ikigai » ? Et pourquoi ce n'est pas juste des
   vacances comme les autres
 description: >-
-  Qu'est-ce qu'un séjour Ikigai ? Et pourquoi ce n'est pas juste des vacances,
+  Qu'est-ce qu'un séjour Ikigai ? Et pourquoi ce n'est pas un simple séjour,
   mais quelque chose de bien plus subtil et profond : ce n'est pas un objectif à
   atteindre.
 locale: fr
 pubDate: '2026-02-02'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-33.jpg
 translated: deepl
-sourceHash: e35e1acf7fc6455e
+sourceHash: 5f8d22b24960bb37
 ---
+
 Ces dernières années, le mot _« Ikigai »_ est devenu de plus en plus populaire, souvent réduit à une formule motivante ou à un schéma coloré.  
 Dans la culture japonaise, cependant, l’Ikigai est quelque chose de bien plus profond. Ce n’est pas quelque chose que l’on poursuit, mais quelque chose **à l’écoute duquel** on **se met**.  
 Des vacances « Ikigai » partent précisément de cette compréhension.
@@ -41,7 +42,7 @@ Elles ne sont pas conçues pour tout le monde — et c’est voulu.
 ## **Pourquoi le voyage favorise le rééquilibrage intérieur**
 
 Changer d’environnement brise les schémas inconscients.  
-Lorsque les routines s’estompent, le corps se détend et l’esprit ralentit.  
+Lorsque les routines s’effacent, le corps se détend et l’esprit ralentit.  
 La mer offre un rythme naturel qui ne peut être contrôlé : le vent, la lumière, le mouvement et  
 le silence.  
 Dans ce rythme, des intuitions plus profondes surgissent souvent sans effort.

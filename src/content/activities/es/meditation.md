@@ -21,8 +21,9 @@ gallery:
   - ~/assets/activities/meditation/Screenshot-2025-01-22-alle-11.54.32.png
 order: 3
 translated: deepl
-sourceHash: 9b6e81c84f7abf5b
+sourceHash: 420a95999d19116d
 ---
+
 MEDITACIÓN
 
 ## Redescubre la paz interior

@@ -1,0 +1,20 @@
+---
+/** Unmistakable WhatsApp CTA button (green + icon). Used in the coral CTA bands. */
+import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
+import { WHATSAPP_URL } from '../i18n/nav';
+interface Props { class?: string; }
+const { class: cls = '' } = Astro.props;
+const t = useTranslations(getLocaleFromUrl(Astro.url));
+---
+<a
+  href={WHATSAPP_URL}
+  target="_blank"
+  rel="noopener"
+  class:list={['inline-flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-3 font-semibold text-white shadow-lg shadow-ocean-950/15 transition hover:brightness-105', cls]}
+>
+  <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.96-.94 1.16-.17.2-.35.22-.64.07-.3-.15-1.26-.46-2.4-1.47-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.18.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.66-1.6-.91-2.2-.24-.57-.49-.5-.67-.5h-.57c-.2 0-.52.07-.8.37-.27.3-1.04 1.02-1.04 2.5 0 1.47 1.07 2.89 1.22 3.09.15.2 2.11 3.22 5.1 4.51.71.31 1.27.49 1.7.63.72.23 1.37.2 1.88.12.58-.09 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35Z" />
+    <path d="M12.05 2a9.94 9.94 0 0 0-8.6 14.92L2 22l5.23-1.37A9.94 9.94 0 1 0 12.05 2Zm0 18.18c-1.5 0-2.97-.4-4.25-1.16l-.3-.18-3.1.81.83-3.03-.2-.31a8.26 8.26 0 1 1 7.02 3.87Z" />
+  </svg>
+  {t('cta.whatsapp')}
+</a>

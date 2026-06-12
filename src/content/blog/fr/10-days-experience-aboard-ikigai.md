@@ -7,11 +7,12 @@ locale: fr
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 5a610fcb38be6bff
+sourceHash: aae2be8888b87747
 ---
+
 ### **Introduction**
 
-Pendant l’Ikigai Experience, toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins.
+Pendant l’Ikigai Experience, toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation, c’est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins.
 
 Cette expérience Ikigai est conçue pour t'aider à explorer l'équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d'attentes, pas de performance — juste l'occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
 
@@ -20,7 +21,7 @@ Cette expérience Ikigai est conçue pour t'aider à explorer l'équilibre entre
 -   Des techniques de respiration consciente
 -   Des enchaînements de yoga dynamiques ou réparateurs
 -   Méditation assise ou en mouvement
--   Des séances physiques en rotation (entraînement Tabata au poids du corps ou bases de la boxe)  
+-   Des séances physiques en alternance (entraînement Tabata au poids du corps ou bases de la boxe)  
     _Toutes les séances s’adaptent à l’énergie du groupe et à la météo._
 
 **🌇 Soirée : Termine la journée par des activités axées sur** l'introspection, la relaxation et la régénération\*\*, notamment :
@@ -48,7 +49,7 @@ Nous pêchons dès que possible et préparons des plats créatifs : **carpaccio,
 
 Le programme peut être modifié en fonction :
 
--   Des conditions météorologiques et de la mer
+-   Des conditions météorologiques et maritimes
 -   Des facteurs logistiques
 -   La dynamique de groupe
 
@@ -60,7 +61,7 @@ Le programme peut être modifié en fonction :
 
 -   Transfert privé depuis l'aéroport
 -   Nuit à **Casco Viejo**, quartier classé au patrimoine mondial de l'UNESCO
--   Promenade en soirée dans les ruelles coloniales, entre terrasses animées, musique et cuisine locale
+-   Promenade en soirée dans les ruelles coloniales, les terrasses animées, au son de la musique et à la découverte de la cuisine locale
 
 ### **🏝️ Jour 1 – Bienvenue à Banedup Points forts :**
 
@@ -110,7 +111,7 @@ Le programme peut être modifié en fonction :
 
 ### **🏝️ Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp**
 
--   🧘 06h30 : Routine du matin
+-   🧘 06h30 : Routine matinale
 -   ☕ 08h30 : Petit-déjeuner
 -   ⛵ 09h30 : Navigation vers le lagon
 -   🏄 11h00 : Balade d'île en île en SUP ou en kayak

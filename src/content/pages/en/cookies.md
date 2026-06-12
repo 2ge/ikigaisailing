@@ -2,6 +2,7 @@
 title: "Cookie Policy"
 description: "How Ikigai Sailing uses cookies on this website."
 locale: "en"
+heroImage: "~/assets/trips/acconto/20221220_125124.jpg"
 oldUrls:
   - "/it/cookie-policy/"
 ---

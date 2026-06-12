@@ -3,10 +3,10 @@ title: FAQ
 description: >-
   Ai-je besoin d'une expérience préalable en yoga, en méditation ou en apnée ?
   Non, ce n'est pas nécessaire. Toutes les séances sont adaptées à tous les
-  niveaux et sont facultatives. J'ai peur de retenir mon souffle — que dois-je
-  faire ? Ne t'inquiète pas : nos moniteurs sont certifiés et qualifiés pour te
-  guider en toute sécurité et t'accompagner tout au long de ces expériences.
-  Qu'est-ce que…
+  niveaux et sont facultatives. J'ai peur de retenir ma respiration — que
+  dois-je faire ? Ne t'inquiète pas : nos moniteurs sont certifiés et qualifiés
+  pour te guider en toute sécurité et t'accompagner tout au long de ces
+  expériences. Qu'est-ce que…
 locale: fr
 heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 gallery:
@@ -19,8 +19,9 @@ gallery:
   - ~/assets/trips/acconto/skipper.webp
   - ~/assets/trips/acconto/user1.webp
 translated: deepl
-sourceHash: 4e53529614bf0236
+sourceHash: fe159c28f40acec0
 ---
+
 ### Ai-je besoin d'une expérience préalable en yoga, en méditation ou en apnée ?
 
 Non, ce n'est pas nécessaire. Toutes les séances sont adaptées à tous les niveaux et sont facultatives.
@@ -35,7 +36,7 @@ Le Janzu est une pratique de thérapie aquatique qui favorise une relaxation pro
 
 ### À quoi ressemble le programme quotidien ?
 
-Le matin (environ 1 h 30), on se concentre sur les techniques de respiration Pranayama, le yoga, la méditation et des séances alternées d’entraînement au poids du corps ou d’initiation à la boxe. Les soirées sont consacrées à l’introspection, à la relaxation, au yoga au coucher du soleil et à la méditation.
+Le matin (environ 1 h 30), on se concentre sur les techniques de respiration Pranayama, le yoga, la méditation et des séances alternées d'entraînement au poids du corps ou d'initiation à la boxe. Les soirées sont consacrées à l'introspection, à la relaxation, au yoga au coucher du soleil et à la méditation.
 
 ### Vais-tu avoir le mal de mer ?
 
@@ -59,7 +60,7 @@ Oui, il est conseillé d'emporter quelques dollars américains pour ton séjour 
 
 ### Comment se rendre au bateau ?
 
-Ton voyage commencera probablement par un vol vers l'aéroport international de Tocumen (PTY) à Panama City, avec une arrivée généralement prévue dans l'après-midi ou en soirée. Tu devras passer au moins une nuit dans la capitale — une excellente occasion d'explorer la ville et de flâner dans les charmantes rues de Casco Viejo, site classé au patrimoine mondial de l'UNESCO. Le lendemain matin, une jeep 4×4 privée viendra te chercher à ton hôtel et t'emmènera sur la côte caraïbe. Après environ 2 h 30 de route à travers la forêt tropicale de Guna Yala, un bateau local t'emmènera à Ikigai, où tu arriveras vers 10 h 30. L'ensemble du voyage est organisé par nos soins en collaboration avec des partenaires locaux de confiance afin de garantir une logistique fluide et sûre du début à la fin.
+Ton voyage commencera probablement par un vol vers l'aéroport international de Tocumen (PTY) à Panama City, avec une arrivée généralement prévue dans l'après-midi ou en soirée. Tu devras passer au moins une nuit dans la capitale — une excellente occasion d'explorer la ville et de flâner dans les charmantes rues de Casco Viejo, classé au patrimoine mondial de l'UNESCO. Le lendemain matin, une jeep 4×4 privée viendra te chercher à ton hôtel et t'emmènera sur la côte caraïbe. Après environ 2 h 30 de route à travers la forêt tropicale de Guna Yala, un bateau local t'emmènera à Ikigai, où tu arriveras vers 10 h 30. L'ensemble du voyage est organisé par nos soins en collaboration avec des partenaires locaux de confiance afin de garantir une logistique fluide et sûre du début à la fin.
 
 ### Comment l'électricité est-elle gérée à bord ? Quel type de tension et de prises vais-je trouver ?
 

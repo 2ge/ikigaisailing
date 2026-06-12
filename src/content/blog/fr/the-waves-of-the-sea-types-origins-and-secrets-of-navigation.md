@@ -7,8 +7,9 @@ locale: fr
 pubDate: '2025-02-27'
 image: ~/assets/pages/vita-a-bordo-social/waves-types.webp
 translated: deepl
-sourceHash: c657b4ee235af46e
+sourceHash: bc44ea031822d518
 ---
+
 Les vagues marines sont classées en différents types en fonction de leur origine, de leur mode de formation et de leur comportement. Voici les principaux types de vagues et ce qu’ils indiquent :
 
 1.  **Vagues de vent**
@@ -17,7 +18,7 @@ Les vagues marines sont classées en différents types en fonction de leur origi
         -   **Vagues de brise** : petites et irrégulières, formées par des vents légers.
         -   **Vagues stationnaires** : Vagues qui restent presque immobiles et ne se propagent pas beaucoup, typiques des vents faibles ou des zones fermées.
         -   **Vagues de tempête** : Grandes et puissantes, générées par des vents forts et persistants.
-    -   **Ce qu’elles indiquent** : La force et la direction du vent dans la zone, ainsi que la durée et l’étendue de l’action du vent sur la surface de la mer (fête).
+    -   **Ce qu’elles indiquent** : La force et la direction du vent dans la zone, ainsi que la durée et l’étendue de l’action du vent à la surface de la mer (fête).
 2.  **Houle**
     -   **Origine** : Vagues formées par des tempêtes lointaines, se propageant sur des centaines de kilomètres.
     -   **Caractéristiques** :
@@ -30,7 +31,7 @@ Les vagues marines sont classées en différents types en fonction de leur origi
         -   Cycliques et prévisibles, avec des crêtes et des creux qui varient en fonction de la position et de la phase lunaire.
         -   Se manifestent par des variations régulières du niveau de la mer.
     -   **Ce qu'elles indiquent** : Les changements de marées (marée haute et marée basse), essentiels pour la navigation dans les zones côtières et les ports.
-4.  **Vagues de courant (ou vagues internes)**
+4.  **Vagues de courant (ou ondes internes)**
     -   **Origine** : Se forment à la surface ou en dessous, là où deux courants de densités ou de vitesses différentes se rencontrent.
     -   **Caractéristiques** :
         -   Peuvent être visibles ou cachées.
@@ -45,6 +46,6 @@ Les vagues marines sont classées en différents types en fonction de leur origi
 6.  **Vagues de retour (ou vagues réfractées)**
     -   **Origine** : Quand les vagues heurtent un obstacle (falaises, rivages) et reviennent.
     -   **Caractéristiques** :
-        -   Turbulentes et souvent dangereuses pour les personnes près de la côte.
+        -   Turbulentes et souvent dangereuses pour les personnes proches de la côte.
         -   Peuvent provoquer des courants d'arrachement.
     -   **Ce qu'elles indiquent** : Interactions entre les vagues et la côte, pouvant créer des conditions difficiles pour le mouillage ou la baignade.

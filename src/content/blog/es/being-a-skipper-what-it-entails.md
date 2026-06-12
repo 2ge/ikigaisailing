@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-02-27'
 image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: a41101ad9bae40ec
+sourceHash: 1e930f567abffc82
 ---
+
 **SER PATRÓN: EN QUÉ CONSISTE**
 
 La formación de un patrón varía según el tipo de navegación, el tamaño de la embarcación y la normativa del país en el que opera. Sin embargo, hay itinerarios comunes y habilidades fundamentales que un patrón debe adquirir para garantizar la seguridad, la competencia y la profesionalidad. Estos son los aspectos principales de la formación de un patrón:
@@ -18,8 +19,8 @@ La formación de un patrón varía según el tipo de navegación, el tamaño de 
     -   **Edad mínima**: Por lo general, se requiere una edad mínima de 18 años para obtener una licencia de navegación.
 2.  **Habilidades técnicas**
     -   **Navegación y trazado de rutas**: La capacidad de planificar rutas, leer cartas náuticas, interpretar símbolos y calcular distancias, rutas y tiempos.
-    -   **Meteorología**: Comprender las condiciones meteorológicas y saber interpretar los boletines y señales meteorológicas para navegar con seguridad.
-    -   **Manejo de la embarcación**: Saber manejar la embarcación en diferentes condiciones (amarre, fondeo, navegación con vientos fuertes).
+    -   **Meteorología**: Comprensión de las condiciones meteorológicas y capacidad para interpretar boletines y señales meteorológicas para una navegación segura.
+    -   **Manejo de la embarcación**: Saber cómo manejar la embarcación en diferentes condiciones (amarre, fondeo, navegación con vientos fuertes).
     -   **Motores y sistemas de a bordo**: Conocimientos básicos sobre el funcionamiento de los motores marinos y los sistemas eléctricos e hidráulicos de la embarcación para realizar reparaciones menores.
 3.  **Formación obligatoria**
     -   En muchos casos, se requieren cursos específicos:
@@ -28,10 +29,10 @@ La formación de un patrón varía según el tipo de navegación, el tamaño de 
             -   Prevención y extinción de incendios.
             -   Técnicas de supervivencia personal.
             -   Seguridad personal y responsabilidad social.
-        -   **Cursos de radio VHF**: Para usar sistemas de comunicación marítima y gestionar emergencias a través del canal de socorro.
+        -   **Cursos de radio VHF**: Para usar los sistemas de comunicación marítima y gestionar emergencias a través del canal de socorro.
 4.  **Experiencia práctica**
     -   **Navegación real**: antes de convertirte en patrón, es esencial acumular horas de práctica en el mar. Normalmente, se empieza como tripulante para aprender cómo funciona la navegación.
-    -   **Prácticas o aprendizaje**: Algunos patrones trabajan bajo la supervisión de capitanes con experiencia para adquirir experiencia antes de asumir toda la responsabilidad.
+    -   **Prácticas o aprendizaje**: algunos patrones trabajan bajo la supervisión de capitanes con experiencia para adquirir experiencia antes de asumir toda la responsabilidad.
 5.  **Habilidades interpersonales**
     -   Además de las habilidades técnicas, un patrón debe poseer:
         -   **Liderazgo**: La capacidad de coordinar a la tripulación y tomar decisiones rápidas en situaciones de emergencia.

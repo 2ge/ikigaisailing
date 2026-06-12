@@ -2,13 +2,14 @@
 title: 'Viajar con conciencia: viajar con un propósito'
 description: >-
   Una reflexión sobre el turismo consciente y lo que realmente significa viajar
-  con un propósito. Una historia vivencial sobre la navegación consciente.
+  con un propósito. Una historia vivida sobre la navegación consciente.
 locale: es
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
-sourceHash: 947b4f6dfd2fc3f6
+sourceHash: 32c6f2dfb1bac519
 ---
+
 El viaje consciente se puede definir como un viaje en el que la intención se convierte en el motor de la exploración, desde una perspectiva en la que la conciencia y la presencia forman parte del destino.
 
 Viajar ya no se trata solo de llegar a un destino.  
@@ -24,11 +25,11 @@ Viajar con conciencia no consiste en hacer menos, sino en **estar más presente*
 Significa:
 
 -   elegir experiencias que estén en consonancia con tus valores personales
--   reducir el ritmo lo suficiente para sentir lo que ocurre en tu interior
+-   reducir el ritmo lo suficiente como para sentir lo que ocurre en tu interior
 -   dejar espacio en lugar de llenar cada momento
 
 Viajar con intención no es escapar de la vida.  
-Es crear las condiciones para enfrentarte a ella con más honestidad.
+Es crear las condiciones para afrontarla con más honestidad.
 
 ## **La vida en el mar como espacio para la conciencia**
 
@@ -59,7 +60,7 @@ Cada acción cuenta. Cada momento se comparte.
 
 Por eso la navegación se convierte en una poderosa forma de **navegación consciente**: vivida, encarnada y real.
 
-## **Navegar con plena conciencia: la presencia en los gestos cotidianos**
+## **Navegar con atención plena: la presencia en los gestos cotidianos**
 
 En un velero, la atención plena se entrelaza con la vida cotidiana.
 

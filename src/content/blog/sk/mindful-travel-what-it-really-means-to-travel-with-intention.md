@@ -8,20 +8,21 @@ locale: sk
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
-sourceHash: 947b4f6dfd2fc3f6
+sourceHash: 32c6f2dfb1bac519
 needsReview: true
 ---
+
 Vedomé cestovanie možno definovať ako cestu, pri ktorej sa zámer stáva hnacou silou objavovania, zakotvenou v pohľade, kde uvedomenie si a prítomnosť sú súčasťou samotného cieľa.
 
 Cestovanie už nie je len o dosiahnutí cieľa.  
-Pre mnohých sa stalo spôsobom, ako sa opäť spojiť – s prítomnosťou, zmyslom a vnútornou jasnosťou.
+Pre mnohých sa stalo spôsobom, ako sa znovu spojiť – s prítomnosťou, zmyslom a vnútornou jasnosťou.
 
 Tu začína **uvedomelé cestovanie**.  
 Nie ako trend, ale ako odpoveď na hlbšiu túžbu: pohybovať sa po svete so zámerom.
 
 ## **Cestovanie so zámerom začína zvnútra**
 
-Vedomé cestovanie nie je o tom, robiť menej – je to o tom, **byť viac prítomný**.
+Vedomé cestovanie nie je o tom, robiť menej – je o tom, **byť viac prítomný**.
 
 Znamená to:
 
@@ -82,7 +83,7 @@ Oslovuje tých, ktorí cítia, že:
 
 -   bežné cestovanie ich už nenapĺňa
 -   ich telo si žiada iné tempo
--   skutočná zmena začína uvedomením
+-   skutočná zmena začína uvedomením si
 
 Cestovať s úmyslom znamená zvoliť si byť plne prítomný – kdekoľvek sa nachádzate.
 

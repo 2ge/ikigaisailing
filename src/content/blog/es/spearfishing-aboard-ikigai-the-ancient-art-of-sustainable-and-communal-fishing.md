@@ -9,8 +9,9 @@ locale: es
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/sperafishing.webp
 translated: deepl
-sourceHash: 00197f00320765d3
+sourceHash: d881288696f52ebf
 ---
+
 ## ¿Qué es la pesca submarina y por qué es especial?
 
 La pesca submarina es quizás la forma más antigua de caza y recolección que ha desarrollado la humanidad.  

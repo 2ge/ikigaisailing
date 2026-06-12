@@ -6,6 +6,7 @@ import TripCard from './TripCard.astro';
 import ActivityCard from './ActivityCard.astro';
 import TestimonialRail from './TestimonialRail.astro';
 import MapEmbed from './MapEmbed.astro';
+import WhatsAppButton from './WhatsAppButton.astro';
 import { useTranslations, localizePath, type Locale } from '../i18n/ui';
 import { WHATSAPP_URL } from '../i18n/nav';
 import { entriesForLocale } from '../lib/content';
@@ -138,6 +139,6 @@ const pillars = [
   <div class="mx-auto max-w-2xl px-4">
     <h2 class="font-display text-3xl sm:text-4xl">{t('home.ctaTitle')}</h2>
     <p class="mt-4 text-sand-50/90">{t('contact.whatsappLead')}</p>
-    <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="mt-8 inline-block rounded-full bg-sand-50 px-7 py-3 font-semibold text-coral-600 shadow-lg transition hover:bg-sand-100">{t('cta.whatsapp')}</a>
+    <WhatsAppButton class="mt-8" />
   </div>
 </section>

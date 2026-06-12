@@ -7,11 +7,12 @@ locale: fr
 pubDate: '2025-04-29'
 image: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 translated: deepl
-sourceHash: 0be588aec8a89f4f
+sourceHash: 6c92a647265a59d6
 ---
+
 _(Journal de bord d'Ikigai Sailing)_
 
-Alors que nous naviguons sur les eaux cristallines de San Blas à bord de _l’Ikigai_, une chose devient claire : ce ne sont pas seulement des vacances. C’est une invitation à adopter un autre rythme, une autre façon d’être. Ces îles ne sont pas seulement magnifiques : elles abritent une culture vivante, forte et résiliente.
+Alors que nous naviguons sur les eaux cristallines de San Blas à bord de _l’Ikigai_, une chose devient claire : ce n’est pas seulement des vacances. C’est une invitation à adopter un autre rythme, une autre façon d’être. Ces îles ne sont pas seulement magnifiques : elles abritent une culture vivante, forte et résiliente.
 
 Voici 10 faits fascinants que nous avons appris sur le peuple Guna. Des histoires partagées au mouillage, autour de noix de coco fraîches ou entre deux voiles, qui nous rappellent que la simplicité peut être un choix radical et conscient.
 
@@ -29,7 +30,7 @@ Pas de complexes hôteliers, pas de routes, pas de bâtiments en béton. Les Gun
 
 ### **4\. Les molas : des histoires cousues**
 
-Les femmes Guna créent _des molas_, des textiles colorés superposés qui racontent des histoires, des mythes et des symboles ancestraux. Chaque pièce est unique, une œuvre d’art souvent partagée avec fierté lors de nos voyages.
+Les femmes Guna créent _des molas_, des textiles colorés à plusieurs couches qui racontent des histoires, des mythes et des symboles ancestraux. Chaque pièce est unique, une œuvre d’art souvent partagée avec fierté lors de nos voyages.
 
 ### **5\. Naviguer sans technologie**
 

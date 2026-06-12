@@ -5,8 +5,9 @@ locale: es
 pubDate: '2025-03-13'
 image: ~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp
 translated: deepl
-sourceHash: ede4bbfce0c1fc2d
+sourceHash: d6d374532b63b793
 ---
+
 ¿Alguna vez has pensado: «Necesito un respiro de la vida»? La rutina diaria puede resultar abrumadora y dejarte agotado y desconectado. Si buscas una forma de resetearte, recargar pilas y redescubrirte a ti mismo, **Ikigai Sailing** te ofrece la escapada perfecta: una experiencia de navegación a largo plazo y asequible que te permite disfrutar de un estilo de vida más pausado y consciente en el mar.
 
 ### **¿Por qué tomarte un respiro de la vida en un velero?**

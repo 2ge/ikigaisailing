@@ -15,8 +15,9 @@ gallery:
   - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
   - ~/assets/pages/route/ikigaisailing-next-australia.jpg
 translated: deepl
-sourceHash: 2e7d5f9ec803f2fa
+sourceHash: 71d02588efee0bb4
 ---
+
 ## LA RUTA
 
 Posición en tiempo real
@@ -48,7 +49,7 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
     * **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
     ```
     
-    -   **Islas Vírgenes** Un archipiélago de ensueño con bahías tranquilas, perfectas para navegar y bucear.
+    -   **Islas Vírgenes** Un archipiélago de ensueño con bahías tranquilas, perfecto para navegar y bucear.
     -   **Barbuda:** Playas de arena rosa y naturaleza virgen, un auténtico paraíso tropical.
     -   **Antigua** Famosa por sus 365 días de sol y otras tantas playas, un lugar con una gran tradición náutica.
 
@@ -90,7 +91,7 @@ Aquí tienes la lista de lugares que ha visitado el Ikigai Sailing durante su vu
 
 2024
 
-### Venezuela y las islas
+### Venezuela y sus islas
 
 **Enero** – Anguila, Guadalupe
 
@@ -120,11 +121,4 @@ PRÓXIMO
 
 Nuestra aventura nos llevará a las **Islas Galápagos, las Marquesas, Tahití y Fiyi,** hasta llegar finalmente al norte de **Australia**. Después, navegaremos hacia **Indonesia, Tailandia, Sri Lanka y las Maldivas**, antes de cruzar el Océano Índico hacia **la India y Dubái**.
 
-Desde allí, seguiremos las costas de **Omán y Yemen** hacia el **Mar Rojo**, pasando por Sudán y Egipto, antes de volver a entrar en el **Mediterráneo** por el **Canal de Suez**, concluyendo así nuestra exploración.
-
-Islas Vírgenes Británicas
-
-Guadalupe
-
-Martinica
-
+Desde allí, seguiremos las costas de **Omán y Yemen** hasta el **mar Rojo**, pasando por Sudán y Egipto, antes de volver a entrar en el **Mediterráneo** por el **canal de Suez**, concluyendo así nuestra exploración.

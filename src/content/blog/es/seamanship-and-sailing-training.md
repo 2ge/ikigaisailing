@@ -2,13 +2,15 @@
 title: Formación en náutica y navegación
 description: >-
   Lo básico para vivir en un catamarán: cómo organizar el espacio y gestionar el
-  agua y la energía, para una experiencia marítima auténtica y responsable.
+  agua y la energía, para disfrutar de una experiencia marítima auténtica y
+  responsable.
 locale: es
 pubDate: '2025-03-23'
 image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: ff71a52bbac8d079
+sourceHash: 38a92be8fe55b019
 ---
+
 #### **Introducción a la vida a bordo**
 
 Aprende lo básico sobre cómo vivir en un catamarán: organización del espacio, gestión del agua y la energía, para una experiencia marítima auténtica y responsable.
@@ -25,7 +27,7 @@ Aprende a leer cartas náuticas, a usar el GPS y a comprender los principios de 
 
 Participa en el manejo de las velas, ajustando la vela mayor y el foque bajo la supervisión del patrón, para ganar confianza en la navegación a vela.
 
-#### **Habilidades prácticas de navegación**
+#### **Habilidades prácticas de marinería**
 
 Adquiere experiencia práctica: hacer nudos (nudos marineros), fondear en una bahía y ayudar en las operaciones de amarre.
 

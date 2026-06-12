@@ -4,7 +4,7 @@ description: "Explore the many benefits of living abroad, from personal growth a
 locale: "en"
 oldUrls:
   - "/benefits/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

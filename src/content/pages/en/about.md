@@ -4,7 +4,7 @@ description: "Discover Ikigai Sailing and embrace the art of sailing for a fulfi
 locale: "en"
 oldUrls:
   - "/about-us/"
-heroImage: "~/assets/pages/about/R-C.png"
+heroImage: "~/assets/pages/about/20221114_180633.jpg"
 gallery:
   - "~/assets/activities/janzu/janzu1.jpg"
   - "~/assets/activities/kitesurf/kite-surf7.jpg"

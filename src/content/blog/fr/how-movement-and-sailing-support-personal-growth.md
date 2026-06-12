@@ -9,8 +9,9 @@ pubDate: '2026-03-17'
 image: >-
   ~/assets/pages/vita-a-bordo-social/Come-il-movimento-e-la-vela-supportano-la-crescita-personale.png
 translated: deepl
-sourceHash: b067d22d8182d06d
+sourceHash: 28b3bb793ee23d90
 ---
+
 **Comment le mouvement et la voile favorisent le développement personnel**
 
 Le développement personnel ne se limite pas à rester assis sur un coussin de méditation. Pour ceux qui recherchent un véritable changement, le corps est la porte d’entrée principale. Chez **Ikigai Sailing**, on pense que l’union du **mouvement,** de **la mer et** de **la pleine conscience** est la formule ultime pour un renouveau profond.

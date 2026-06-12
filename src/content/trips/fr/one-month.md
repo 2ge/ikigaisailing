@@ -13,8 +13,9 @@ membersOnly: true
 heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 order: 3
 translated: deepl
-sourceHash: e703d1eda5fae2c4
+sourceHash: 5693341bc30eab92
 ---
+
 [![One month aboard](../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
 
 # Un mois à bord
@@ -48,18 +49,18 @@ C’est une invitation à découvrir les bienfaits d’un mode de vie ancré dan
 **Partie intégrante de la vie à bord**
 
 À bord, tu n’es pas un invité : **tu fais partie de l’équipage**.  
-Tu participeras à la vie quotidienne, tu exploreras les disciplines que nous pratiquons (plongée en apnée, yoga, méditation, voile, Janzu) et, si tu le souhaites, **tu partageras tes passions, tes compétences et ta créativité**.  
+Tu participeras à la vie quotidienne, tu exploreras les disciplines que nous pratiquons (apnée, yoga, méditation, voile, Janzu) et, si tu le souhaites, **tu partageras tes passions, tes compétences et ta créativité**.  
 C’est un véritable échange, où chacun s’enrichit mutuellement et où le voyage devient le reflet d’une croissance commune.
 
 **Le temps dont tu as besoin**
 
 Les courts séjours, surtout s’ils sont précédés de longs voyages ou de périodes stressantes, peuvent ne pas suffire pour **entrer véritablement dans le rythme magique du bateau** ou pour nouer des relations profondes.  
-Un mois complet, en revanche, t’offre le temps dont tu as besoin pour te détoxifier du superflu, te reconnecter avec toi-même et vivre pleinement tous les aspects de la vie à bord.
+Un mois complet, en revanche, te donne le temps dont tu as besoin pour te détoxifier du superflu, te reconnecter avec toi-même et vivre pleinement tous les aspects de la vie à bord.
 
 **Un choix accessible et flexible**
 
 Nous pensons que tout le monde devrait avoir la chance d’explorer son Ikigai.  
-C’est pourquoi **la contribution demandée est bien inférieure aux prix du marché,** en accord avec notre mission de diffusion du bien-être et de la prise de conscience à travers la vie en mer.
+C’est pourquoi **la contribution demandée est bien inférieure aux prix du marché,** en accord avec notre mission de diffusion du bien-être et de la conscience à travers la vie en mer.
 
 **Places limitées Seules 2 ou 3 places par mois** sont disponibles pour ce type d’embarquement.  
 Nous voulons que chaque personne à bord dispose de l’espace, du temps et de la qualité de connexion nécessaires pour faire de l’expérience Ikigai un moment authentique et transformateur.
@@ -67,7 +68,7 @@ Nous voulons que chaque personne à bord dispose de l’espace, du temps et de l
 ## Au cours du mois
 
 -   Les moments partagés alternent avec du temps libre personnel.
--   Les activités (apnée, Janzu, yoga, voile, kite\*, méditation, etc.) s’harmonisent avec le rythme du groupe et de la nature.
+-   Les activités (plongée en apnée, Janzu, yoga, voile, kite\*, méditation, etc.) s’harmonisent avec le rythme du groupe et de la nature.
 -   Les compétences personnelles de chaque participant sont mises à l’honneur, qu’il s’agisse de cuisine, de documentation du voyage, de musique ou de narration.
 
 ## Exigences de base
@@ -80,12 +81,12 @@ Nous voulons que chaque personne à bord dispose de l’espace, du temps et de l
 ### Partage avec les participants aux séjours courts
 
 Au cours de ton mois à bord de l'Ikigai, il y aura des moments où nous accueillerons de nouveaux participants pour des expériences plus courtes de 7 à 10 jours.  
-Pendant ces périodes, l'attention de l'équipage sera naturellement concentrée sur la gestion du **programme structuré prévu pour ces invités. Tu seras toujours le bienvenu pour participer à toutes les activités quotidiennes** — yoga matinal, séances de plongée en apnée et de Janzu, méditations, navigation et moments de partage — librement et sans frais supplémentaires.
+Pendant ces périodes, l'attention de l'équipage se concentrera naturellement sur l'organisation du **programme structuré pour ces invités. Tu seras toujours le bienvenu pour participer à toutes les activités quotidiennes** — yoga matinal, séances de plongée en apnée et de Janzu, méditations, navigation et moments de partage — librement et sans frais supplémentaires.
 
 Je te demande simplement de faire preuve de **flexibilité et d’adaptabilité**, sachant que ces jours-là, la priorité opérationnelle sera donnée au format hebdomadaire, avec son propre calendrier et ses propres objectifs.
 
 Pourtant, **cette dynamique peut être profondément enrichissante pour toi aussi** :  
-elle te permettra d’observer l’expérience Ikigai sous sa forme la plus intense, de rencontrer et de t’intégrer à de nouveaux compagnons de voyage, et – si tu le souhaites – **de contribuer activement au voyage**, en devenant une partie vivante du projet.
+elle te permettra d’observer l’expérience Ikigai sous sa forme la plus intense, de rencontrer et de t’intégrer à de nouveaux compagnons de voyage, et – si tu le souhaites – **de contribuer activement au voyage**, en devenant une partie intégrante du projet.
 
 ## Logistique
 

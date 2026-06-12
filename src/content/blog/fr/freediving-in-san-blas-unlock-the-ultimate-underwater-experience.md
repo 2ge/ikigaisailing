@@ -2,14 +2,15 @@
 title: 'Plongée en apnée à San Blas : vis l''expérience sous-marine ultime'
 description: >-
   La plongée en apnée dans les îles San Blas avec Ikigai Sailing, c'est une
-  aventure unique qui allie nature, découverte de soi et sensations fortes...
+  aventure unique qui mêle nature, découverte de soi et sensations fortes...
 locale: fr
 pubDate: '2025-03-21'
 image: ~/assets/pages/vita-a-bordo-social/Freediving-in-San-Blas.avif
 translated: deepl
-sourceHash: ccc603f5c11e9401
+sourceHash: 857f2c5ea4b82f37
 ---
-Imagine-toi plonger dans des eaux cristallines, entouré de récifs coralliens aux couleurs éclatantes et d'une faune marine exotique, tout en profitant de la sérénité de la plongée en apnée. La plongée en apnée dans les îles San Blas avec Ikigai Sailing t'offre une aventure sans pareille, alliant nature, découverte de soi et le frisson de l'exploration des profondeurs avec un équipement minimal.
+
+Imagine-toi en train de plonger dans des eaux cristallines, entouré de récifs coralliens aux couleurs éclatantes et d'une faune marine exotique, tout en profitant de la sérénité de la plongée en apnée. La plongée en apnée dans les îles San Blas avec Ikigai Sailing t'offre une aventure sans pareille, alliant nature, découverte de soi et le frisson de l'exploration des profondeurs avec un équipement minimal.
 
 ### Pourquoi choisir San Blas pour la plongée en apnée ?
 
@@ -19,14 +20,14 @@ L'archipel de San Blas, situé au large de la côte caraïbe du Panama, est un p
     
 -   **Une riche biodiversité marine** : Rencontre une multitude d'espèces marines, des poissons de récif colorés et des tortues de mer aux majestueuses raies aigles.
     
--   **Des récifs coralliens préservés** : les récifs y sont en grande partie intacts, offrant un environnement de plongée à couper le souffle et riche sur le plan écologique.
+-   **Des récifs coralliens préservés** : les récifs ici sont en grande partie intacts, offrant un environnement de plongée à couper le souffle et riche sur le plan écologique.
     
 -   **Tranquille et isolé** : Contrairement aux destinations de plongée bondées, San Blas offre une expérience paisible et intime avec la nature.
     
 
 ### Plongée en apnée avec Ikigai Sailing
 
-Ikigai Sailing propose des cours de plongée en apnée guidés par des experts et adaptés à tous les niveaux. Que tu sois un débutant complet ou un plongeur en apnée expérimenté cherchant à perfectionner ta technique, nos programmes sont conçus pour t'aider à te connecter profondément à l'océan.
+Ikigai Sailing propose des cours de plongée en apnée guidés par des experts et adaptés à tous les niveaux. Que tu sois débutant ou plongeur expérimenté cherchant à perfectionner ta technique, nos programmes sont conçus pour t'aider à te connecter profondément à l'océan.
 
 #### Ce que tu apprendras :
 

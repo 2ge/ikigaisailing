@@ -1,18 +1,19 @@
 ---
 title: Čítanie z oblohy
 description: >-
-  Čítanie z oblohy: Základný sprievodca mrakmi pre navigátorov. Porozumenie
-  mrakom je pre navigátora nevyhnutné na zaistenie bezpečnosti počas...
+  Čítanie z oblohy: Základný sprievodca mrakmi pre navigátorov. Pochopenie
+  mrakov je pre navigátora nevyhnutné na zaistenie bezpečnosti počas...
 locale: sk
 pubDate: '2025-02-27'
 image: ~/assets/pages/vita-a-bordo-social/clouds-shape.webp
 translated: deepl
-sourceHash: acc41ac5f4127aff
+sourceHash: fb1b9a967d6b57fd
 needsReview: true
 ---
+
 Pre navigátora je znalosť oblakov nevyhnutná na zaistenie bezpečnosti počas plavby, zlepšenie zážitku z plavby a prijímanie informovaných rozhodnutí.  
 Tu je prehľad hlavných typov oblakov a ich vplyvu na more a vietor, ako aj dôležitosti ich poznania pre bezpečnosť plavby:  
-Oblaky sa klasifikujú predovšetkým na základe ich tvaru a výšky v atmosfére. Podľa oficiálnej klasifikácie Svetovej meteorologickej organizácie existuje 10 hlavných typov oblakov, rozdelených do 4 hlavných kategórií:
+Oblaky sa klasifikujú predovšetkým na základe ich tvaru a výšky v atmosfére. Podľa oficiálnej klasifikácie Svetovej meteorologickej organizácie existuje 10 hlavných typov mrakov, rozdelených do 4 hlavných kategórií:
 
 ### **Druhy mrakov a ich vplyv**
 
@@ -39,10 +40,10 @@ Oblaky sa klasifikujú predovšetkým na základe ich tvaru a výšky v atmosfé
 
 ### **Dôležitosť pochopenia oblakov**
 
-1.  **Predpovedanie poveternostných podmienok**:
+1.  **Predpoveď poveternostných podmienok**:
     -   Porozumenie oblakom pomáha predpovedať zmeny počasia. Na mori sú tieto informácie kľúčové pre plánovanie bezpečných trás.
 2.  **Bezpečnosť navigácie**:
-    -   Niektoré typy oblakov, ako napríklad kumulonimbus, signalizujú zlé počasie. Navigácia v čase, keď sa očakávajú búrky alebo silný vietor, môže byť nebezpečná.
+    -   Niektoré typy oblakov, ako napríklad cumulonimbus, signalizujú zlé počasie. Navigácia v prípade očakávaných búrok alebo silného vetra môže byť nebezpečná.
 3.  **Príprava na atmosférické javy**:
     -   Schopnosť interpretovať mraky umožňuje námorníkom pripraviť sa na poveternostné javy, ako sú búrky, a prijať preventívne opatrenia.
 4.  **Riadenie vetra**:

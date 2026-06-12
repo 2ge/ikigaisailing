@@ -4,19 +4,19 @@ title: >-
   et communautaire
 description: >-
   Découvre la pêche en apnée à bord de l'Ikigai : une expérience durable,
-  sportive et qui te permet de te rapprocher de la mer et de la communauté
-  locale.
+  sportive, qui te permet de te rapprocher de la mer et de la communauté locale.
 locale: fr
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/sperafishing.webp
 translated: deepl
-sourceHash: 00197f00320765d3
+sourceHash: d881288696f52ebf
 ---
-## Qu'est-ce que la pêche sous-marine et en quoi est-elle si particulière ?
+
+## Qu'est-ce que la pêche sous-marine et pourquoi est-elle si particulière ?
 
 La chasse sous-marine est sans doute la plus ancienne forme de chasse et de cueillette jamais développée par l'humanité.  
 C'est aussi l'une des plus durables, car elle permet un niveau de **conscience et** de **sélectivité** qu'aucune autre technique ne peut offrir.  
-Sous l'eau, on peut **choisir consciemment** quels poissons capturer, en ne prenant que ce dont on a besoin et en laissant les autres prospérer — en harmonie avec la mer qui nous nourrit.
+Sous l'eau, on peut **choisir consciemment** quels poissons capturer, en ne prenant que ce dont on a besoin et en laissant les autres s'épanouir — en harmonie avec la mer qui nous nourrit.
 
 ## Une discipline physique et intérieure
 

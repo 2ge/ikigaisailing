@@ -15,9 +15,10 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
 translated: deepl
-sourceHash: 997d2596946685b5
+sourceHash: 90fff22680f0e703
 needsReview: true
 ---
+
 ### Postupné zvyšovanie prínosov
 
 Fyzická a duševná pohoda v harmónii s prírodou
@@ -50,7 +51,7 @@ Fyzická a duševná pohoda v harmónii s prírodou
 
 ### Desať dní – ten správny čas na hľadanie seba samého
 
-Nezabudnuteľný zážitok medzi nedotknutými ostrovmi Guna Yala, kde sa život spomalí a stane sa podstatným. Budete plávať krištáľovo čistými vodami a okolo opustených ostrovov, zaspávať pri šumení mora, cvičiť jogu, freediving a meditovať a dopriať si čerstvé, autentické jedlo.  
+Nezabudnuteľný zážitok medzi nedotknutými ostrovmi Guna Yala, kde sa život spomalí a stane sa podstatným. Budete plávať krištáľovo čistými vodami a okolo opustených ostrovov, zaspávať pri šumení mora, cvičiť jogu, potápať sa a meditovať a dopriať si čerstvé, autentické jedlo.  
 Desať dní na to, aby ste znovuobjavili svoj prirodzený rytmus, hlboko dýchali a znovu sa spojili so sebou samým.
 
 [Kniha](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
@@ -62,7 +63,7 @@ Desať dní na to, aby ste znovuobjavili svoj prirodzený rytmus, hlboko dýchal
 **Viac ako len oddych: je to návrat k vášmu vlastnému rytmu**
 
 Tento 10-dňový plavecký zážitok cez tyrkysové vody Panamy je pozvánkou na spomalenie, opätovné spojenie sa so svojím dychom, telom a pravdou.  
-Budete objavovať každodenné dychové cvičenia, freediving, pohybové cvičenia, písanie denníka a zmysluplné skupinové kruhy – všetko zakotvené vo filozofii Ikigai, japonskom pojme, ktorý znamená „dôvod bytia“.  
+Budete sa venovať každodenným dychovým cvičeniam, freedivingu, pohybovým cvičeniam, písaniu denníka a zmysluplným skupinovým kruhom – všetko zakotvené vo filozofii Ikigai, japonskom koncepte, ktorý znamená „dôvod bytia“.  
 Každý ostrov je jednou kapitolou. Každá vlna je pripomienkou.  
 Toto je vaša posvätná pauza – reset vášho nervového systému, prebudenie zmyslu a radosti.
 
@@ -73,14 +74,14 @@ Toto je vaša posvätná pauza – reset vášho nervového systému, prebudenie
 
 ### Jeden mesiac – zažite more ako domov, čas ako svojho učiteľa
 
-Mesiac na palube, aby ste si naozaj oddýchli, zbavili sa vnucených rytmov a znovu sa spojili so svojou podstatou. Tento zážitok je určený pre tých, ktorí už objavili svet Ikigai a chcú sa ponoriť do pomalého, hlbokého a regenerujúceho času.  
+Mesiac na palube, aby ste si naozaj oddýchli, zbavili sa vnucovaných rytmov a znovu sa spojili so svojou podstatou. Tento zážitok je určený pre tých, ktorí už poznajú svet Ikigai a chcú sa ponoriť do pomalého, hlbokého a regenerujúceho času.  
 Nie ste hosťom: ste súčasťou posádky, života, výmeny. Budete sa pohybovať medzi cvičeniami, prírodou a zdieľaním, pričom more nebudete vnímať ako kulisu, ale ako domov a zrkadlo.
 
 [Zistite viac](https://www.ikigaisailing.com/prodotto/one-month/)
 
 ### Preplávanie Tichého oceánu – Veľké preplávanie
 
-Viac ako 30 dní plavby z Panamy na Markézy. Vzácny a transformatívny zážitok, kde sa čas rozširuje a oceán sa stáva domovom. Nie je to dovolenka, je to prechodový rituál: zdieľanie, zmeny na palube, hviezdna obloha, hlboké ticho a živá sila Tichého oceánu. Ak cítite volanie, pripravte sa na skok.
+Viac ako 30 dní plavby z Panamy na Markézy. Vzácny a transformatívny zážitok, kde sa čas rozširuje a oceán sa stáva domovom. Nie je to dovolenka, je to iniciačný rituál: zdieľanie, zmeny na palube, hviezdna obloha, hlboké ticho a živá sila Tichého oceánu. Ak cítite volanie, pripravte sa na skok.
 
 [Rezervovať](https://www.ikigaisailing.com/prodotto/pacific-crossing/)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Buceo libre en San Blas: vive la mejor experiencia submarina'
+title: 'Buceo en apnea en San Blas: vive la mejor experiencia submarina'
 description: >-
   El buceo libre en las islas de San Blas con Ikigai Sailing te ofrece una
   aventura sin igual, en la que se combinan la naturaleza, el autodescubrimiento
@@ -8,8 +8,9 @@ locale: es
 pubDate: '2025-03-21'
 image: ~/assets/pages/vita-a-bordo-social/Freediving-in-San-Blas.avif
 translated: deepl
-sourceHash: ccc603f5c11e9401
+sourceHash: 857f2c5ea4b82f37
 ---
+
 Imagina sumergirte en aguas cristalinas, rodeado de coloridos arrecifes de coral y una exótica vida marina, todo ello mientras disfrutas de la serenidad del buceo en apnea. El buceo en apnea en las islas de San Blas con Ikigai Sailing te ofrece una aventura sin igual, que combina la naturaleza, el autodescubrimiento y la emoción de explorar las profundidades con un equipo mínimo.
 
 ### ¿Por qué elegir San Blas para practicar buceo libre?
@@ -22,7 +23,7 @@ El archipiélago de San Blas, situado frente a la costa caribeña de Panamá, es
     
 -   **Arrecifes de coral vírgenes**: los arrecifes de aquí permanecen en gran parte intactos, ofreciendo un entorno de buceo impresionante y ecológicamente rico.
     
--   **Tranquilo y remoto**: a diferencia de los destinos de buceo masificados, San Blas ofrece una experiencia tranquila e íntima con la naturaleza.
+-   **Tranquilo y remoto**: a diferencia de los destinos de buceo abarrotados, San Blas ofrece una experiencia tranquila e íntima con la naturaleza.
     
 
 ### Buceo libre con Ikigai Sailing
@@ -35,7 +36,7 @@ Ikigai Sailing ofrece cursos de buceo libre guiados por expertos y adaptados a t
     
 -   **Técnicas de compensación**: aprende métodos esenciales para descender cómodamente sin molestias en los oídos.
     
--   **Movimiento eficiente**: mejora tu propulsión subacuática para bucear de forma eficiente.
+-   **Movimiento eficiente**: mejora tu propulsión bajo el agua para bucear de forma eficiente.
     
 -   **Seguridad y rescate**: Adquiere conocimientos fundamentales sobre cómo bucear de forma segura y ayudar a un compañero en caso de necesidad.
     

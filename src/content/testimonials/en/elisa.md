@@ -1,151 +1,41 @@
 ---
 author: Elisa
 source: direct
-locale: en
+locale: it
 translations:
-  it: >-
-    Ci siamo sentiti davvero fortunati quando, non molto tempo fa, un nostro
-    caro amico ha incontrato Luca su una spiaggia di Los Roques. Da quel
-    momento, abbiamo scoperto il progetto Ikigai Sailing. Ancora prima di
-    partecipare a questa incredibile esperienza, seguivamo da lontano questo
-    equipaggio di velisti sognatori. Poco dopo, ci siamo ritrovati a bordo del
-    catamarano insieme a loro. Che fortuna!
-
-
-    Io e il mio compagno ci siamo goduti ogni singolo momento di questo viaggio
-    indimenticabile. Abbiamo scoperto la bellezza di poter fidarci di qualcuno.
-    Luca ci ha guidato con professionalità, sicurezza e calma verso nuove
-    attività: meditazione, yoga, apnea e pesca subacquea. Abbiamo superato i
-    nostri limiti fisici e mentali, abbiamo imparato a rallentare e a guardarci
-    dentro. Ci siamo sentiti rigenerati e più forti.
-
-
-    Circondati dall’atmosfera unica del Mar dei Caraibi, l’equipaggio di Ikigai
-    è un mix perfetto. Non possiamo non menzionare la dolcezza di Paula e la
-    passione di Luca per la cucina. Insieme, ci hanno viziato ogni giorno con
-    prelibatezze del mare. Ci siamo sentiti a casa.
-
-
-    Abbiamo scoperto luoghi che ci hanno commosso fino alle lacrime, condiviso
-    momenti emozionanti al tramonto e incontrato il popolo Guna, resiliente e
-    profondamente connesso spiritualmente con la natura. Ci siamo immersi
-    completamente in questa avventura, ci siamo sentiti parte della “famiglia”
-    di Ikigai Sailing e allo stesso tempo così piccoli di fronte alla vastità
-    della natura delle Isole San Blas.
-
-
-    Non credo che riusciremo mai davvero a descriverlo a parole. Questo è solo
-    un arrivederci, ci rivedremo nel nuovo mondo. Ikigai ci ha conquistato il
-    cuore!
-  es: >-
-    Nos sentimos de verdad afortunados cuando, no hace mucho, un querido amigo
-    nuestro se encontró con Luca en una playa de Los Roques. Desde ese momento,
-    descubrimos el proyecto Ikigai Sailing. Incluso antes de participar en esta
-    increíble experiencia, ya seguíamos desde la distancia a esta tripulación de
-    marineros soñadores. Poco después, nos encontramos a bordo del catamarán con
-    ellos. ¡Qué suerte!
-
-
-    Mi pareja y yo disfrutamos cada momento de este viaje inolvidable.
-    Descubrimos la belleza de poder confiar en alguien. Luca nos guió con
-    profesionalidad, seguridad y tranquilidad hacia nuevas actividades:
-    meditación, yoga, buceo libre y pesca submarina. Superamos nuestros límites
-    físicos y mentales, aprendimos a ralentizar el ritmo y a mirar hacia nuestro
-    interior. Nos sentimos renovados y más fuertes.
-
-
-    Rodeados por la atmósfera única del mar Caribe, la tripulación del Ikigai es
-    una mezcla perfecta. No podemos dejar de mencionar la dulzura de Paula y la
-    pasión de Luca por la cocina. Juntos, nos mimaron cada día con delicias del
-    mar. Nos sentimos como en casa.
-
-
-    Descubrimos lugares que nos emocionaron hasta las lágrimas, compartimos
-    momentos emotivos al atardecer y conocimos al pueblo Guna, resiliente y
-    profundamente conectado espiritualmente con la naturaleza. Nos sumergimos de
-    lleno en esta aventura, nos sentimos parte de la «familia» de Ikigai Sailing
-    y, al mismo tiempo, tan pequeños ante la inmensidad de la naturaleza de las
-    islas de San Blas.
-
-
-    No creo que podamos expresarlo con palabras. Esto es solo un adiós por
-    ahora, nos volveremos a ver en el nuevo mundo. Ikigai se ha ganado nuestros
-    corazones!
-  fr: >-
-    On s'est vraiment senti chanceux quand, il n'y a pas longtemps, un de nos
-    chers amis a rencontré Luca sur une plage de Los Roques. C'est à ce
-    moment-là qu'on a découvert le projet Ikigai Sailing. Avant même de
-    participer à cette incroyable aventure, on suivait déjà de loin cette équipe
-    de marins rêveurs. Peu après, on s’est retrouvés à bord du catamaran avec
-    eux. Quelle chance !
-
-
-    Mon partenaire et moi avons savouré chaque instant de ce voyage inoubliable.
-    On a découvert la beauté de pouvoir faire confiance à quelqu’un. Luca nous a
-    guidés avec professionnalisme, sécurité et sérénité vers de nouvelles
-    activités : méditation, yoga, apnée et chasse sous-marine. On a repoussé nos
-    limites physiques et mentales, appris à ralentir et à faire le point sur
-    nous-mêmes. On s’est sentis revigorés et plus forts.
-
-
-    Dans l’atmosphère unique de la mer des Caraïbes, l’équipage de l’Ikigai
-    forme un mélange parfait. On ne peut pas passer sous silence la douceur de
-    Paula et la passion de Luca pour la cuisine. Ensemble, ils nous ont choyés
-    chaque jour avec des délices de la mer. On s’est sentis comme chez nous.
-
-
-    On a découvert des endroits qui nous ont émus aux larmes, partagé des
-    moments émouvants au coucher du soleil et rencontré le peuple Guna,
-    résilient et profondément connecté spirituellement à la nature. On s’est
-    complètement immergés dans cette aventure, on s’est sentis comme faisant
-    partie de la « famille » Ikigai Sailing, et en même temps si petits face à
-    l’immensité de la nature des îles San Blas.
-
-
-    Je ne pense pas qu’on pourra jamais vraiment trouver les mots pour le
-    décrire. Ce n’est qu’un au revoir pour l’instant, on se reverra dans le
-    nouveau monde. Ikigai a conquis nos cœurs !
-  sk: >-
-    Naozaj sme mali pocit, že máme šťastie, keď nedávno náš drahý priateľ
-    stretol Lucu na pláži v Los Roques. Od tej chvíle sme objavili projekt
-    Ikigai Sailing. Ešte predtým, ako sme sa zapojili do tohto neuveriteľného
-    zážitku, sledovali sme túto posádku snívajúcich námorníkov z diaľky. O
-    krátky čas neskôr sme sa ocitli na palube katamaránu spolu s nimi. Naozaj
-    sme mali šťastie!
-
-
-    Môj partner a ja sme si užili každý okamih tejto nezabudnuteľnej cesty.
-    Objavili sme krásu toho, keď môžete niekomu dôverovať. Luca nás s
-    profesionalitou, bezpečnosťou a pokojom viedol k novým aktivitám: meditácii,
-    joge, freedivingu a špeharovaniu. Prekročili sme svoje fyzické a mentálne
-    limity, naučili sme sa spomaliť a pozrieť sa do seba. Cítili sme sa ako
-    znovuzrodení a silnejší.
-
-
-    Obklopená jedinečnou atmosférou Karibského mora je posádka Ikigai perfektnou
-    kombináciou. Nemôžeme nespomenúť Paulinu milosť a Lucovu vášeň pre varenie.
-    Spoločne nás každý deň rozmaznávali lahôdkami z mora. Cítili sme sa ako
-    doma.
-
-
-    Objavili sme miesta, ktoré nás dojali k slzám, zdieľali sme emotívne chvíle
-    pri západe slnka a stretli sme sa s ľuďmi z kmeňa Guna, odolnými a hlboko
-    duchovne prepojenými s prírodou. Plne sme sa ponorili do tohto
-    dobrodružstva, cítili sme sa ako súčasť „rodiny“ Ikigai Sailing a zároveň
-    tak malí pred rozľahlosťou prírody ostrovov San Blas.
-
-
-    Myslím, že to nikdy nebudeme vedieť skutočne vyjadriť slovami. Toto je len
-    dočasné rozlúčenie, stretneme sa znova v novom svete. Ikigai si získal naše
-    srdcia!
-sourceHash: 862e6cc3cb865408
+  it: "Salire a bordo del catamarano Ikigai e navigare tra le isole incontaminate delle San Blas è stato molto più di una semplice vacanza: è stata un’esperienza profonda, fuori dal tempo, capace di arricchire profondamente e di rimanere impressa ben oltre il rientro a casa.\n\nL’arcipelago è di una bellezza disarmante: isolette selvagge, mare cristallino, barriera corallina viva, squali, mante, vento e sole.  \nUn luogo ancora protetto e autentico, dove la popolazione locale dei Guna Yala accoglie con gentilezza e semplicità, rendendo tutto ancora più speciale.\n\nIl catamarano Ikigai è estremamente confortevole e curato in ogni dettaglio: a bordo non manca davvero nulla. Dalla macchina per l’espresso al forno per il pane, fino al barbecue, ogni comfort supera le aspettative. Il mio posto del cuore? Senza dubbio le reti a prua: perfette per rilassarsi, leggere o semplicemente lasciarsi cullare dal mare.\n\nLe giornate scorrevano in un equilibrio perfetto tra avventura e relax.  \nYoga e meditazione al mattino, allenamenti strutturati e sessioni di boxe su spiagge bianchissime, partite di pallavolo, snorkeling e immersioni.  \nL’introduzione all’apnea è stata per me un’esperienza viscerale e potente. Imparare a respirare, ad ascoltare me stessa, un’immersione non solo nel mare ma anche dentro di me, accompagnata da emozioni così intense e profonde.\n\nL’atmosfera a bordo è stata straordinaria: sorrisi, risate, condivisione, confronto tra lingue e culture diverse. Un clima umano e autentico che ti fa sentire parte di una piccola famiglia.  \nGran parte di tutto questo è merito di Luca e Paola:  \ndue persone speciali che ci hanno accolti, accuditi e viziati con naturalezza, energia ed entusiasmo.  \nConoscerli come persone, oltre che come professionisti, è stato un vero privilegio e ne sono davvero grata.\n\nE poi il cibo… semplicemente eccellente. Colazioni sempre curate, pranzi e cene a base di pesce fresco appena pescato, piatti creativi e sapori autentici.  \nDalla carbonara preparata a regola d’arte da Luca, alle aragoste, al sashimi di pesce appena pescato, fino alla torta di compleanno preparata a sorpresa da Paola.  \nOgni pasto è stato un momento di piacere condiviso e di vera connessione.\n\nLa sicurezza a bordo è stata impeccabile. La navigazione è sempre stata gestita con grande attenzione, professionalità e attrezzature adeguate. Mi sono sentita costantemente in mani esperte, libera di godermi ogni momento in totale serenità.\n\nNuotare con gli squali, osservare le aquile di mare a pochi metri di distanza, meditare al tramonto, ballare sotto un cielo stellato attorno al fuoco, vivere la semplicità della vita in mare con persone speciali che condividono le tue stesse passioni, hanno reso questo viaggio indimenticabile.\n\nConsiglierei questa esperienza senza alcuna esitazione.  \nIkigai non è solo un catamarano, ma un luogo dell’anima: uno spazio in cui ritrovare equilibrio, energia e il senso delle cose importanti.\n\nGrazie di cuore a Luca e Paola \U0001F499  \nUn viaggio che porterò per sempre con me… e che spero di rifare al più presto."
+  es: "Subir a bordo del catamarán Ikigai y navegar entre las islas vírgenes de San Blas fue mucho más que unas simples vacaciones: fue una experiencia profunda, fuera del tiempo, capaz de enriquecer profundamente y de quedarse grabada en la memoria mucho más allá de la vuelta a casa.\n\nEl archipiélago es de una belleza desarmante: islotes salvajes, mar cristalino, arrecifes de coral vivos, tiburones, mantarrayas, viento y sol.  \nUn lugar aún protegido y auténtico, donde la población local de Guna Yala te recibe con amabilidad y sencillez, haciendo que todo sea aún más especial.\n\nEl catamarán Ikigai es extremadamente cómodo y está cuidado hasta el último detalle: a bordo no falta realmente de nada. Desde la cafetera de espresso hasta el horno para el pan, pasando por la barbacoa, todas las comodidades superan las expectativas. ¿Mi rincón favorito? Sin duda, las redes en la proa: perfectas para relajarse, leer o simplemente dejarse mecer por el mar.\n\nLos días transcurrían en un equilibrio perfecto entre aventura y relax.  \nYoga y meditación por la mañana, entrenamientos estructurados y sesiones de boxeo en playas de arena blanca, partidos de voleibol, snorkel y buceo.  \nLa iniciación al buceo en apnea fue para mí una experiencia visceral y poderosa. Aprender a respirar, a escucharme a mí misma, una inmersión no solo en el mar, sino también en mi interior, acompañada de emociones tan intensas y profundas.\n\nEl ambiente a bordo fue extraordinario: sonrisas, risas, compartir, el encuentro entre diferentes idiomas y culturas. Un ambiente humano y auténtico que te hace sentir parte de una pequeña familia.  \nGran parte de todo esto se lo deben a Luca y Paola:  \ndos personas especiales que nos acogieron, cuidaron y mimaron con naturalidad, energía y entusiasmo.  \nConocerlos como personas, además de como profesionales, ha sido un verdadero privilegio y les estoy muy agradecida.\n\nY luego la comida… sencillamente excelente. Desayunos siempre cuidados, almuerzos y cenas a base de pescado fresco recién capturado, platos creativos y sabores auténticos.  \nDesde la carbonara preparada a la perfección por Luca, pasando por las langostas y el sashimi de pescado recién pescado, hasta la tarta de cumpleaños que Paola nos preparó por sorpresa.  \nCada comida fue un momento de placer compartido y de verdadera conexión.\n\nLa seguridad a bordo fue impecable. La navegación se gestionó siempre con gran atención, profesionalidad y el equipo adecuado. Me sentí constantemente en manos expertas, libre para disfrutar de cada momento con total tranquilidad.\n\nNadar con tiburones, observar las águilas marinas a pocos metros, meditar al atardecer, bailar bajo un cielo estrellado alrededor de la hoguera, vivir la sencillez de la vida en el mar con personas especiales que comparten tus mismas pasiones, han hecho que este viaje sea inolvidable.\n\nRecomendaría esta experiencia sin dudarlo.  \nIkigai no es solo un catamarán, sino un lugar del alma: un espacio donde recuperar el equilibrio, la energía y el sentido de las cosas importantes.\n\nMuchísimas gracias a Luca y Paola \U0001F499  \nUn viaje que llevaré siempre conmigo… y que espero repetir lo antes posible."
+  fr: "Monter à bord du catamaran Ikigai et naviguer parmi les îles préservées de San Blas, c'était bien plus qu'un simple séjour : c'était une expérience intense, hors du temps, capable de t'enrichir profondément et de rester gravée dans ta mémoire bien après ton retour à la maison.\n\nL’archipel est d’une beauté désarmante : des îlots sauvages, une mer cristalline, un récif corallien vivant, des requins, des raies manta, le vent et le soleil.  \nUn lieu encore préservé et authentique, où la population locale des Guna Yala t’accueille avec gentillesse et simplicité, rendant tout cela encore plus spécial.\n\nLe catamaran Ikigai est extrêmement confortable et soigné dans les moindres détails : à bord, il ne manque vraiment de rien. De la machine à expresso au four à pain, en passant par le barbecue, chaque confort dépasse les attentes. Mon endroit préféré ? Sans aucun doute les filets à l'avant : parfaits pour se détendre, lire ou simplement se laisser bercer par la mer.\n\nLes journées s’écoulaient dans un équilibre parfait entre aventure et détente.  \nYoga et méditation le matin, entraînements structurés et séances de boxe sur des plages de sable blanc, parties de volley, plongée avec tuba et plongée sous-marine.  \nL’initiation à l’apnée a été pour moi une expérience viscérale et puissante. Apprendre à respirer, à s’écouter, une immersion non seulement dans la mer mais aussi en moi-même, accompagnée d’émotions si intenses et profondes.\n\nL’ambiance à bord était extraordinaire : sourires, rires, partage, échange entre différentes langues et cultures. Une atmosphère humaine et authentique qui te fait te sentir comme dans une petite famille.  \nTout cela, c’est en grande partie grâce à Luca et Paola :  \ndeux personnes exceptionnelles qui nous ont accueillis, pris en charge et choyés avec naturel, énergie et enthousiasme.  \nLes connaître en tant que personnes, et pas seulement en tant que professionnels, a été un véritable privilège et je leur en suis vraiment reconnaissante.\n\nEt puis la cuisine… tout simplement excellente. Des petits-déjeuners toujours soignés, des déjeuners et dîners à base de poisson frais tout juste pêché, des plats créatifs et des saveurs authentiques.  \nDe la carbonara préparée dans les règles de l’art par Luca, aux homards, en passant par le sashimi de poisson fraîchement pêché, jusqu’au gâteau d’anniversaire préparé en surprise par Paola.  \nChaque repas a été un moment de plaisir partagé et de véritable connexion.\n\nLa sécurité à bord a été irréprochable. La navigation a toujours été gérée avec beaucoup d’attention, de professionnalisme et un équipement adapté. Je me suis sentie constamment entre des mains expertes, libre de profiter de chaque instant en toute sérénité.\n\nNager avec les requins, observer les aigles de mer à quelques mètres, méditer au coucher du soleil, danser sous un ciel étoilé autour d’un feu de camp, vivre la simplicité de la vie en mer avec des personnes spéciales qui partagent tes mêmes passions, tout cela a rendu ce voyage inoubliable.\n\nJe recommanderais cette expérience sans aucune hésitation.  \nIkigai n’est pas seulement un catamaran, mais un lieu de l’âme : un espace où retrouver l’équilibre, l’énergie et le sens des choses importantes.\n\nUn grand merci à Luca et Paola \U0001F499  \nUn voyage que je garderai pour toujours en moi… et que j’espère refaire très bientôt."
+  sk: "Nastúpiť na palubu katamaránu Ikigai a plaviť sa medzi nedotknutými ostrovmi súostrovia San Blas bolo oveľa viac než len obyčajná dovolenka: bol to hlboký zážitok, akoby mimo času, ktorý človeka nesmierne obohatil a zanechal v pamäti hlboký dojem ešte dlho po návrate domov.\n\nSúostrovie je neuveriteľne krásne: divoké ostrovčeky, krištáľovo čisté more, živý koralový útes, žraloky, morskí motýli, vietor a slnko.  \nMiesto, ktoré je stále chránené a autentické, kde miestne obyvateľstvo Guna Yala víta návštevníkov s láskavosťou a skromnosťou, čím robí všetko ešte výnimočnejším.\n\nKatamarán Ikigai je mimoriadne pohodlný a dbané je na každý detail: na palube naozaj nechýba nič. Od kávovaru na espresso cez pec na chlieb až po gril, každý komfort prekonáva očakávania. Moje obľúbené miesto? Bezpochyby siete na prove: ideálne na relax, čítanie alebo jednoducho na to, aby vás kolísalo more.\n\nDni plynuli v perfektnej rovnováhe medzi dobrodružstvom a relaxom.  \nRáno jóga a meditácia, štruktúrované tréningy a boxerské tréningy na bielych plážach, zápasy volejbalu, šnorchlovanie a potápanie.  \nÚvod do freedivingu bol pre mňa hlbokým a silným zážitkom. Naučiť sa dýchať, počúvať sama seba, ponoriť sa nielen do mora, ale aj do seba samej, sprevádzaná takými intenzívnymi a hlbokými emóciami.\n\nAtmosféra na palube bola mimoriadna: úsmevy, smiech, zdieľanie, stretávanie sa rôznych jazykov a kultúr. Ľudská a autentická atmosféra, vďaka ktorej sa cítite ako súčasť malej rodiny.  \nVeľká časť toho všetkého je zásluhou Luca a Paoly:  \ndvoch výnimočných ľudí, ktorí nás prijali, starali sa o nás a rozmaznávali nás s prirodzenosťou, energiou a nadšením.  \nSpoznať ich ako ľudí, nielen ako profesionálov, bolo skutočným privilégom a som za to naozaj vďačná.\n\nA potom jedlo... jednoducho vynikajúce. Vždy starostlivo pripravené raňajky, obedy a večere z čerstvých rýb, kreatívne jedlá a autentické chute.  \nOd carbonary, ktorú Luca pripravil podľa všetkých pravidiel umenia, cez homáre, sashimi z čerstvo ulovených rýb, až po narodeninovú tortu, ktorú Paola pripravila ako prekvapenie.  \nKaždé jedlo bolo momentom spoločného potešenia a skutočného spojenia.\n\nBezpečnosť na palube bola bezchybná. Plavba bola vždy riadená s veľkou pozornosťou, profesionalitou a vhodným vybavením. Neustále som sa cítila v rukách odborníkov, slobodná a mohla som si užívať každý okamih v úplnom pokoji.\n\nPlávanie so žralokmi, pozorovanie morských orlov z pár metrov, meditácia pri západe slnka, tanec pod hviezdnatou oblohou pri ohni, prežívanie jednoduchosti života na mori s výnimočnými ľuďmi, ktorí zdieľajú vaše rovnaké vášne, urobili túto cestu nezabudnuteľnou.\n\nTúto skúsenosť by som bez váhania odporučila.  \nIkigai nie je len katamarán, ale miesto pre dušu: priestor, kde môžete nájsť rovnováhu, energiu a zmysel dôležitých vecí.\n\nSrdečná vďaka Lucovi a Paole \U0001F499  \nCesta, ktorú si budem navždy nosiť v srdci... a ktorú dúfam, že čo najskôr zopakujem."
+sourceHash: 7bb98ed9e3908da2
 ---
-We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
 
-My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger.
+Salire a bordo del catamarano Ikigai e navigare tra le isole incontaminate delle San Blas è stato molto più di una semplice vacanza: è stata un’esperienza profonda, fuori dal tempo, capace di arricchire profondamente e di rimanere impressa ben oltre il rientro a casa.
 
-Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
+L’arcipelago è di una bellezza disarmante: isolette selvagge, mare cristallino, barriera corallina viva, squali, mante, vento e sole.  
+Un luogo ancora protetto e autentico, dove la popolazione locale dei Guna Yala accoglie con gentilezza e semplicità, rendendo tutto ancora più speciale.
 
-We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
+Il catamarano Ikigai è estremamente confortevole e curato in ogni dettaglio: a bordo non manca davvero nulla. Dalla macchina per l’espresso al forno per il pane, fino al barbecue, ogni comfort supera le aspettative. Il mio posto del cuore? Senza dubbio le reti a prua: perfette per rilassarsi, leggere o semplicemente lasciarsi cullare dal mare.
 
-I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+Le giornate scorrevano in un equilibrio perfetto tra avventura e relax.  
+Yoga e meditazione al mattino, allenamenti strutturati e sessioni di boxe su spiagge bianchissime, partite di pallavolo, snorkeling e immersioni.  
+L’introduzione all’apnea è stata per me un’esperienza viscerale e potente. Imparare a respirare,ascoltarsi,un’immersione non solo nel mare ma anche dentro me stessa, accompagnata da emozioni così intense e profonde.
+
+L’atmosfera a bordo è stata straordinaria: sorrisi, risate, condivisione, confronto tra lingue e culture diverse. Un clima umano e autentico che ti fa sentire parte di una piccola famiglia.  
+Gran parte di tutto questo è merito di Luca e Paola:  
+due persone speciali che ci hanno accolti, accuditi e viziati con naturalezza, energia ed entusiasmo.  
+Conoscerli come persone, oltre che come professionisti, è stato un vero privilegio e ne sono davvero grata.
+
+E poi il cibo… semplicemente eccellente. Colazioni sempre curate, pranzi e cene a base di pesce fresco appena pescato, piatti creativi e sapori autentici.  
+Dalla carbonara preparata a regola d’arte da Luca,alle aragoste,al sashimi di pesce appena pescato,fino alla torta di compleanno preparata a sorpresa da Paola.  
+Ogni pasto é stato un momento di piacere condiviso e di vera connessione.
+
+La sicurezza a bordo è stata impeccabile. La navigazione è sempre stata gestita con grande attenzione, professionalità e attrezzature adeguate. Mi sono sentita costantemente in mani esperte, libera di godermi ogni momento in totale serenità.
+
+Nuotare con gli squali, osservare le aquile di mare a pochi metri, meditare al tramonto, ballare sotto un cielo stellato attorno al fuoco,vivere la semplicità della vita in mare con persone speciali che condividono le tue stesse passioni,hanno reso questo viaggio indimenticabile.
+
+Consiglierei questa esperienza senza alcuna esitazione.  
+Ikigai non è solo un catamarano, ma un luogo dell’anima: uno spazio in cui ritrovare equilibrio, energia e il senso delle cose importanti.
+
+Grazie di cuore a Luca e Paola 💙  
+Un viaggio che porterò per sempre con me…e che spero di rifare al più presto.

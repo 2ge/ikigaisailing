@@ -2,9 +2,11 @@
 title: Politique en matière de cookies
 description: Comment Ikigai Sailing utilise les cookies sur ce site web.
 locale: fr
+heroImage: "~/assets/trips/acconto/20221220_125124.jpg"
 translated: deepl
-sourceHash: 069ccce68dec954d
+sourceHash: 6b885f4623285cea
 ---
+
 ## Interprétation et définitions
 
 ### Interprétation
@@ -30,7 +32,7 @@ Nous utilisons à la fois des cookies de session et des cookies persistants aux 
 
 -   **Cookies nécessaires / essentiels** (de session, gérés par nous) — indispensables pour te fournir les services disponibles via le site web et te permettre d'utiliser certaines de ses fonctionnalités. Sans ces cookies, les services que tu as demandés ne peuvent pas être fournis.
 -   **Cookies de fonctionnalité** (persistants, gérés par nous) — nous permettent de mémoriser les choix que tu fais lorsque tu utilises le site web, comme ta préférence linguistique, afin de t'offrir une expérience plus personnalisée.
--   **Cookies d'analyse et de performance** (persistants, gérés par des tiers) — utilisés pour comprendre le trafic sur le site Web et la manière dont les visiteurs l'utilisent, afin que nous puissions l'améliorer. Nous utilisons Google Tag Manager et un outil d'analyse respectueux de la vie privée à cette fin.
+-   **Cookies d'analyse et de performance** (persistants, gérés par des tiers) — utilisés pour comprendre le trafic sur le site web et la manière dont les visiteurs l'utilisent, afin que nous puissions l'améliorer. Nous utilisons Google Tag Manager et un outil d'analyse respectueux de la vie privée à cette fin.
 
 ### Tes choix concernant les cookies
 

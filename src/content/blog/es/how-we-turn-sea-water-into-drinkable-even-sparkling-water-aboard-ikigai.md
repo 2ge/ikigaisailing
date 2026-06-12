@@ -8,9 +8,10 @@ locale: es
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp
 translated: deepl
-sourceHash: 87ba2aa4d14b372b
+sourceHash: de2ecf6ec4bc289d
 ---
-En medio del océano, **el agua dulce** nunca está garantizada, y esa es una de las razones por las que decidimos convertir el agua de mar en agua potable. A bordo **del Ikigai Sailing**, hemos apostado por la independencia: nada de botellas de plástico, ni paradas obligatorias en los puertos. Solo el mar, la tecnología y el ingenio.
+
+En medio del océano, **el agua dulce** nunca está garantizada, y esa es una de las razones por las que decidimos convertir el agua de mar en agua potable. A bordo **del Ikigai Sailing**, hemos apostado por la independencia: nada de botellas de plástico, ni paradas obligatorias en puertos. Solo el mar, la tecnología y el ingenio.
 
 Cada día, producimos nuestra propia **agua potable**, incluso **con gas**, directamente a partir del **agua de mar**. Esto nos permite vivir **sin depender de la red** y reducir drásticamente nuestra huella medioambiental.
 
@@ -23,7 +24,7 @@ Nuestro sistema se basa en dos **unidades de desalinización**:
 -   50 litros/hora
 -   100 litros/hora
 
-### **Filtración y ósmosis inversa del agua de mar El agua de mar** pasa por un **filtro de 5 micras** y luego por **ósmosis inversa**, lo que permite el paso solo de las moléculas de agua y bloquea las sales y las impurezas.
+### **Filtración y ósmosis inversa del agua de mar El agua de mar** pasa por un **filtro de 5 micras** y luego **por un sistema de ósmosis inversa**, que deja pasar solo las moléculas de agua y retiene las sales y las impurezas.
 
 **Resultado:** agua limpia y potable para todos los usos a bordo: cocinar, lavar y beber.
 
@@ -47,7 +48,7 @@ Toda el agua está disponible a través de un **grifo de 4 salidas**:
 
 ## **Impacto medioambiental**
 
-### **Reducción de plástico**
+### **Reducción del plástico**
 
 Gracias a este sistema, hemos eliminado casi por completo **el agua embotellada**. Con cinco personas a bordo durante diez meses al año, hemos evitado miles de botellas de plástico.
 

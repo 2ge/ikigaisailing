@@ -7,16 +7,17 @@ locale: sk
 pubDate: '2025-02-27'
 image: ~/assets/pages/vita-a-bordo-social/waves-types.webp
 translated: deepl
-sourceHash: c657b4ee235af46e
+sourceHash: bc44ea031822d518
 needsReview: true
 ---
+
 Morské vlny sa delia na rôzne typy podľa ich pôvodu, spôsobu vzniku a správania. Tu sú hlavné typy vĺn a čo znamenajú:
 
 1.  **Veterné vlny**
-    -   **Pôvod**: Vznikajú pôsobením vetra na vodnú hladinu.
+    -   **Pôvod**: Vznikajú pôsobením vetra fúkajúceho nad vodnou hladinou.
     -   **Charakteristika**:
         -   **Vlnky**: Malé a nepravidelné, vznikajú pri slabom vetre.
-        -   **Stacionárne vlny**: Vlny, ktoré zostávajú takmer nehybné a príliš sa nešíria, typické pre slabý vietor alebo uzavreté oblasti.
+        -   **Stacionárne vlny**: Vlny, ktoré zostávajú takmer nehybné a príliš sa nešíria, typické pre slabé vetry alebo uzavreté oblasti.
         -   **Búrkové vlny**: Veľké a silné, vytvárané silným a vytrvalým vetrom.
     -   **Čo naznačujú**: Sila a smer vetra v danej oblasti, ako aj to, ako dlho a na akom priestore vietor pôsobil na hladinu mora (dosah).
 2.  **Vlny**
@@ -44,7 +45,7 @@ Morské vlny sa delia na rôzne typy podľa ich pôvodu, spôsobu vzniku a sprá
         -   V blízkosti pobrežia sa stávajú nebezpečnými, keďže ich výška narastá.
     -   **Čo naznačujú**: Podzemné geologické udalosti. Hoci sú zriedkavé, vyžadujú si monitorovanie v oblastiach s vysokým rizikom.
 6.  **Odrazové vlny (alebo lomené vlny)**
-    -   **Pôvod**: Keď vlny narazia na prekážku (útesy, brehy) a vrátia sa späť.
+    -   **Pôvod**: Keď vlny narazia na prekážku (útesy, brehy) a vracajú sa späť.
     -   **Charakteristika**:
         -   Turbulentné a často nebezpečné pre ľudí v blízkosti pobrežia.
         -   Môžu spôsobiť prúdy odťahujúce od pobrežia.

@@ -8,13 +8,14 @@ locale: fr
 pubDate: '2025-03-13'
 image: ~/assets/pages/vita-a-bordo-social/respiro.jpg
 translated: deepl
-sourceHash: 1265ab424d55abf1
+sourceHash: 437699e2f9641a73
 ---
-Tu rêves d'une escapade loin de la foule, en pleine nature, bercé par les vagues ? Des **vacances** **en catamaran** avec Ikigai Sailing, c'est l'expérience idéale pour ceux qui recherchent la détente, l'aventure et une façon authentique de découvrir la mer. Découvre pourquoi naviguer avec nous pourrait être le meilleur choix pour ta prochaine escapade !
+
+Tu rêves d'une escapade loin de la foule, en pleine nature, bercé par les vagues ? Des **vacances** **en catamaran** avec Ikigai Sailing sont l'expérience idéale pour ceux qui recherchent la détente, l'aventure et une façon authentique de découvrir la mer. Découvre pourquoi naviguer avec nous pourrait être le meilleur choix pour ta prochaine escapade !
 
 ### **1\. Liberté et nature intacte**
 
-Oublie les plages bondées et les stations balnéaires envahies par les touristes. En vacances en catamaran, tu te réveilles chaque jour dans une nouvelle baie, entouré uniquement d’eaux cristallines et de paysages à couper le souffle. **Une expérience de voyage authentique et au rythme tranquille, loin du tourisme de masse.**
+Oublie les plages bondées et les stations balnéaires envahies par les touristes. Lors de vacances en catamaran, tu te réveilles chaque jour dans une nouvelle baie, entouré uniquement d’eaux cristallines et de paysages à couper le souffle. **Une expérience de voyage authentique et au rythme tranquille, loin du tourisme de masse.**
 
 ### **2\. Confort et espace à bord**
 

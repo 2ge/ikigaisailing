@@ -2,7 +2,7 @@
 title: Meditácia
 summary: >-
   Meditácia s Ikigai Sailing je jedinečný zážitok, pri ktorom pokoj mora
-  znásobuje prínosy tejto praktiky.
+  znásobuje prínos tejto praktiky.
 locale: sk
 category: wellness
 image: ~/assets/activities/project/meditazione1.jpg
@@ -21,9 +21,10 @@ gallery:
   - ~/assets/activities/meditation/Screenshot-2025-01-22-alle-11.54.32.png
 order: 3
 translated: deepl
-sourceHash: 9b6e81c84f7abf5b
+sourceHash: 420a95999d19116d
 needsReview: true
 ---
+
 MEDITÁCIA
 
 ## Objavte vnútorný pokoj

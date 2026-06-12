@@ -15,9 +15,10 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
 translated: deepl
-sourceHash: 997d2596946685b5
+sourceHash: 90fff22680f0e703
 ---
-### Beneficios que aumentan con el tiempo
+
+### Beneficios que van en aumento con el tiempo
 
 Bienestar físico y mental en armonía con la naturaleza
 
@@ -60,17 +61,17 @@ Diez días para redescubrir tu ritmo natural, respirar profundamente y reconecta
 
 **Más que un retiro: es un regreso a tu propio ritmo**
 
-Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu invitación a bajar el ritmo, reconectar con tu respiración, tu cuerpo y tu verdad.  
+Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu invitación a reducir el ritmo, reconectarte con tu respiración, tu cuerpo y tu verdad.  
 Explorarás ejercicios de respiración diarios, buceo libre, prácticas de movimiento, escritura de diario y círculos grupales significativos, todo ello basado en la filosofía del Ikigai, el concepto japonés que significa «razón de ser».  
 Cada isla es un capítulo. Cada ola, un recordatorio.  
-Esta es tu pausa sagrada: un reinicio para tu sistema nervioso, un renacer del propósito y la alegría.
+Esta es tu pausa sagrada: un reinicio para tu sistema nervioso, un despertar de tu propósito y tu alegría.
 
 🌀 Solo ven tal y como eres.  
 🌺 Deja que esto vuelva a ser tu respiración. Deja que esto sea tu comienzo.
 
 [Reserva](https://www.ikigaisailing.com/prodotto/find-your-ikigai-retreat/)
 
-### Un mes: vive el mar como tu hogar, el tiempo como tu maestro
+### Un mes: experimenta el mar como tu hogar, el tiempo como tu maestro
 
 Un mes a bordo para hacer una pausa de verdad, soltar los ritmos impuestos y reconectar con tu esencia. Esta experiencia está diseñada para quienes ya han conocido el mundo del Ikigai y desean sumergirse en un tiempo lento, profundo y regenerador.  
 No eres un invitado: eres parte de la tripulación, de la vida, del intercambio. Navegarás entre prácticas, naturaleza y compartir, experimentando el mar no como un telón de fondo, sino como un hogar y un espejo.

@@ -13,8 +13,9 @@ gallery:
   - ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: 59f47dc33917fdf4
+sourceHash: fd701866a031b424
 ---
+
 [![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Intercambio / Alojamiento pagado
@@ -79,6 +80,6 @@ Desde allí, tras aproximadamente 2,5 horas de viaje a través de los bosques de
 
 Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: un barco local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
 
-✈️ Todo el viaje lo organizamos nosotros en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
+✈️ Organizamos todo el viaje en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
 
 Si tienes alguna necesidad específica (como vuelos tempranos, retrasos o una estancia prolongada), háznoslo saber para que podamos encontrar juntos la solución más adecuada.

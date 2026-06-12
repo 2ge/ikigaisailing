@@ -8,9 +8,10 @@ locale: fr
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg
 translated: deepl
-sourceHash: b101fd5d1513b21e
+sourceHash: 40beff6f32888405
 ---
-La voile peut être un outil puissant et efficace qui, grâce à la pleine conscience, permet de rééquilibrer le système nerveux.
+
+La voile peut être un outil puissant et efficace qui, par la pleine conscience, permet de rééquilibrer le système nerveux.
 
 Il y a des moments où le changement ne commence pas par une pensée, mais par une sensation.  
 Une fatigue subtile. Une agitation silencieuse. Le sentiment que quelque chose dans notre façon de vivre, de réagir et d’avancer dans le monde n’est plus en harmonie.
@@ -44,7 +45,7 @@ Plutôt que de stimuler le système nerveux, la mer le **co-régule** — favori
 ## **La pleine conscience incarnée : une présence qui commence dans le corps et aide notre système nerveux à se réinitialiser**
 
 La pleine conscience est souvent présentée comme une pratique mentale.  
-Pourtant, la forme la plus profonde de présence est **la pleine conscience incarnée** — une conscience qui naît du corps et éclaire l’esprit.
+Pourtant, la forme la plus profonde de la présence est **la pleine conscience incarnée** — cette conscience qui naît du corps et éclaire l’esprit.
 
 En mer, cela se produit presque sans effort.
 
@@ -69,7 +70,7 @@ Elle crée les conditions pour que les bonnes questions émergent.
 
 Quand tu es immergé dans l’immensité de la mer :
 
--   le sentiment de soi devient moins rigide
+-   le sentiment de soi s’assouplit
 -   les problèmes cessent de dominer ton paysage intérieur
 -   le corps ressent la sécurité grâce à l'ouverture
 

@@ -16,9 +16,10 @@ gallery:
   - ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 order: 4
 translated: deepl
-sourceHash: 661afafdfe8674bb
+sourceHash: b1fcbde2c9b76905
 needsReview: true
 ---
+
 [![Pacific Crossing](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
 [![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -53,22 +54,22 @@ Krátka zastávka medzi sopečnými ostrovmi, aby sme sa dotkli pevniny, doplnil
 Odhadom 20 dní nepretržitej plavby, kde sa oceán stane domovom, horizontom a učiteľom.
 
 \*\*Toto nie je dovolenka. Je to životná skúsenosť.  
-Tí, ktorí sa pripoja k tomuto preplávaniu, budú súčasťou posádky.  
+Tí, ktorí sa pripoja k tomuto preplavbe, budú súčasťou posádky.  
 Budú sa podieľať na striedaní, manévroch, varení, navigácii, tichu a východe slnka.  
 A budú súčasťou niečoho vzácneho: komunity plaviacej sa do neznáma s otvorenými srdcami.
 
 Nepotrebujete pokročilé plavecké zručnosti – stačí prispôsobivosť, schopnosť počúvať a ochota premeniť sa.
 
 \*\*Prečo to robiť? Aby ste skutočne pocítili, čo znamená čas, keď už nie je riadený notifikáciami, ale vlnami.  
-Aby ste sa pozerali na nočnú oblohu bez umelého svetla a našli svoj skutočný smer.  
+Aby ste sa pozerali na nočnú oblohu bez umelého osvetlenia a našli svoj skutočný smer.  
 Aby ste boli súčasťou niečoho väčšieho, niečoho skutočného.  
-Aby ste prežili podstatu oceánu – a objavili tú svoju.
+Aby ste prežili podstatu oceánu – a objavili svoju vlastnú.
 
 \*\*Chcete s nami preplávať Tichý oceán? [Vyplňte formulár, aby ste boli informovaní](https://www.ikigaisailing.com/contact-2/) a dostávali všetky technické, ekonomické a logistické podrobnosti, keď sa bude blížiť odchod.  
 Miesta budú veľmi obmedzené. Výber sa uskutoční v roku 2026.  
 Ale zámer začína už teraz.
 
-**„Tí, ktorí videli otvorené more, sa nikdy nevrátia takí istí.“**
+**„Tí, ktorí videli otvorené more, sa už nikdy nevrátia takí istí.“**
 
 ## Príspevok a zahrnuté služby
 
@@ -108,7 +109,7 @@ Ale zámer začína už teraz.
     
 -   Úvodná bezpečnostná inštruktáž a školenie o živote na palube a plavbe
     
--   Praktická pomoc s colnými a logistickými postupmi v prístavoch zastávok
+-   Praktická pomoc s colnými a logistickými postupmi v prístavoch, kde loď zastavuje
     
 
 **ČO NIE JE ZAHRNUTÉ**

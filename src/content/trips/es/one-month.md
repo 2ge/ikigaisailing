@@ -13,8 +13,9 @@ membersOnly: true
 heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 order: 3
 translated: deepl
-sourceHash: e703d1eda5fae2c4
+sourceHash: 5693341bc30eab92
 ---
+
 [![One month aboard](../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
 
 # Un mes a bordo
@@ -37,7 +38,7 @@ Es una oportunidad **reservada a los miembros** que ya han probado el estilo de 
 
 **Fuera de la Matrix, dentro de la vida**
 
-Tanto si eres un entusiasta de la vela, un amante de la naturaleza o simplemente buscas una pausa regeneradora, **Ikigai Sailing es tu oportunidad para redescubrir el sentido, el ritmo y la respiración.**  
+Tanto si eres un entusiasta de la vela, un amante de la naturaleza o simplemente buscas una pausa regeneradora, **Ikigai Sailing es tu oportunidad para redescubrir el sentido, el ritmo y el aliento.**  
 Porque el mar no es solo un telón de fondo: **es un hogar, un maestro, un lugar de verdad**.
 
 **Un ritmo diferente**
@@ -67,7 +68,7 @@ Queremos que cada persona a bordo tenga el espacio, el tiempo y la calidad de co
 ## Durante el mes
 
 -   Los momentos compartidos se alternan con el tiempo libre personal.
--   Las actividades (buceo libre, Janzu, yoga, vela, kite\*, meditación, etc.) se adaptan al ritmo del grupo y de la naturaleza.
+-   Las actividades (buceo libre, Janzu, yoga, vela, kite\*, meditación, etc.) se mezclan con el ritmo del grupo y la naturaleza.
 -   Se valoran las habilidades personales de cada participante, ya sea cocinar, documentar el viaje, tocar música o contar historias.
 
 ## Requisitos básicos
@@ -80,7 +81,7 @@ Queremos que cada persona a bordo tenga el espacio, el tiempo y la calidad de co
 ### Compartir con experiencias más cortas
 
 Durante tu mes en el Ikigai, habrá momentos en los que recibiremos a nuevos participantes para experiencias más cortas de 7 a 10 días.  
-En esos periodos, la atención de la tripulación se centrará naturalmente en llevar a cabo el **programa estructurado para estos huéspedes. Siempre serás bienvenido a unirte a todas las actividades diarias** —yoga matutino, sesiones de buceo libre y Janzu, meditaciones, navegación y momentos compartidos— libremente y sin coste adicional.
+En esos periodos, la atención de la tripulación se centrará naturalmente en llevar a cabo el **programa estructurado para estos huéspedes. Siempre serás bienvenido a unirte a todas las actividades diarias** —yoga matutino, sesiones de buceo libre y Janzu, meditaciones, navegación y momentos compartidos— de forma libre y sin coste adicional.
 
 Solo te pido **flexibilidad y adaptabilidad**, sabiendo que en esos días se dará prioridad operativa al formato semanal, con su propio calendario y objetivos.
 
@@ -94,11 +95,11 @@ Tu viaje probablemente comenzará con tu llegada al Aeropuerto Internacional de 
 Por este motivo, será necesario pasar al menos una noche en la capital. Esta es la oportunidad perfecta para explorar la ciudad y quizás pasear por las encantadoras calles del Casco Viejo, el barrio histórico declarado Patrimonio de la Humanidad por la UNESCO.
 
 🕔 Al día siguiente, temprano por la mañana, un jeep 4×4 privado te recogerá directamente en tu hotel y te llevará hacia la costa caribeña.  
-Desde allí, tras aproximadamente dos horas y media de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 a. m.
+Desde allí, tras aproximadamente dos horas y media de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 de la mañana.
 
-Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: un barco local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
+Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: una embarcación local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
 
-✈️ Organizamos todo el viaje en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
+✈️ Todo el viaje lo organizamos nosotros en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
 
 Si tienes alguna necesidad específica (como vuelos tempranos, retrasos o una estancia prolongada), háznoslo saber para que podamos encontrar juntos la solución más adecuada.
 

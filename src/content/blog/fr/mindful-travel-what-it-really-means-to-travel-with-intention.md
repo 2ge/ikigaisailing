@@ -8,8 +8,9 @@ locale: fr
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
-sourceHash: 947b4f6dfd2fc3f6
+sourceHash: 32c6f2dfb1bac519
 ---
+
 Le voyage en pleine conscience peut se définir comme un périple où l'intention devient le moteur de l'exploration, ancré dans une perspective où la conscience et la présence font partie intégrante de la destination.
 
 Voyager ne consiste plus seulement à atteindre une destination.  

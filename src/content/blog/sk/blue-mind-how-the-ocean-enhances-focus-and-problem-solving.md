@@ -1,18 +1,19 @@
 ---
-title: 'Blue Mind: Ako more zlepšuje sústredenie a schopnosť riešiť problémy'
+title: 'Blue Mind: Ako nám more pomáha zlepšiť sústredenie a schopnosť riešiť problémy'
 description: 'Blue Mind: Ako nám more pomáha zlepšiť sústredenie a schopnosť riešiť problémy'
 locale: sk
 pubDate: '2025-03-27'
 image: ~/assets/pages/vita-a-bordo-social/blue-mind-focus.avif
 translated: deepl
-sourceHash: 8bb3670be9ed3450
+sourceHash: aed34a1b8d95e790
 needsReview: true
 ---
+
 Žijeme vo svete, ktorý sa neustále zrýchľuje, kde nás digitálne rozptýlenia a každodenné povinnosti môžu ľahko zahltiť. Existuje však silný prírodný spojenec, ktorý nám môže pomôcť znovu nadobudnúť jasnosť a sústredenie: oceán. Koncept **Blue Mind**, ktorý vyvinul morský biológ Wallace J. Nichols, opisuje uvoľnený a omladzujúci duševný stav, ktorý zažívame v blízkosti vody. Tento stav nielen znižuje stres, ale môže tiež posilniť naše kognitívne schopnosti, zlepšiť sústredenie a zručnosti pri riešení problémov.
 
 ### Regeneračný účinok vody na mozog
 
-Mnohé štúdie dokazujú, že morské prostredie má priamy vplyv na náš nervový systém. Rytmický pohyb vĺn, upokojujúca farba vody a nekonečnosť horizontu stimulujú mozog k produkcii alfa a theta vĺn, ktoré sú spojené s relaxáciou a kreativitou. Pobyt pri mori môže:
+Mnohé štúdie dokazujú, že morské prostredie má priamy vplyv na náš nervový systém. Rytmický pohyb vĺn, upokojujúca farba vody a nekonečnosť horizontu stimulujú mozog k produkcii alfa a theta vĺn, ktoré sú spojené s relaxáciou a kreativitou. Trávenie času pri mori môže:
 
 -   **Znížiť mentálny šum**: Oceán pôsobí ako prirodzený reset, ktorý nám pomáha odpútať sa od obsedantných myšlienok a rozptýlení.
     

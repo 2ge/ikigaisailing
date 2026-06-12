@@ -7,14 +7,15 @@ locale: fr
 pubDate: '2026-02-02'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg
 translated: deepl
-sourceHash: 9a7729ffb9f2caf0
+sourceHash: b69a64db48c251e2
 ---
+
 As-tu déjà pensé à la voile comme un moyen d'évoluer et de grandir sur le plan personnel ?
 
-Certaines expériences n'ont pas besoin de beaucoup d'explications. Tu les ressens.  
+Certaines expériences n'ont pas besoin de beaucoup d'explications. On les ressent.  
 La voile en fait partie.
 
-Le rythme du vent, le mouvement de la mer, l'absence de bruit constant. Ce n'est pas seulement de la détente, c'est une **remise à zéro naturelle pour le système nerveux**.
+Le rythme du vent, le mouvement de la mer, l'absence de bruit constant. Ce n'est pas seulement de la détente, c'est une **remise à zéro naturelle du système nerveux**.
 
 Bien avant les tendances du bien-être, les marins le savaient déjà : **la vie en mer apaise l’esprit en redonnant un sentiment de sécurité au corps**. C’est pourquoi la voile peut être un outil puissant pour notre développement personnel.
 
@@ -44,7 +45,7 @@ C’est cet équilibre qui aide le système nerveux à se stabiliser.
 
 ## **Le grand large et la sécurité intérieure**
 
-Ça peut paraître contre-intuitif, mais la simplicité apporte le calme.
+Ça peut sembler contre-intuitif, mais la simplicité apporte le calme.
 
 Sur un catamaran :
 
@@ -57,7 +58,7 @@ Cette simplicité extérieure crée **une sécurité intérieure**, un élément
 ## **Le silence et l'effet horizon**
 
 Un horizon continu a un impact direct sur le système nerveux.  
-Le regard s'adoucit. La respiration s'approfondit. L'esprit cesse d'anticiper.
+La vision s'adoucit. La respiration s'approfondit. L'esprit cesse d'anticiper.
 
 Beaucoup de gens ressentent :
 

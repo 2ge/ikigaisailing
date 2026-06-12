@@ -2,7 +2,7 @@
 title: Buceo
 summary: >-
   En el buceo, cada inmersión es un viaje a través de colores vibrantes, vida
-  marina y misterios sumergidos. Sumérgete en las profundidades...
+  marina y misterios sumergidos. Desciende a las profundidades...
 locale: es
 category: watersports
 image: ~/assets/activities/project/scuba-diving.jpg
@@ -20,13 +20,14 @@ gallery:
   - ~/assets/activities/diving/divers.png
 order: 6
 translated: deepl
-sourceHash: 9ccbe1068f78381e
+sourceHash: 07cdf38e98b95d74
 ---
+
 ## Buceo
 
 ## Explora el mundo submarino
 
-Sumergirse en un universo submarino lleno de maravillas directamente desde el catamarán es una oportunidad única que ofrece posibilidades que de otro modo serían imposibles. Con un pequeño centro de buceo a bordo, equipado con un compresor y todo el material necesario, podemos bucear en lugares remotos y a nuestro propio ritmo. Cada inmersión es una aventura única, desde las profundidades azules hasta los increíbles jardines de coral. Ikigai Sailing te ofrece una experiencia segura e inolvidable, guiada por un instructor certificado por la IANTD.
+Sumergirse en un universo submarino lleno de maravillas directamente desde el catamarán es una oportunidad única que ofrece posibilidades que de otra forma serían imposibles. Con un pequeño centro de buceo a bordo, equipado con un compresor y todo el material necesario, podemos bucear en lugares remotos y a nuestro propio ritmo. Cada inmersión es una aventura única, desde las profundidades azules hasta los increíbles jardines de coral. Ikigai Sailing te ofrece una experiencia segura e inolvidable, guiada por un instructor certificado por la IANTD.
 
 ## Qué puedes esperar:
 

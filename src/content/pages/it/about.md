@@ -4,7 +4,7 @@ description: "Scopri la filosofia di Ikigai Sailing: vivere il mare con consapev
 locale: "it"
 oldUrls:
   - "/it/about/"
-heroImage: "~/assets/pages/about/R-C.png"
+heroImage: "~/assets/pages/about/20221114_180633.jpg"
 gallery:
   - "~/assets/activities/janzu/janzu1.jpg"
   - "~/assets/activities/kitesurf/kite-surf7.jpg"

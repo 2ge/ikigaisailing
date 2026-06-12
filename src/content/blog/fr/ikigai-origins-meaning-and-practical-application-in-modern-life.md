@@ -8,13 +8,14 @@ pubDate: '2026-04-10'
 image: >-
   ~/assets/pages/vita-a-bordo-social/Copia-di-Immagini-per-sito-web-1500-x-1000-11.png
 translated: deepl
-sourceHash: 1ffdcd096187d920
+sourceHash: cf3471af9df26b38
 ---
-Le mot japonais « Ikigai » est souvent traduit par « raison d’être » ou « la raison pour laquelle tu te lèves le matin ». Bien qu’il trouve ses racines à Okinawa, sa signification est essentielle pour quiconque est confronté aux complexités de la vie moderne. Pour vraiment libérer ton potentiel, comprendre la **signification** profonde **de l’Ikigai** nécessite d’aller au-delà des simples définitions et d’entrer dans le domaine de l’expérience vécue. Après tout, l’Ikigai n’est pas seulement une philosophie, c’est une pratique.
+
+Le mot japonais « Ikigai » est souvent traduit par « raison d’être » ou « la raison pour laquelle tu te lèves le matin ». Bien qu’il trouve ses racines à Okinawa, sa signification est essentielle pour quiconque est confronté aux complexités de la vie moderne. Pour vraiment libérer ton potentiel, comprendre le **sens** profond **de l’Ikigai** nécessite d’aller au-delà des simples définitions et d’entrer dans le domaine de l’expérience vécue. Après tout, l’Ikigai n’est pas seulement une philosophie, c’est une pratique.
 
 ## **Au-delà du diagramme**
 
-On a tous vu les diagrammes de Venn, mais trouver ton Ikigai dans un bureau cloisonné ou derrière un écran est presque impossible. Pour découvrir ce qui te motive vraiment, tu dois faire abstraction du bruit ambiant. Tu as besoin d’un environnement qui te mette au défi tout en te soutenant.
+On a tous vu les diagrammes de Venn, mais trouver ton Ikigai dans un box ou derrière un écran est presque impossible. Pour découvrir ce qui te motive vraiment, tu dois faire abstraction du bruit ambiant. Tu as besoin d’un environnement qui te mette au défi tout en te soutenant.
 
 ## **L'approche Ikigai Sailing : la pleine conscience incarnée**
 
@@ -28,7 +29,7 @@ Chez Ikigai Sailing, nous appliquons ce concept ancestral à la quête moderne d
 
 Trouver ton équilibre n’est pas une ligne d’arrivée statique, mais un mouvement fluide, tout comme la navigation. On se sent souvent coincé parce qu’on cherche des réponses rationnelles à des questions qui nécessitent au contraire un engagement physique et émotionnel. Plonger dans la **signification** profonde **de l’Ikigai,** c’est accepter le défi de se connaître soi-même à travers l’expérience directe : sentir la barre entre tes mains ou réguler ta respiration avant une plongée.
 
-Ces activités ne sont pas de simples loisirs, mais des outils de précision pour calibrer notre boussole intérieure. Participer à une expérience avec Ikigai Sailing, c’est cesser de courir après le succès tel que défini par les autres et commencer à cultiver ta propre satisfaction personnelle. Lorsque le défi sportif rencontre la paix de l’horizon, le tableau prend tout son sens. À ce moment précis, la théorie cède la place à la réalité : ta raison d’être n’est plus une idée lointaine, mais le vent qui gonfle tes voiles.
+Ces activités ne sont pas de simples loisirs, mais des outils de précision pour calibrer notre boussole intérieure. Participer à une expérience avec Ikigai Sailing, c’est cesser de courir après le succès tel que défini par les autres et commencer à cultiver ta propre satisfaction personnelle. Lorsque le défi sportif rencontre la paix de l’horizon, le tableau s’assemble. À ce moment précis, la théorie cède la place à la réalité : ta raison d’être n’est plus une idée lointaine, mais le vent qui gonfle tes voiles.
 
 **Es-tu prêt à larguer les amarres et à découvrir ta route ?**
 

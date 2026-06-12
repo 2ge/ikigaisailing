@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-02-27'
 image: ~/assets/pages/vita-a-bordo-social/suitcase-onboard.webp
 translated: deepl
-sourceHash: 77fa22d32e1894de
+sourceHash: ad8603054212f0ac
 ---
+
 **Qué llevar para tu aventura en velero**
 
 La vida en el mar es extremadamente minimalista, por lo que incluso los mochileros más experimentados suelen darse cuenta de que no usan la mayor parte de lo que traen. Antes de embarcar, recibirás una lista de equipaje recomendada basada en la ruta prevista, pero, en general, estas pautas siempre se aplican:  

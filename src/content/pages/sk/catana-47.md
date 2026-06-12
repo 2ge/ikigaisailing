@@ -15,9 +15,10 @@ gallery:
   - ~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg
   - ~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg
 translated: deepl
-sourceHash: 91a8cd0df209fbab
+sourceHash: d51b12af845811fd
 needsReview: true
 ---
+
 ## Catana 47
 
 Catana 47
@@ -43,9 +44,9 @@ Keďže sme nadšenci dobrého jedla a bývalí profesionálni reštauratéri, k
 
 Pekárňou na chlieb – pretože pečenie čerstvého chleba každý deň je na nezaplatenie
 
-### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom rybárskom výlete
+### Gril Magma XL – hviezda nespočetných grilovačiek, najmä po úspešnom výlete na ryby
 
-### 4-horákový sporák, nerezová plynová rúra, chladnička, mraznička, umývačka riadu, stroj na výrobu čerstvých cestovín, mixér atď.
+### 4-horákovým sporákom, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom atď.
 
 ### Automatický kávovar s integrovaným mlynčekom
 
@@ -61,7 +62,7 @@ Pokiaľ ide o energiu, sme úplne sebestační vďaka:
     turbíny\*\*
 -   \*\*600 Ah lítiových  
     batérií\*\*
--   **5 kW dieselový generátor**
+-   **5 kW dieselového generátora**
 
 Okrem toho máme **2 odsolovače vody** s výkonom **150 l/h** a **práčku**.
 
@@ -103,13 +104,13 @@ VYBAVENIE LODE
 
 (Novinka v roku 2017):
 
-**Hlavná plachta**: 86 m² tkanina Hydranet 483/433 s 5 latami, 3 bodmi na zúženie a indikátormi
+**Hlavná plachta**: 86 m² tkanina Hydranet 483/433 s 5 latami, 3 bodmi na zrážanie a indikátormi
 
 **Kĺbové vozíky Harken T32 s guľôčkovými ložiskami Lazy bag (novinka 2021) Genua**: 53 m² s trojradovým strihom z tkaniny Hydranet 433, pásik na ochranu proti UV žiareniu
 
-**Gennaker**: 130 m² rolovací výložník z modrej tkaniny Stormlite, protitorzný kábel, UV ochranný pás
+**Gennaker**: 130 m² rolovací výložník z modrej tkaniny Stormlite, protitorzný kábel, pásik na ochranu proti UV žiareniu
 
-**Code 0**: 81 m² rolovací výložník z laminovanej uhlíkovo-aramidovej tkaniny, protitorzný kábel, tkanina s UV ochranou CZ60/30
+**Code 0**: 81 m² rolovací výložník z laminovanej uhlíkovo-aramidovej tkaniny, kábel proti krúteniu, tkanina s UV ochranou CZ60/30
 
 **Druhá sada plachiet z materiálu Dacron: hlavná plachta a genoa.**
 

@@ -26,15 +26,16 @@ gallery:
   - ~/assets/activities/janzu/Janzu-terapia2-1536x862.avif
 order: 4
 translated: deepl
-sourceHash: c8a6f3bc576ad6e2
+sourceHash: 1fd072fec44b78d0
 ---
+
 Janzu
 
 ## Le pouvoir thérapeutique de l'eau
 
-Le Janzu n’est pas seulement une pratique de libération émotionnelle, mais repose aussi sur des principes de conscience corporelle et de connexion avec la nature, ce qui en fait une forme de méditation et une expérience spirituelle tant pour la personne qui reçoit le soin que pour le thérapeute. Le Janzu est une forme de thérapie aquatique originaire d’Inde et développée au Mexique par Juan Villatoro Garza, qui l’a transmise à [Richard Dionne (Sol Naciente)](https://www.facebook.com/sol.naciente.5815/), auprès duquel Luca a appris les techniques de premier niveau. Cette thérapie repose sur l’idée que l’eau possède un pouvoir de guérison et peut faciliter une libération profonde des tensions physiques et émotionnelles. Pendant une séance de Janzu, le praticien bouge doucement le corps de la personne dans l’eau, favorisant ainsi la libération du stress et des blocages émotionnels. La thérapie est conçue pour favoriser un état de relaxation profonde et de connexion avec soi-même et l’environnement. Le Janzu n’est pas seulement une pratique de libération émotionnelle, mais repose aussi sur les principes de l’écoute du corps et de la connexion avec la nature, ce qui en fait une forme de méditation et une expérience spirituelle tant pour la personne qui reçoit le soin que pour le thérapeute.
+Le Janzu n'est pas seulement une pratique de libération émotionnelle, mais repose aussi sur des principes de conscience corporelle et de connexion avec la nature, ce qui en fait une forme de méditation et une expérience spirituelle tant pour la personne qui reçoit le soin que pour le thérapeute. Le Janzu est une forme de thérapie aquatique originaire d'Inde et développée au Mexique par Juan Villatoro Garza, qui l'a transmise à [Richard Dionne (Sol Naciente)](https://www.facebook.com/sol.naciente.5815/), auprès duquel Luca a appris les techniques de premier niveau. Cette thérapie repose sur l'idée que l'eau possède un pouvoir de guérison et peut faciliter une libération profonde des tensions physiques et émotionnelles. Pendant une séance de Janzu, le praticien bouge doucement le corps de la personne dans l’eau, favorisant ainsi la libération du stress et des blocages émotionnels. La thérapie est conçue pour favoriser un état de relaxation profonde et de connexion avec soi-même et l’environnement. Le Janzu n’est pas seulement une pratique de libération émotionnelle, mais repose aussi sur les principes de l’écoute du corps et de la connexion avec la nature, ce qui en fait une forme de méditation et une expérience spirituelle tant pour la personne qui reçoit le soin que pour le thérapeute.
 
-## À quoi s'attendre :
+## À quoi t'attendre :
 
 ### Durée :
 
@@ -62,4 +63,4 @@ Formés aux techniques Janzu et Wata
 
 ## Pourquoi essayer :
 
-Vivez un voyage régénérant, en vous laissant bercer par la mer en totale harmonie.
+Vivez un voyage régénérant, en te laissant bercer par la mer en totale harmonie.

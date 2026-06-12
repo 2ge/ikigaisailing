@@ -7,20 +7,21 @@ locale: sk
 pubDate: '2025-02-27'
 image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: a41101ad9bae40ec
+sourceHash: 1e930f567abffc82
 needsReview: true
 ---
+
 **ČO ZNAMENÁ BYŤ KAPITÁNOM**
 
-Výcvik kapitána sa líši v závislosti od typu plavby, veľkosti plavidla a predpisov krajiny, v ktorej pôsobí. Existujú však spoločné postupy a základné zručnosti, ktoré si kapitán musí osvojiť, aby zabezpečil bezpečnosť, kompetentnosť a profesionalitu. Tu sú hlavné aspekty výcviku kapitána:
+Výcvik kapitána sa líši v závislosti od typu plavby, veľkosti plavidla a predpisov krajiny, v ktorej pôsobí. Existujú však spoločné postupy a základné zručnosti, ktoré si musí kapitán osvojiť, aby zabezpečil bezpečnosť, kompetentnosť a profesionalitu. Tu sú hlavné aspekty výcviku kapitána:
 
 1.  **Základné požiadavky**
-    -   **Vodácky preukaz**: V mnohých krajinách musí kapitán vlastniť vodácky preukaz, ktorý ho oprávňuje prevádzkovať plachetnice alebo motorové člny. Existujú rôzne kategórie na základe dĺžky lode a vzdialenosti od pobrežia (do 12 míľ alebo neobmedzene).
+    -   **Vodácky preukaz**: V mnohých krajinách musí kapitán mať vodácky preukaz, ktorý ho oprávňuje prevádzkovať plachetnice alebo motorové člny. Existujú rôzne kategórie na základe dĺžky lode a vzdialenosti od pobrežia (do 12 míľ alebo neobmedzene).
     -   **Minimálny vek**: Na získanie lodného preukazu sa zvyčajne vyžaduje minimálny vek 18 rokov.
 2.  **Technické zručnosti**
     -   **Navigácia a kreslenie na mapách**: Schopnosť plánovať trasy, čítať námorné mapy, interpretovať symboly a vypočítavať vzdialenosti, trasy a časy.
     -   **Meteorológia**: Porozumenie poveternostným podmienkam a schopnosť interpretovať meteorologické správy a signály pre bezpečnú navigáciu.
-    -   **Ovládanie lode**: Znalosť ovládania lode v rôznych podmienkach (kotvenie, zakotvenie, navigácia pri silnom vetre).
+    -   **Ovládanie lode**: Vedomosti o tom, ako ovládať loď v rôznych podmienkach (kotvenie, zakotvenie, navigácia pri silnom vetre).
     -   **Motory a palubné systémy**: Základné znalosti o prevádzke lodných motorov a elektrických a hydraulických systémov lode pre vykonávanie drobných opráv.
 3.  **Povinné školenia**
     -   V mnohých prípadoch sa vyžadujú špecifické kurzy:

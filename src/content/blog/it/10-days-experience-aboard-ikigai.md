@@ -7,8 +7,9 @@ locale: it
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 5a610fcb38be6bff
+sourceHash: aae2be8888b87747
 ---
+
 ### **Introduzione**
 
 Durante l'Ikigai Experience ogni attività proposta è **vivamente consigliata**, ma mai obbligatoria. L'invito è quello di uscire dalla tua zona di comfort, provare nuove esperienze e rafforzare la tua disciplina, ascoltando al contempo profondamente il tuo corpo e i suoi bisogni.
@@ -30,8 +31,8 @@ Questa esperienza Ikigai è pensata per aiutarti a esplorare l'equilibrio tra **
 -   Condivisione  
     in silenzio o in cerchio _(a seconda del gruppo e del luogo)_
 
-\*\*🕊️ Tempo libero: le pause tra un'attività e l'altra sono volutamente lasciate libere — per riposare, leggere, nuotare, stare in silenzio o vivere momenti spontanei.  
-**Non c'è altro da fare che essere.**
+\*\*🕊️ Tempo libero: le pause tra un’attività e l’altra sono volutamente lasciate libere — per riposare, leggere, nuotare, stare in silenzio o godersi momenti spontanei.  
+**Non c’è altro da fare che essere.**
 
 ### **🍽️ Vita a bordo e cibo**
 
@@ -60,7 +61,7 @@ Il programma potrebbe subire modifiche in base a:
 
 -   Trasferimento privato dall'aeroporto
 -   Pernottamento a **Casco Viejo**, quartiere patrimonio dell'UNESCO
--   Passeggiata serale tra vicoli coloniali, terrazze animate, musica e cucina locale
+-   Passeggiata serale tra vicoli coloniali, vivaci terrazze, musica e cucina locale
 
 ### **🏝️ Giorno 1 – Benvenuto a Banedup Punti salienti:**
 
@@ -86,7 +87,7 @@ Il programma potrebbe subire modifiche in base a:
 -   🍽️ 20:00: Cena
 -   🎶 21:00: Musica dal vivo e karaoke a terra (facoltativo)
 
-### **🐬 Giorno 3 – West Dutch Cays (Cayo Holandés Oeste) Natura incontaminata e vivaci barriere coralline**
+### **🐬 Giorno 3 – Cayo Holandés Oeste (West Dutch Cays) Natura incontaminata e vivaci barriere coralline**
 
 -   🧘 06:30–08:00: Routine mattutina
 -   ☕ 08:30: Colazione
@@ -108,7 +109,7 @@ Il programma potrebbe subire modifiche in base a:
 -   🌇 17:30: Routine serale
 -   🌌 20:00: Cena
 
-### **🏝️ Giorno 5 – Laguna di Dutch Cays Avventure nella laguna, yoga e serata intorno al falò**
+### **🏝️ Giorno 5 – Dutch Cays Lagoon Avventure nella laguna, yoga e serata falò**
 
 -   🧘 06:30: Routine mattutina
 -   ☕ 08:30: Colazione
@@ -129,7 +130,7 @@ Il programma potrebbe subire modifiche in base a:
 -   🧘‍♂️ 17:00: Turtle Island – yoga, riposo, Tabata
 -   🌌 19:30: Cena barbecue sotto le stelle
 
-### **🐚 Giorno 7 – Dutch Cays / Green Island Noci di cocco, artigianato, snorkeling e serata cinema**
+### **🐚 7° giorno – Dutch Cays / Green Island Noci di cocco, artigianato, snorkeling e serata cinema**
 
 -   🧘 06:30: Routine mattutina
 -   ☕ 08:30: Colazione
@@ -153,7 +154,7 @@ Il programma potrebbe subire modifiche in base a:
 
 -   🧘 06:30: Routine mattutina
 -   ☕ 08:30: Colazione
--   ⛵ 09:30: Salpiamo verso Coco Bandero
+-   ⛵ 09:30: Salpiamo per Coco Bandero
 -   🏖️ 12:00: Pranzo in spiaggia
 -   🦈 13:00–17:00: Nuoto con gli squali (facoltativo), snorkeling, amache
 -   🌇 17:00: Routine serale

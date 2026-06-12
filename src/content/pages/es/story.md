@@ -4,19 +4,20 @@ description: >-
   Descubre los orígenes de Ikigai Sailing, donde la pasión por el mar se une a
   un propósito. Nuestra historia trata de disfrutar de la libertad de navegar
 locale: es
-translated: deepl
-sourceHash: a5712353427b790b
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/pages/home/ikigaisailing-2024-anguilla.avif"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/pages/home/ikigaisailing-2024-anguilla.avif
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+  - ~/assets/trips/acconto/user1.webp
+translated: deepl
+sourceHash: bd58c47c7fdb1bea
 ---
+
 ## LA HISTORIA
 
 **CÓMO NACIÓ IKIGAI SAILING Luca cuenta:** «En mi vida anterior, era empresario. Empecé muy joven, siguiendo los pasos de mi padre y abriendo mi primer negocio cuando aún era menor de edad. Mi pasión por la vela comenzó muy pronto, gracias a otra de mis grandes pasiones: el buceo libre.

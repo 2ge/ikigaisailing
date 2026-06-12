@@ -23,6 +23,7 @@
     "@tailwindcss/vite": "^4.3.0",
     "astro": "^6.4.6",
     "flag-icons": "^7.5.0",
+    "photoswipe": "^5.4.4",
     "tailwindcss": "^4.3.0"
   },
   "devDependencies": {

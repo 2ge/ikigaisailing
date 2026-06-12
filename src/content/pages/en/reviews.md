@@ -4,7 +4,7 @@ description: "Discover what our guests say about their unforgettable experiences
 locale: "en"
 oldUrls:
   - "/testimonials-2/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/activities/freediving/IMG_3296-1-2048x1153.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

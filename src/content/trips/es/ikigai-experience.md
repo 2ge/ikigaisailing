@@ -24,8 +24,9 @@ gallery:
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 translated: deepl
-sourceHash: 69c94499db228dd9
+sourceHash: f1445669ea39b4cc
 ---
+
 ## **Introducción**
 
 Todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades. Esta experiencia está diseñada para ayudarte a explorar el equilibrio entre **el compromiso y la escucha**, entre **la disciplina y la libertad**. Sin expectativas, sin rendir: solo la oportunidad de reconectar contigo mismo, con los demás y con el ritmo natural de la vida.
@@ -53,11 +54,11 @@ La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el ma
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin ninguna obligación.
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
 
 ## **Nota importante**
 
-El programa puede modificarse en función de:
+El programa puede sufrir modificaciones en función de:
 
 -   Las condiciones meteorológicas y del mar
 -   Factores logísticos
@@ -99,14 +100,14 @@ El programa puede modificarse en función de:
 -   20:00: Cena
 -   21:00: Música en directo y karaoke opcionales en tierra
 
-### **Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
+### **Día 3 – Cayos Holandeses Oeste (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
 
 -   06:30–08:00: Rutina matutina
 -   08:30: Desayuno
 -   10:00: Navegación hacia los Cayos Holandeses Occidentales
 -   12:00–14:00: Snorkel
 -   14:00: Almuerzo
--   17:30: Rutina de la tarde
+-   17:30: Rutina vespertina
 -   19:00: Teoría del buceo libre (respiración, compensación, seguridad)
 -   20:30: Cena y observación de la vida marina bajo las luces del barco
 
@@ -128,7 +129,7 @@ El programa puede modificarse en función de:
 -   09:30: Navegación hacia la laguna
 -   11:00: Recorrido por las islas en SUP o kayak
 -   13:00: Almuerzo
--   15:00: Tiempo libre / conocer a la gente del lugar
+-   15:00: Tiempo libre / conocer a los lugareños
 -   17:30: Yoga al atardecer o cardio/artes marciales
 -   19:30: Barbacoa en la playa y hoguera con las familias Guna
 
@@ -176,7 +177,7 @@ El programa puede modificarse en función de:
 
 -   Por la mañana: Desayuno tranquilo
 -   12:00: Navegamos de vuelta a Banedup
--   16:00: Tiempo libre: voleibol, snorkel, entrenamiento vespertino
+-   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
 -   19:00: Cena
 -   20:30: Ceremonia de clausura y vídeo resumen
 

@@ -11,9 +11,10 @@ gallery:
   - ~/assets/activities/yoga/yoga-ikigai3.jpg
 order: 1
 translated: deepl
-sourceHash: bfffc5cdaf428df6
+sourceHash: affd45ad11b51802
 needsReview: true
 ---
+
 JÓGA
 
 ## Objavte svoju rovnováhu

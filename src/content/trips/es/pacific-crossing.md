@@ -1,8 +1,8 @@
 ---
 title: Travesía del Pacífico
 description: >-
-  Travesía del Pacífico: ¡Acompáñanos en una aventura única en la vida a través
-  del océano Pacífico! 4.000 millas náuticas desde Panamá hasta las islas
+  Travesía por el Pacífico: ¡Acompáñanos en una aventura única en la vida a
+  través del océano Pacífico! 4.000 millas náuticas desde Panamá hasta las islas
   Marquesas
 locale: es
 price: 2000
@@ -17,8 +17,9 @@ gallery:
   - ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 order: 4
 translated: deepl
-sourceHash: 661afafdfe8674bb
+sourceHash: b1fcbde2c9b76905
 ---
+
 [![Pacific Crossing](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
 [![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -49,7 +50,7 @@ Las primeras 1.000 millas nos llevarán a las Galápagos, a las que llegaremos t
 Serán días de viento, olas, luz de luna y silencio. Días de transformación.
 
 Una breve parada entre las islas volcánicas para tocar tierra, reabastecernos y prepararnos para el gran salto:  
-la travesía de 3.000 millas hasta las Islas Marquesas, en el corazón de la Polinesia Francesa.  
+la travesía de 3000 millas hasta las Islas Marquesas, en el corazón de la Polinesia Francesa.  
 Unos 20 días de navegación sin parar, donde el océano se convierte en hogar, horizonte y maestro.
 
 \*\*Esto no son unas vacaciones. Es una experiencia de vida.  
@@ -134,11 +135,11 @@ Pero la intención empieza ahora.
     
 -   Tránsito por el Canal de Panamá (peaje, personal de amarre, alquiler de cabos y defensas, posibles comisiones de agencia)
     
--   Tasas de fondeo o de parques marinos (Galápagos, Gambier, Tuamotu, etc.)
+-   Tasas de fondeo o parques marinos (Galápagos, Gambier, Tuamotu, etc.)
     
 -   Posibles tasas de atraque en puertos deportivos
     
--   Suscripciones de comunicación/meteorología: Iridium GO! / Starlink Ocean, PredictWind, créditos para teléfono satelital
+-   Suscripciones de comunicación/meteorología: Iridium GO! / Starlink Ocean, PredictWind, saldo para teléfonos satelitales
     
 -   Tarjetas SIM locales en los puertos intermedios
     
@@ -149,4 +150,4 @@ Pero la intención empieza ahora.
 -   Traslados a tierra para aprovisionamiento o trámites administrativos
     
 
-Agua potable extra (bidones/recargas en caso de problemas con el potabilizador)
+Agua potable extra (bidones/recargas en caso de problemas con el desalinizador)

@@ -8,22 +8,23 @@ description: >-
   nautiques. Notre objectif est d'offrir des expériences uniques à ceux qui
   partagent notre passion pour la mer et le sport.…
 locale: fr
-translated: deepl
-sourceHash: aa8a2ad6ca585c6c
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 gallery:
-  - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/trips/10-days-on-board/lucabrano5.avif"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
+  - ~/assets/trips/10-days-on-board/ikigaisailing.jpg
+  - ~/assets/trips/acconto/itinerario.jpg
+  - ~/assets/trips/10-days-on-board/lucabrano5.avif
+  - ~/assets/trips/acconto/attraversata-atlantica.webp
+  - ~/assets/trips/acconto/san-blas.webp
+  - ~/assets/trips/acconto/skipper.webp
+  - ~/assets/trips/acconto/user1.webp
+  - ~/assets/trips/acconto/user3.webp
+translated: deepl
+sourceHash: 43b438b1c8e2a064
 ---
+
 ### 1\. Conditions de réservation :
 
-Les activités et expériences proposées par notre organisation sont exclusivement réservées aux membres de l'association sportive. Nous sommes une association qui promeut les activités liées à la voile, au kitesurf, à la plongée en apnée et à d'autres disciplines de sports nautiques. Notre objectif est d'offrir des expériences uniques à ceux qui partagent notre passion pour la mer et le sport.
+Les activités et expériences proposées par notre association sont réservées exclusivement aux membres de l’association sportive. Nous sommes une association qui promeut les activités liées à la voile, au kitesurf, à la plongée en apnée et à d’autres disciplines de sports nautiques. Notre objectif est d’offrir des expériences uniques à ceux qui partagent notre passion pour la mer et le sport.
 
 Au moment de réserver l'une de nos expériences, les participants qui ne sont pas encore membres de l'association doivent faire une demande d'adhésion. La cotisation, qui comprend la carte de membre pour la première année, est déjà incluse dans le montant demandé pour l'expérience en question. Cela garantit que tous les participants ont pleinement accès aux activités et aux avantages réservés aux membres.
 
@@ -47,7 +48,7 @@ Une fois l'expérience confirmée, nous enverrons un e-mail aux participants, et
 
 Pour les réservations effectuées après la date limite, le paiement intégral sera exigé dès confirmation de la réservation.
 
-### 2\. Politique d'annulation :
+### 2\. Conditions d'annulation :
 
 **a) Annulation par le participant :**
 
@@ -77,7 +78,7 @@ Les participants qui se comportent de manière inappropriée envers l'équipage,
 
 Les comportements inappropriés comprennent les insultes, les attitudes agressives, la violence, les comportements perturbateurs répétés, la consommation excessive d'alcool ou de drogues, le harcèlement sexuel (y compris les commentaires ou contacts non désirés), ou les actions qui intimident, offensent ou humilient une personne en raison de caractéristiques personnelles telles que l'âge, la race, le sexe, le handicap, la religion ou l'orientation sexuelle.
 
-Dans de tels cas, aucun remboursement ne sera accordé et tous les frais liés au départ anticipé seront à la charge du client.
+Dans de tels cas, aucun remboursement ne sera accordé et tous les frais liés au départ anticipé seront à la charge du participant.
 
 ### 5\. Limitation de responsabilité :
 
@@ -101,7 +102,7 @@ L'association ne sera pas responsable des retards ou annulations causés par des
 
 ### 8\. Confidentialité et utilisation des données personnelles :
 
-Les données personnelles fournies au moment de la réservation seront utilisées exclusivement à des fins administratives liées à l'expérience et ne seront pas partagées avec des tiers sans le consentement du client, conformément à la réglementation en vigueur en matière de confidentialité.
+Les données personnelles fournies lors de la réservation seront utilisées exclusivement à des fins administratives liées à l'expérience et ne seront pas partagées avec des tiers sans le consentement du client, conformément à la réglementation en vigueur en matière de confidentialité.
 
 ### 9\. Responsabilité relative au matériel :
 

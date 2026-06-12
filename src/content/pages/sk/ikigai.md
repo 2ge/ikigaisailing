@@ -15,9 +15,10 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: e52db14392e14b47
+sourceHash: 2acead3e82d0831c
 needsReview: true
 ---
+
 ## Ikigai
 
 **ČO JE Ikigai?**

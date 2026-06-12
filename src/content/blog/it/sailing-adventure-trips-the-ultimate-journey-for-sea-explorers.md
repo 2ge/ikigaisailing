@@ -7,8 +7,9 @@ locale: it
 pubDate: '2025-03-15'
 image: ~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp
 translated: deepl
-sourceHash: 33585453c246a9d9
+sourceHash: d63c42a4b5aa6070
 ---
+
 Esplorare il mondo dal mare regala un senso di libertà senza pari. **I viaggi avventurosi in barca a vela** sono la scelta perfetta per chi vuole scoprire luoghi incontaminati, immergersi nella natura e vivere un'esperienza autentica e sostenibile. **Ikigai Sailing sta attualmente navigando intorno al mondo e ora si trova a Panama, con l'intenzione di attraversare l'oceano nel 2026.**
 
 ### Perché scegliere un viaggio avventuroso in barca a vela?

@@ -8,11 +8,12 @@ pubDate: '2026-03-31'
 image: >-
   ~/assets/blog/ikigai-and-travel-how-to-rediscover-your-natural-rhythm-at-sea/Copia-di-Immagini-per-sito-web-1500-x-1000-10.png
 translated: deepl
-sourceHash: 5b01608ac0091a06
+sourceHash: d21f996d1e1110a5
 ---
+
 Dans notre monde moderne, on est constamment « sous tension ». Notre système nerveux est surstimulé par le bruit numérique et le rythme effréné de la ville. Trouver ton **Ikigai** à travers le voyage, ce n’est pas une question de fuite de la réalité ; c’est plutôt une façon de réinitialiser ton horloge biologique.
 
-Chez **Ikigai Sailing**, nous ne proposons pas une retraite bien-être traditionnelle ni une croisière de luxe passive. Nous offrons une **expérience immersive** où la mer agit comme un environnement transformateur pour ton esprit et ton corps.
+Chez **Ikigai Sailing**, on ne propose pas une retraite bien-être traditionnelle ni une croisière de luxe passive. On offre une **expérience immersive** où la mer agit comme un environnement transformateur pour ton esprit et ton corps.
 
 ## **Naviguer vers la régulation du système nerveux**
 

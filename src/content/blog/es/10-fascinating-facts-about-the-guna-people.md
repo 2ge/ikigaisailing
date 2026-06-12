@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-04-29'
 image: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 translated: deepl
-sourceHash: 0be588aec8a89f4f
+sourceHash: 6c92a647265a59d6
 ---
+
 _(Diario de navegación del Ikigai Sailing)_
 
 Mientras navegamos por las aguas cristalinas de San Blas a bordo _del Ikigai_, queda claro: esto no es solo unas vacaciones. Es una invitación a sumergirse en otro ritmo, en una forma diferente de ser. Estas islas no solo son hermosas, sino que albergan una cultura viva, fuerte y resistente.
@@ -25,7 +26,7 @@ El archipiélago de Guna Yala tiene unas 365 islas, pero menos de 50 están habi
 
 ### **3\. Sin plástico, sin hormigón**
 
-Sin complejos turísticos, sin carreteras, sin edificios de cemento. Los Guna viven en cabañas con techo de palma y evitan el plástico en la medida de lo posible. Un pacto profundo y protector con su entorno.
+Sin complejos turísticos, sin carreteras, sin edificios de cemento. Los Guna viven en cabañas con techo de palma y prohíben el plástico en la medida de lo posible. Un pacto profundo y protector con su entorno.
 
 ### **4\. Molas: historias cosidas**
 
@@ -59,5 +60,5 @@ Para visitar las islas, necesitas permiso. Cada desembarque es un gesto de respe
 
 No para escapar, sino para reconectar.  
 No para consumir, sino para vivir la experiencia.  
-Navegar por Guna Yala te invita a bajar el ritmo, a ver el mundo con ojos más tranquilos.  
+Navegar por Guna Yala te invita a reducir el ritmo, a replantearte el mundo con una mirada más tranquila.  
 Cada isla, cada historia, cada cambio de viento se convierte en parte de un viaje más profundo y compartido.

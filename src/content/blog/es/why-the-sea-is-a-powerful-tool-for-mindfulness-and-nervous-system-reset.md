@@ -8,8 +8,9 @@ locale: es
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg
 translated: deepl
-sourceHash: b101fd5d1513b21e
+sourceHash: 40beff6f32888405
 ---
+
 La navegación puede ser una herramienta poderosa y eficaz que, a través de la atención plena, nos ayuda a restablecer el equilibrio del sistema nervioso.
 
 Hay momentos en los que el cambio no empieza con un pensamiento, sino con una sensación.  
@@ -41,7 +42,7 @@ Desde este estado, la claridad se hace posible.
 
 * * *
 
-## **Mindfulness corporal: una presencia que nace en el cuerpo y ayuda a nuestro sistema nervioso a reiniciarse**
+## **Mindfulness corporal: una presencia que empieza en el cuerpo y ayuda a nuestro sistema nervioso a reiniciarse**
 
 La atención plena suele considerarse una práctica mental.  
 Sin embargo, la forma más profunda de presencia es **la atención plena encarnada**: la conciencia que surge del cuerpo y guía a la mente.
@@ -112,7 +113,7 @@ Las experiencias corporales en el mar conectan con personas que:
 -   sienten una desconexión entre mente y cuerpo
 -   sienten curiosidad por el cambio que empieza desde dentro
 
-Para muchos, esto se convierte en su primer contacto con **una experiencia vivencial**: no es un taller ni un método, sino un entorno vivo donde el cuerpo puede tomar las riendas.
+Para muchos, esto se convierte en su primer contacto con **una experiencia vivencial**: no es un taller ni un método, sino un entorno vivo donde el cuerpo puede tomar la iniciativa.
 
 * * *
 
@@ -122,7 +123,7 @@ Con Ikigai Sailing, el mar no es solo un telón de fondo, sino una parte activa 
 Cada viaje está diseñado para fomentar la presencia, la regulación y la escucha profunda.
 
 La intención no es volver «transformado»  
-, sino volver **más alineado**: más conectado con lo que se siente verdadero, esencial y listo para cambiar.
+, sino volver **más en sintonía**, más conectado con lo que se siente verdadero, esencial y listo para cambiar.
 
 * * *
 

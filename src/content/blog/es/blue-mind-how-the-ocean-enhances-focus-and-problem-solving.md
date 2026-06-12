@@ -9,8 +9,9 @@ locale: es
 pubDate: '2025-03-27'
 image: ~/assets/pages/vita-a-bordo-social/blue-mind-focus.avif
 translated: deepl
-sourceHash: 8bb3670be9ed3450
+sourceHash: aed34a1b8d95e790
 ---
+
 Vivimos en un mundo cada vez más acelerado, donde las distracciones digitales y las obligaciones diarias pueden abrumarnos fácilmente. Pero hay un poderoso aliado natural que puede ayudarnos a recuperar la claridad y la concentración: el océano. El concepto de **«Blue Mind»**, desarrollado por el biólogo marino Wallace J. Nichols, describe el estado mental relajado y rejuvenecedor que experimentamos cuando estamos cerca del agua. Este estado no solo reduce el estrés, sino que también puede potenciar nuestras capacidades cognitivas, mejorando la concentración y la capacidad para resolver problemas.
 
 ### El efecto restaurador del agua en el cerebro
@@ -40,4 +41,4 @@ A bordo **del Ikigai**, la conexión con el océano se amplifica con actividades
 
 Si sientes la necesidad de recuperar la concentración, estimular tu creatividad o simplemente tomarte un respiro del caos diario, una experiencia en el mar podría ser la clave. El Ikigai no es solo un catamarán; es una oportunidad para reconectar contigo mismo y con tu potencial mental.
 
-**¿Listo para experimentar el poder de la Mente Azul?** Ponte en contacto con nosotros para descubrir nuestras experiencias de navegación y déjate llevar por el poder rejuvenecedor del océano.
+**¿Listo para experimentar el poder de la Blue Mind?** Ponte en contacto con nosotros para descubrir nuestras experiencias de navegación y déjate llevar por el poder rejuvenecedor del océano.

@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-03-13'
 image: ~/assets/pages/vita-a-bordo-social/respiro.jpg
 translated: deepl
-sourceHash: 1265ab424d55abf1
+sourceHash: 437699e2f9641a73
 ---
+
 ¿Sueñas con una escapada lejos de las multitudes, en plena naturaleza y meciéndote al ritmo de las olas? Unas **vacaciones** **en catamarán** con Ikigai Sailing son la experiencia perfecta para quienes buscan relajación, aventura y una forma auténtica de disfrutar del mar. ¡Descubre por qué navegar con nosotros podría ser la mejor opción para tu próxima escapada!
 
 ### **1\. Libertad y naturaleza virgen**
@@ -17,7 +18,7 @@ Olvídate de las playas abarrotadas y los complejos turísticos llenos de turist
 
 ### **2\. Comodidad y espacio a bordo**
 
-A diferencia de los veleros tradicionales, un catamarán ofrece más espacio, estabilidad y comodidad. Las amplias cabinas, las zonas de descanso abiertas y una navegación más suave lo hacen perfecto incluso para quienes no tienen experiencia en la navegación.
+A diferencia de los veleros tradicionales, un catamarán ofrece más espacio, estabilidad y comodidad. Cabinas espaciosas, zonas de descanso abiertas y una navegación más suave lo hacen perfecto incluso para quienes no tienen experiencia en la navegación.
 
 ### **3\. Una experiencia de navegación sin complicaciones**
 

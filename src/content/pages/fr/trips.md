@@ -15,8 +15,9 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
 translated: deepl
-sourceHash: 997d2596946685b5
+sourceHash: 90fff22680f0e703
 ---
+
 ### Des bienfaits qui s'amplifient avec le temps
 
 Bien-être physique et mental en harmonie avec la nature
@@ -49,7 +50,7 @@ Plus tu passes de temps à vivre en harmonie avec la nature et la mer, plus les 
 
 ### Dix jours – Le moment idéal pour te retrouver
 
-Une expérience immersive au cœur des îles préservées de Guna Yala, où la vie ralentit et se concentre sur l'essentiel. Tu navigueras à travers des eaux cristallines et des îles désertes, tu dormiras bercé par la mer, tu pratiqueras le yoga, la plongée en apnée et la méditation, et tu te nourriras d’aliments frais et authentiques.  
+Une expérience immersive au cœur des îles préservées de Guna Yala, où la vie ralentit et revient à l'essentiel. Tu navigueras à travers des eaux cristallines et des îles désertes, tu t'endormiras bercé par la mer, tu pratiqueras le yoga, la plongée en apnée et la méditation, et tu te nourriras d'aliments frais et authentiques.  
 Dix jours pour redécouvrir ton rythme naturel, respirer profondément et te reconnecter avec toi-même.
 
 [Réserver](https://www.ikigaisailing.com/prodotto/10-days-on-board-ikigai/)
@@ -72,7 +73,7 @@ C'est ta pause sacrée — une remise à zéro de ton système nerveux, un réve
 
 ### Un mois – Fais de la mer ton chez-toi, du temps ton maître
 
-Un mois à bord pour faire une véritable pause, lâcher prise sur les rythmes imposés et renouer avec ton essence. Cette expérience est conçue pour ceux qui ont déjà découvert le monde de l’Ikigai et souhaitent s’immerger dans un temps lent, profond et régénérateur.  
+Un mois à bord pour faire une véritable pause, lâcher prise des rythmes imposés et te reconnecter à ton essence. Cette expérience est conçue pour ceux qui ont déjà découvert le monde de l’Ikigai et souhaitent s’immerger dans un temps lent, profond et régénérateur.  
 Tu n’es pas un invité : tu fais partie de l’équipage, de la vie, de l’échange. Tu navigueras entre les pratiques, la nature et le partage, en faisant l’expérience de la mer non pas comme une toile de fond, mais comme un foyer et un miroir.
 
 [En savoir plus](https://www.ikigaisailing.com/prodotto/one-month/)

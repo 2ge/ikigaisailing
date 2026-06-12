@@ -22,8 +22,9 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: fba3506b9f3e93d6
+sourceHash: 34f6145cb21088fe
 ---
+
 ## **Introducción**
 
 Todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades. Esta experiencia está diseñada para ayudarte a explorar el equilibrio entre **el compromiso y la escucha**, entre **la disciplina y la libertad**. Sin expectativas, sin rendir: solo la oportunidad de reconectar contigo mismo, con los demás y con el ritmo natural de la vida.
@@ -51,11 +52,11 @@ La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el ma
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin compromiso.
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
 
 ## **Nota importante**
 
-El programa puede modificarse en función de:
+El programa puede sufrir modificaciones en función de:
 
 -   Las condiciones meteorológicas y del mar
 -   Factores logísticos
@@ -95,7 +96,7 @@ El programa puede modificarse en función de:
 -   20:00: Cena
 -   21:00: Música en directo y karaoke opcionales en tierra
 
-### **Día 3 – Cayos Holandeses Oeste (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
+### **Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
 
 -   06:30–08:00: Rutina matutina
 -   08:30: Desayuno
@@ -158,7 +159,7 @@ El programa puede modificarse en función de:
 -   18:30: Rutina nocturna opcional
 -   20:00: Cena
 
-### **Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración**
+### **Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta**
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -174,7 +175,7 @@ El programa puede modificarse en función de:
 -   12:00: Navegamos de vuelta a Banedup
 -   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
 -   19:00: Cena
--   20:30: Ceremonia de clausura y resumen en vídeo
+-   20:30: Ceremonia de clausura y vídeo resumen
 
 ### **Día 11 – Regreso**
 

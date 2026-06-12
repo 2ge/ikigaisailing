@@ -8,12 +8,13 @@ locale: sk
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp
 translated: deepl
-sourceHash: 87ba2aa4d14b372b
+sourceHash: de2ecf6ec4bc289d
 needsReview: true
 ---
-Uprostred oceánu nie je **zásoba** **čerstvej vody** nikdy zaručená, a to je jeden z dôvodov, prečo sme sa rozhodli premeniť morskú vodu na pitnú. Na palube **lode Ikigai Sailing** sme sa rozhodli pre nezávislosť: žiadne plastové fľaše, žiadne povinné zastávky v prístavoch. Len more, technológia a vynaliezavosť.
 
-Každý deň vyrábame vlastnú **pitnú vodu**, dokonca aj **perlivú**, priamo z **morskej vody**. To nám umožňuje žiť **mimo siete** a výrazne znížiť náš environmentálny odtlačok.
+Uprostred oceánu nie je **zásoba** **čerstvej vody** nikdy zaručená, a to je jeden z dôvodov, prečo sme sa rozhodli premeniť morské vody na pitnú vodu. Na palube **lode Ikigai Sailing** sme sa rozhodli pre nezávislosť: žiadne plastové fľaše, žiadne povinné zastávky v prístavoch. Len more, technológia a vynaliezavosť.
+
+Každý deň vyrábame vlastnú **pitnú vodu**, dokonca aj **perlivú**, priamo z **morskej vody**. To nám umožňuje žiť **mimo siete** a výrazne znížiť náš dopad na životné prostredie.
 
 ## **Premena morskej vody na pitnú vodu: prvým procesom je reverzná osmóza**
 
@@ -32,7 +33,7 @@ Náš systém sa opiera o dve **odsoľovacie jednotky**:
 
 ### **4-cestný kohútik s pitnou vodou**
 
-Na zlepšenie chuti a kvality voda prechádza:
+Na zlepšenie chuti a kvality prechádza voda cez:
 
 -   **UV lampou** → eliminuje baktérie
 -   **5-mikrónový uhlíkový filter** → zvyšuje čistotu a chuť

@@ -13,8 +13,9 @@ gallery:
   - ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: 59f47dc33917fdf4
+sourceHash: fd701866a031b424
 ---
+
 [![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Échange / Hébergement payant
@@ -70,7 +71,7 @@ Dis-nous qui tu es, quelle est ton expérience et pourquoi tu souhaites rejoindr
 
 ## Logistique
 
-Ton voyage commencera très probablement par ton arrivée à l'aéroport international de Tocumen (PTY) à Panama City, les vols à l'arrivée étant généralement prévus l'après-midi ou en soirée.
+Ton voyage commencera très probablement par ton arrivée à l'aéroport international de Tocumen (PTY) à Panama City, les vols à l'arrivée étant généralement prévus dans l'après-midi ou en soirée.
 
 C'est pourquoi une nuitée d'au moins une nuit dans la capitale sera nécessaire. C'est l'occasion idéale d'explorer la ville et peut-être de flâner dans les charmantes rues de Casco Viejo, le quartier historique classé au patrimoine mondial de l'UNESCO.
 

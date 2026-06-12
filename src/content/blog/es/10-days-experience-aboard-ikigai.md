@@ -7,8 +7,9 @@ locale: es
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 5a610fcb38be6bff
+sourceHash: aae2be8888b87747
 ---
+
 ### **Introducción**
 
 Durante la Experiencia Ikigai, todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades.
@@ -31,7 +32,7 @@ Esta experiencia Ikigai está diseñada para ayudarte a explorar el equilibrio e
     en silencio o en círculo _(dependiendo del grupo y la ubicación)_
 
 \*\*🕊️ Tiempo libre: Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos.  
-**No hay nada que hacer más que estar.**
+**No hay nada que hacer más que ser.**
 
 ### **🍽️ La vida a bordo y la comida**
 
@@ -41,7 +42,7 @@ La comida es el centro de la vida en _Ikigai Experience_. Combinamos lo que nos 
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más.  
+Pescamos siempre que podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más.  
 **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin ninguna obligación.
 
 ### **☁️ Nota importante**
@@ -75,7 +76,7 @@ El programa puede sufrir cambios en función de:
 -   🐠 Snorkel en los arrecifes de coral
 -   🌅 Rutina nocturna opcional
 
-### **🏖️ Día 2 – Chichime Una isla animada con cabañas en la playa y ambiente caribeño**
+### **🏖️ Día 2 – Chichime Una isla animada con cabañas de playa y ambiente caribeño**
 
 -   🧘 06:30–08:00: Rutina matutina
 -   ☕ 09:00: Desayuno
@@ -86,7 +87,7 @@ El programa puede sufrir cambios en función de:
 -   🍽️ 20:00: Cena
 -   🎶 21:00: Música en directo y karaoke opcionales en tierra
 
-### **🐬 Día 3 – Cayos Holandeses Oeste (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
+### **🐬 Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida**
 
 -   🧘 06:30–08:00: Rutina matutina
 -   ☕ 08:30: Desayuno
@@ -157,7 +158,7 @@ El programa puede sufrir cambios en función de:
 -   🏖️ 12:00: Almuerzo en la playa
 -   🦈 13:00–17:00: Baño con tiburones (opcional), snorkel, hamacas
 -   🌇 17:00: Rutina de la tarde
--   🔥 19:00–23:00: Hoguera de despedida: langosta a la parrilla y música
+-   🔥 19:00–23:00: Fiesta de despedida con hoguera: langosta a la parrilla y música
 
 ### **🌅 Día 10 – Regreso a Banedup Últimos momentos en el paraíso**
 

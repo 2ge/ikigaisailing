@@ -21,12 +21,13 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: fba3506b9f3e93d6
+sourceHash: 34f6145cb21088fe
 needsReview: true
 ---
+
 ## **Úvod**
 
-Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povinná. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám. Tento zážitok je navrhnutý tak, aby vám pomohol objavovať rovnováhu medzi **oddanosťou a načúvaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon — len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
+Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povinná. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám. Tento zážitok je navrhnutý tak, aby vám pomohol objavovať rovnováhu medzi **oddanosťou a načúvaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon – len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
 
 ## **Denný program Ráno (cca 1,5 hodiny):** Každý deň začína vedenou reláciou, ktorá môže zahŕňať:
 
@@ -45,7 +46,7 @@ Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povin
 
 ## **Život na palube a jedlo**
 
-Strava je srdcom života na _lodi Ikigai_. Kombinujeme to, čo nám poskytuje more, s tým, čo vymieňame s komunitou Guna:
+Strava je srdcom života na _lodi Ikigai_. Kombinujeme to, čo nám poskytuje more, s tým, čo získavame výmenou od komunity Guna:
 
 -   Čerstvý homár
 -   Tropické ovocie
@@ -95,7 +96,7 @@ Program sa môže upraviť na základe:
 -   20:00: Večera
 -   21:00: Voliteľná živá hudba a karaoke na brehu
 
-### **Deň 3 – Západné holandské ostrovčeky (Cayo Holandés Oeste) Nedotknutá príroda a živé koralové útesy**
+### **Deň 3 – Západné holandské ostrovčeky (Cayo Holandés Oeste) Nedotknutá príroda a žiarivé koralové útesy**
 
 -   06:30–08:00: Ranná rutina
 -   08:30: Raňajky
@@ -104,7 +105,7 @@ Program sa môže upraviť na základe:
 -   14:00: Obed
 -   17:30: Večerná rutina
 -   19:00: Teória voľného potápania (dýchanie, vyrovnávanie tlaku, bezpečnosť)
--   20:30: Večera a pozorovanie morského života pri svetle lodných reflektorov
+-   20:30: Večera a pozorovanie morského života pri svetle lodí
 
 ### **Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké spojenie**
 
@@ -124,11 +125,11 @@ Program sa môže upraviť na základe:
 -   09:30: Plavba do lagúny
 -   11:00: Prehliadka ostrovov na SUP-e alebo kajaku
 -   13:00: Obed
--   15:00: Voľný čas / stretnutie s miestnymi
+-   15:00: Voľný čas / stretnutie s miestnymi obyvateľmi
 -   17:30: Jóga pri západe slnka alebo kardio/bojové umenia
 -   19:30: Grilovanie na pláži a táborák s rodinami Guna
 
-### **6\. deň – Dutch Cays „Bazén“ Najmalebnejšie kotvisko**
+### **6\. deň – Dutch Cays „bazén“ Najmalebnejšie kotvisko**
 
 -   06:30: Ranná rutina
 -   08:30: Raňajky

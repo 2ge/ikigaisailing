@@ -29,9 +29,10 @@ gallery:
   - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 translated: deepl
-sourceHash: ce13edc955bca7f1
+sourceHash: 7eab3d55ba40eac4
 needsReview: true
 ---
+
 ## Kitesurfing
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
@@ -39,8 +40,8 @@ needsReview: true
 Jazdite na vlnách a nechajte sa unášať vetrom
 
 **Kitesurfing** je oveľa viac než len šport: je to skutočná oslava slobody, energie a hlbokého spojenia s prírodou.  
-Nechajte vietor stať sa vaším spojencom, keď lietate nad vlnami, a objavujte nielen vzrušenie z adrenalínu, ale aj okamihy intenzívneho uvedomenia si a harmónie s živlami.  
-Týmto spôsobom objavíte rovnováhu medzi výzvou a pokojom, ponorení do jedného z najvzrušujúcejších a najzaujímavejších vodných športov na svete.
+Nechajte vietor stať sa vaším spojencom, keď lietate nad vlnami, a objavujte nielen vzrušenie z adrenalínu, ale aj okamihy intenzívneho uvedomenia si seba samého a harmónie s živlami.  
+Takto objavíte rovnováhu medzi výzvou a pokojom, ponorení do jedného z najvzrušujúcejších a najzaujímavejších vodných športov na svete.
 
 Všetky kurzy sú certifikované IKO.
 
@@ -60,7 +61,7 @@ Najlepšie pláže s konštantným a bezpečným vetrom
 
 ### Vybavenie
 
-Možnosť zapožičania výstroja na palube
+Možnosť zapožičania vybavenia na palube
 
 ## PREČO MY
 

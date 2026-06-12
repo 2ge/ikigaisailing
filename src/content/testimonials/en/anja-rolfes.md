@@ -3,148 +3,18 @@ author: Anja Rolfes
 source: direct
 locale: en
 translations:
-  it: >-
-    Ci siamo sentiti davvero fortunati quando, non molto tempo fa, un nostro
-    caro amico ha incontrato Luca su una spiaggia di Los Roques. Da quel
-    momento, abbiamo scoperto il progetto Ikigai Sailing. Ancora prima di
-    partecipare a questa incredibile esperienza, seguivamo da lontano questo
-    equipaggio di velisti sognatori. Poco dopo, ci siamo ritrovati a bordo del
-    catamarano insieme a loro. Che fortuna!
-
-
-    Io e il mio compagno ci siamo goduti ogni singolo momento di questo viaggio
-    indimenticabile. Abbiamo scoperto la bellezza di poter fidarsi di qualcuno.
-    Luca ci ha guidato con professionalità, sicurezza e calma verso nuove
-    attività: meditazione, yoga, apnea e pesca subacquea. Abbiamo superato i
-    nostri limiti fisici e mentali, abbiamo imparato a rallentare e a guardarci
-    dentro. Ci siamo sentiti rigenerati e più forti.
-
-
-    Circondati dall’atmosfera unica del Mar dei Caraibi, l’equipaggio di Ikigai
-    è un mix perfetto. Non possiamo non menzionare la dolcezza di Paula e la
-    passione di Luca per la cucina. Insieme, ci hanno viziato ogni giorno con
-    prelibatezze del mare. Ci siamo sentiti a casa.
-
-
-    Abbiamo scoperto luoghi che ci hanno commosso fino alle lacrime, condiviso
-    momenti emozionanti al tramonto e incontrato il popolo Guna, resiliente e
-    profondamente connesso spiritualmente con la natura. Ci siamo immersi
-    completamente in questa avventura, ci siamo sentiti parte della “famiglia”
-    di Ikigai Sailing e allo stesso tempo così piccoli di fronte alla vastità
-    della natura delle Isole San Blas.
-
-
-    Non credo che riusciremo mai davvero a descriverlo a parole. Questo è solo
-    un arrivederci, ci rivedremo nel nuovo mondo. Ikigai ci ha conquistato il
-    cuore!
-  es: >-
-    Nos sentimos de verdad afortunados cuando, no hace mucho, un querido amigo
-    nuestro se encontró con Luca en una playa de Los Roques. Desde ese momento,
-    descubrimos el proyecto Ikigai Sailing. Incluso antes de participar en esta
-    increíble experiencia, ya seguíamos desde la distancia a esta tripulación de
-    marineros soñadores. Poco después, nos encontramos a bordo del catamarán con
-    ellos. ¡Qué suerte!
-
-
-    Mi pareja y yo disfrutamos cada momento de este viaje inolvidable.
-    Descubrimos la belleza de poder confiar en alguien. Luca nos guió con
-    profesionalidad, seguridad y tranquilidad hacia nuevas actividades:
-    meditación, yoga, buceo libre y pesca submarina. Superamos nuestros límites
-    físicos y mentales, aprendimos a ralentizar el ritmo y a mirar hacia nuestro
-    interior. Nos sentimos renovados y más fuertes.
-
-
-    Rodeados por la atmósfera única del mar Caribe, la tripulación del Ikigai es
-    una mezcla perfecta. No podemos dejar de mencionar la dulzura de Paula y la
-    pasión de Luca por la cocina. Juntos, nos mimaron cada día con delicias del
-    mar. Nos sentimos como en casa.
-
-
-    Descubrimos lugares que nos emocionaron hasta las lágrimas, compartimos
-    momentos emotivos al atardecer y conocimos al pueblo Guna, resiliente y
-    profundamente conectado espiritualmente con la naturaleza. Nos sumergimos de
-    lleno en esta aventura, nos sentimos parte de la «familia» de Ikigai Sailing
-    y, al mismo tiempo, tan pequeños ante la inmensidad de la naturaleza de las
-    islas de San Blas.
-
-
-    No creo que podamos expresarlo con palabras. Esto es solo un adiós por
-    ahora, nos volveremos a ver en el nuevo mundo. Ikigai se ha ganado nuestros
-    corazones!
-  fr: >-
-    On s'est vraiment senti chanceux quand, il y a peu, un de nos chers amis a
-    rencontré Luca sur une plage de Los Roques. C'est à ce moment-là qu'on a
-    découvert le projet Ikigai Sailing. Avant même de participer à cette
-    incroyable aventure, on suivait déjà de loin cette équipe de marins rêveurs.
-    Peu après, on s’est retrouvés à bord du catamaran avec eux. Quelle chance !
-
-
-    Mon partenaire et moi avons savouré chaque instant de ce voyage inoubliable.
-    On a découvert la beauté de pouvoir faire confiance à quelqu’un. Luca nous a
-    guidés avec professionnalisme, sécurité et sérénité vers de nouvelles
-    activités : méditation, yoga, apnée et chasse sous-marine. On a repoussé nos
-    limites physiques et mentales, appris à ralentir et à faire le point sur
-    nous-mêmes. On s’est sentis revigorés et plus forts.
-
-
-    Dans l’atmosphère unique de la mer des Caraïbes, l’équipage de l’Ikigai
-    forme un mélange parfait. On ne peut pas passer sous silence la douceur de
-    Paula et la passion de Luca pour la cuisine. Ensemble, ils nous ont choyés
-    chaque jour avec des délices de la mer. On s’est sentis comme chez nous.
-
-
-    On a découvert des endroits qui nous ont émus aux larmes, partagé des
-    moments émouvants au coucher du soleil et rencontré le peuple Guna,
-    résilient et profondément connecté spirituellement à la nature. On s’est
-    pleinement immergés dans cette aventure, on s’est sentis comme des membres
-    de la « famille » Ikigai Sailing, et en même temps si petits face à
-    l’immensité de la nature des îles San Blas.
-
-
-    Je ne pense pas qu’on pourra jamais vraiment trouver les mots pour le
-    décrire. Ce n’est qu’un au revoir pour l’instant, on se reverra dans le
-    nouveau monde. Ikigai a conquis nos cœurs !
-  sk: >-
-    Naozaj sme mali pocit, že máme šťastie, keď nedávno náš drahý priateľ
-    stretol Lucu na pláži v Los Roques. Od tej chvíle sme objavili projekt
-    Ikigai Sailing. Ešte predtým, ako sme sa zapojili do tohto neuveriteľného
-    zážitku, sledovali sme túto posádku snívajúcich námorníkov z diaľky. O
-    krátky čas neskôr sme sa ocitli na palube katamaránu spolu s nimi. Naozaj
-    sme mali šťastie!
-
-
-    Môj partner a ja sme si užili každý okamih tejto nezabudnuteľnej cesty.
-    Objavili sme krásu toho, keď môžete niekomu dôverovať. Luca nás s
-    profesionalitou, bezpečnosťou a pokojom viedol k novým aktivitám: meditácii,
-    joge, freedivingu a špeharovaniu. Prekročili sme svoje fyzické a mentálne
-    limity, naučili sme sa spomaliť a pozrieť sa do seba. Cítili sme sa ako
-    znovuzrodení a silnejší.
-
-
-    Obklopená jedinečnou atmosférou Karibského mora je posádka Ikigai perfektnou
-    kombináciou. Nemôžeme nespomenúť Paulinu milosť a Lucovu vášeň pre varenie.
-    Spoločne nás každý deň rozmaznávali lahôdkami z mora. Cítili sme sa ako
-    doma.
-
-
-    Objavili sme miesta, ktoré nás dojali k slzám, zdieľali sme emotívne chvíle
-    pri západe slnka a stretli sme sa s ľuďmi z kmeňa Guna, odolnými a hlboko
-    duchovne prepojenými s prírodou. Plne sme sa ponorili do tohto
-    dobrodružstva, cítili sme sa ako súčasť „rodiny“ Ikigai Sailing a zároveň
-    tak malí pred rozľahlosťou prírody ostrovov San Blas.
-
-
-    Myslím, že to nikdy nebudeme vedieť skutočne vyjadriť slovami. Toto je len
-    dočasné rozlúčenie, stretneme sa znova v novom svete. Ikigai si získalo naše
-    srdcia!
-sourceHash: 862e6cc3cb865408
+  it: "Ho trascorso 6 notti a gennaio sull'Ikigai – e non riesco a immaginare un inizio migliore per la mia vacanza/anno sabbatico.  \nInnanzitutto, le Isole di San Blas sembrano un vero paradiso. Vivere su una barca e visitare isole diverse, svegliarsi e addormentarsi al suono delle onde e del vento è fantastico.\n\nE oltre a questo, c’è l’esperienza sull’Ikigai con Luca come capitano e Paola come chef. Formano una squadra perfetta! Il cibo e l’espresso italiano sono semplicemente… wow!! \U0001F60D  \nAbbiamo fatto meditazione, yoga e allenamenti insieme sulla barca o su un’isola sperduta. Abbiamo fatto snorkeling e abbiamo scoperto le peculiarità di San Blas.\n\nNon volevo proprio andarmene dopo il periodo inizialmente previsto – e anche per questo desiderio Luca ha trovato un’ottima soluzione.  \nGrazie per tutto!"
+  es: "Pasé seis noches en enero a bordo del Ikigai, y no se me ocurre un mejor comienzo para mis vacaciones o mi año sabático que este.  \nPara empezar, las islas de San Blas son como un paraíso. Vivir en un barco y visitar diferentes islas, despertarse y acostarse con el sonido de las olas y el viento es increíble.\n\nY además de esto, está la experiencia del Ikigai con Luca como capitán y Paola como chef. ¡Forman un equipo perfecto! La comida y el espresso italiano son simplemente... ¡guau! \U0001F60D  \nHicimos meditación, yoga y ejercicio juntos en el barco o en alguna isla remota. Hicimos snorkel y conocimos los entresijos de San Blas.\n\nLa verdad es que no quería irme después de la fecha que tenía prevista inicialmente, e incluso para este deseo Luca encontró una solución genial.  \n¡Grazie per tutto!"
+  fr: "J'ai passé 6 nuits en janvier sur l'Ikigai – et je ne pouvais pas rêver mieux pour commencer mes vacances/mon congé sabbatique.  \nD'abord, les îles San Blas, c'est un vrai petit coin de paradis. Vivre sur un bateau et découvrir différentes îles, se réveiller et s'endormir au son des vagues et du vent, c'est incroyable.\n\nEt en plus de ça, il y a l’expérience Ikigai avec Luca comme capitaine et Paola comme chef. Ils forment une équipe parfaite ! La nourriture et l’espresso italien, c’est juste… waouh !! \U0001F60D  \nOn a fait de la méditation, du yoga et des séances de sport ensemble sur le bateau ou sur une île isolée. On a fait de la plongée avec tuba et on a découvert les spécificités de San Blas.\n\nJe n’avais vraiment pas envie de partir après la date initialement prévue – et même pour ça, Luca a trouvé une super solution.  \nGrazie per tutto !"
+  sk: "V januári som strávil 6 nocí na lodi Ikigai – a neviem si predstaviť lepší začiatok dovolenky či voľna ako tento.  \nPredovšetkým sú ostrovy San Blas ako raj. Žiť na lodi a spoznávať rôzne ostrovy, prebúdzať sa a zaspávať pri zvuku vĺn a vetra je úžasné.\n\nA k tomu všetkému je tu zážitok na lodi Ikigai s Lucom ako kapitánom a Paolou ako šéfkuchárkou. Tvoria taký perfektný tím! Jedlo a talianske espresso sú proste – wow!! \U0001F60D  \nSpoločne sme meditovali, cvičili jogu a posilňovali na lodi alebo na odľahlom ostrove. Šnorchlovali sme a spoznali špecifiká San Blas.\n\nNaozaj som nechcela odísť po uplynutí pôvodne plánovaného času – a aj pre toto želanie našiel Luca skvelé riešenie.  \nGrazie per tutto!"
+sourceHash: 8a7460fcc0530b3a
 ---
-We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
 
-My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger.
-
-Surrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect blend. We cannot fail to mention Paula’s sweetness and Luca’s passion for cooking. Together, they pampered us every day with delicacies from the sea. We felt at home.
-
-We discovered places that moved us to tears, shared emotional moments at sunset, and met the Guna people, resilient and deeply connected spiritually with nature. We fully immersed ourselves in this adventure, felt part of the Ikigai Sailing “family,” and at the same time so small in front of the vastness of the San Blas Islands’ nature.
-
-I don’t think we will ever truly be able to put it into words. This is only a goodbye for now, we will meet again in the new world. Ikigai has captured our hearts!
+I spent 6 nights in January on Ikigai – and I cannot think of a better start of my vacation/ sabbatical then this.  
+First of all, San Blas Islands feel like paradise. Living on a boat and seeing different islands, waking up and going to bed to the sound of the waves and the wind is amazing.  
+  
+And on top of this, there is the Ikigai experience with Luca as the captain and Paola as the chef. They form such a perfect team! Food and Italian Espresso is just – wow!! 😍  
+We did meditation, yoga and workouts together on the boat or on a remote island. Went snorkeling and got to know the specifics of San Blas.  
+  
+I really didn’t want to leave after my initially planned time – and even for this wish Luca found a great solution.  
+Grazie per tutto!

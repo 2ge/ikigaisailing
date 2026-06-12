@@ -16,13 +16,14 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: e52db14392e14b47
+sourceHash: 2acead3e82d0831c
 ---
+
 ## Ikigai
 
 **QU'EST-CE QUE L'IKIGAI ?**
 
-Le terme japonais **Ikigai** signifie **« raison d'être »** et représente l'art de trouver son équilibre intérieur. C'est la boussole qui nous guide vers un épanouissement profond en combinant **ce qu'on aime, ce pour quoi on est doué, ce dont le monde a besoin et ce pour quoi on peut être rémunéré**.
+Le terme japonais **Ikigai** signifie **« raison d’être »** et représente l’art de trouver son équilibre intérieur. C’est la boussole qui nous guide vers un épanouissement profond en combinant **ce qu’on aime, ce pour quoi on est doué, ce dont le monde a besoin et ce pour quoi on peut être rémunéré**.
 
 **Avec Ikigai Sailing**, on applique cette philosophie en la transformant en un **mode de vie** qui non seulement explore le monde, mais enrichit aussi tous ceux qui montent à bord, en offrant une expérience de **croissance personnelle et collective**.
 
@@ -34,7 +35,7 @@ Pour la **mer, la voile, l'aventure, les voyages, la cuisine et le sport**.
 
 ### VOCATION
 
-Rapprocher les gens **de leurs passions, des autres, de la nature et d'eux-mêmes**.
+Rapprocher les gens **de leurs passions, des autres, de la nature et d’eux-mêmes**.
 
 ### MISSION
 
@@ -53,7 +54,7 @@ NOTRE Ikigai
 
 ### CE DONT LE MONDE A BESOIN
 
-Liberté, partage, conscience, amitié, confiance, durabilité, rêver, prendre soin de soi, découvrir et comprendre de nouvelles cultures.
+Liberté, partage, conscience, amitié, confiance, durabilité, rêves, bien-être, découverte et compréhension de nouvelles cultures.
 
 ### CE POUR QUOI ON PEUT NOUS RÉMUNÉRER
 

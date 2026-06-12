@@ -1,15 +1,16 @@
 ---
 title: Dovolenka na katamaráne
 description: >-
-  Dovolenka na katamaráne s Ikigai Sailing je ideálnym zážitkom pre všetkých,
-  ktorí hľadajú oddych, dobrodružstvo a spôsob, ako si užiť more.
+  Dovolenka na katamaráne s Ikigai Sailing je ideálnym zážitkom pre tých, ktorí
+  hľadajú oddych, dobrodružstvo a spôsob, ako si užiť more.
 locale: sk
 pubDate: '2025-03-13'
 image: ~/assets/pages/vita-a-bordo-social/respiro.jpg
 translated: deepl
-sourceHash: 1265ab424d55abf1
+sourceHash: 437699e2f9641a73
 needsReview: true
 ---
+
 Snívate o úniku ďaleko od davov, o ponorení sa do prírody a o kolísaní na vlnách? **Dovolenka** **na katamaráne** s Ikigai Sailing je dokonalým zážitkom pre tých, ktorí hľadajú oddych, dobrodružstvo a autentický spôsob, ako zažiť more. Zistite, prečo by plavba s nami mohla byť tou najlepšou voľbou pre vašu ďalšiu dovolenku!
 
 ### **1\. Sloboda a nedotknutá príroda**
@@ -20,7 +21,7 @@ Zabudnite na preplnené pláže a letoviská plné turistov. Na dovolenke na kat
 
 Na rozdiel od tradičných plachetníc ponúka katamarán viac priestoru, stability a pohodlia. Priestranné kajuty, otvorené oddychové zóny a plynulejšia plavba ho robia ideálnym aj pre tých, ktorí nemajú žiadne skúsenosti s plachtením.
 
-### **3\. Plachtenie bez starostí**
+### **3\. Plavba bez starostí**
 
 Nemusíte byť skúseným námorníkom! S Ikigai Sailing si môžete vybrať, či sa chcete naučiť základy plavby, alebo si jednoducho oddýchnuť a užiť si cestu, zatiaľ čo sa o všetko postará naša posádka.
 

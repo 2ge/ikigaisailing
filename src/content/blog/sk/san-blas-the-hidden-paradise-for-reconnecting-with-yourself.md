@@ -7,14 +7,15 @@ locale: sk
 pubDate: '2025-02-27'
 image: ~/assets/trips/acconto/san-blas.webp
 translated: deepl
-sourceHash: 703595d9dc3e78b5
+sourceHash: 311a7995aa3261c6
 needsReview: true
 ---
-Súostrovie s viac ako 360 ostrovmi ponorenými do krištáľovo čistej vody Karibiku, bielymi pieskovými plážami, vlnivými palmami a očarujúcim podmorským svetom hemžiacim sa životom. Vitajte v San Blase, mieste mimo času, kde nedotknutá príroda a domorodá kultúra Guna Yala ponúkajú autentický a osviežujúci zážitok.
+
+Súostrovie s viac ako 360 ostrovmi ponorenými do krištáľovo čistej vody Karibiku, bielymi pieskovými plážami, vlniacimi sa palmami a očarujúcim podmorským svetom hemžiacim sa životom. Vitajte v San Blas, mieste mimo času, kde nedotknutá príroda a domorodá kultúra Guna Yala ponúkajú autentický a osviežujúci zážitok.
 
 ### **Nespútaná príroda San Blas**
 
-San Blas je pozemský raj, domov nedotknutých ostrovov, z ktorých mnohé zostávajú neobývané, a poskytuje tak dokonalý únik pre tých, ktorí hľadajú únik od chaosu moderného života. Tu vládne príroda: hlboká modrá farba mora sa spája so sviežou zeleňou tropickej vegetácie a vytvára tak úchvatné krajiny.
+San Blas je pozemský raj, domov nedotknutých ostrovov, z ktorých mnohé zostávajú neobývané, a poskytuje tak dokonalý únik pre tých, ktorí hľadajú únik od chaosu moderného života. Tu vládne príroda: hlboká modrá farba mora sa mieša so sviežou zeleňou tropickej vegetácie a vytvára tak dychberúce krajiny.
 
 Dni v San Blas plynú medzi blaženým oddychom na opustených plážach a objavovaním ostrovov vzácnej krásy. Každý kút tohto súostrovia vás pozýva, aby ste sa opäť spojili s najčistejšou esenciou prírody.
 
@@ -34,7 +35,7 @@ Pre nadšencov potápania ponúka San Blas nádherné morské dno s potopenými 
 
 San Blas nie je len prírodným rajom – je to aj ideálne miesto na omladenie tela i duše. Čas tu plynie pomaly, sprevádzaný len šumením vĺn a šelestom paliem vo vetre. Chýbajúce internetové pripojenie na mnohých ostrovoch umožňuje skutočnú digitálnu detoxikáciu a pomáha návštevníkom znovuobjaviť radosť z jednoduchosti.
 
-Dni trávite plávaním v krištáľovo čistej vode, prechádzkami po opustených plážach a pozorovaním ohnivých západov slnka, ktoré maľujú oblohu dychberúcimi farbami. Spojenie s prírodou, životný štýl bez stresu a možnosť zažiť autentické zážitky s miestnym obyvateľstvom robia zo San Blas perfektné útočisko pre tých, ktorí hľadajú opätovné spojenie so sebou samými a vnútorný pokoj.
+Dni trávite plávaním v krištáľovo čistej vode, prechádzkami po opustených plážach a pozorovaním ohnivých západov slnka, ktoré maľujú oblohu dychberúcimi farbami. Spojenie s prírodou, životný štýl bez stresu a možnosť zažiť autentické zážitky s miestnym obyvateľstvom robia zo San Blas perfektné útočisko pre tých, ktorí hľadajú spojenie so sebou samými a vnútorný pokoj.
 
 ### **San Blas – cesta do srdca prírody**
 

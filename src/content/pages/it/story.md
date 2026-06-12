@@ -4,7 +4,7 @@ description: "Scopri la storia di Ikigai Sailing: il viaggio, la passione per il
 locale: "it"
 oldUrls:
   - "/it/la-storia-di-ikigai-sailing/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/catana-47/9d81ff7c-0f84-48ed-b44a-efc36ece6d56-scaled.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

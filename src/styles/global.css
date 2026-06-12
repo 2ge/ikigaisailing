@@ -172,6 +172,26 @@
     to { opacity: 1; transform: none; }
   }
 
+  /* testimonial card body clamp with soft fade (full text on /reviews/) */
+  .testimonial-clamp {
+    max-height: 13rem;
+    overflow: hidden;
+  }
+  .testimonial-clamp::after {
+    content: '';
+    position: absolute;
+    inset: auto 0 0 0;
+    height: 2.75rem;
+    background: linear-gradient(to top, var(--color-sand-50), transparent);
+    pointer-events: none;
+  }
+  .testimonial-clamp.testimonial-clamp--open {
+    max-height: none;
+  }
+  .testimonial-clamp--open::after {
+    display: none;
+  }
+
   /* horizontal scroll-snap rail (testimonials, galleries) */
   .snap-rail {
     display: flex;

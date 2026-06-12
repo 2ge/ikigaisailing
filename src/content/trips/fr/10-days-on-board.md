@@ -22,11 +22,12 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: fba3506b9f3e93d6
+sourceHash: 34f6145cb21088fe
 ---
+
 ## **Introduction**
 
-Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. On t’invite à sortir de ta zone de confort, à tenter de nouvelles expériences et à renforcer ta discipline, tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
+Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation, c’est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
 
 ## **Programme quotidien Matin (env. 1h30) :** Chaque journée commence par une séance guidée pouvant inclure :
 

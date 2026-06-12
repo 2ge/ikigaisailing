@@ -4,7 +4,7 @@ description: "Vuoi unirti a noi per un’esperienza di navigazione unica? Contat
 locale: "it"
 oldUrls:
   - "/it/contact/"
-heroImage: "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
+heroImage: "~/assets/pages/catana-47/77153A04-394A-4BF7-ABE8-562BB9D30533_1_201_a-scaled.avif"
 gallery:
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
   - "~/assets/trips/acconto/itinerario.jpg"

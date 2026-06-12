@@ -15,9 +15,10 @@ gallery:
   - ~/assets/pages/route/ikigaisailing-2025-los-roques.jpg
   - ~/assets/pages/route/ikigaisailing-next-australia.jpg
 translated: deepl
-sourceHash: 2e7d5f9ec803f2fa
+sourceHash: 71d02588efee0bb4
 needsReview: true
 ---
+
 ## TRASA
 
 Poloha v reálnom čase
@@ -122,10 +123,3 @@ Curacao\*\*Ďalej sa vydáme do Kolumbie, potom prejdeme Panamským prieplavom a
 Naše dobrodružstvo nás zavedie na **Galapágy, Markézy, Tahiti a Fidži,** až nakoniec dorazíme do severnej **Austrálie**. Potom poplávame do **Indonézie, Thajska, Srí Lanky a na Maldivy**, než prekročíme Indický oceán smerom k **Indii a Dubaju**.
 
 Odtiaľ budeme sledovať pobrežie **Ománu a Jemenu** do **Červeného mora**, prejdeme cez Sudán a Egypt, a potom cez **Suezský prieplav** opäť vstúpime do **Stredozemného** mora, čím naše dobrodružstvo skončí.
-
-Britské Panenské ostrovy
-
-Guadeloupe
-
-Martinik
-

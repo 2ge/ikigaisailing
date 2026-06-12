@@ -1,16 +1,18 @@
 ---
 title: ¿Qué son las vacaciones «Ikigai» y por qué no son unas vacaciones cualquiera?
 description: >-
-  ¿Qué es una «vacación Ikigai»? Y por qué no es una simple vacación, sino algo
-  mucho más sutil y profundo: no es una meta que haya que alcanzar.
+  ¿Qué es unas vacaciones Ikigai y por qué no son unas vacaciones cualquiera?
+  Son algo mucho más sutil y profundo: no se trata de un objetivo que haya que
+  alcanzar.
 locale: es
 pubDate: '2026-02-02'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-33.jpg
 translated: deepl
-sourceHash: e35e1acf7fc6455e
+sourceHash: 5f8d22b24960bb37
 ---
-En los últimos años, la palabra _«Ikigai»_ se ha vuelto cada vez más popular, y a menudo se simplifica hasta convertirla en una fórmula motivacional o un diagrama de colores.  
-En la cultura japonesa, sin embargo, el Ikigai es algo mucho más profundo. No es algo que se persiga, sino algo **a lo** que hay que **escuchar**.  
+
+En los últimos años, la palabra _«Ikigai»_ se ha vuelto cada vez más popular, y a menudo se simplifica hasta convertirla en una fórmula motivacional o un diagrama colorido.  
+En la cultura japonesa, sin embargo, el Ikigai es algo mucho más profundo. No es algo que se persiga, sino algo **a** lo que hay que **escuchar**.  
 Unas vacaciones «Ikigai» parten precisamente de esta idea.
 
 ## **El verdadero significado de «Ikigai»**
@@ -23,7 +25,7 @@ Son un regreso a lo que realmente importa.
 ## **Por qué muchas vacaciones no nos cambian realmente**
 
 Las vacaciones tradicionales ofrecen descanso, comodidad y distracción. Funcionan… temporalmente.  
-Pero una vez de vuelta a casa, muchas personas se dan cuenta de que nada ha cambiado realmente en su interior.  
+Pero una vez de vuelta a casa, mucha gente se da cuenta de que nada ha cambiado realmente por dentro.  
 El descanso por sí solo no genera transformación.  
 El cambio requiere espacio y saber escuchar.
 

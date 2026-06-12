@@ -8,12 +8,13 @@ locale: it
 pubDate: '2026-02-07'
 image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
-sourceHash: 947b4f6dfd2fc3f6
+sourceHash: 32c6f2dfb1bac519
 ---
+
 Il viaggio consapevole può essere definito come un percorso in cui l'intenzione diventa la forza motrice dell'esplorazione, inserita in una prospettiva in cui la consapevolezza e la presenza sono parte integrante della destinazione.
 
 Viaggiare non significa più solo raggiungere una destinazione.  
-Per molti, è diventato un modo per riconnettersi: con la presenza, il significato e la chiarezza interiore.
+Per molti è diventato un modo per riconnettersi: con la presenza, il significato e la chiarezza interiore.
 
 È qui che inizia **il viaggio consapevole**.  
 Non come una moda, ma come risposta a un desiderio più profondo: muoversi nel mondo con intenzione.
@@ -25,15 +26,15 @@ Il viaggio consapevole non significa fare meno, ma **essere più presenti**.
 Significa:
 
 -   scegliere esperienze in linea con i propri valori
--   rallentare abbastanza da sentire cosa sta succedendo dentro di te
+-   rallentare abbastanza per sentire cosa sta succedendo dentro di te
 -   lasciare spazio invece di riempire ogni momento
 
-Viaggiare con intenzione non significa fuggire dalla vita.  
+Viaggiare con consapevolezza non significa fuggire dalla vita.  
 Significa creare le condizioni per affrontarla in modo più sincero.
 
 ## **La vita in mare come spazio di consapevolezza**
 
-Tra le esperienze di viaggio consapevole, la vita in mare offre qualcosa di unico.
+Tra le esperienze di viaggio consapevoli, la vita in mare offre qualcosa di unico.
 
 **Un'esperienza** **di vita in mare** invita naturalmente a:
 

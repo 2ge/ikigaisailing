@@ -1,17 +1,18 @@
 ---
 title: Le réflexe de plongée chez les mammifères
 description: >-
-  le réflexe de plongée des mammifères, un superpouvoir caché que tous les
+  le réflexe de plongée des mammifères, un super-pouvoir caché que tous les
   mammifères possèdent, hérité de nos lointains ancêtres aquatiques
 locale: fr
 pubDate: '2025-03-21'
 image: ~/assets/pages/season-2025-26/apnea6.webp
 translated: deepl
-sourceHash: ce7c84090510b6f3
+sourceHash: c0196358e0401db0
 ---
-Dans l'eau, ton corps se transforme en une **machine de plongée parfaite**, comme si tu étais un **dauphin ou un phoque** l'espace d'un instant ! C'est le **réflexe de plongée des mammifères**, un **super-pouvoir caché** que possèdent tous les mammifères, hérité de nos lointains ancêtres aquatiques.
 
-Quand on plonge en apnée, surtout en **eau froide**, notre corps **s’active de manière extraordinaire**, déclenchant une série d’**incroyables adaptations physiologiques** qui agissent de concert pour faire de nous **de véritables explorateurs des profondeurs**. C’est comme si notre corps disait :
+Dans l'eau, ton corps se transforme en une **machine de plongée parfaite**, comme si tu étais un **dauphin ou un phoque** l'espace d'un instant ! C'est le **réflexe de plongée des mammifères**, un **super-pouvoir caché** que tous les mammifères possèdent, hérité de nos lointains ancêtres aquatiques.
+
+Quand on plonge en apnée, surtout en **eau froide**, notre corps **s’active de manière extraordinaire**, déclenchant une série d’**adaptations physiologiques incroyables** qui, ensemble, font de nous **de véritables explorateurs des profondeurs**. C’est comme si notre corps disait :
 
 _« Détends-toi, je m’en occupe ! »_
 
@@ -19,7 +20,7 @@ _« Détends-toi, je m’en occupe ! »_
 
 1️⃣ **Bradycardie** – Ton rythme cardiaque **ralentit** (jusqu’à **25 %** !), comme un moteur passant en **mode économie d’énergie**, ce qui te permet de **rester sous l’eau plus longtemps**.
 
-2️⃣ **Vasoconstriction périphérique** – Le sang **se retire des bras et des jambes**, se concentrant sur les organes vitaux – **cœur, poumons et cerveau** – créant ainsi un **système de priorités parfait** pour préserver l’oxygène.
+2️⃣ **Vasoconstriction périphérique** – Le sang **se retire des bras et des jambes**, se concentrant sur les organes vitaux – **cœur, poumons et cerveau** – créant ainsi un **système de priorisation parfait** pour préserver l’oxygène.
 
 3️⃣ **Déplacement sanguin** – Une partie du plasma sanguin **se déplace vers les capillaires pulmonaires**, les protégeant de la pression et agissant comme un **bouclier naturel contre les profondeurs**.
 

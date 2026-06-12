@@ -1,18 +1,19 @@
 ---
 title: Potápačský reflex cicavcov
 description: >-
-  potápačský reflex cicavcov, skrytá superschopnosť, ktorú majú všetky cicavce a
+  potápačský reflex cicavcov, skrytá schopnosť, ktorú majú všetky cicavce a
   ktorú zdedili po svojich vzdialených vodných predkoch
 locale: sk
 pubDate: '2025-03-21'
 image: ~/assets/pages/season-2025-26/apnea6.webp
 translated: deepl
-sourceHash: ce7c84090510b6f3
+sourceHash: c0196358e0401db0
 needsReview: true
 ---
+
 Vo vode sa vaše telo premení na **dokonalý potápačský stroj**, akoby ste sa na chvíľu stali **delfínom alebo tuleňom**! Ide o **potápačský reflex** **cicavcov**, **skrytú superschopnosť**, ktorú majú všetky cicavce a ktorú sme zdedili po našich vzdialených vodných predkoch.
 
-Keď sa potápame v apnoe, najmä v **studenej vode**, naše telo **sa aktivuje mimoriadnym spôsobom** a spúšťa sériu **neuveriteľných fyziologických adaptácií**, ktoré spoločne z nás robia **skutočných prieskumníkov hlbín**. Je to, ako keby naše telo hovorilo:
+Keď sa potápame bez dýchacieho prístroja, najmä v **studenej vode**, naše telo **sa aktivuje mimoriadnym spôsobom** a spúšťa sériu **neuveriteľných fyziologických adaptácií**, ktoré spoločne z nás robia **skutočných prieskumníkov hlbín**. Je to, ako keby naše telo hovorilo:
 
 _„Uvoľni sa, ja to zvládnem!“_
 

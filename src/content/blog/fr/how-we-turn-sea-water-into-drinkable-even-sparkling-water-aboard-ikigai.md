@@ -8,8 +8,9 @@ locale: fr
 pubDate: '2026-01-24'
 image: ~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp
 translated: deepl
-sourceHash: 87ba2aa4d14b372b
+sourceHash: de2ecf6ec4bc289d
 ---
+
 En pleine mer, l'accès à **l'eau douce** n'est jamais garanti, et c'est l'une des raisons pour lesquelles on a décidé de transformer l'eau de mer en eau potable. À bord de **l'Ikigai Sailing**, on a choisi l'autonomie : pas de bouteilles en plastique, pas d'escales obligatoires dans les ports. Juste la mer, la technologie et l'ingéniosité.
 
 Chaque jour, on produit notre propre **eau potable**, même **gazeuse**, directement à partir de **l'eau de mer**. Ça nous permet de vivre **hors réseau** et de réduire considérablement notre empreinte écologique.

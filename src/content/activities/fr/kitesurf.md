@@ -29,8 +29,9 @@ gallery:
   - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 translated: deepl
-sourceHash: ce13edc955bca7f1
+sourceHash: 7eab3d55ba40eac4
 ---
+
 ## Kitesurf
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
@@ -69,8 +70,8 @@ Rejoins-nous pour apprendre ou perfectionner le kitesurf dans un cadre paradisia
 
 -   **Accès exclusif :** Accède aux spots les plus spectaculaires et aux meilleurs vents, loin de la foule, dans des environnements naturels préservés. Lance ton kite directement depuis le catamaran et explore des spots inaccessibles par la terre.
 -   **Sécurité optimisée :** notre annexe dédiée assure un soutien constant et des interventions rapides, te garantissant des sessions en toute sérénité.
--   **Liberté et flexibilité :** Choisis quand et où tu veux surfer. À bord d’Ikigai, nous suivons les meilleures conditions météo et de vent pour t’offrir une expérience de kitesurf inégalée.
--   **Détente et confort :** quand tu as besoin d'une pause, remonte à bord et détends-toi. Notre maison flottante t'offre des moments de pure détente et de bien-être pour le corps et l'esprit.
+-   **Liberté et flexibilité :** Choisis quand et où tu veux surfer. À bord d'Ikigai, nous suivons les meilleures conditions météo et de vent pour t'offrir une expérience de kitesurf inégalée.
+-   **Détente et confort :** quand tu as besoin d'une pause, remonte à bord et détends-toi. Notre maison flottante offre des moments de pure détente et de bien-être pour le corps et l'esprit.
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/kite-surf7.jpg)
 

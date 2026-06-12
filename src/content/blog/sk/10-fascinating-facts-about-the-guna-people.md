@@ -7,12 +7,13 @@ locale: sk
 pubDate: '2025-04-29'
 image: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 translated: deepl
-sourceHash: 0be588aec8a89f4f
+sourceHash: 6c92a647265a59d6
 needsReview: true
 ---
+
 _(Plavebný denník Ikigai Sailing)_
 
-Keď plávame na palube _lode Ikigai_ krištáľovo čistými vodami San Blas, stáva sa jasné: toto nie je len dovolenka. Je to pozvánka vstúpiť do iného rytmu, iného spôsobu bytia. Tieto ostrovy nie sú len krásne – uchovávajú živú kultúru, silnú a odolnú.
+Keď plávame na palube _lode Ikigai_ krištáľovo čistými vodami San Blas, stáva sa jasné: toto nie je len dovolenka. Je to pozvánka vstúpiť do iného rytmu, iného spôsobu bytia. Tieto ostrovy nie sú len krásne – sú nositeľmi živej kultúry, silnej a odolnej.
 
 Tu je 10 zaujímavých faktov, ktoré sme sa dozvedeli o ľude Guna. Príbehy, ktoré sme si vymenili pri kotvení, pri čerstvých kokosoch alebo medzi plavbami, nám pripomínajú, že jednoduchosť môže byť radikálnou, vedomou voľbou.
 
@@ -26,7 +27,7 @@ Súostrovie Guna Yala má asi 365 ostrovov, ale obývaných je menej ako 50. A z
 
 ### **3\. Žiadny plast, žiadny betón**
 
-Žiadne rezorty, žiadne cesty, žiadne betónové budovy. Guna žijú v chatrčiach s palmovými strechami a plasty zakazujú, pokiaľ je to možné. Je to hlboká dohoda o ochrane ich životného prostredia.
+Žiadne rezorty, žiadne cesty, žiadne betónové budovy. Guna žijú v chatrčiach s palmovou strechou a plasty zakazujú, pokiaľ je to možné. Je to hlboká dohoda o ochrane ich životného prostredia.
 
 ### **4\. Molas: vyšívané príbehy**
 
@@ -36,13 +37,13 @@ Súostrovie Guna Yala má asi 365 ostrovov, ale obývaných je menej ako 50. A z
 
 Mnohí stále cestujú v tradičných kanoe (_ulu_), riadených nie GPS, ale hviezdami, morom a generáciami vedomostí. Pripomínajú nám, že skutočná navigácia začína prítomnosťou.
 
-### **6\. Veľký Duch**
+### **6\. Veľký duch**
 
 Ich duchovnosť spája animizmus a múdrosť prírody. Všetko je živé. Všetko je prepojené. Pri táborákoch sa rozprávajú príbehy – o duchoch, zvieratách, snoch a úcte.
 
 ### **7\. Jazyk Dulegaya**
 
-Hovoria dulegajsky, starobylým a melódickým jazykom. Hoci mnohí rozumejú španielčine, dulegajčina je dušou ich kultúry.
+Hovoria dulegajsky, starobylým a melodickým jazykom. Hoci mnohí rozumejú španielčine, dulegajčina je dušou ich kultúry.
 
 ### **8\. Politicky autonómni od roku 1925**
 
