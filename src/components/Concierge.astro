@@ -60,18 +60,24 @@ const chips = chipSets[context] ?? chipSets.generic;
 </style>
 
 <script>
-  // Tiny loader — the real chat module is fetched only on first click.
-  const root = document.getElementById('ikigai-concierge');
-  const fab = document.getElementById('concierge-fab');
-  let loaded = false;
-  fab?.addEventListener('click', async () => {
-    if (loaded) {
+  // Tiny loader — the real chat module is fetched only on first click. Re-bind on
+  // every View Transitions navigation (incl. the / → /<locale>/ redirect), else
+  // the "Ask the crew" button is dead after nav.
+  function bindFab() {
+    const fab = document.getElementById('concierge-fab');
+    if (!fab || fab.dataset.bound) return;
+    fab.dataset.bound = '1';
+    let loaded = false;
+    fab.addEventListener('click', async () => {
+      if (loaded) {
+        window.dispatchEvent(new CustomEvent('concierge:toggle'));
+        return;
+      }
+      loaded = true;
+      const { initConcierge } = await import('../scripts/concierge-widget.ts');
+      initConcierge(document.getElementById('ikigai-concierge')!);
       window.dispatchEvent(new CustomEvent('concierge:toggle'));
-      return;
-    }
-    loaded = true;
-    const { initConcierge } = await import('../scripts/concierge-widget.ts');
-    initConcierge(root!);
-    window.dispatchEvent(new CustomEvent('concierge:toggle'));
-  });
+    });
+  }
+  document.addEventListener('astro:page-load', bindFab);
 </script>

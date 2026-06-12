@@ -103,7 +103,6 @@ const lp = (p: string) => localizePath(p, locale);
               hreflang={l}
             >
               <span class="flag" set:html={flags[l as Locale]} />
-              <span class="coords">{l.toUpperCase()}</span>
               <span>{localeNames[l as Locale]}</span>
             </a>
           ))}
@@ -158,10 +157,17 @@ const lp = (p: string) => localizePath(p, locale);
 </header>
 
 <script>
-  const toggle = document.getElementById('menu-toggle');
-  const menu = document.getElementById('mobile-menu');
-  toggle?.addEventListener('click', () => {
-    const open = menu?.classList.toggle('hidden') === false;
-    toggle.setAttribute('aria-expanded', String(open));
-  });
+  // Re-bind on every View Transitions navigation (incl. the / → /<locale>/
+  // redirect), not just first load — otherwise the hamburger is dead after nav.
+  function bindMenu() {
+    const toggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('mobile-menu');
+    if (!toggle || toggle.dataset.bound) return;
+    toggle.dataset.bound = '1';
+    toggle.addEventListener('click', () => {
+      const open = menu?.classList.toggle('hidden') === false;
+      toggle.setAttribute('aria-expanded', String(open));
+    });
+  }
+  document.addEventListener('astro:page-load', bindMenu);
 </script>
