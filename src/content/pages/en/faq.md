@@ -87,16 +87,3 @@ On board you’ll find certified instructors (Yoga Alliance, AIDA International,
 ### Do I need to know how to swim?
 
 Yes, being comfortable in the water is important. You don’t need to be an athlete, but you do need to feel at ease in the sea.
-
-### Formule Di Imbarco
-
-#### [10 days on board Ikigai](/trips/10-days-on-board/)
-
-3.000,00 €
-
-[Experience reserved for members](/trips/one-month/)
-
-#### [One month aboard](/trips/one-month/)
-
-2.000,00 €
-

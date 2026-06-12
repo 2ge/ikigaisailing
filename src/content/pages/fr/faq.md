@@ -18,7 +18,7 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 25ef143e96050e89
+sourceHash: 9d90a412d5937fe7
 ---
 
 ### Ai-je besoin d'une expérience préalable en yoga, en méditation ou en apnée ?
@@ -35,7 +35,7 @@ Le Janzu est une pratique de thérapie aquatique qui favorise une relaxation pro
 
 ### À quoi ressemble le programme quotidien ?
 
-Le matin (environ 1 h 30), on se concentre sur les techniques de respiration Pranayama, le yoga, la méditation et des séances alternées d'entraînement au poids du corps ou d'initiation à la boxe. Les soirées sont consacrées à l'introspection, à la relaxation, au yoga au coucher du soleil et à la méditation.
+Le matin (environ 1 h 30), on se concentre sur les techniques de respiration Pranayama, le yoga, la méditation et des séances alternées d’entraînement au poids du corps ou d’initiation à la boxe. Les soirées sont consacrées à l’introspection, à la relaxation, au yoga au coucher du soleil et à la méditation.
 
 ### Vais-tu avoir le mal de mer ?
 
@@ -61,9 +61,9 @@ Oui, il est conseillé d'emporter quelques dollars américains pour ton séjour 
 
 Ton voyage commencera probablement par un vol vers l'aéroport international de Tocumen (PTY) à Panama City, avec une arrivée généralement prévue dans l'après-midi ou en soirée. Tu devras passer au moins une nuit dans la capitale — une excellente occasion d'explorer la ville et de flâner dans les charmantes rues de Casco Viejo, site classé au patrimoine mondial de l'UNESCO. Le lendemain matin, une jeep 4×4 privée viendra te chercher à ton hôtel et t'emmènera sur la côte caraïbe. Après environ 2 h 30 de route à travers la forêt tropicale de Guna Yala, un bateau local t'emmènera à Ikigai, où tu arriveras vers 10 h 30. L'ensemble du voyage est organisé par nos soins en collaboration avec des partenaires locaux de confiance afin de garantir une logistique fluide et sûre du début à la fin.
 
-### Comment l'électricité est-elle gérée à bord ? Quel type de tension et de prises vais-je trouver ?
+### Comment l'électricité est-elle gérée à bord ? Quel type de tension et de prises vais-tu trouver ?
 
-Sur l'Ikigai, nous sommes totalement autonomes en énergie. Grâce à des panneaux solaires, un hydrogénérateur et un générateur de secours, nous produisons et stockons toute l'énergie nécessaire à la vie à bord, même pendant les longues traversées en mer. Le système électrique fonctionne en 220 volts (norme européenne) et en 12 volts (courant continu). Chaque cabine est équipée de prises européennes de type Schuko. Il y a également une station d'alimentation commune dans le cockpit pour recharger les téléphones, appareils photo, tablettes et ordinateurs portables. Évite d'utiliser des appareils à forte consommation (comme les sèche-cheveux ou les bouilloires électriques), car ils peuvent surcharger le système. Si tu viens d'un pays où les prises sont différentes (par exemple le Royaume-Uni ou les États-Unis), nous te recommandons d'apporter un adaptateur universel. Nous te demandons de bien vouloir utiliser l'électricité de manière responsable — notre système est efficace, mais conçu pour un mode de vie durable en harmonie avec la mer.
+Sur l'Ikigai, nous sommes totalement autonomes en énergie. Grâce à des panneaux solaires, un hydrogénérateur et un générateur de secours, nous produisons et stockons toute l'énergie nécessaire à la vie à bord, même pendant les longues périodes en mer. Le système électrique fonctionne en 220 volts (norme européenne) et en 12 volts (courant continu). Chaque cabine est équipée de prises européennes de type Schuko. Il y a également une station d'alimentation commune dans le cockpit pour recharger téléphones, appareils photo, tablettes et ordinateurs portables. Évite d'utiliser des appareils à forte consommation (comme les sèche-cheveux ou les bouilloires électriques), car ils peuvent surcharger le système. Si tu viens d'un pays où les prises sont différentes (par exemple le Royaume-Uni ou les États-Unis), nous te recommandons d'apporter un adaptateur universel. Nous te demandons de bien vouloir utiliser l'électricité de manière responsable — notre système est efficace, mais conçu pour un mode de vie durable en harmonie avec la mer.
 
 ### Que dois-je emporter ?
 
@@ -76,7 +76,7 @@ La vie à bord est merveilleusement minimaliste 🙂 Tu auras besoin de très pe
 -   Des shorts
 -   Maillots de bain
 -   Serviette de plage
--   Serviette de bain
+-   Serviette de douche
 -   Sweat-shirt léger et/ou coupe-vent (pour la navigation de nuit)
 -   Comprimés contre le mal de mer (si nécessaire)
 -   Tongs
@@ -95,15 +95,3 @@ Le groupe est limité à 6 participants maximum pour garantir une expérience in
 ### Dois-je savoir nager ?
 
 Oui, il est important d'être à l'aise dans l'eau. Tu n'as pas besoin d'être un athlète, mais tu dois te sentir à l'aise en mer.
-
-### Formule d'embarquement
-
-#### [10 jours à bord de l'Ikigai](/fr/embarquements/10-days-on-board/)
-
-3 000,00 €
-
-[Expérience réservée aux membres](/fr/embarquements/one-month/)
-
-#### [Un mois à bord](/fr/embarquements/one-month/)
-
-2 000,00 €

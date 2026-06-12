@@ -17,13 +17,13 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 25ef143e96050e89
+sourceHash: 9d90a412d5937fe7
 needsReview: true
 ---
 
 ### Potrebujem predchádzajúce skúsenosti s jógou, meditáciou alebo freedivingom?
 
-Nie, nie je to potrebné. Všetky lekcie sú vhodné pre všetky úrovne a sú dobrovoľné.
+Nie, nie je to potrebné. Všetky lekcie sú vhodné pre všetky úrovne a sú voliteľné.
 
 ### Mám obavy z zadržiavania dychu – čo mám robiť?
 
@@ -37,7 +37,7 @@ Janzu je vodná terapia, ktorá podporuje hlbokú relaxáciu a pomáha uvoľniť
 
 Ráno (približne 1,5 hodiny) sa zameriavame na dychové techniky Pranayama, jogu, meditáciu a striedajúce sa cvičenia s vlastnou váhou alebo základy boxu. Večery sú venované introspekcii, relaxácii, joge pri západe slnka a meditácii.
 
-### Bude mi zle od mora?
+### Bude mi zle na mori?
 
 Pravdepodobne nie – veľký katamarán ponúka vynikajúcu stabilitu a kotvíme v chránených oblastiach. Ak sa to predsa len stane, tabletky proti morskej chorobe sú veľmi účinné a telo sa zvyčajne prispôsobí do pár dní.
 
@@ -61,13 +61,13 @@ Dôrazne sa odporúča.
 
 Vaša cesta pravdepodobne začne letom na medzinárodné letisko Tocumen (PTY) v Paname, kam zvyčajne prilietate popoludní alebo večer. V hlavnom meste budete musieť stráviť aspoň jednu noc – je to skvelá príležitosť na preskúmanie mesta a prechádzku po očarujúcich uliciach Casco Viejo, ktoré je zapísané na zozname svetového dedičstva UNESCO. Nasledujúce ráno vás v hoteli vyzdvihne súkromný džíp 4×4 a odvezie vás na karibské pobrežie. Po približne 2,5 hodinách jazdy dažďovým pralesom Guna Yala vás miestna loď odvezie do Ikigai, kam dorazíte okolo 10:30. Celú cestu organizujeme v spolupráci s dôveryhodnými miestnymi partnermi, aby sme zaistili hladký a bezpečný priebeh od začiatku až do konca.
 
-### Ako je na palube riešená elektrina? Aké napätie a zásuvky tam nájdem?
+### Ako funguje dodávka elektrickej energie na palube? Aké napätie a zásuvky tam nájdem?
 
-Na lodi Ikigai sme energeticky úplne sebestační. Vďaka solárnym panelom, vodnému generátoru a záložnému generátoru vyrábame a ukladáme všetku energiu potrebnú na život na palube – aj počas dlhých plavieb na mori. Elektrická sieť funguje na 220 V (európsky štandard) a 12 V (jednosmerný prúd). Každá kajuta je vybavená európskymi zásuvkami typu Schuko. V kokpite sa nachádza aj spoločná nabíjacia stanica na nabíjanie telefónov, fotoaparátov, tabletov a notebookov. Prosíme, vyhnite sa používaniu zariadení s vysokou spotrebou energie (ako sú fény alebo rýchlovarné kanvice), pretože môžu preťažiť systém. Ak prichádzate z krajiny s odlišnými zástrčkami (napr. z Veľkej Británie alebo USA), odporúčame si priniesť univerzálny adaptér. Prosíme vás, aby ste s elektrickou energiou nakladali zodpovedne – náš systém je efektívny, ale navrhnutý pre udržateľný životný štýl v harmónii s morom.
+Na lodi Ikigai sme energeticky úplne sebestační. Vďaka solárnym panelom, vodnému generátoru a záložnému generátoru vyrábame a ukladáme všetku energiu potrebnú na život na palube – aj počas dlhých plavieb na mori. Elektrická sieť funguje na 220 V (európsky štandard) a 12 V (jednosmerný prúd). Každá kajuta je vybavená európskymi zásuvkami typu Schuko. V kokpite sa nachádza aj spoločná nabíjacia stanica na nabíjanie telefónov, fotoaparátov, tabletov a notebookov. Prosíme, nepoužívajte zariadenia s vysokou spotrebou energie (ako sú fény alebo rýchlovarné kanvice), pretože môžu systém preťažiť. Ak prichádzate z krajiny s odlišnými zástrčkami (napr. z Veľkej Británie alebo USA), odporúčame si priniesť univerzálny adaptér. Prosíme vás, aby ste s elektrickou energiou nakladali zodpovedne – náš systém je efektívny, ale navrhnutý pre udržateľný životný štýl v harmónii s morom.
 
 ### Čo si mám zabaliť?
 
-Život na palube je úžasne minimalistický 🙂 Budete potrebovať len veľmi málo vecí, pretože väčšinu času strávite naboso a v plavkách. Aj na pevnine je oblečenie neformálne a uvoľnené. Nezabudnite si priniesť:
+Život na palube je úžasne minimalistický 🙂 Budete potrebovať veľmi málo vecí, pretože väčšinu času strávite naboso a v plavkách. Aj na brehu je oblečenie neformálne a uvoľnené. Nezabudnite si priniesť:
 
 -   Opaľovací krém
 -   Klobúk
@@ -82,7 +82,7 @@ Na lodi Ikigai sme energeticky úplne sebestační. Vďaka solárnym panelom, vo
 -   Šľapky
 -   Maska a šnorchel (ak chcete použiť svoje vlastné – máme ich aj na palube)
 
-_**DÔLEŽITÉ: NEBERTE so sebou tvrdé kufre ani kolieskové kufre.**_
+_**DÔLEŽITÉ: NEBERTE so sebou kufre s tvrdou škrupinou ani kufre na kolieskach.**_
 
 ### Koľko ľudí bude na palube?
 
@@ -95,15 +95,3 @@ Na palube nájdete certifikovaných inštruktorov (Yoga Alliance, AIDA Internati
 ### Musím vedieť plávať?
 
 Áno, je dôležité, aby ste sa vo vode cítili pohodlne. Nemusíte byť športovec, ale musíte sa v mori cítiť uvoľnene.
-
-### Formule Di Imbarco
-
-#### [10 dní na palube Ikigai](/sk/plavby/10-days-on-board/)
-
-3 000,00 €
-
-[Zážitok vyhradený pre členov](/sk/plavby/one-month/)
-
-#### [Jeden mesiac na palube](/sk/plavby/one-month/)
-
-2 000,00 €
