@@ -15,7 +15,6 @@ gallery:
   - "~/assets/pages/vita-a-bordo-social/clouds-shape.webp"
   - "~/assets/trips/acconto/san-blas.webp"
 ---
-
 **La vida en un barco: curiosidades, consejos y las aventuras de Ikigai Sailing**
 
 Navegar es más que un simple viaje; es un estilo de vida lleno de descubrimientos, libertad y una profunda conexión con la naturaleza. En **«La vida en un barco»**, exploramos todo lo relacionado con la vida en el mar: desde los mejores consejos para vivir a bordo hasta las ventajas de una vida lejos de tierra firme, pasando por los increíbles hitos de **Ikigai Sailing**.

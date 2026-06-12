@@ -15,7 +15,6 @@ order: 5
 translated: deepl
 sourceHash: 59f47dc33917fdf4
 ---
-
 [![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Échange / Hébergement payant

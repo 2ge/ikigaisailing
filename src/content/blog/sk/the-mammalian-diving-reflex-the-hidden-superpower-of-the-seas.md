@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: ce7c84090510b6f3
 needsReview: true
 ---
-
 Vo vode sa vaše telo premení na **dokonalý potápačský stroj**, akoby ste sa na chvíľu stali **delfínom alebo tuleňom**! Ide o **potápačský reflex** **cicavcov**, **skrytú superschopnosť**, ktorú majú všetky cicavce a ktorú sme zdedili po našich vzdialených vodných predkoch.
 
 Keď sa potápame v apnoe, najmä v **studenej vode**, naše telo **sa aktivuje mimoriadnym spôsobom** a spúšťa sériu **neuveriteľných fyziologických adaptácií**, ktoré spoločne z nás robia **skutočných prieskumníkov hlbín**. Je to, ako keby naše telo hovorilo:

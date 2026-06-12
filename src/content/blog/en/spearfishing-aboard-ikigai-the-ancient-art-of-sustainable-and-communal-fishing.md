@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-01-24"
 image: "~/assets/pages/vita-a-bordo-social/sperafishing.webp"
 ---
-
 ## What is spearfishing and why it’s special
 
 Spearfishing is perhaps the oldest form of hunting and gathering ever developed by humankind.  

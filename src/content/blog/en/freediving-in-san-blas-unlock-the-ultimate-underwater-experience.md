@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-21"
 image: "~/assets/pages/vita-a-bordo-social/Freediving-in-San-Blas.avif"
 ---
-
 Imagine diving into crystal-clear waters, surrounded by vibrant coral reefs and exotic marine life, all while experiencing the serenity of breath-hold diving. Freediving in the San Blas Islands with Ikigai Sailing offers an unparalleled adventure, blending nature, self-discovery, and the thrill of exploring the deep with minimal equipment.
 
 ### Why Choose San Blas for Freediving?

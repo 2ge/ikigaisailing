@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 9a7729ffb9f2caf0
 needsReview: true
 ---
-
 Premýšľali ste niekedy o plachtení ako o prostriedku osobného rozvoja a rastu?
 
 Niektoré zážitky nepotrebujú veľa vysvetľovania. Cítite ich.  

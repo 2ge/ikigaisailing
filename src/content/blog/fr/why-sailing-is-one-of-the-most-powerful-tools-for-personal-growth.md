@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg
 translated: deepl
 sourceHash: 9a7729ffb9f2caf0
 ---
-
 As-tu déjà pensé à la voile comme un moyen d'évoluer et de grandir sur le plan personnel ?
 
 Certaines expériences n'ont pas besoin de beaucoup d'explications. Tu les ressens.  

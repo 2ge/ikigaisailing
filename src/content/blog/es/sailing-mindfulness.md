@@ -12,7 +12,6 @@ image: ~/assets/pages/vita-a-bordo-social/sailingmindfullness.webp
 translated: deepl
 sourceHash: eafd32ffdae8af0f
 ---
-
 # Cómo encontrar la paz interior en el mar
 
 **Descubre el poder de la navegación consciente para el bienestar físico y mental**. El mar siempre ha tenido un efecto calmante en el alma humana, pero combinar la navegación con la atención plena lleva esta experiencia a un nivel completamente nuevo. Un **viaje de navegación consciente** no es solo un recorrido por las olas, sino un viaje interior que ayuda a recuperar el equilibrio, la claridad y la serenidad.

@@ -17,7 +17,6 @@ gallery:
 translated: deepl
 sourceHash: 997d2596946685b5
 ---
-
 ### Beneficios que aumentan con el tiempo
 
 Bienestar físico y mental en armonía con la naturaleza

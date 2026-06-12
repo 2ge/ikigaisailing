@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-13"
 image: "~/assets/pages/vita-a-bordo-social/sailingmindfullness.webp"
 ---
-
 # Come Trovare la Pace Interiore in Mare
 
 **Scopri il potere della navigazione consapevole per il benessere mentale e fisico** Il mare ha sempre avuto un effetto calmante sull’animo umano, ma combinare la vela con la mindfulness porta questa esperienza a un livello completamente nuovo. Un **mindful sailing journey** non è solo un viaggio attraverso le onde, ma un percorso interiore che aiuta a ritrovare equilibrio, chiarezza e serenità. 

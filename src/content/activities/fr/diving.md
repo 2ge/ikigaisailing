@@ -22,7 +22,6 @@ order: 6
 translated: deepl
 sourceHash: 9ccbe1068f78381e
 ---
-
 ## Plongée
 
 ## Explore le monde sous-marin

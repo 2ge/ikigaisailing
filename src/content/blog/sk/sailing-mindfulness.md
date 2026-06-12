@@ -12,7 +12,6 @@ translated: deepl
 sourceHash: eafd32ffdae8af0f
 needsReview: true
 ---
-
 # Ako nájsť vnútorný pokoj na mori
 
 **Objavte silu vedomého plachtenia pre duševnú a telesnú pohodu** More malo vždy upokojujúci účinok na ľudskú dušu, ale kombinácia plachtenia s vedomou prítomnosťou posúva tento zážitok na úplne novú úroveň. **Cesta** **vedomého plachtenia** nie je len plavbou po vlnách, ale vnútornou cestou, ktorá pomáha obnoviť rovnováhu, jasnosť a pokoj.

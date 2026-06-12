@@ -24,7 +24,6 @@ translated: deepl
 sourceHash: 9b6e81c84f7abf5b
 needsReview: true
 ---
-
 MEDITÁCIA
 
 ## Objavte vnútorný pokoj

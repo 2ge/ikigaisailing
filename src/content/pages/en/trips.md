@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/10-days-on-board/lucabrano5.avif"
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
 ---
-
 ### Growing Benefits Over Time
 
 Physical and Mental Well-being in Harmony with Nature

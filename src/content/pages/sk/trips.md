@@ -18,7 +18,6 @@ translated: deepl
 sourceHash: 997d2596946685b5
 needsReview: true
 ---
-
 ### Postupné zvyšovanie prínosov
 
 Fyzická a duševná pohoda v harmónii s prírodou

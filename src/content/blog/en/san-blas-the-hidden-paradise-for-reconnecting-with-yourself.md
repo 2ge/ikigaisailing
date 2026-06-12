@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-02-27"
 image: "~/assets/trips/acconto/san-blas.webp"
 ---
-
 An archipelago of over 360 islands immersed in the crystal-clear waters of the Caribbean, white sandy beaches, swaying palm trees, and an enchanting underwater world teeming with life. Welcome to San Blas, a place beyond time, where pristine nature and the indigenous Guna Yala culture offer an authentic and rejuvenating experience.
 
 ### **The Untamed Nature of San Blas**

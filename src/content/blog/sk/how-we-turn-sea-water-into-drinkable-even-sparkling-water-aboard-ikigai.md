@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: 87ba2aa4d14b372b
 needsReview: true
 ---
-
 Uprostred oceánu nie je **zásoba** **čerstvej vody** nikdy zaručená, a to je jeden z dôvodov, prečo sme sa rozhodli premeniť morskú vodu na pitnú. Na palube **lode Ikigai Sailing** sme sa rozhodli pre nezávislosť: žiadne plastové fľaše, žiadne povinné zastávky v prístavoch. Len more, technológia a vynaliezavosť.
 
 Každý deň vyrábame vlastnú **pitnú vodu**, dokonca aj **perlivú**, priamo z **morskej vody**. To nám umožňuje žiť **mimo siete** a výrazne znížiť náš environmentálny odtlačok.

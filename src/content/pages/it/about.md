@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/20221220_125124.jpg"
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
 ---
-
 ## CHI SIAMO
 
 Ikigai Sailing è una comunità in continua crescita, composta da sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di sport e avventura. 

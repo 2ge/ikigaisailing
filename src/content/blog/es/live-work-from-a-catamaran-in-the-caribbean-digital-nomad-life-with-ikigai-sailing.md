@@ -11,7 +11,6 @@ image: ~/assets/pages/vita-a-bordo-social/nomadi-digitali.avif
 translated: deepl
 sourceHash: 6a4b2f70e0810c47
 ---
-
 Imagina despertarte cada mañana rodeado de aguas turquesas, cocoteros y silencio.  
 Si eres un **nómada digital** en busca de una experiencia de vida y trabajo fuera de lo común, **Ikigai Sailing** es tu paraíso flotante.
 

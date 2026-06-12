@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/skipper.webp"
   - "~/assets/trips/acconto/user1.webp"
 ---
-
 ### Do I need previous experience in yoga, meditation, or freediving?
 
 No, it’s not necessary. All sessions are suitable for all levels and are optional. 

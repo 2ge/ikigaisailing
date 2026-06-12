@@ -17,7 +17,6 @@ gallery:
   - "~/assets/trips/acconto/skipper.webp"
   - "~/assets/trips/acconto/user1.webp"
 ---
-
 ## LA HISTORIA
 
 **CÓMO NACIÓ IKIGAI SAILING Luca cuenta:** «En mi vida anterior, era empresario. Empecé muy joven, siguiendo los pasos de mi padre y abriendo mi primer negocio cuando aún era menor de edad. Mi pasión por la vela comenzó muy pronto, gracias a otra de mis grandes pasiones: el buceo libre.

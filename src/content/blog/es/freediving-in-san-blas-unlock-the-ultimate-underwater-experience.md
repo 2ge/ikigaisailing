@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/Freediving-in-San-Blas.avif
 translated: deepl
 sourceHash: ccc603f5c11e9401
 ---
-
 Imagina sumergirte en aguas cristalinas, rodeado de coloridos arrecifes de coral y una exótica vida marina, todo ello mientras disfrutas de la serenidad del buceo en apnea. El buceo en apnea en las islas de San Blas con Ikigai Sailing te ofrece una aventura sin igual, que combina la naturaleza, el autodescubrimiento y la emoción de explorar las profundidades con un equipo mínimo.
 
 ### ¿Por qué elegir San Blas para practicar buceo libre?

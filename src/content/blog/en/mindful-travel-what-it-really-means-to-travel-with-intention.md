@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-02-07"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg"
 ---
-
 Mindful travel can be defined as a journey where intention becomes the driving force behind exploration, embedded in a perspective where awareness and presence are part of the destination.
 
 Travel is no longer just about reaching a destination.  

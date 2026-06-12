@@ -9,7 +9,6 @@ image: ~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp
 translated: deepl
 sourceHash: ede4bbfce0c1fc2d
 ---
-
 T'es-tu déjà dit : « J'ai besoin de faire une pause » ? Le train-train quotidien peut être accablant, te laissant épuisé et déconnecté. Si tu cherches un moyen de te ressourcer, de te recharger et de te redécouvrir, **Ikigai Sailing** t'offre l'évasion parfaite : une expérience de voile à long terme abordable qui te permet d'adopter un mode de vie plus lent et plus conscient en mer.
 
 ### **Pourquoi faire une pause dans la vie sur un voilier ?**

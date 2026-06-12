@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: ff71a52bbac8d079
 needsReview: true
 ---
-
 #### **Úvod do života na palube**
 
 Naučte sa základy života na katamaráne: organizácia priestoru, hospodárenie s vodou a energiou, aby ste zažili autentický a zodpovedný zážitok z plavby.

@@ -20,7 +20,6 @@ order: 6
 oldUrls:
   - "/it/project/diving/"
 ---
-
 ## Diving
 
 ## Esplora il mondo sommerso

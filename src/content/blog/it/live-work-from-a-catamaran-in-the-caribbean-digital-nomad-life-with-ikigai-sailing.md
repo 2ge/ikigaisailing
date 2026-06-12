@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2024-04-16"
 image: "~/assets/pages/vita-a-bordo-social/nomadi-digitali.avif"
 ---
-
 * Hai mai sognato di svegliarti ogni mattina circondato da acque cristalline, palme e silenzio?  
 Se sei un **nomade digitale** in cerca di una vita fuori dall’ordinario, **Ikigai Sailing** è la tua prossima destinazione.
 

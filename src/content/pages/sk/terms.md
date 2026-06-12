@@ -21,7 +21,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ### 1\. Podmienky rezervácie:
 
 Aktivity a zážitky, ktoré ponúka naša organizácia, sú vyhradené výlučne pre členov športového združenia. Sme združenie, ktoré propaguje aktivity súvisiace s jachtingom, kitesurfingom, freedivingom a inými vodnými športmi. Naším cieľom je ponúknuť jedinečné zážitky tým, ktorí zdieľajú našu vášeň pre more a šport.

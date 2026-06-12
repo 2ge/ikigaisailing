@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/waves-types.webp
 translated: deepl
 sourceHash: c657b4ee235af46e
 ---
-
 Les vagues marines sont classées en différents types en fonction de leur origine, de leur mode de formation et de leur comportement. Voici les principaux types de vagues et ce qu’ils indiquent :
 
 1.  **Vagues de vent**

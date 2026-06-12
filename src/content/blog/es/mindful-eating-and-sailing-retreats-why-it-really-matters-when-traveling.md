@@ -11,7 +11,6 @@ image: >-
 translated: deepl
 sourceHash: 5af8d9767bd8ad60
 ---
-
 Cuando planeamos una escapada para recargar pilas, nuestra mente se evade al instante hacia playas vírgenes, el sonido del viento llenando las velas o el silencio profundo que solo rompe el murmullo de las olas. Sin embargo, a menudo pasamos por alto el combustible que impulsa esta transformación personal: lo que ingerimos. **Comer de forma consciente mientras viajas** no es ni una moda pasajera ni un dogma restrictivo; es un pilar fundamental para reconectar contigo mismo, especialmente durante un **retiro de vela** inmersivo.
 
 Viajar cambia tu ritmo de forma inherente, altera las rutinas diarias y ofrece a tu sistema nervioso una oportunidad única para reiniciarse. Sin embargo, si este cambio de entorno va acompañado de comer sin prestar atención, alimentos procesados o comidas apresuradas, corres el riesgo de neutralizar los beneficios biológicos del viaje. Por el contrario, nutrir tu cuerpo con intención, en armonía con los ritmos naturales, amplifica cada momento que pasas en el agua.

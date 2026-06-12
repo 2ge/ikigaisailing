@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: 1ffdcd096187d920
 needsReview: true
 ---
-
 Japonské slovo „Ikigai“ sa často prekladá ako „zmysel života“ alebo „dôvod, prečo sa ráno prebudíte“. Hoci má svoje korene na Okinawe, jeho význam je kľúčový pre každého, kto čelí zložitostiam moderného života. Ak chcete skutočne odomknúť svoj potenciál, pochopenie hlbšieho **významu Ikigai** si vyžaduje prekročenie jednoduchých definícií a vstup do sféry žitej skúsenosti. Ikigai totiž nie je len filozofia – je to prax.
 
 ## **Prekročenie diagramu**

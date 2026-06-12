@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-26"
 image: "~/assets/trips/acconto/skipper.webp"
 ---
-
 ### **ESSERE UNO SKIPPER COSA COMPORTA**
 
 La formazione di uno skipper varia a seconda del tipo di navigazione, della dimensione dell’imbarcazione e della normativa del Paese in cui opera. Tuttavia, ci sono percorsi comuni e competenze fondamentali che uno skipper deve acquisire per garantire sicurezza, competenza e professionalità. Ecco i principali aspetti della formazione di uno skipper:

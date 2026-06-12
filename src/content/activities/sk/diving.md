@@ -23,7 +23,6 @@ translated: deepl
 sourceHash: 9ccbe1068f78381e
 needsReview: true
 ---
-
 ## Potápanie
 
 ## Objavujte podmorský svet

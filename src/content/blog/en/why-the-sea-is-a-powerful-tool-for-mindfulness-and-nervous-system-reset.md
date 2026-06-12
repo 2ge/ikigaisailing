@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-02-07"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg"
 ---
-
 Sailing can be a powerful and effective tool that lead through mindfulness to a nervous system reset.
 
 There are moments when change doesn’t start with a thought, but with a sensation.  

@@ -11,7 +11,6 @@ image: >-
 translated: deepl
 sourceHash: d8f2195c02ebf4b6
 ---
-
 Si estás buscando unas **vacaciones** de **vela y buceo libre**, probablemente ya te hayas dado cuenta de que el verdadero rejuvenecimiento no se consigue con la pasividad. A menudo, cuando pensamos en el bienestar, nos imaginamos un spa silencioso o el jardín inmaculado de un resort de lujo. Sin embargo, para quienes llevan una vida de alta intensidad, la relajación tradicional suele ser solo un anestésico temporal que no logra restablecer una conexión profunda con uno mismo.
 
 **Ikigai Sailing** se creó para ofrecer una alternativa radicalmente diferente. No somos un centro de meditación flotante, ni un retiro espiritual ni un resort de yoga al uso. En su lugar, proponemos una experiencia de vida a bordo en la que el mar actúa como catalizador de una transformación física y mental que definimos como una **experiencia encarnada**.

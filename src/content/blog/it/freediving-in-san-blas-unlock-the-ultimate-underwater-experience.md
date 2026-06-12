@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-21"
 image: "~/assets/pages/vita-a-bordo-social/Freediving-in-San-Blas.avif"
 ---
-
 Immagina di immergerti in acque cristalline, circondato da vivaci barriere coralline e una straordinaria vita marina, sperimentando al contempo la serenità dell’apnea. Il freediving nelle Isole San Blas con Ikigai Sailing offre un’avventura senza pari, unendo natura, scoperta di sé e il brivido di esplorare le profondità con il minimo equipaggiamento.
 
 ### Perché Scegliere San Blas per il Freediving?

@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-02-27"
 image: "~/assets/pages/vita-a-bordo-social/suitcase-onboard.webp"
 ---
-
 **What to Bring for Your Sailing Adventure**
 
 Life at sea is extremely minimalist, so even veteran backpackers often find they don’t use most of what they bring. Before your embarkation, you’ll receive a recommended packing list based on the planned route, but in general, these guidelines always apply:  

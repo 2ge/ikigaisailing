@@ -9,7 +9,6 @@ image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
 sourceHash: a41101ad9bae40ec
 ---
-
 **ÊTRE SKIPPER : CE QUE CELA IMPLIQUE**
 
 La formation d'un skipper varie en fonction du type de navigation, de la taille du bateau et de la réglementation du pays dans lequel il opère. Cependant, il existe des parcours communs et des compétences fondamentales qu'un skipper doit acquérir pour garantir la sécurité, la compétence et le professionnalisme. Voici les principaux aspects de la formation de skipper :

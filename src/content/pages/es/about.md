@@ -18,7 +18,6 @@ gallery:
 translated: deepl
 sourceHash: 580dc5db8e2f8161
 ---
-
 ## QUIÉNES SOMOS
 
 Ikigai Sailing es una comunidad en crecimiento formada por soñadores, navegantes, buceadores en apnea, buceadores, kitesurfistas y amantes de la aventura y el deporte.

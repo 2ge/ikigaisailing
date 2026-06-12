@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/clouds-shape.webp
 translated: deepl
 sourceHash: acc41ac5f4127aff
 ---
-
 Comprendre les nuages est essentiel pour un navigateur afin d'assurer la sécurité pendant la navigation, d'améliorer l'expérience et de prendre des décisions éclairées.  
 Voici un aperçu des principaux types de nuages et de leur impact sur la mer et le vent, ainsi que de l'importance de les connaître pour la sécurité de la navigation :  
 Les nuages sont principalement classés en fonction de leur forme et de leur altitude dans l'atmosphère. Selon la classification officielle de l'Organisation météorologique mondiale, il existe 10 types principaux de nuages, répartis en 4 catégories principales :

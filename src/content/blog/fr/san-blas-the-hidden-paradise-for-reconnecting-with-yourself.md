@@ -9,7 +9,6 @@ image: ~/assets/trips/acconto/san-blas.webp
 translated: deepl
 sourceHash: 703595d9dc3e78b5
 ---
-
 Un archipel de plus de 360 îles baignées par les eaux cristallines des Caraïbes, des plages de sable blanc, des palmiers qui se balancent au vent et un monde sous-marin enchanteur grouillant de vie. Bienvenue à San Blas, un lieu hors du temps, où la nature intacte et la culture indigène Guna Yala t'offrent une expérience authentique et revigorante.
 
 ### **La nature sauvage de San Blas**

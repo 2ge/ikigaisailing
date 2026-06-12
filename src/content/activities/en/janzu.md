@@ -25,7 +25,6 @@ order: 4
 oldUrls:
   - "/project/janzu-2/"
 ---
-
 JANZU
 
 ## The therapeutic power of water
@@ -60,5 +59,4 @@ Trained in Janzu and Wata techniques
 
 ## Why try it: 
 
-Experience a regenerating journey, letting yourself be cradled by the sea in total harmony. 
-
+Experience a regenerating journey, letting yourself be cradled by the sea in total harmony.

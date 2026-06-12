@@ -12,7 +12,7 @@ import { breadcrumbs } from '../../lib/schema';
 
 export async function getStaticPaths() {
   // Standalone informational pages. Index/landing slugs have their own routes.
-  const RESERVED = new Set(['home', 'activities', 'trips', 'reviews', 'contact', 'season-2025-26']);
+  const RESERVED = new Set(['home', 'activities', 'trips', 'reviews', 'contact', 'season-2025-26', 'route']);
   return existingLocalePaths('pages', { filter: (e) => !RESERVED.has(slugOf(e)) });
 }
 

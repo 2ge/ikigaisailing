@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-13"
 image: "~/assets/pages/vita-a-bordo-social/sailingmindfullness.webp"
 ---
-
 # How to Find Inner Peace at Sea
 
 **Discover the power of mindful sailing for mental and physical well-being** The sea has always had a calming effect on the human soul, but combining sailing with mindfulness takes this experience to a whole new level. A **mindful sailing journey** is not just a voyage across the waves but an inner journey that helps restore balance, clarity, and serenity. 

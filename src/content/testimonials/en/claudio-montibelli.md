@@ -139,7 +139,6 @@ translations:
     srdcia!
 sourceHash: 862e6cc3cb865408
 ---
-
 We truly felt lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques. From that moment, we discovered the Ikigai Sailing project. Even before taking part in this incredible experience, we were watching this crew of dreamer sailors from afar. Shortly after, we found ourselves on board the catamaran with them. Lucky indeed!
 
 My partner and I enjoyed every single moment of this unforgettable journey. We discovered the beauty of being able to trust someone. Luca guided us with professionalism, safety, and calmness toward new activities: meditation, yoga, freediving, and spearfishing. We pushed beyond our physical and mental limits, learned to slow down, and to look within. We felt renewed and stronger.

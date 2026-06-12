@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-02-02"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg"
 ---
-
 Hai mai pensato alla vela come strumento di evoluzione e crescita personale?
 
 Ci sono esperienze che non hanno bisogno di essere spiegate troppo: si sentono.  

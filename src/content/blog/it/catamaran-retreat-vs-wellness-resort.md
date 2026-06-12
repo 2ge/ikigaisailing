@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-05-06"
 image: "~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-9.png"
 ---
-
 Se stai cercando una **vacanza apnea e vela** , probabilmente hai già intuito che la vera rigenerazione non avviene restando passivi. Spesso, quando pensiamo al benessere, visualizziamo una SPA silenziosa o il giardino immacolato di un resort di lusso. Tuttavia, per chi vive una vita ad alta intensità, il relax tradizionale è spesso solo un anestetico temporaneo che non ripristina la connessione profonda con se stessi. **Ikigai Sailing** nasce per offrire un’alternativa radicalmente diversa. Non siamo un centro di meditazione galleggiante, né un retreat spirituale o un resort yoga standard. Proponiamo invece un’esperienza di vita a bordo dove il mare agisce come catalizzatore di una trasformazione fisica e mentale che definiamo _embodied experience_. 
 
 ## **La differenza tra “Ricevere” e “Agire” il benessere**

@@ -21,7 +21,6 @@ order: 3
 oldUrls:
   - "/project/meditation/"
 ---
-
 MEDITAZIONE
 
 ## Rediscover inner calm

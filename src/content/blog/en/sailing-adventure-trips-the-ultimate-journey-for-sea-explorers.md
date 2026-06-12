@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-15"
 image: "~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp"
 ---
-
 Exploring the world from the sea offers an unparalleled sense of freedom. **Sailing adventure trips** are the perfect choice for those who want to discover untouched places, immerse themselves in nature, and enjoy an authentic and sustainable experience. **Ikigai Sailing is currently sailing around the world and is now in Panama, planning to cross the Ocean in 2026.**
 
 ### Why Choose a Sailing Adventure Trip?

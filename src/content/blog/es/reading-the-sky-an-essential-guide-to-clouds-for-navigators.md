@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/clouds-shape.webp
 translated: deepl
 sourceHash: acc41ac5f4127aff
 ---
-
 Entender las nubes es fundamental para que un navegante pueda garantizar la seguridad durante la navegación, mejorar la experiencia y tomar decisiones informadas.  
 Aquí tienes una descripción general de los principales tipos de nubes y su impacto en el mar y el viento, así como la importancia de conocerlas para la seguridad en la navegación:  
 Las nubes se clasifican principalmente en función de su forma y su altura en la atmósfera. Según la clasificación oficial de la Organización Meteorológica Mundial, hay 10 tipos principales de nubes, divididos en 4 categorías principales:

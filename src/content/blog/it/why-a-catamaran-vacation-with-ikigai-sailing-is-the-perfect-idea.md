@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-13"
 image: "~/assets/pages/vita-a-bordo-social/respiro.jpg"
 ---
-
 Sogni una vacanza lontano dal caos, immerso nella natura e cullato dalle onde? Una **vacanza in catamarano** con Ikigai Sailing è l’esperienza perfetta per chi cerca relax, avventura e un modo autentico di vivere il mare. Scopri perché navigare con noi potrebbe essere la scelta migliore per la tua prossima fuga dalla routine!
 
 ### **1. Libertà e natura incontaminata**

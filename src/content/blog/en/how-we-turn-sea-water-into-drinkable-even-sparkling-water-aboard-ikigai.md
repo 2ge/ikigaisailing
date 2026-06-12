@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-01-24"
 image: "~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp"
 ---
-
 In the middle of the ocean, **fresh water** is never guaranteed, and this is one of the reasons why we decided to turn sea water into drinkable water. On board **Ikigai Sailing** , we chose independence: no plastic bottles, no mandatory port stops. Just sea, technology, and ingenuity.
 
 Every day, we produce our own **drinking water** , even **sparkling** , directly from **sea water**. This allows us to live **off-grid** and drastically reduce our environmental footprint.

@@ -23,7 +23,6 @@ order: 3
 translated: deepl
 sourceHash: 9b6e81c84f7abf5b
 ---
-
 MEDITACIÓN
 
 ## Redescubre la paz interior

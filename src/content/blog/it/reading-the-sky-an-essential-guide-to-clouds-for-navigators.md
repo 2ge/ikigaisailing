@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-27"
 image: "~/assets/pages/vita-a-bordo-social/clouds-shape.webp"
 ---
-
 #### **Navigare in Sicurezza con la Meteorologia a Vela**
 
 Capire le nuvole è una competenza fondamentale per ogni navigatore: permette di prevedere il tempo, migliorare l’esperienza di navigazione e, soprattutto, garantire la sicurezza in mare. Un cielo racconta sempre una storia: imparare a leggerlo significa prendere decisioni più informate ed evitare situazioni pericolose.

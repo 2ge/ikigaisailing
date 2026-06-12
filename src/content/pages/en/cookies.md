@@ -5,7 +5,6 @@ locale: "en"
 oldUrls:
   - "/it/cookie-policy/"
 ---
-
 ## Interpretation and Definitions
 
 ### Interpretation

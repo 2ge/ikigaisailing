@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/blue-mind.webp
 translated: deepl
 sourceHash: 7d7df8f400dae185
 ---
-
 El término **«Blue Mind»** lo acuñó Wallace J. Nichols, un biólogo marino que descubrió los profundos efectos relajantes que el agua tiene sobre nuestro cerebro y nuestro bienestar. En pocas palabras, Blue Mind es ese estado de calma mental, paz y claridad que sentimos cuando estamos cerca del agua o dentro de ella. Ya sea el sonido de las olas rompiendo en la orilla, el suave balanceo de un barco en el mar o el horizonte azul intenso, el agua tiene una capacidad incomparable para calmar, rejuvenecer e inspirar.
 
 En **Ikigai Sailing**, adoptamos el poder de la «Blue Mind» como parte esencial de nuestra filosofía de navegación. Nuestros viajes no se limitan a llegar a un destino, sino que consisten en sumergirnos en la tranquilidad y la belleza del océano, reconectar con la naturaleza y fomentar una sensación de claridad mental. He aquí por qué el concepto de Blue Mind es tan fundamental para la experiencia de Ikigai Sailing:

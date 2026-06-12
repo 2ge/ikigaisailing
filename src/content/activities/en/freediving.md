@@ -19,7 +19,6 @@ order: 2
 oldUrls:
   - "/project/apnea-2/"
 ---
-
 APNEA
 
 ## Dive into the power of breath

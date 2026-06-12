@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: b101fd5d1513b21e
 needsReview: true
 ---
-
 Plachtenie môže byť silným a účinným prostriedkom, ktorý prostredníctvom všímavosti vedie k obnoveniu rovnováhy nervového systému.
 
 Sú chvíle, keď zmena nezačína myšlienkou, ale pocitom.  

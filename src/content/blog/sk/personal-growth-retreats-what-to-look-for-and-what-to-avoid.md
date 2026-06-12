@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: 2b4d419b7c50e7eb
 needsReview: true
 ---
-
 Trh s pobytmi zameranými na osobný rast zažíva obrovský rozmach. Medzi instagramovými príspevkami zaplnenými balijskými plážami, päťhviezdičkovými luxusnými rezortmi zameranými na holistický prístup a sľubmi okamžitého osvietenia za sedem dní sa stalo skutočnou výzvou nájsť zážitok, ktorý zanechá skutočnú stopu – a skutočne premení váš každodenný život.
 
 Ľudia, ktorí trpia **vyhorením**, sú zahltení manažérskymi povinnosťami alebo uväznení v zbesilej rutine mestského života, často hľadajú cestu von. Aká je najčastejšia odpoveď? Rezervácia vopred zostaveného wellness balíčka v komerčnom kúpeli. Ale naozaj stačí relaxačná masáž alebo meditácia v sede v luxusnom rezorte na to, aby sa vyčerpaný nervový systém zresetoval?

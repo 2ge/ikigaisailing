@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 INFORMATIVA RESA AI SENSI DEGLI ART. 13-14 DEL GDPR (GENERAL DATA PROTECTION REGULATION) 2016/679
 
 Il trattamento dei dati personali sarà improntato come da normativa indicata sui principi di correttezza, liceità, trasparenza e di tutela della tua riservatezza e dei tuoi diritti. Ai sensi dell’articolo 13 del GDPR 2016/679, pertanto, ti forniamo le seguenti informazioni:

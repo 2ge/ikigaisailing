@@ -21,7 +21,6 @@ gallery:
 translated: deepl
 sourceHash: 4e53529614bf0236
 ---
-
 ### Ai-je besoin d'une expérience préalable en yoga, en méditation ou en apnée ?
 
 Non, ce n'est pas nécessaire. Toutes les séances sont adaptées à tous les niveaux et sont facultatives.

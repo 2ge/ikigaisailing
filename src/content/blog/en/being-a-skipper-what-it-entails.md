@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-02-27"
 image: "~/assets/trips/acconto/skipper.webp"
 ---
-
 **BEING A SKIPPER: WHAT IT ENTAILS**
 
 The training of a skipper varies depending on the type of navigation, the size of the vessel, and the regulations of the country in which they operate. However, there are common pathways and fundamental skills that a skipper must acquire to ensure safety, competence, and professionalism. Here are the main aspects of skipper training:

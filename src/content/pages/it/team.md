@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## i nostri plus
 
 Passione, Professionalità e Benessere in Armonia con il Mare

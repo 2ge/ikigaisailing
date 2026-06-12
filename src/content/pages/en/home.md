@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/ikigaisailing.webp"
   - "~/assets/trips/acconto/lucabrano5.webp"
 ---
-
 ## ABOUT US
 
 Ikigai Sailing is a non-profit amateur sports association, recognized by **CONI** and affiliated with the **MSP Italia** Sports Promotion Organization.   
@@ -84,48 +83,6 @@ Countries Visited
 +
 
 Miles Traveled 
-
-## We are proud to have reached these destinations:
-
-![Saint Kitts and Nevis](../../../assets/pages/home/Flag_of_Saint_Kitts_and_Nevis.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Saint Kitts and Nevis
-
-![Bonaire](../../../assets/pages/home/Flag_of_Bonaire.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Bonaire
-
-![Curaçao](../../../assets/pages/home/Flag_of_Curaçao.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Curaçao
-
-![Aruba](../../../assets/pages/home/Flag_of_Aruba.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0owi.png)Aruba
-
-![Anguilla](../../../assets/pages/home/Flag_of_Anguilla.svg-ra7m4sldfpirnp1pq8s469iep5oob054wfs8jc0osw.png)Anguilla
-
-British Virgin Islands
-
-Guadeloupe
-
-Martinique
-
-![Gibraltar](../../../assets/pages/home/Flag_of_Gibraltar.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Gibraltar
-
-![Canary Island](../../../assets/pages/home/Flag_of_the_Canary_Islands.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Canary Island
-
-![Capo Verde](../../../assets/pages/home/Flag_of_Cape_Verde.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaom.avif)Capo Verde
-
-![Saint Marten](../../../assets/pages/home/Flag_of_Sint_Maarten.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Flag_of_Sint_Maarten.svg
-
-![Antigua e Barbuda](../../../assets/pages/home/Flag_of_Antigua_and_Barbuda.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Flag_of_Antigua_and_Barbuda.svg
-
-![Domica](../../../assets/pages/home/Flag_of_Dominica.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzamo.avif)Domica
-
-![Grenada](../../../assets/pages/home/Flag_of_Grenada.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaow.avif)Grenada
-
-![Saint Vincent and Grenadines](../../../assets/pages/home/Flag_of_Saint_Vincent_and_the_Grenadines.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Flag_of_Saint_Vincent_and_the_Grenadines.svg
-
-![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
-
-![Los Roques](../../../assets/pages/home/Federal_dependencies_of_Venezuelas_Flag.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Los Roques
-
-![Panama](../../../assets/pages/home/Flag_of_Panama.svg-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Panama
-
-![Venezuela](../../../assets/pages/home/Flag_of_Venezuela.svg-1-png-ra7m4tj7mjk1zb0ckr6qqr9vajk1ip8v8kfq0lzaqa.avif)Venezuela
 
 ON-BOARD ACTIVITIES 
 

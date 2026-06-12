@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-04-20"
 image: "~/assets/pages/life-on-the-boat/Copia-di-Immagini-per-sito-web-1500-x-1000-12.png"
 ---
-
 Silence is not the absence of sound, but the presence of self. In a world saturated with notifications, deadlines, and digital noise, our nervous system lives in a constant state of alert—a “survival mode” that depletes our energy reserves. **Ikigai Sailing** doesn’t suggest you “unplug” passively, perhaps by lying on a crowded beach, but rather that you reconnect to a different, primal, and powerful rhythm: that of the wind and the waves.
 
 Through the experience of **regenerative sailing** , we offer an active path to rediscover the mental clarity and vital energy needed to navigate daily challenges with a new sense of awareness.

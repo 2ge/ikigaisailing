@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-04"
 image: "~/assets/pages/season-2025-26/apnea6.webp"
 ---
-
 Quando ci immergiamo in acqua, il nostro corpo si trasforma in una macchina perfetta per l’immersione, proprio come se fossimo delfini o foche! Questo straordinario adattamento si chiama **Mammalian Diving Reflex** , un superpotere nascosto che tutti i mammiferi possiedono, ereditato dai nostri lontani antenati acquatici.
 
 Ma cosa succede esattamente quando tratteniamo il respiro sott’acqua, specialmente in ambienti freddi? Il nostro organismo attiva una serie di risposte fisiologiche straordinarie, trasformandoci in esploratori degli abissi con una naturale capacità di adattamento. È come se il nostro corpo ci dicesse: _“Tranquilli, ci penso io!”_

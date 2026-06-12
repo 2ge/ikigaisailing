@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-03-17"
 image: "~/assets/pages/vita-a-bordo-social/Come-il-movimento-e-la-vela-supportano-la-crescita-personale.png"
 ---
-
 **Come il movimento e la vela supportano la crescita personale**
 
 La crescita personale non è un processo che avviene solo seduti su un cuscino da meditazione. Per chi cerca un cambiamento autentico, il corpo è la porta d’accesso principale. In **Ikigai Sailing** , crediamo che l’unione tra **movimento, mare e consapevolezza** sia la formula per un reset profondo.

@@ -11,7 +11,6 @@ order: 1
 oldUrls:
   - "/it/project/yoga/"
 ---
-
 YOGA
 
 ## Ritrova il tuo equilibrio

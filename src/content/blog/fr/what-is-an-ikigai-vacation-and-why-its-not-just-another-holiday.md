@@ -12,7 +12,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-33.jpg
 translated: deepl
 sourceHash: e35e1acf7fc6455e
 ---
-
 Ces dernières années, le mot _« Ikigai »_ est devenu de plus en plus populaire, souvent réduit à une formule motivante ou à un schéma coloré.  
 Dans la culture japonaise, cependant, l’Ikigai est quelque chose de bien plus profond. Ce n’est pas quelque chose que l’on poursuit, mais quelque chose **à l’écoute duquel** on **se met**.  
 Des vacances « Ikigai » partent précisément de cette compréhension.

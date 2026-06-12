@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-01-24"
 image: "~/assets/pages/vita-a-bordo-social/sperafishing.webp"
 ---
-
 ## Cos’è la pesca in apnea e perché è speciale
 
 La pesca in apnea è forse la forma più antica di caccia e approvvigionamento che l’uomo abbia mai praticato. Ed è anche una delle più sostenibili, perché ci consente un livello di **selettività e consapevolezza** che nessun’altra tecnica può offrire.  

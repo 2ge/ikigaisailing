@@ -8,7 +8,6 @@ translated: deepl
 sourceHash: 8bb3670be9ed3450
 needsReview: true
 ---
-
 Žijeme vo svete, ktorý sa neustále zrýchľuje, kde nás digitálne rozptýlenia a každodenné povinnosti môžu ľahko zahltiť. Existuje však silný prírodný spojenec, ktorý nám môže pomôcť znovu nadobudnúť jasnosť a sústredenie: oceán. Koncept **Blue Mind**, ktorý vyvinul morský biológ Wallace J. Nichols, opisuje uvoľnený a omladzujúci duševný stav, ktorý zažívame v blízkosti vody. Tento stav nielen znižuje stres, ale môže tiež posilniť naše kognitívne schopnosti, zlepšiť sústredenie a zručnosti pri riešení problémov.
 
 ### Regeneračný účinok vody na mozog

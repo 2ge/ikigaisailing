@@ -19,7 +19,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## Kontaktujte nás
 
 Chcete sa vydať na jedinečné dobrodružstvo na palube nášho katamaránu a plaviť sa s nami okolo sveta?

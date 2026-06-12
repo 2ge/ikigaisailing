@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 [Pozrite si recenzie na Trustpilot](https://it.trustpilot.com/review/ikigaisailing.com)
 
 Načítať viac

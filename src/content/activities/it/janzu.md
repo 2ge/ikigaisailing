@@ -25,7 +25,6 @@ order: 4
 oldUrls:
   - "/it/project/janzu/"
 ---
-
 JANZU
 
 ## I benefici delle terapie acquatiche a bordo di IKIGAI
@@ -81,4 +80,3 @@ Formati nelle tecniche di Janzu e Wata
 ## Perché provarlo: 
 
 Vivi un’esperienza rigenerante, lasciandoti cullare dal mare in totale armonia.
-

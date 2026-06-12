@@ -15,5 +15,4 @@ gallery:
   - "~/assets/pages/vita-a-bordo-social/clouds-shape.webp"
   - "~/assets/trips/acconto/san-blas.webp"
 ---
-
 [mphb_rooms]

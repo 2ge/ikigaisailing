@@ -14,7 +14,6 @@ translated: deepl
 sourceHash: bfffc5cdaf428df6
 needsReview: true
 ---
-
 JÓGA
 
 ## Objavte svoju rovnováhu

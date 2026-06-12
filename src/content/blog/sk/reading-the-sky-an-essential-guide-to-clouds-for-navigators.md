@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: acc41ac5f4127aff
 needsReview: true
 ---
-
 Pre navigátora je znalosť oblakov nevyhnutná na zaistenie bezpečnosti počas plavby, zlepšenie zážitku z plavby a prijímanie informovaných rozhodnutí.  
 Tu je prehľad hlavných typov oblakov a ich vplyvu na more a vietor, ako aj dôležitosti ich poznania pre bezpečnosť plavby:  
 Oblaky sa klasifikujú predovšetkým na základe ich tvaru a výšky v atmosfére. Podľa oficiálnej klasifikácie Svetovej meteorologickej organizácie existuje 10 hlavných typov oblakov, rozdelených do 4 hlavných kategórií:

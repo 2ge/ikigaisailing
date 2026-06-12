@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-02-02"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg"
 ---
-
 Have you ever thought at sailing as a tool for personal evolution and growth?
 
 Some experiences don’t need much explanation. You feel them.  

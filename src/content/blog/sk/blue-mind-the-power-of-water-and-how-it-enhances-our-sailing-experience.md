@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 7d7df8f400dae185
 needsReview: true
 ---
-
 Pojem **„Blue Mind“** vymyslel Wallace J. Nichols, morský biológ, ktorý objavil hlboké upokojujúce účinky, ktoré má voda na náš mozog a duševnú pohodu. Jednoducho povedané, Blue Mind je stav duševného pokoja, mieru a jasnosti, ktorý zažívame, keď sme v blízkosti vody alebo vo vode. Či už je to zvuk vĺn narážajúcich na breh, jemné kolísanie lode na mori alebo hlbokomodrý horizont, voda má neporovnateľnú schopnosť upokojiť, omladiť a inšpirovať.
 
 V **Ikigai Sailing** využívame silu Blue Mind ako podstatnú súčasť našej filozofie plachtenia. Naše cesty nie sú len o dosiahnutí cieľa – sú o ponorení sa do pokoja a krásy oceánu, opätovnom spojení s prírodou a posilnení pocitu duševnej jasnosti. Tu je dôvod, prečo je koncept Blue Mind taký dôležitý pre zážitok z Ikigai Sailing:

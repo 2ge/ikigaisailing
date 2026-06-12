@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-02-07"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg"
 ---
-
 Il mindful travel può essere definito come un viaggio dove l’intenzione diventa il motore che sostiene l’esplorazione, inserita in un’ottica dove consapevolezza e presenza sono parte della meta.
 
 Negli ultimi anni il viaggio ha smesso di essere solo una destinazione.  

@@ -16,7 +16,6 @@ gallery:
   - "~/assets/pages/vita-a-bordo-social/clouds-shape.webp"
   - "~/assets/trips/acconto/san-blas.webp"
 ---
-
 **Život na lodi: zaujímavosti, tipy a dobrodružstvá Ikigai Sailing**
 
 Plachtenie je viac než len cesta; je to životný štýl plný objavov, slobody a hlbokého spojenia s prírodou. Na stránke **Život na lodi** sa venujeme všetkému, čo súvisí so životom na mori: od najlepších tipov pre život na palube až po výhody života ďaleko od pevniny a neuveriteľné míľniky spoločnosti **Ikigai Sailing**.

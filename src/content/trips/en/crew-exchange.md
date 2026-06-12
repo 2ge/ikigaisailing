@@ -13,7 +13,6 @@ order: 5
 oldUrls:
   - "/prodotto/crew-exchange-boarding/"
 ---
-
 [![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Exchange / Paid Boarding

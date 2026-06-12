@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-04-05"
 image: "~/assets/pages/vita-a-bordo-social/janzu.avif"
 ---
-
 ## Janzu: Il Potere Rigenerante dell’Acqua
 
 **Janzu** è una tecnica di rilassamento e guarigione acquatica che sta guadagnando sempre più popolarità tra coloro che desiderano prendersi cura del proprio benessere in modo profondo e naturale. Questa pratica, nata negli anni ’90 grazie al terapeuta messicano **Juan Villatoro** , unisce movimenti fluidi in acqua, tecniche di respirazione e meditazione profonda per offrire un’esperienza di rilascio fisico, mentale ed emozionale.

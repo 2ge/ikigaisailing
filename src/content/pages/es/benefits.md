@@ -20,7 +20,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## BENEFICIOS DE LA IKIGAI SAILING
 
 El mar como forma de vida

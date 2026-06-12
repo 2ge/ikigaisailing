@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
 sourceHash: 947b4f6dfd2fc3f6
 ---
-
 El viaje consciente se puede definir como un viaje en el que la intención se convierte en el motor de la exploración, desde una perspectiva en la que la conciencia y la presencia forman parte del destino.
 
 Viajar ya no se trata solo de llegar a un destino.  

@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 7c984e5a782a48c6
 needsReview: true
 ---
-
 **Janzu: Regeneračná sila vody Janzu** je relaxačná a liečebná technika založená na vode, ktorá si získava čoraz väčšiu obľubu medzi ľuďmi hľadajúcimi hlboký a prirodzený pocit pohody. Túto metódu vytvoril v 90. rokoch mexický terapeut **Juan Villatoro** a kombinuje plynulé pohyby vo vode, dychové cvičenia a hlbokú meditáciu, čím prináša silné uvoľnenie na fyzickej, emocionálnej a mentálnej úrovni.
 
 **Čo je Janzu a ako funguje?**

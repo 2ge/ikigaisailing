@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/skipper.webp"
   - "~/assets/trips/acconto/user1.webp"
 ---
-
 ## L'HISTOIRE
 
 **COMMENT IKIGAI SAILING A VU LE JOUR Luca raconte :** « Dans ma vie d’avant, j’étais entrepreneur. J’ai commencé très jeune, en suivant les traces de mon père et en créant ma première entreprise alors que j’étais encore mineur. Ma passion pour la voile s’est manifestée très tôt, grâce à une autre de mes grandes passions : la plongée en apnée.

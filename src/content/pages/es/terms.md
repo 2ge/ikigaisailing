@@ -21,7 +21,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ### 1\. Política de reservas:
 
 Las actividades y experiencias que ofrece nuestra organización están reservadas exclusivamente a los socios de la asociación deportiva. Somos una asociación que promueve actividades relacionadas con la vela, el kitesurf, el buceo libre y otras disciplinas de deportes acuáticos. Nuestro objetivo es ofrecer experiencias únicas a quienes comparten nuestra pasión por el mar y el deporte.

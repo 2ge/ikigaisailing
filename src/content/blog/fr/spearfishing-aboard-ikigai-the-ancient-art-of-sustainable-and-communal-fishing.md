@@ -12,7 +12,6 @@ image: ~/assets/pages/vita-a-bordo-social/sperafishing.webp
 translated: deepl
 sourceHash: 00197f00320765d3
 ---
-
 ## Qu'est-ce que la pêche sous-marine et en quoi est-elle si particulière ?
 
 La chasse sous-marine est sans doute la plus ancienne forme de chasse et de cueillette jamais développée par l'humanité.  

@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-04-29"
 image: "~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif"
 ---
-
 _(Ikigai Sailing logbook)_
 
 As we sail through the crystal-clear waters of San Blas aboard _Ikigai_ , it becomes clear: this isn’t just a holiday. It’s an invitation to step into another rhythm, a different way of being. These islands aren’t just beautiful—they hold a living culture, strong and resilient.

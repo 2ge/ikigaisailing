@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp
 translated: deepl
 sourceHash: 33585453c246a9d9
 ---
-
 Explorer le monde depuis la mer procure un sentiment de liberté sans pareil. **Les voyages d'aventure à la voile** sont le choix idéal pour ceux qui souhaitent découvrir des lieux préservés, s'immerger dans la nature et vivre une expérience authentique et durable. **Ikigai Sailing fait actuellement le tour du monde et se trouve actuellement au Panama, avec pour projet de traverser l'océan en 2026.**
 
 ### Pourquoi choisir un voyage d'aventure à la voile ?

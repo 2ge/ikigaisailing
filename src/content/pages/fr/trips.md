@@ -17,7 +17,6 @@ gallery:
 translated: deepl
 sourceHash: 997d2596946685b5
 ---
-
 ### Des bienfaits qui s'amplifient avec le temps
 
 Bien-être physique et mental en harmonie avec la nature

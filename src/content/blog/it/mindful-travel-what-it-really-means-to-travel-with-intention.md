@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-75.jpg
 translated: deepl
 sourceHash: 947b4f6dfd2fc3f6
 ---
-
 Il viaggio consapevole può essere definito come un percorso in cui l'intenzione diventa la forza motrice dell'esplorazione, inserita in una prospettiva in cui la consapevolezza e la presenza sono parte integrante della destinazione.
 
 Viaggiare non significa più solo raggiungere una destinazione.  

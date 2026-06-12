@@ -24,7 +24,6 @@ translated: deepl
 sourceHash: fba3506b9f3e93d6
 needsReview: true
 ---
-
 ## **Úvod**
 
 Každá navrhovaná aktivita je **vysoko odporúčaná**, ale nikdy nie je povinná. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám. Tento zážitok je navrhnutý tak, aby vám pomohol objavovať rovnováhu medzi **oddanosťou a načúvaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon — len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.

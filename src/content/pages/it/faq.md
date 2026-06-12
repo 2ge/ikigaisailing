@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/skipper.webp"
   - "~/assets/trips/acconto/user1.webp"
 ---
-
 ### Devo avere già esperienza di yoga, meditazione o apnea?
 
 No, non è necessario. Le sessioni sono adatte a tutti i livelli e sono facoltative.

@@ -9,7 +9,6 @@ image: ~/assets/trips/acconto/san-blas.webp
 translated: deepl
 sourceHash: 703595d9dc3e78b5
 ---
-
 Un archipiélago de más de 360 islas sumergidas en las aguas cristalinas del Caribe, con playas de arena blanca, palmeras que se mecen al viento y un mundo submarino encantador y rebosante de vida. Bienvenido a San Blas, un lugar fuera del tiempo, donde la naturaleza virgen y la cultura indígena de Guna Yala te ofrecen una experiencia auténtica y revitalizante.
 
 ### **La naturaleza salvaje de San Blas**

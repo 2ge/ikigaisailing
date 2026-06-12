@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-03-17"
 image: "~/assets/pages/vita-a-bordo-social/Come-il-movimento-e-la-vela-supportano-la-crescita-personale.png"
 ---
-
 **How Movement and Sailing Support Personal Growth**
 
 Personal growth isn’t something that only happens while sitting on a meditation cushion. For those seeking authentic change, the body is the primary gateway. At **Ikigai Sailing** , we believe the union of **movement, the sea, and awareness** is the ultimate formula for a profound reset.

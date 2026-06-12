@@ -10,7 +10,6 @@ image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
 sourceHash: ff71a52bbac8d079
 ---
-
 #### **Introduction à la vie à bord**
 
 Découvre les bases de la vie à bord d'un catamaran : organisation de l'espace, gestion de l'eau et de l'énergie, pour une expérience maritime authentique et responsable.

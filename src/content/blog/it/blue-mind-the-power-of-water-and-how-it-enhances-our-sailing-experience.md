@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-26"
 image: "~/assets/pages/vita-a-bordo-social/blue-mind.webp"
 ---
-
 **Blue Mind: Il Potere dell’Acqua e Come Migliora la Nostra Esperienza in Barca a Vela**
 
 Il termine **“Blue Mind”** è stato coniato da Wallace J. Nichols, un biologo marino che ha scoperto gli effetti profondi e calmanti che l’acqua ha sul nostro cervello e sul nostro benessere. In parole semplici, Blue Mind è lo stato di calma mentale, serenità e chiarezza che proviamo quando siamo vicini o immersi nell’acqua. Che sia il suono delle onde che si infrangono sulla riva, il dolce dondolio di una barca sul mare o l’orizzonte blu che si estende davanti a noi, l’acqua ha una capacità senza pari di calmare, rigenerare e ispirare.

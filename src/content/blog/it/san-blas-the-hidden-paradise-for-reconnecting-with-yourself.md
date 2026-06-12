@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-27"
 image: "~/assets/trips/acconto/san-blas.webp"
 ---
-
 Un arcipelago di oltre 360 isole immerse nelle acque cristalline dei Caraibi, spiagge di sabbia bianca, palme che ondeggiano al vento e un mondo sottomarino che incanta con la sua ricchezza. Benvenuti a San Blas, un luogo fuori dal tempo, dove la natura incontaminata e la cultura indigena dei Guna Yala regalano un’esperienza autentica e rigenerante.
 
 ### **La Natura Selvaggia di San Blas**

@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 5a610fcb38be6bff
 needsReview: true
 ---
-
 ### **Úvod**
 
 Počas Ikigai Experience sú všetky navrhované aktivity **vysoko odporúčané**, ale nikdy nie sú povinné. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám.

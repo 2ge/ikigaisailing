@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: ede4bbfce0c1fc2d
 needsReview: true
 ---
-
 Napadlo vás už niekedy: „Potrebujem si oddýchnuť od každodenného života“? Každodenná rutina môže byť vyčerpávajúca a môžete sa cítiť vyčerpaní a odtrhnutí od sveta. Ak hľadáte spôsob, ako sa zresetovať, nabrať nové sily a znovu objaviť samých seba, **Ikigai Sailing** ponúka dokonalý únik – cenovo dostupný dlhodobý zážitok z plavby na plachetnici, ktorý vám umožní prijať pomalší a uvedomelejší spôsob života na mori.
 
 ### **Prečo si dať pauzu od života na plachetnici?**

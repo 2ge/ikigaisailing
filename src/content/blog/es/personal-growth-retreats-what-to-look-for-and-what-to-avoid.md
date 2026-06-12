@@ -11,7 +11,6 @@ image: >-
 translated: deepl
 sourceHash: 2b4d419b7c50e7eb
 ---
-
 El mercado de los retiros de desarrollo personal se ha disparado. Entre los feeds de Instagram repletos de playas balinesas, resorts holísticos de lujo de cinco estrellas y promesas de iluminación instantánea en siete días, encontrar una experiencia que realmente deje huella —y que transforme de verdad tu vida cotidiana— se ha convertido en todo un reto.
 
 A menudo, quienes sufren **agotamiento**, se sienten abrumados por las responsabilidades directivas o están atrapados en la frenética rutina de la vida urbana, buscan una salida. ¿La respuesta más común? Reservar un paquete de bienestar ya preparado en un spa comercial. Pero, ¿basta realmente un masaje relajante o una sesión de meditación sentada en un resort de lujo para restablecer un sistema nervioso agotado?

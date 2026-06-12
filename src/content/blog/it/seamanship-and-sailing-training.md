@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-23"
 image: "~/assets/trips/acconto/skipper.webp"
 ---
-
 #### **Introduzione alla Vita di Bordo**
 
 Scopri le basi per vivere su un catamarano: organizzazione degli spazi, gestione di acqua ed energia, per un’esperienza autentica e responsabile.

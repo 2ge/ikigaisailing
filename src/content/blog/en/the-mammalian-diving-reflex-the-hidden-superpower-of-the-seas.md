@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-21"
 image: "~/assets/pages/season-2025-26/apnea6.webp"
 ---
-
 In water, your body transforms into a **perfect diving machine** , as if you were a **dolphin or a seal** for a moment! This is the **mammalian diving reflex** , a **hidden superpower** that all mammals possess, inherited from our distant aquatic ancestors.
 
 When we dive in apnea, especially in **cold water** , our body **activates in an extraordinary way** , triggering a series of **incredible physiological adaptations** that work together to make us **true explorers of the depths**. It’s as if our body says:

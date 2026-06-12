@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 translated: deepl
 sourceHash: 0be588aec8a89f4f
 ---
-
 _(Journal de bord d'Ikigai Sailing)_
 
 Alors que nous naviguons sur les eaux cristallines de San Blas à bord de _l’Ikigai_, une chose devient claire : ce ne sont pas seulement des vacances. C’est une invitation à adopter un autre rythme, une autre façon d’être. Ces îles ne sont pas seulement magnifiques : elles abritent une culture vivante, forte et résiliente.

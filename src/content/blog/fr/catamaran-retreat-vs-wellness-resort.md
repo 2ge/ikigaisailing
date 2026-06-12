@@ -11,7 +11,6 @@ image: >-
 translated: deepl
 sourceHash: d8f2195c02ebf4b6
 ---
-
 Si tu cherches des **vacances** alliant **voile et plongée en apnée**, tu as sans doute déjà compris que le véritable ressourcement ne vient pas de la passivité. Souvent, quand on pense au bien-être, on imagine un spa silencieux ou le jardin immaculé d’un complexe hôtelier de luxe. Cependant, pour ceux qui mènent une vie trépidante, la détente traditionnelle n’est souvent qu’un anesthésiant temporaire qui ne parvient pas à rétablir un lien profond avec soi-même.
 
 **Ikigai Sailing** a été créé pour offrir une alternative radicalement différente. Nous ne sommes ni un centre de méditation flottant, ni une retraite spirituelle, ni un complexe de yoga classique. Au contraire, nous proposons une expérience de vie à bord où la mer agit comme un catalyseur d’une transformation physique et mentale que nous définissons comme une **expérience incarnée**.

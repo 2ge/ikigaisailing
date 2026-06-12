@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg
 translated: deepl
 sourceHash: b101fd5d1513b21e
 ---
-
 La navegación puede ser una herramienta poderosa y eficaz que, a través de la atención plena, nos ayuda a restablecer el equilibrio del sistema nervioso.
 
 Hay momentos en los que el cambio no empieza con un pensamiento, sino con una sensación.  

@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: 9882348b2549e05f
 needsReview: true
 ---
-
 Ticho nie je absencia zvuku, ale prítomnosť seba samého. Vo svete preplnenom upozorneniami, termínmi a digitálnym šumom žije náš nervový systém v neustálom stave pohotovosti – v „režime prežitia“, ktorý vyčerpáva naše energetické zásoby. **Ikigai Sailing** vám nenavrhuje, aby ste sa pasívne „odpojili“, napríklad ležaním na preplnenej pláži, ale skôr aby ste sa opäť spojili s iným, prvotným a silným rytmom: rytmom vetra a vĺn.
 
 Prostredníctvom zážitku z **regeneratívneho plachtenia** ponúkame aktívnu cestu k znovuobjaveniu duševnej jasnosti a vitálnej energie potrebnej na zvládanie každodenných výziev s novým pocitom uvedomenia si.

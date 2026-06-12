@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/20221220_125124.jpg"
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
 ---
-
 ## ABOUT US
 
 Ikigai Sailing is a growing community of dreamers, sailors, freedivers, divers, kitesurfers, and adventure and sports enthusiasts.

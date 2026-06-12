@@ -12,7 +12,6 @@ order: 2
 oldUrls:
   - "/it/prodotto/vivere-10-giorni-a-bordo/"
 ---
-
 [![10 Days experience](../../../assets/trips/acconto/20221220_125124-scaled.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2024/11/20221220_125124-scaled.jpg)
 
 [![Breath catamaran Holiday](../../../assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/Fotogramma-21-07-2025-01-22-37.webp)

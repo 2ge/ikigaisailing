@@ -23,7 +23,6 @@ order: 5
 oldUrls:
   - "/it/project/kite-surf/"
 ---
-
 ## Kite surf
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)

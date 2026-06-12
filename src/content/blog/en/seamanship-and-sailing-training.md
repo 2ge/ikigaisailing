@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-23"
 image: "~/assets/trips/acconto/skipper.webp"
 ---
-
 #### **Introduction to Life on Board**
 
 Learn the basics of living on a catamaran: space organization, water and energy management, for an authentic and responsible maritime experience.

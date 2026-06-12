@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-05-20"
 image: "~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-10.png"
 ---
-
 When we plan a restorative getaway, our minds instantly drift to thoughts of pristine beaches, the sound of the wind filling the sails, or the deep silence broken only by the lapping of the waves. Yet, we frequently overlook the very fuel that drives this personal transformation: what we put into our bodies. **Mindful eating on the move** is neither a passing trend nor a restrictive dogma; it is a foundational pillar for reconnecting with yourself, especially during an immersive **sailing retreat**.
 
 Traveling inherently shifts your pace, disrupts daily routines, and offers your nervous system a rare chance to reset. However, if this environmental change is met with distracted eating, processed foods, or rushed meals, you risk neutralizing the biological benefits of the journey. Conversely, nourishing your body with intention, in harmony with natural rhythms, amplifies every single moment spent on the water.

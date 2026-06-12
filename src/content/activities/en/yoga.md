@@ -11,7 +11,6 @@ order: 1
 oldUrls:
   - "/project/yoga-2/"
 ---
-
 YOGA
 
 ## Rediscover your balance

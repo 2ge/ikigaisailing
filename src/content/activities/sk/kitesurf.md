@@ -32,7 +32,6 @@ translated: deepl
 sourceHash: ce13edc955bca7f1
 needsReview: true
 ---
-
 ## Kitesurfing
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)

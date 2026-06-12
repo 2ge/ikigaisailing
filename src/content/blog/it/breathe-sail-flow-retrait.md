@@ -4,7 +4,6 @@ description: "Hai una passione per la libertà, la scoperta di sé e uno stile d
 locale: "it"
 pubDate: "2024-02-27"
 ---
-
 Hai una passione per la libertà, la scoperta di sé e uno stile di vita sostenibile?
 
 Benvenuto in un’esperienza unica che unisce un’avventura in barca a vela con un ritiro dedicato al benessere.

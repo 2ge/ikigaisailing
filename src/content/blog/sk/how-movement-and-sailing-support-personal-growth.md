@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: b067d22d8182d06d
 needsReview: true
 ---
-
 **Ako pohyb a plachtenie podporujú osobný rast**
 
 Osobný rast nie je niečo, čo sa deje len pri sedení na meditačnom vankúši. Pre tých, ktorí hľadajú autentickú zmenu, je telo primárnou bránou. V **Ikigai Sailing** veríme, že spojenie **pohybu, mora a uvedomenia** je tým najlepším receptom na hlboký reset.

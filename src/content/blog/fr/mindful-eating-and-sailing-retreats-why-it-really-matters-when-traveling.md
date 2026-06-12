@@ -13,7 +13,6 @@ image: >-
 translated: deepl
 sourceHash: 5af8d9767bd8ad60
 ---
-
 Quand on planifie une escapade pour se ressourcer, on imagine tout de suite des plages immaculées, le bruit du vent gonflant les voiles ou le silence profond que seul le clapotis des vagues vient troubler. Pourtant, on oublie souvent ce qui alimente cette transformation personnelle : ce qu’on met dans notre corps. **Manger en pleine conscience pendant un voyage** n’est ni une mode passagère ni un dogme restrictif ; c’est un pilier fondamental pour renouer avec toi-même, surtout lors d’une **retraite de voile** immersive.
 
 Voyager modifie naturellement ton rythme, bouleverse tes routines quotidiennes et offre à ton système nerveux une occasion rare de se réinitialiser. Cependant, si ce changement d’environnement s’accompagne d’une alimentation distrait, d’aliments transformés ou de repas pris à la hâte, tu risques de neutraliser les bienfaits biologiques du voyage. À l’inverse, nourrir ton corps en pleine conscience, en harmonie avec les rythmes naturels, amplifie chaque instant passé sur l’eau.

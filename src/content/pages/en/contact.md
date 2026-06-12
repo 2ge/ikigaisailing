@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## Contact us
 
 Want to embark on a unique adventure aboard our catamaran as we sail around the world?

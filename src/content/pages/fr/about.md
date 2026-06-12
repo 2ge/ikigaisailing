@@ -18,7 +18,6 @@ gallery:
 translated: deepl
 sourceHash: 580dc5db8e2f8161
 ---
-
 ## À PROPOS DE NOUS
 
 Ikigai Sailing, c'est une communauté grandissante de rêveurs, de marins, de plongeurs en apnée, de plongeurs sous-marins, de kitesurfeurs et de passionnés d'aventure et de sport.

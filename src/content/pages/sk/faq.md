@@ -21,7 +21,6 @@ translated: deepl
 sourceHash: 4e53529614bf0236
 needsReview: true
 ---
-
 ### Potrebujem predchádzajúce skúsenosti s jógou, meditáciou alebo freedivingom?
 
 Nie, nie je to potrebné. Všetky lekcie sú vhodné pre všetky úrovne a sú voliteľné.

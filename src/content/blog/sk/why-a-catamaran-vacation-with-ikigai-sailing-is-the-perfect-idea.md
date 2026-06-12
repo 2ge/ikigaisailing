@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 1265ab424d55abf1
 needsReview: true
 ---
-
 Snívate o úniku ďaleko od davov, o ponorení sa do prírody a o kolísaní na vlnách? **Dovolenka** **na katamaráne** s Ikigai Sailing je dokonalým zážitkom pre tých, ktorí hľadajú oddych, dobrodružstvo a autentický spôsob, ako zažiť more. Zistite, prečo by plavba s nami mohla byť tou najlepšou voľbou pre vašu ďalšiu dovolenku!
 
 ### **1\. Sloboda a nedotknutá príroda**

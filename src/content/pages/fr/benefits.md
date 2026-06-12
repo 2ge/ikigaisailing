@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## LES BIENFAITS DE L'IKIGAI SAILING
 
 La mer comme mode de vie

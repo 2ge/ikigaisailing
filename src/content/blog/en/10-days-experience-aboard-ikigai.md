@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-07-24"
 image: "~/assets/pages/ikigai/ikigaisailing.avif"
 ---
-
 ### **Introduction**
 
 During Ikigai Experience every proposed activity is **highly recommended** , but never mandatory. The invitation is to step out of your comfort zone, try new experiences, and strengthen your discipline — while also listening deeply to your body and its needs.

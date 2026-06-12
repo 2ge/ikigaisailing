@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ### **Politica di Prenotazione**
 
 Le attività e le esperienze offerte dalla nostra organizzazione sono riservate esclusivamente ai soci dell’associazione sportiva. Siamo un’associazione che promuove attività legate alla vela, al kitesurf, all’apnea e ad altre discipline sportive marine. Il nostro obiettivo è offrire esperienze uniche a chi condivide la nostra passione per il mare e lo sport.

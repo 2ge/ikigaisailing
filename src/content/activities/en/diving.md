@@ -20,7 +20,6 @@ order: 6
 oldUrls:
   - "/project/diving-2/"
 ---
-
 ## Diving
 
 ## Explore the underwater world 

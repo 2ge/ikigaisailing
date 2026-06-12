@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-13"
 image: "~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp"
 ---
-
 Have you ever thought, “I need a break from life”? The daily grind can be overwhelming, leaving you feeling drained and disconnected. If you’re looking for a way to reset, recharge, and rediscover yourself, **Ikigai Sailing** offers the perfect escape—an affordable long-term sailing experience that lets you embrace a slower, more mindful way of living at sea.
 
 ### **Why Take a Break from Life on a Sailboat?**

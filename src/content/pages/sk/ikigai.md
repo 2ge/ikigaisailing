@@ -18,7 +18,6 @@ translated: deepl
 sourceHash: e52db14392e14b47
 needsReview: true
 ---
-
 ## Ikigai
 
 **ČO JE Ikigai?**

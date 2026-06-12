@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/suitcase-onboard.webp
 translated: deepl
 sourceHash: 77fa22d32e1894de
 ---
-
 **Quoi emporter pour ton aventure en voilier**
 
 La vie en mer est extrêmement minimaliste, si bien que même les routards chevronnés se rendent souvent compte qu’ils n’utilisent pas la plupart de ce qu’ils ont emporté. Avant ton embarquement, tu recevras une liste de choses à emporter recommandée en fonction de l’itinéraire prévu, mais en général, ces conseils s’appliquent toujours :  

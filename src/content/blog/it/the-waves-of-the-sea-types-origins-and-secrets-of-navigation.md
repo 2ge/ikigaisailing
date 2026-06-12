@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-27"
 image: "~/assets/pages/vita-a-bordo-social/waves-types.webp"
 ---
-
 Le onde marine si classificano in diversi tipi in base alla loro origine, alla modalità di formazione e al comportamento. Ecco i principali tipi di onde e cosa indicano:
 
 ### **1. Onde di vento Origine:** Create dal vento che soffia sulla superficie dell’acqua.  

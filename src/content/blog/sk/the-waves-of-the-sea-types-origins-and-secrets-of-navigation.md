@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: c657b4ee235af46e
 needsReview: true
 ---
-
 Morské vlny sa delia na rôzne typy podľa ich pôvodu, spôsobu vzniku a správania. Tu sú hlavné typy vĺn a čo znamenajú:
 
 1.  **Veterné vlny**

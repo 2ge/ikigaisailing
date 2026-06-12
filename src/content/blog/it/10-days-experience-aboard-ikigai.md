@@ -9,7 +9,6 @@ image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
 sourceHash: 5a610fcb38be6bff
 ---
-
 ### **Introduzione**
 
 Durante l'Ikigai Experience ogni attività proposta è **vivamente consigliata**, ma mai obbligatoria. L'invito è quello di uscire dalla tua zona di comfort, provare nuove esperienze e rafforzare la tua disciplina, ascoltando al contempo profondamente il tuo corpo e i suoi bisogni.

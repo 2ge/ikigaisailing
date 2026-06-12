@@ -23,7 +23,6 @@ translated: deepl
 sourceHash: d73e92f15e282ca1
 needsReview: true
 ---
-
 APNEA
 
 ## Ponorte sa do sily dychu

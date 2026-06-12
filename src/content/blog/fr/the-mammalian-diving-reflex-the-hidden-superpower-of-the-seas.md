@@ -9,7 +9,6 @@ image: ~/assets/pages/season-2025-26/apnea6.webp
 translated: deepl
 sourceHash: ce7c84090510b6f3
 ---
-
 Dans l'eau, ton corps se transforme en une **machine de plongée parfaite**, comme si tu étais un **dauphin ou un phoque** l'espace d'un instant ! C'est le **réflexe de plongée des mammifères**, un **super-pouvoir caché** que possèdent tous les mammifères, hérité de nos lointains ancêtres aquatiques.
 
 Quand on plonge en apnée, surtout en **eau froide**, notre corps **s’active de manière extraordinaire**, déclenchant une série d’**incroyables adaptations physiologiques** qui agissent de concert pour faire de nous **de véritables explorateurs des profondeurs**. C’est comme si notre corps disait :

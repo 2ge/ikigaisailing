@@ -4,7 +4,6 @@ description: "L'Ikigai Experience è pensata per farti sperimentare l'equilibrio
 locale: "it"
 pubDate: "2025-07-18"
 ---
-
 ## **Premesse all’Ikigai Experience**
 
 In Ikigai Experience ogni attività proposta è fortemente raccomandata, ma mai obbligatoria. L’invito è quello di uscire dalla tua zona di comfort, provando nuove esperienze e rafforzando la disciplina. Allo stesso tempo, ti incoraggiamo ad ascoltare profondamente il tuo corpo e i suoi bisogni.

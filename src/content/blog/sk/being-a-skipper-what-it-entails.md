@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: a41101ad9bae40ec
 needsReview: true
 ---
-
 **ČO ZNAMENÁ BYŤ KAPITÁNOM**
 
 Výcvik kapitána sa líši v závislosti od typu plavby, veľkosti plavidla a predpisov krajiny, v ktorej pôsobí. Existujú však spoločné postupy a základné zručnosti, ktoré si kapitán musí osvojiť, aby zabezpečil bezpečnosť, kompetentnosť a profesionalitu. Tu sú hlavné aspekty výcviku kapitána:

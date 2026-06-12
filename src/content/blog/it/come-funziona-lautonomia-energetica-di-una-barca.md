@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-27"
 image: "~/assets/pages/vita-a-bordo-social/energy-efficiency.webp"
 ---
-
 Le barche moderne sono progettate per essere il più autonome possibile grazie a una combinazione di sistemi elettrici e fonti energetiche rinnovabili. I principali strumenti che garantiscono autonomia sono:
 
   1. **Pannelli solari:**

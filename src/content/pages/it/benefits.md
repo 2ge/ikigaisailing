@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## BENEFICI IKIGAI SAILING
 
 Il Mare come Stile di Vita

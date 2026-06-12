@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ### 1. Booking Policy:
 
 The activities and experiences offered by our organization are exclusively reserved for members of the sports association. We are an association that promotes activities related to sailing, kitesurfing, freediving, and other marine sports disciplines. Our goal is to offer unique experiences to those who share our passion for the sea and sports.

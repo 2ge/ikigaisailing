@@ -12,7 +12,6 @@ translated: deepl
 sourceHash: 00197f00320765d3
 needsReview: true
 ---
-
 ## Čo je to lov s harpúnou a prečo je výnimočný
 
 Podvodný lov je pravdepodobne najstaršou formou lovu a zberu, akú ľudstvo kedy vyvinulo.  

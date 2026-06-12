@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-01-24"
 image: "~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp"
 ---
-
 Trasformare l’acqua del mare in acqua potabile in mezzo all’oceano, dove l’**acqua dolce** non è mai scontata. A bordo di **Ikigai Sailing** abbiamo scelto di renderci indipendenti: niente bottiglie di plastica, niente rifornimenti obbligati nei porti. Solo mare, tecnologia e un po’ di ingegno.
 
 Ogni giorno produciamo la nostra **acqua potabile** e persino **frizzante** , direttamente dall’**acqua di mare**. Questo ci permette di vivere **off-grid** e ridurre drasticamente l’impatto ambientale della navigazione.

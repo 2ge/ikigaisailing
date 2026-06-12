@@ -9,7 +9,6 @@ image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
 sourceHash: ff71a52bbac8d079
 ---
-
 #### **Introducción a la vida a bordo**
 
 Aprende lo básico sobre cómo vivir en un catamarán: organización del espacio, gestión del agua y la energía, para una experiencia marítima auténtica y responsable.

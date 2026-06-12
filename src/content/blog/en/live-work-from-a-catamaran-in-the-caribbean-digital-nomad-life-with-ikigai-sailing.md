@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2024-04-16"
 image: "~/assets/pages/vita-a-bordo-social/nomadi-digitali.avif"
 ---
-
 Imagine waking up every morning surrounded by turquoise waters, coconut trees and silence.  
 If you’re a **digital nomad** looking for an off-the-grid work-life experience, **Ikigai Sailing** is your floating paradise.
 

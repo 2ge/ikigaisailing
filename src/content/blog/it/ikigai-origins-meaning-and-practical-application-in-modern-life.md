@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-04-10"
 image: "~/assets/pages/vita-a-bordo-social/Copia-di-Immagini-per-sito-web-1500-x-1000-11.png"
 ---
-
 La parola **Ikigai** è spesso tradotta come “ragione di vita” o “motivo per alzarsi al mattino”. Sebbene le sue origini risiedano nella cultura giapponese di Okinawa, il significato della parola ikigai è universale e più attuale che mai. Tuttavia, l’Ikigai non è un concetto astratto da studiare sui libri: è una pratica che va vissuta.
 
 ## **Oltre il diagramma: l’Ikigai come esperienza vissuta**

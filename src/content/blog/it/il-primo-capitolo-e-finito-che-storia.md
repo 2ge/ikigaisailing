@@ -4,7 +4,6 @@ description: "Approfittiamo della sosta ad Almerimar per fare un bilancio di que
 locale: "it"
 pubDate: "2025-02-23"
 ---
-
 Approfittiamo della sosta ad Almerimar per fare un bilancio di questa prima stagione estiva nel Mediterraneo. (Trovi i numeri in fondo al post!)
 
 Le nostre aspettative erano alte, ma possiamo dire con soddisfazione che sono state decisamente superate! Abbiamo vissuto tante veleggiate indimenticabili, notti all’ancora, immersioni in luoghi incantevoli, corsi e allenamenti di freediving, e molto altro ancora. Un grazie speciale a tutti gli amici associati che ci hanno raggiunto – stiamo davvero formando una bellissima comunità.

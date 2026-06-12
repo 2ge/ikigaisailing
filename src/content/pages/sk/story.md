@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/skipper.webp"
   - "~/assets/trips/acconto/user1.webp"
 ---
-
 ## PRÍBEH
 
 **AKO VZNIKLA SPOLOČNOSŤ Ikigai Sailing Luca hovorí:** „V predchádzajúcom živote som bol podnikateľ. Začal som veľmi mladý, nasledoval som kroky svojho otca a otvoril som svoju prvú firmu, keď som bol ešte neplnoletý. Moja vášeň pre plachtenie sa prebudila už v ranom veku vďaka mojej ďalšej veľkej vášni: freedivingu.

@@ -11,7 +11,6 @@ image: >-
 translated: deepl
 sourceHash: b067d22d8182d06d
 ---
-
 **Cómo el movimiento y la navegación favorecen el crecimiento personal**
 
 El crecimiento personal no es algo que solo ocurra sentado en un cojín de meditación. Para quienes buscan un cambio auténtico, el cuerpo es la puerta de entrada principal. En **Ikigai Sailing**, creemos que la unión del **movimiento, el mar y la conciencia** es la fórmula definitiva para un reinicio profundo.

@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-02-27"
 image: "~/assets/pages/vita-a-bordo-social/waves-types.webp"
 ---
-
 Marine waves are classified into different types based on their origin, formation method, and behavior. Here are the main types of waves and what they indicate:
 
   1. **Wind Waves**

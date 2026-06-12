@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-03-31"
 image: "~/assets/blog/ikigai-and-travel-how-to-rediscover-your-natural-rhythm-at-sea/Copia-di-Immagini-per-sito-web-1500-x-1000-10.png"
 ---
-
 In our modern world, we are constantly “on.” Our nervous systems are overstimulated by digital noise and urban speed. Finding your **Ikigai** through travel isn’t about escaping reality; it’s about recalibrating your biological clock.
 
 At **Ikigai Sailing** , we don’t offer a traditional wellness retreat or a passive luxury cruise. We provide an **embodied experience** where the sea acts as a transformative environment for your mind and body.

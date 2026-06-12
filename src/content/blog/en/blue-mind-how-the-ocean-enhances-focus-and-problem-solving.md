@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-03-27"
 image: "~/assets/pages/vita-a-bordo-social/blue-mind-focus.avif"
 ---
-
 We live in an increasingly fast-paced world, where digital distractions and daily commitments can easily overwhelm our minds. But there is a powerful natural ally that can help us regain clarity and focus: the ocean. The concept of **Blue Mind** , developed by marine biologist Wallace J. Nichols, describes the relaxed and rejuvenating mental state we experience when near water. This state not only reduces stress but can also enhance our cognitive abilities, improving focus and problem-solving skills.
 
 ### The Restorative Effect of Water on the Brain

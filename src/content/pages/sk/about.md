@@ -19,7 +19,6 @@ translated: deepl
 sourceHash: 580dc5db8e2f8161
 needsReview: true
 ---
-
 ## O NÁS
 
 Ikigai Sailing je rastúca komunita snílkov, námorníkov, freediverov, potápačov, kitesurferov a nadšencov dobrodružstva a športu.

@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-02-02"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-33.jpg"
 ---
-
 Negli ultimi anni la parola _Ikigai_ è diventata molto popolare. Spesso viene ridotta a un concetto motivazionale o a un diagramma colorato che promette risposte rapide.  
 In realtà, l’Ikigai è qualcosa di molto più sottile e profondo: non è un obiettivo da raggiungere, ma una **direzione da ascoltare**.  
 Una vacanza Ikigai Sailing nasce proprio da questa differenza.

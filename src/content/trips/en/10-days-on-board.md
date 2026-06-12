@@ -21,7 +21,6 @@ order: 2
 oldUrls:
   - "/prodotto/10-days-on-board-ikigai/"
 ---
-
 ## **Introduction**
 
 Every proposed activity is **highly recommended** , but never mandatory. The invitation is to step out of your comfort zone, try new experiences, and strengthen your discipline — while also listening deeply to your body and its needs. This experience is designed to help you explore the balance between **commitment and listening** , between **discipline and freedom**. No expectations, no performance — just the opportunity to reconnect with yourself, others, and the natural rhythm of life.

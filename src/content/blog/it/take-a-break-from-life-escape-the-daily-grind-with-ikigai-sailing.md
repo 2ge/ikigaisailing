@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-13"
 image: "~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp"
 ---
-
 Hai mai pensato: “Ho bisogno di una pausa dalla vita”? La routine quotidiana può essere opprimente, lasciandoti esausto e disconnesso. Se stai cercando un modo per resettare, ricaricarti e riscoprire te stesso, **Ikigai Sailing** offre la fuga perfetta: un’esperienza di navigazione a lungo termine accessibile, che ti permette di abbracciare uno stile di vita più lento e consapevole in mare. 
 
 ### **Perché prendersi una pausa dalla vita su una barca a vela?**

@@ -10,7 +10,6 @@ image: >-
 translated: deepl
 sourceHash: 1ffdcd096187d920
 ---
-
 Le mot japonais « Ikigai » est souvent traduit par « raison d’être » ou « la raison pour laquelle tu te lèves le matin ». Bien qu’il trouve ses racines à Okinawa, sa signification est essentielle pour quiconque est confronté aux complexités de la vie moderne. Pour vraiment libérer ton potentiel, comprendre la **signification** profonde **de l’Ikigai** nécessite d’aller au-delà des simples définitions et d’entrer dans le domaine de l’expérience vécue. Après tout, l’Ikigai n’est pas seulement une philosophie, c’est une pratique.
 
 ## **Au-delà du diagramme**

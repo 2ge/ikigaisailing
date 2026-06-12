@@ -9,7 +9,6 @@ image: ~/assets/pages/vita-a-bordo-social/Freediving-in-San-Blas.avif
 translated: deepl
 sourceHash: ccc603f5c11e9401
 ---
-
 Imagine-toi plonger dans des eaux cristallines, entouré de récifs coralliens aux couleurs éclatantes et d'une faune marine exotique, tout en profitant de la sérénité de la plongée en apnée. La plongée en apnée dans les îles San Blas avec Ikigai Sailing t'offre une aventure sans pareille, alliant nature, découverte de soi et le frisson de l'exploration des profondeurs avec un équipement minimal.
 
 ### Pourquoi choisir San Blas pour la plongée en apnée ?

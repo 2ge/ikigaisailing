@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-02-27"
 image: "~/assets/pages/vita-a-bordo-social/clouds-shape.webp"
 ---
-
 Understanding clouds is essential for a navigator to ensure safety during navigation, enhance the experience, and make informed decisions.  
 Here’s an overview of the main types of clouds and their impact on the sea and wind, as well as the importance of knowing them for navigation safety:  
 Clouds are primarily classified based on their shape and height in the atmosphere. According to the official classification of the World Meteorological Organization, there are 10 main types of clouds, divided into 4 main categories:

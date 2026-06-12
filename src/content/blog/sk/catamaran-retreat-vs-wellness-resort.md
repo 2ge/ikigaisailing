@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: d8f2195c02ebf4b6
 needsReview: true
 ---
-
 Ak hľadáte **dovolenku** spojenú s **plachtením a freedivingom**, pravdepodobne ste už zistili, že skutočné zotavenie neprichádza prostredníctvom pasivity. Keď premýšľame o wellness, často si predstavujeme tiché kúpele alebo nedotknutú záhradu luxusného rezortu. Pre tých, ktorí žijú veľmi intenzívny život, je však tradičná relaxácia často len dočasným anestetikom, ktoré nedokáže obnoviť hlboké spojenie so sebou samým.
 
 **Ikigai Sailing** vznikol s cieľom ponúknuť radikálne odlišnú alternatívu. Nie sme plávajúce meditačné centrum, ani duchovný úkryt či bežný rezort zameraný na jógu. Namiesto toho ponúkame zážitok zo života na palube, kde more pôsobí ako katalyzátor fyzickej a duševnej transformácie, ktorú definujeme ako **telesný zážitok**.

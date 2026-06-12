@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## Contáctanos
 
 ¿Quieres embarcarte en una aventura única a bordo de nuestro catamarán mientras navegamos por todo el mundo?

@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/10-days-on-board/lucabrano5.avif"
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
 ---
-
 ### Benefici Crescenti nel Tempo
 
 Benessere Fisico e Mentale in Armonia con la Natura

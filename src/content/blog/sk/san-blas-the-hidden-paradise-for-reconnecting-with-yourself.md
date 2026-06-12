@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 703595d9dc3e78b5
 needsReview: true
 ---
-
 Súostrovie s viac ako 360 ostrovmi ponorenými do krištáľovo čistej vody Karibiku, bielymi pieskovými plážami, vlnivými palmami a očarujúcim podmorským svetom hemžiacim sa životom. Vitajte v San Blase, mieste mimo času, kde nedotknutá príroda a domorodá kultúra Guna Yala ponúkajú autentický a osviežujúci zážitok.
 
 ### **Nespútaná príroda San Blas**

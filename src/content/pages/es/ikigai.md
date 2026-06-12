@@ -17,7 +17,6 @@ gallery:
 translated: deepl
 sourceHash: e52db14392e14b47
 ---
-
 ## Ikigai
 
 **¿QUÉ ES EL IKIGAI?**

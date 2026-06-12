@@ -20,7 +20,6 @@ gallery:
 translated: deepl
 sourceHash: 4e53529614bf0236
 ---
-
 ### ¿Necesito tener experiencia previa en yoga, meditación o buceo libre?
 
 No, no es necesario. Todas las sesiones son aptas para todos los niveles y son opcionales.

@@ -11,7 +11,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-98.jpg
 translated: deepl
 sourceHash: 9a7729ffb9f2caf0
 ---
-
 ¿Alguna vez has pensado en la navegación como una herramienta para la evolución y el crecimiento personal?
 
 Hay experiencias que no necesitan muchas explicaciones. Simplemente las sientes.  

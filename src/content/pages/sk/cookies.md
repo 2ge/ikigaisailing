@@ -6,7 +6,6 @@ translated: deepl
 sourceHash: 069ccce68dec954d
 needsReview: true
 ---
-
 ## Výklad a definície
 
 ### Výklad

@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## contattaci
 
 Vuoi vivere un’avventura unica a bordo del nostro catamarano mentre navighiamo intorno al mondo? 

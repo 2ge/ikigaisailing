@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## Contacte-nous
 
 Envie de vivre une aventure unique à bord de notre catamaran pour faire le tour du monde ?

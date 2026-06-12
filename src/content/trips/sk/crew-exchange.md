@@ -16,7 +16,6 @@ translated: deepl
 sourceHash: 59f47dc33917fdf4
 needsReview: true
 ---
-
 [![skipper](../../../assets/trips/crew-exchange/skipper-copia.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/07/skipper-copia.webp)
 
 # Výmena / Platené ubytovanie

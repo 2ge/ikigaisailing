@@ -15,7 +15,6 @@ gallery:
   - "~/assets/trips/acconto/san-blas.webp"
   - "~/assets/trips/acconto/skipper.webp"
 ---
-
 ## IKIGAI
 
 **WHAT IS IKIGAI?**

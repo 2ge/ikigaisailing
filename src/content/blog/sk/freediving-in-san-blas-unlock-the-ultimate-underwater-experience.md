@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: ccc603f5c11e9401
 needsReview: true
 ---
-
 Predstavte si, že sa ponoríte do krištáľovo čistej vody, obklopení farebnými koralovými útesmi a exotickým morským životom, a to všetko pri prežívaní pokoja, ktorý prináša potápanie na zadržanie dychu. Potápanie na zadržanie dychu na ostrovoch San Blas s Ikigai Sailing ponúka jedinečné dobrodružstvo, ktoré spája prírodu, sebapoznávanie a vzrušenie z objavovania hlbín s minimálnym vybavením.
 
 ### Prečo si vybrať San Blas pre freediving?

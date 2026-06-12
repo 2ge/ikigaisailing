@@ -18,7 +18,6 @@ translated: deepl
 sourceHash: 91a8cd0df209fbab
 needsReview: true
 ---
-
 ## Catana 47
 
 Catana 47

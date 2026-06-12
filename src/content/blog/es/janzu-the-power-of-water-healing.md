@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/janzu.avif
 translated: deepl
 sourceHash: 7c984e5a782a48c6
 ---
-
 **Janzu: El poder regenerador del agua. El Janzu** es una técnica de relajación y sanación basada en el agua que cada vez goza de mayor popularidad entre quienes buscan un bienestar profundo y natural. Creada en la década de los 90 por el terapeuta mexicano **Juan Villatoro**, esta práctica combina movimientos fluidos en el agua, ejercicios de respiración y meditación profunda, ofreciendo una potente liberación a nivel físico, emocional y mental.
 
 **¿Qué es el Janzu y cómo funciona?**

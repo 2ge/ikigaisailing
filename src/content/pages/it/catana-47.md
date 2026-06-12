@@ -15,7 +15,6 @@ gallery:
   - "~/assets/pages/catana-47/d7f8a8_2002781c5d754ca0b09a0e66a791ca38mv2.jpg"
   - "~/assets/pages/catana-47/d7f8a8_248a451d2c164987b12f4474d096d6bdmv2.jpg"
 ---
-
 ## CATANA 47
 
 CATANA 47

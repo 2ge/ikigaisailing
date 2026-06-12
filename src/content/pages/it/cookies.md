@@ -5,7 +5,6 @@ locale: it
 translated: deepl
 sourceHash: 069ccce68dec954d
 ---
-
 ## Interpretazione e definizioni
 
 ### Interpretazione

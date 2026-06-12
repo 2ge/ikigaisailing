@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-03-31"
 image: "~/assets/blog/ikigai-and-travel-how-to-rediscover-your-natural-rhythm-at-sea/Copia-di-Immagini-per-sito-web-1500-x-1000-10.png"
 ---
-
 Viviamo in un’epoca di costante iper-stimolazione. Notifiche, scadenze e ritmi urbani mantengono il nostro sistema nervoso in uno stato di allerta perenne. Ma cosa succede quando cambiamo radicalmente elemento?
 
 Trovare il proprio **Ikigai** attraverso il viaggio non significa fuggire dai problemi, ma cambiare la frequenza con cui vibra il nostro corpo. In **Ikigai Sailing** , non offriamo un semplice “ritiro spirituale” o una vacanza relax. Proponiamo una **embodied experience** : un ritorno al ritmo biologico primordiale attraverso la vita a bordo.

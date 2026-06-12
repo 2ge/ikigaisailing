@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-05-06"
 image: "~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-9.png"
 ---
-
 If you are looking for a **sailing and freediving holiday** , you’ve likely already sensed that true rejuvenation doesn’t happen through passivity. Often, when we think of wellness, we visualize a silent spa or the pristine garden of a luxury resort. However, for those living high-intensity lives, traditional relaxation is often just a temporary anesthetic that fails to restore a deep connection with oneself.
 
 **Ikigai Sailing** was created to offer a radically different alternative. We are not a floating meditation center, nor a spiritual retreat or a standard yoga resort. Instead, we propose an experience of life on board where the sea acts as a catalyst for a physical and mental transformation we define as an **embodied experience**.

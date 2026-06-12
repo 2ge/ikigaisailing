@@ -10,7 +10,6 @@ image: >-
 translated: deepl
 sourceHash: 5b01608ac0091a06
 ---
-
 En el mundo moderno, estamos constantemente «conectados». Nuestro sistema nervioso está sobreestimulado por el ruido digital y el ritmo frenético de la ciudad. Encontrar tu **Ikigai** a través de los viajes no consiste en escapar de la realidad, sino en reajustar tu reloj biológico.
 
 En **Ikigai Sailing**, no ofrecemos un retiro de bienestar tradicional ni un crucero de lujo pasivo. Ofrecemos una **experiencia integral** en la que el mar actúa como un entorno transformador para tu mente y tu cuerpo.

@@ -10,7 +10,6 @@ image: ~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg
 translated: deepl
 sourceHash: b101fd5d1513b21e
 ---
-
 La voile peut être un outil puissant et efficace qui, grâce à la pleine conscience, permet de rééquilibrer le système nerveux.
 
 Il y a des moments où le changement ne commence pas par une pensée, mais par une sensation.  

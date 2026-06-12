@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-02-26"
 image: "~/assets/pages/vita-a-bordo-social/suitcase-onboard.webp"
 ---
-
 **La vita in mare è estremamente essenziale, tanto che anche i backpaker veterani riescono a non usare spesso quello che portano. Prima del tuo imbarco riceverai una lista consigliata di cose da portare compatibilmente con la tratta prevista ma in linea generale queste linee guida sono sempre valide:**
 
 Lo spazio a bordo è limitato, quindi è fondamentale essere pratici e scegliere con attenzione cosa portare. Una cosa da evitare? Le valigie rigide! Non solo sono difficili da stivare, ma occupano anche più spazio di quanto immagini.  

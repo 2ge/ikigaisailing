@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-05-20"
 image: "~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-10.png"
 ---
-
 Quando pensiamo a una vacanza rigenerante, la nostra mente corre subito a immagini di spiagge incontaminate, al suono del vento tra le vele o al silenzio interrotto solo dalle onde. Spesso, però, dimentichiamo l’elemento che fa da vero carburante a questa trasformazione: ciò che immettiamo nel nostro corpo. L’**alimentazione consapevole in viaggio** non è una moda passeggera né un dogma rigido, ma un pilastro fondamentale per riconnettersi con se stessi, specialmente durante un’esperienza intensa come un **sailing retreat**.
 
 Viaggiare significa cambiare ritmo, scardinare le abitudini quotidiane e offrire al sistema nervoso l’opportunità di resettarsi. Se a questo cambiamento associamo un modo di mangiare distratto, basato su cibo industriale o consumato di fretta, rischiamo di annullare i benefici biologici dell’esperienza. Al contrario, nutrire il corpo con intenzione, assecondando i ritmi della natura, amplifica ogni singolo istante vissuto a bordo.

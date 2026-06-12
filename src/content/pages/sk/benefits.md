@@ -18,7 +18,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ## PRÍNOSY PLÁVANIA S IKIGAI
 
 More ako spôsob života

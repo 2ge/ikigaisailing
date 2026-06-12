@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2026-02-02"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-33.jpg"
 ---
-
 In recent years, the word _Ikigai_ has become increasingly popular, often simplified into a motivational formula or a colourful diagram.  
 In Japanese culture, however, Ikigai is something much deeper. It’s not something you chase — it’s something you **listen to**.  
 An Ikigai vacation starts exactly from this understanding.  

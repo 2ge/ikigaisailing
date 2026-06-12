@@ -24,7 +24,6 @@ order: 2
 translated: deepl
 sourceHash: fba3506b9f3e93d6
 ---
-
 ## **Introducción**
 
 Todas las actividades propuestas son **muy recomendables**, pero nunca obligatorias. La invitación es a salir de tu zona de confort, probar nuevas experiencias y fortalecer tu disciplina, al tiempo que escuchas atentamente a tu cuerpo y sus necesidades. Esta experiencia está diseñada para ayudarte a explorar el equilibrio entre **el compromiso y la escucha**, entre **la disciplina y la libertad**. Sin expectativas, sin rendir: solo la oportunidad de reconectar contigo mismo, con los demás y con el ritmo natural de la vida.

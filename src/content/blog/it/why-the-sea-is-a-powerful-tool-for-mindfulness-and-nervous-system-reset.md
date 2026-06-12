@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-02-07"
 image: "~/assets/pages/vita-a-bordo-social/IKIGAI-02.jpg"
 ---
-
 Il mare può favorire la mindfulness e la nostra chiarezza interiore.
 
 Ci sono momenti in cui non è un pensiero a chiedere attenzione, ma una sensazione.  

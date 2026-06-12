@@ -11,7 +11,6 @@ image: >-
 translated: deepl
 sourceHash: b067d22d8182d06d
 ---
-
 **Comment le mouvement et la voile favorisent le développement personnel**
 
 Le développement personnel ne se limite pas à rester assis sur un coussin de méditation. Pour ceux qui recherchent un véritable changement, le corps est la porte d’entrée principale. Chez **Ikigai Sailing**, on pense que l’union du **mouvement,** de **la mer et** de **la pleine conscience** est la formule ultime pour un renouveau profond.

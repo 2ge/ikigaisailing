@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2025-03-27"
 image: "~/assets/pages/vita-a-bordo-social/blue-mind-focus.avif"
 ---
-
 Viviamo in un mondo sempre più frenetico, dove le distrazioni digitali e gli impegni quotidiani possono facilmente sovraccaricare la nostra mente. Ma c’è un potente alleato naturale che può aiutarci a ritrovare chiarezza e focus: l’oceano. Il concetto di **Blue Mind** , sviluppato dal biologo marino Wallace J. Nichols, descrive lo stato mentale rilassato e rigenerante che sperimentiamo quando siamo vicino all’acqua. Questo stato non solo riduce lo stress, ma può anche potenziare le nostre capacità cognitive, migliorando concentrazione e problem solving.
 
 ### L’Effetto Rigenerante dell’Acqua sul Cervello

@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 0be588aec8a89f4f
 needsReview: true
 ---
-
 _(Plavebný denník Ikigai Sailing)_
 
 Keď plávame na palube _lode Ikigai_ krištáľovo čistými vodami San Blas, stáva sa jasné: toto nie je len dovolenka. Je to pozvánka vstúpiť do iného rytmu, iného spôsobu bytia. Tieto ostrovy nie sú len krásne – uchovávajú živú kultúru, silnú a odolnú.

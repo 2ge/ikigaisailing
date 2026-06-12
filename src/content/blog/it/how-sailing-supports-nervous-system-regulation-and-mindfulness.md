@@ -10,7 +10,6 @@ image: >-
 translated: deepl
 sourceHash: 9882348b2549e05f
 ---
-
 Il silenzio non è l'assenza di suoni, ma la presenza di sé. In un mondo saturo di notifiche, scadenze e rumore digitale, il nostro sistema nervoso vive in uno stato di allerta costante: una "modalità di sopravvivenza" che prosciuga le nostre riserve di energia. **Ikigai Sailing** non ti suggerisce di “staccare la spina” passivamente, magari sdraiandoti su una spiaggia affollata, ma piuttosto di ricollegarti a un ritmo diverso, primordiale e potente: quello del vento e delle onde.
 
 Attraverso l’esperienza della **vela rigenerativa**, ti offriamo un percorso attivo per riscoprire la lucidità mentale e l’energia vitale necessarie per affrontare le sfide quotidiane con un nuovo senso di consapevolezza.

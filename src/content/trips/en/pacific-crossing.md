@@ -15,7 +15,6 @@ order: 4
 oldUrls:
   - "/prodotto/pacific-crossing/"
 ---
-
 [![Pacific Crossing](../../../assets/trips/pacific-crossing/IMG_3015-2.jpg)](https://www.ikigaisailing.com/wp-content/uploads/2025/09/IMG_3015-2-scaled.jpg)
 
 [![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)](https://www.ikigaisailing.com/wp-content/uploads/2025/02/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)

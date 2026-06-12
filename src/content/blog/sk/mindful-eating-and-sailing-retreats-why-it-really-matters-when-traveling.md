@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: 5af8d9767bd8ad60
 needsReview: true
 ---
-
 Keď plánujeme oddychový výlet, naše myšlienky sa okamžite upriamujú na nedotknuté pláže, šum vetra napínajúceho plachty alebo hlboké ticho, ktoré narúša len šumenie vĺn. Často však prehliadame práve to, čo je hnacou silou tejto osobnej premeny: to, čo prijímame do svojho tela. **Vedomé stravovanie na cestách** nie je ani prechodným trendom, ani obmedzujúcim dogmatom; je to základný pilier pre opätovné spojenie so sebou samým, najmä počas intenzívneho **plachtenia**.
 
 Cestovanie samo o sebe mení vaše tempo, narúša každodenné rutiny a ponúka vášmu nervovému systému vzácnu príležitosť na reset. Ak však túto zmenu prostredia sprevádza rozptýlené stravovanie, spracované potraviny alebo uponáhľané jedlá, riskujete, že neutralizujete biologické prínosy cesty. Naopak, keď svoje telo vyživujete zámerne, v harmónii s prírodnými rytmami, umocníte každý okamih strávený na vode.

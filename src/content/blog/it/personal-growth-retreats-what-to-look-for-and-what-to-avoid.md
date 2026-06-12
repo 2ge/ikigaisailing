@@ -5,7 +5,6 @@ locale: "it"
 pubDate: "2026-06-06"
 image: "~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-13.png"
 ---
-
 Il mercato dei ritiri di crescita personale è esploso. Tra feed di Instagram affollati di spiagge balinesi, resort olistici a cinque stelle e promesse di illuminazione istantanea in sette giorni, trovare un’esperienza che lasci il segno – e che trasformi davvero la quotidianità – è diventato un’impresa complessa.
 
 Spesso, chi si sente in **burnout** , sovraccarico di responsabilità manageriali o intrappolato nella routine frenetica della vita cittadina, cerca una via d’uscita. La risposta più comune? Prenotare un pacchetto preconfezionato in un centro benessere. Ma un massaggio rilassante o una sessione di meditazione seduta in un resort di lusso bastano davvero a resettare un sistema nervoso esausto?

@@ -9,7 +9,6 @@ image: ~/assets/trips/acconto/skipper.webp
 translated: deepl
 sourceHash: a41101ad9bae40ec
 ---
-
 **SER PATRÓN: EN QUÉ CONSISTE**
 
 La formación de un patrón varía según el tipo de navegación, el tamaño de la embarcación y la normativa del país en el que opera. Sin embargo, hay itinerarios comunes y habilidades fundamentales que un patrón debe adquirir para garantizar la seguridad, la competencia y la profesionalidad. Estos son los aspectos principales de la formación de un patrón:

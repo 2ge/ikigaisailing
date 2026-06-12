@@ -19,7 +19,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 [Ver opiniones en Trustpilot](https://it.trustpilot.com/review/ikigaisailing.com)
 
 Cargar más

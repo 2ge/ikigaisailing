@@ -21,7 +21,6 @@ gallery:
   - "~/assets/trips/acconto/user1.webp"
   - "~/assets/trips/acconto/user3.webp"
 ---
-
 ### 1\. Conditions de réservation :
 
 Les activités et expériences proposées par notre organisation sont exclusivement réservées aux membres de l'association sportive. Nous sommes une association qui promeut les activités liées à la voile, au kitesurf, à la plongée en apnée et à d'autres disciplines de sports nautiques. Notre objectif est d'offrir des expériences uniques à ceux qui partagent notre passion pour la mer et le sport.

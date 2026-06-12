@@ -13,7 +13,6 @@ order: 1
 translated: deepl
 sourceHash: bfffc5cdaf428df6
 ---
-
 YOGA
 
 ## Redescubre tu equilibrio

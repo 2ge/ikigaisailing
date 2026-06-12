@@ -12,7 +12,6 @@ translated: deepl
 sourceHash: 6a4b2f70e0810c47
 needsReview: true
 ---
-
 Predstavte si, že sa každé ráno prebúdzate obklopení tyrkysovou vodou, kokosovými palmami a tichom.  
 Ak ste **digitálny nomád** a hľadáte pracovný a súkromný život mimo civilizácie, **Ikigai Sailing** je vaším plávajúcim rajom.
 

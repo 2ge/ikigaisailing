@@ -5,7 +5,6 @@ locale: "en"
 pubDate: "2025-04-05"
 image: "~/assets/pages/vita-a-bordo-social/janzu.avif"
 ---
-
 **Janzu: The Regenerative Power of Water Janzu** is a water-based relaxation and healing technique that’s becoming increasingly popular among those seeking deep and natural well-being. Created in the 1990s by Mexican therapist **Juan Villatoro** , this practice combines fluid movements in water, breathwork, and deep meditation, offering a powerful release on physical, emotional, and mental levels.
 
 **What is Janzu and How Does It Work?**

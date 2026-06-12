@@ -10,7 +10,6 @@ translated: deepl
 sourceHash: 77fa22d32e1894de
 needsReview: true
 ---
-
 **Čo si vziať so sebou na plachtenie**
 
 Život na mori je mimoriadne minimalistický, takže aj skúsení backpackeri často zistia, že väčšinu vecí, ktoré si so sebou priniesli, nevyužijú. Pred nalodením dostanete odporúčaný zoznam vecí, ktoré si máte zabaliť, na základe plánovanej trasy, ale vo všeobecnosti platia vždy tieto pravidlá:  

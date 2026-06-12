@@ -11,7 +11,6 @@ translated: deepl
 sourceHash: 947b4f6dfd2fc3f6
 needsReview: true
 ---
-
 Vedomé cestovanie možno definovať ako cestu, pri ktorej sa zámer stáva hnacou silou objavovania, zakotvenou v pohľade, kde uvedomenie si a prítomnosť sú súčasťou samotného cieľa.
 
 Cestovanie už nie je len o dosiahnutí cieľa.  
