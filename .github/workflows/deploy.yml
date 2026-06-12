@@ -35,6 +35,8 @@ jobs:
           # Absent on forks/PRs from forks → build keeps the last committed reviews.
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           GOOGLE_PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}
+          # Translates new Google reviews into the site locales (cached by text hash).
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
 
       - name: Deploy to Cloudflare Pages
         id: deploy
