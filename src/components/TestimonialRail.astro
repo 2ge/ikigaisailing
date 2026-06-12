@@ -7,7 +7,8 @@
  */
 import { render } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
-import { useTranslations, type Locale } from '../i18n/ui';
+import { useTranslations, localizePath, type Locale } from '../i18n/ui';
+import { slugOf } from '../lib/content';
 
 interface Props {
   testimonials: CollectionEntry<'testimonials'>[];
@@ -20,14 +21,16 @@ const cards = await Promise.all(
   testimonials.map(async (item) => {
     const { Content } = await render(item);
     const translated = item.data.locale !== locale ? item.data.translations?.[locale] : undefined;
-    return { item, Content, translated };
+    const href = localizePath('/reviews/', locale) + '#' + slugOf(item);
+    return { item, href, Content, translated };
   }),
 );
 ---
 
 <div class="snap-rail -mx-4 px-4 sm:mx-0 sm:px-0">
-  {cards.map(({ item, Content, translated }, i) => (
-    <figure class="flex w-[82vw] max-w-sm flex-col rounded-2xl bg-sand-50 p-6 ring-1 ring-ocean-950/5 sm:w-80">
+  {cards.map(({ item, href, Content, translated }, i) => (
+    <figure class="group relative flex w-[82vw] max-w-sm flex-col rounded-2xl bg-sand-50 p-6 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300 sm:w-80">
+      <a href={href} class="absolute inset-0 z-0 rounded-2xl" aria-label={`Read ${item.data.author}'s review`}></a>
       <svg class="h-8 w-8 shrink-0 text-ocean-300" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
         <path d="M9.13 8C7.4 8.6 6 10.5 6 12.5V18h5v-5H8.5c0-1.4.9-2.6 2-3L9.13 8Zm8 0C15.4 8.6 14 10.5 14 12.5V18h5v-5h-2.5c0-1.4.9-2.6 2-3L17.13 8Z" />
       </svg>
@@ -44,7 +47,7 @@ const cards = await Promise.all(
         </div>
         {translated && (
           <button
-            class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800"
+            class="relative z-10 shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800"
             data-toggle={i}
           >
             {t('reviews.translated')}

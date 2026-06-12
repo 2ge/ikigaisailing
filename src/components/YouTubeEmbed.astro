@@ -1,0 +1,37 @@
+---
+/**
+ * Lazy YouTube facade: shows the thumbnail + play button; loads the (privacy-
+ * friendly nocookie) iframe only on click. Zero YouTube JS until the user plays.
+ */
+interface Props { id: string; title?: string; }
+const { id, title = 'Video review' } = Astro.props;
+const thumb = `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
+---
+<button
+  class="group relative block aspect-video w-full overflow-hidden rounded-2xl bg-ocean-950 ring-1 ring-ocean-950/10"
+  data-yt={id}
+  aria-label={`Play: ${title}`}
+>
+  <img src={thumb} alt={title} loading="lazy" width="480" height="270" class="h-full w-full object-cover opacity-90 transition group-hover:opacity-100 group-hover:scale-105" />
+  <span class="absolute inset-0 grid place-items-center">
+    <span class="grid h-16 w-16 place-items-center rounded-full bg-coral-500/90 text-sand-50 shadow-lg transition group-hover:bg-coral-500">
+      <svg class="ml-1 h-7 w-7" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
+    </span>
+  </span>
+</button>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-yt]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.yt;
+      const iframe = document.createElement('iframe');
+      iframe.src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;
+      iframe.title = btn.getAttribute('aria-label') ?? 'Video';
+      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+      iframe.allowFullscreen = true;
+      iframe.className = 'absolute inset-0 h-full w-full border-0';
+      btn.replaceChildren(iframe);
+      btn.classList.add('pointer-events-none');
+    });
+  });
+</script>
