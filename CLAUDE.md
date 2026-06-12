@@ -14,6 +14,25 @@ Astro 6 (static) + Tailwind 4. Five locales. Deployed to Cloudflare Pages. Claud
 - Conventional commits: `feat:`, `fix:`, `content:`, `seo:`.
 - Never commit secrets — `.env` / `.dev.vars` are gitignored; runtime secrets go via `wrangler pages secret`. See `.dev.vars.example`.
 
+## Publishing contract (how changes go live — applies to EVERY session)
+
+Production (`ikigaisailing.com` / `ikigai.2pu.net`) updates **only** by merging a PR on
+`github.com/2ge/ikigaisailing`. CI (`.github/workflows/deploy.yml`) builds and deploys on merge.
+
+- **NEVER run `wrangler pages deploy`** — the deploy token was removed from `.env` on purpose.
+  Direct deploys bypass git history and break the owner's ability to revert selectively.
+- **Never push to `main`** (blocked server-side). Never force-push.
+- For every change request: work on a topic branch → commit → push → `gh pr create` → reply in
+  chat with **both** the PR link and the preview URL
+  (`https://<branch>.ikigai-sailing.pages.dev` — also auto-commented on the PR within ~2 min).
+- If the user said to publish / make it live (or clearly wants it live now): **merge the PR
+  immediately** after CI passes — don't wait for them to review. Reply "live in ~2 min" + the
+  page URL. If they want to check first, stop at the PR and merge on their go-ahead.
+- **Undo requests** ("undo X", "put it back how it was"): `git revert` the relevant merge/commit
+  on a branch → PR → merge. Same one-step contract as publishing.
+- **One topic per PR.** Small PRs keep every change independently revertible — never bundle
+  unrelated changes.
+
 ## GEO content rules (every page/post)
 
 1. Lead with a 40–60 word direct answer/summary before any storytelling.
@@ -41,7 +60,7 @@ Astro 6 (static) + Tailwind 4. Five locales. Deployed to Cloudflare Pages. Claud
 
 The owner edits this site exclusively by instructing Claude Code. Every operation must stay one-step:
 
-- **Publish a post:** "Write a blog post about lobster season in San Blas, optimize for 'San Blas lobster veda'" → geo-writer rules, create `src/content/blog/en/<slug>.md`, `npm run translate`, build, commit, push (Cloudflare deploys automatically).
+- **Publish a post:** "Write a blog post about lobster season in San Blas, optimize for 'San Blas lobster veda'" → geo-writer rules, create `src/content/blog/en/<slug>.md`, `npm run translate`, build → branch + PR + merge per the publishing contract (Cloudflare deploys on merge).
 - **Change a price:** "Change the season page price to €1.450/week and update Stripe" → edit the trip's EN frontmatter (`price`) → translate → build → output the Stripe CLI command for the owner.
 - **Add a testimonial:** "Add a testimonial from Trustpilot, here's the text" → new file in `src/content/testimonials/` with `locale` = its original language → it appears everywhere automatically.
 - **Update the route:** "We arrived in Galápagos — update the route page and llms.txt" → edit EN content, re-run translate; llms.txt regenerates at build.
