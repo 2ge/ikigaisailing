@@ -9,11 +9,11 @@ const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 const intro = await entryForLocale('pages', 'contact', locale);
 
-// Turnstile is rendered only once the owner sets a real public site key
-// (PUBLIC_TURNSTILE_SITEKEY). Empty = no widget — avoids shipping Cloudflare's
-// "For testing only" test-key banner. The server (functions/api/contact.ts)
-// likewise only verifies when TURNSTILE_SECRET is set, so the form still works.
-const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITEKEY ?? '';
+// Cloudflare Turnstile widget for "Ikigai contact form". The site key is PUBLIC
+// (it ships in the HTML), so it lives in code; an env override is still honoured.
+// Server-side verification uses the secret TURNSTILE_SECRET, set as an encrypted
+// var on the Pages project. Set the key to '' to disable the widget entirely.
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITEKEY ?? '0x4AAAAAADjns1PkgXd3MitS';
 ---
 <PageLayout title={`${t('nav.contact')} — Ikigai Sailing`} description={intro?.data.description ?? t('contact.whatsappLead')} path="/contact/">
   <PageHero eyebrow="9°33′N · 78°57′W" title={t('contact.title')} lead={t('contact.whatsappLead')} />
