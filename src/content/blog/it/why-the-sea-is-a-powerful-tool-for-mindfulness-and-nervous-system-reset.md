@@ -20,11 +20,10 @@ Il nostro **sistema nervoso** non si regola attraverso le parole, ma attraverso 
 Prima ancora del linguaggio, rispondiamo a ritmo, movimento, suono, vastità.
 
 Il mare offre tutti questi elementi contemporaneamente:
-
-  * il ritmo costante delle onde
-  * l’orizzonte aperto, che invita lo sguardo a espandersi
-  * il movimento lento e ciclico dell’acqua
-  * il suono profondo e continuo, privo di stimoli improvvisi
+- il ritmo costante delle onde
+- l’orizzonte aperto, che invita lo sguardo a espandersi
+- il movimento lento e ciclico dell’acqua
+- il suono profondo e continuo, privo di stimoli improvvisi
 
 Queste condizioni favoriscono la **nervous system regulation** , aiutando il corpo a uscire dagli stati di iper-attivazione (stress, controllo, allerta) o di spegnimento (apatia, disconnessione).
 
@@ -40,11 +39,10 @@ In realtà, la forma più profonda di presenza è **embodied mindfulness** : una
 In mare questo avviene in modo naturale.
 
 A bordo di una barca:
-
-  * il corpo si adatta al movimento
-  * l’attenzione torna al respiro
-  * il tempo perde la sua rigidità
-  * il controllo lascia spazio alla percezione
+- il corpo si adatta al movimento
+- l’attenzione torna al respiro
+- il tempo perde la sua rigidità
+- il controllo lascia spazio alla percezione
 
 Non serve “fare” mindfulness.  
 Il contesto stesso facilita la chiarezza interiore.
@@ -57,10 +55,9 @@ Invita semplicemente a **sentire** , e in quel sentire avviene spesso un reset p
 La **natura** non ci offre risposte immediate, ma crea le condizioni perché le domande giuste emergano.
 
 Quando siamo immersi in un ambiente naturale come il mare:
-
-  * il senso dell’io si ridimensiona
-  * i problemi smettono di occupare tutto lo spazio
-  * il corpo percepisce sicurezza nella vastità
+- il senso dell’io si ridimensiona
+- i problemi smettono di occupare tutto lo spazio
+- il corpo percepisce sicurezza nella vastità
 
 Questa esperienza di “spazio interno” è fondamentale per chi sente il bisogno di cambiare qualcosa nella propria vita, ma non ha ancora una direzione chiara.
 
@@ -71,17 +68,15 @@ La chiarezza interiore non arriva forzando una decisione, ma **creando spazio** 
 Parlare di **nervous system reset** non significa “spegnere tutto”, ma permettere al sistema di tornare a uno stato più fluido e adattabile.
 
 In mare:
-
-  * i ritmi artificiali si interrompono
-  * il corpo entra in cicli naturali
-  * la mente smette di anticipare costantemente
+- i ritmi artificiali si interrompono
+- il corpo entra in cicli naturali
+- la mente smette di anticipare costantemente
 
 Questo reset non è spettacolare, ma sottile.  
 Si manifesta come:
-
-  * maggiore lucidità
-  * decisioni meno reattive
-  * una sensazione di allineamento interno
+- maggiore lucidità
+- decisioni meno reattive
+- una sensazione di allineamento interno
 
 Ed è spesso in questo stato che nasce il desiderio autentico di cambiamento, non imposto, ma sentito.
 
@@ -91,10 +86,9 @@ Non tutte le esperienze sono per tutti.
 E questo è un bene.
 
 Le esperienze in mare orientate alla consapevolezza non parlano a chi cerca solo una vacanza, ma a chi:
-
-  * sente di voler rallentare
-  * percepisce una distanza tra mente e corpo
-  * è curioso di esplorare il cambiamento dall’interno
+- sente di voler rallentare
+- percepisce una distanza tra mente e corpo
+- è curioso di esplorare il cambiamento dall’interno
 
 Questo tipo di viaggio diventa un **primo contatto con l’embodied experience** : non un corso, non una terapia, ma un contesto vivo in cui il corpo può finalmente guidare.
 

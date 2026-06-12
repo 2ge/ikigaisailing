@@ -14,9 +14,8 @@ Every day, we produce our own **drinking water** , even **sparkling** , directly
 ### **Desalination Units on Board**
 
 Our system relies on two **desalination units** :
-
-  * 50 liters/hour
-  * 100 liters/hour
+- 50 liters/hour
+- 100 liters/hour
 
 ### **Filtration and Reverse Osmosis of Sea Water Sea water** passes through a **5-micron filter** and then **reverse osmosis** , allowing only water molecules through while blocking salts and impurities.
 
@@ -27,11 +26,10 @@ Our system relies on two **desalination units** :
 ### **4-Way Tap of drinkable water**
 
 To improve taste and quality, the water passes through:
-
-  * **UV lamp** → eliminates bacteria
-  * **5-micron carbon filter** → enhances purity and taste
-  * **Mineral filter** → restores natural minerals
-  * **CO**₂**cylinder + chiller** → cold and sparkling water
+- **UV lamp** → eliminates bacteria
+- **5-micron carbon filter** → enhances purity and taste
+- **Mineral filter** → restores natural minerals
+- **CO**₂**cylinder + chiller** → cold and sparkling water
 
 All water is available through a **4-way tap** :
 

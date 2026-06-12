@@ -14,12 +14,9 @@ Traveling inherently shifts your pace, disrupts daily routines, and offers your 
 To truly appreciate the culinary philosophy aboard _Ikigai Sailing_ , it helps to understand what we are not. We are not a traditional spiritual retreat, a meditation center, a yoga resort, or a standard wellness hotel.
 
 Our core focus is a **sailing retreat** built around an **embodied experience** —a physical, real-world journey where your body, active movement, and the marine environment work together to restore inner balance. In this setting, mindful eating becomes a highly practical and sensory tool. It means:
-
-  * **Listening to bodily cues:** Distinguishing true physical hunger from the emotional cravings triggered by city stress and professional burnout.
-
-  * **Connecting with sourcing:** Choosing fresh, local, predominantly plant-based or pescatarian ingredients native to the waters and coasts we navigate.
-
-  * **Slowing down the tempo:** Cooking and dining onboard according to the natural rhythms of the sea, turning mealtime into a shared practice of presence.
+- **Listening to bodily cues:** Distinguishing true physical hunger from the emotional cravings triggered by city stress and professional burnout.
+- **Connecting with sourcing:** Choosing fresh, local, predominantly plant-based or pescatarian ingredients native to the waters and coasts we navigate.
+- **Slowing down the tempo:** Cooking and dining onboard according to the natural rhythms of the sea, turning mealtime into a shared practice of presence.
 
 #### The ocean as a transformative space for the nervous system
 

@@ -27,18 +27,12 @@ The more time you spend living in harmony with nature and the sea, the deeper an
 ### 1 Week – A Breath of Fresh Air
 
 **AVAILABLE ONLY FOR CHRISTMAS AND NEW YEAR’S WEEK**
-
-  * **Mental reset:** disconnecting from daily worries and experiencing an initial sense of inner peace.
-
-  * **Energy recovery:** improved sleep quality thanks to natural rhythms and fresh air.
-
-  * **Stress reduction:** mindful breathing and exposure to the blue sea calm the mind and nervous system.
-
-  * **Physical vitality:** natural movement enhances circulation and reduces muscle tension.
-
-  * Get a glimpse of life for those who have chosen to live at sea.
-
-  * Receive an introduction or practice one of our disciplines.
+- **Mental reset:** disconnecting from daily worries and experiencing an initial sense of inner peace.
+- **Energy recovery:** improved sleep quality thanks to natural rhythms and fresh air.
+- **Stress reduction:** mindful breathing and exposure to the blue sea calm the mind and nervous system.
+- **Physical vitality:** natural movement enhances circulation and reduces muscle tension.
+- Get a glimpse of life for those who have chosen to live at sea.
+- Receive an introduction or practice one of our disciplines.
 
 [Book](https://www.ikigaisailing.com/prodotto/christmas-week/)
 

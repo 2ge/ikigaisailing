@@ -20,20 +20,18 @@ Our nervous system isn’t designed for constant stimulation.
 Notifications, deadlines and multitasking keep us in survival mode.
 
 At sea, the opposite happens:
-
-  * repetitive, natural movement
-  * organic sounds
-  * time becomes experienced, not measured
+- repetitive, natural movement
+- organic sounds
+- time becomes experienced, not measured
 
 This allows the body to shift from **fight-or-flight** into regulation and recovery. Personal growth has to go through the co-regulation of our nervous system, and sailing promotes this process.
 
 ## **Why sailing works better than a typical holiday**
 
 Unlike conventional vacations, sailing:
-
-  * invites gentle presence, not performance
-  * removes unnecessary stimuli
-  * creates co-regulation (crew, wind, sea)
+- invites gentle presence, not performance
+- removes unnecessary stimuli
+- creates co-regulation (crew, wind, sea)
 
 You’re not a spectator — you’re part of a living system.  
 That balance is what helps the nervous system settle.
@@ -43,10 +41,9 @@ That balance is what helps the nervous system settle.
 It may seem counterintuitive, but simplicity creates calm.
 
 On a catamaran:
-
-  * space is defined
-  * days follow a natural structure
-  * decisions are clear and practical
+- space is defined
+- days follow a natural structure
+- decisions are clear and practical
 
 This external simplicity builds **internal safety** , a key element for deep wellbeing.
 
@@ -56,7 +53,6 @@ A continuous horizon has a direct impact on the nervous system.
 Vision softens. Breathing deepens. The mind stops anticipating.
 
 Many people experience:
-
-  * mental clarity
-  * spontaneous insights
-  * a sense of coming home
+- mental clarity
+- spontaneous insights
+- a sense of coming home

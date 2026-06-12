@@ -10,12 +10,9 @@ We live in an increasingly fast-paced world, where digital distractions and dail
 ### The Restorative Effect of Water on the Brain
 
 Numerous studies show that the marine environment has a direct effect on our nervous system. The rhythmic movement of the waves, the calming color of the water, and the vastness of the horizon stimulate the brain to produce alpha and theta waves, associated with relaxation and creativity. Spending time at sea can:
-
-  * **Reduce mental noise** : The ocean acts as a natural reset, helping us detach from obsessive thoughts and distractions.
-
-  * **Increase focus** : The presence of water induces a meditative state that promotes mental clarity and concentration.
-
-  * **Improve problem-solving** : A relaxed mental state stimulates lateral thinking and the ability to find innovative solutions.
+- **Reduce mental noise** : The ocean acts as a natural reset, helping us detach from obsessive thoughts and distractions.
+- **Increase focus** : The presence of water induces a meditative state that promotes mental clarity and concentration.
+- **Improve problem-solving** : A relaxed mental state stimulates lateral thinking and the ability to find innovative solutions.
 
 ### The Ocean as a Catalyst for Creativity
 

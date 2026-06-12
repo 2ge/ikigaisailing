@@ -14,12 +14,9 @@ In un resort classico, il benessere è un servizio che acquisti, come un massagg
 ## **Perché una sailing and freediving holiday rigenera il sistema nervoso**
 
 Per quale motivo una **vacanza apnea e vela** ha un impatto così profondo sul nostro organismo? La risposta risiede principalmente nel ritorno al ritmo naturale degli elementi. Attualmente, il nostro sistema nervoso è iper-stimolato da notifiche e scadenze digitali. A bordo, invece, il ritmo è dettato esclusivamente dal vento e dalle maree. Questo reset biologico avviene grazie a tre pilastri fondamentali: 
-
-  * **Sport e Consapevolezza:** L’unione di vela e apnea richiede di ascoltare il battito cardiaco e regolare il respiro in modo consapevole.
-
-  * **Ambiente Trasformativo:** Il mare aperto elimina le distrazioni superflue, riportando la mente nel “qui e ora”.
-
-  * **La Guida Tecnica:** La figura chiave è **Luca** , skipper e istruttore, che utilizza lo sport come porta d’accesso alla crescita personale.
+- **Sport e Consapevolezza:** L’unione di vela e apnea richiede di ascoltare il battito cardiaco e regolare il respiro in modo consapevole.
+- **Ambiente Trasformativo:** Il mare aperto elimina le distrazioni superflue, riportando la mente nel “qui e ora”.
+- **La Guida Tecnica:** La figura chiave è **Luca** , skipper e istruttore, che utilizza lo sport come porta d’accesso alla crescita personale.
 
 ## **Oltre i cliché: un’esperienza per un target attivo**
 

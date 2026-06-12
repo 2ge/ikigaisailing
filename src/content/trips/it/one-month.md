@@ -19,10 +19,9 @@ oldUrls:
 2.000,00 €
 
 È un’opportunità riservata ai soci che hanno già assaporato la filosofia di vita Ikigai e si sentono pronti a immergersi in modo più completo e continuativo in questa dimensione fatta di natura, semplicità, condivisione e trasformazione.
-
-  * Descrizione 
-  * Logistica 
-  * Contributo e Inclusioni 
+- Descrizione 
+- Logistica 
+- Contributo e Inclusioni 
 
 ## Descrizione
 
@@ -51,17 +50,15 @@ Per questo il **contributo richiesto è molto inferiore ai prezzi di mercato** ,
 Vogliamo che ogni persona a bordo abbia lo spazio, il tempo e la qualità relazionale che rendono l’esperienza Ikigai qualcosa di autentico e trasformativo.
 
 ## **Durante il mese:**
-
-  * Si alternano momenti di vita condivisa ad altri riservati al proprio tempo personale.
-  * Le attività (freediving, janzu, yoga, vela, kite*, meditazione, ecc.) si integreranno nel ritmo del gruppo e della natura.
-  * Si valorizzano le competenze personali di ogni partecipante, dal cucinare al documentare l’esperienza, dal suonare uno strumento al raccontare e documentare la vita di bordo.
+- Si alternano momenti di vita condivisa ad altri riservati al proprio tempo personale.
+- Le attività (freediving, janzu, yoga, vela, kite*, meditazione, ecc.) si integreranno nel ritmo del gruppo e della natura.
+- Si valorizzano le competenze personali di ogni partecipante, dal cucinare al documentare l’esperienza, dal suonare uno strumento al raccontare e documentare la vita di bordo.
 
 ## **Requisiti fondamentali:**
-
-  * Attitudine positiva e spirito di iniziativa nella risoluzione dei piccoli e grandi problemi che possono emergere nella vita di bordo.
-  * Autonomia nella gestione del proprio tempo libero, con la capacità di valorizzarlo in armonia con il ritmo dell’equipaggio.
-  * Ordine e pulizia, sia negli spazi personali che in quelli comuni, come segno di rispetto verso sé stessi e gli altri.
-  * Gentilezza e rispetto reciproco come fondamento della convivenza: la vita a bordo funziona quando ognuno contribuisce a creare un clima sereno e collaborativo.
+- Attitudine positiva e spirito di iniziativa nella risoluzione dei piccoli e grandi problemi che possono emergere nella vita di bordo.
+- Autonomia nella gestione del proprio tempo libero, con la capacità di valorizzarlo in armonia con il ritmo dell’equipaggio.
+- Ordine e pulizia, sia negli spazi personali che in quelli comuni, come segno di rispetto verso sé stessi e gli altri.
+- Gentilezza e rispetto reciproco come fondamento della convivenza: la vita a bordo funziona quando ognuno contribuisce a creare un clima sereno e collaborativo.
 
 ### **Condivisione con Esperienze Brevi**
 
@@ -95,23 +92,21 @@ Se hai esigenze particolari (es. voli anticipati, ritardi o prolungamenti del so
 N.B: A bordo possiamo ospitare un numero limitato di 2 o massimo 3 imbarchi mensili contemporaneamente. Le richieste vengono valutate e selezionate in base alla motivazione e affinità con il progetto.
 
 ### **COSA È INCLUSO**
-
-  * Skipper certificato RYA Yacht Master
-  * Istruttore di apnea (**AIDA e Apnea Total**), di kitesurf (**IKO**) e insegnante di yoga (**Yoga Alliance**).
-  * 1 mese di imbarco in cabina doppia condivisa sul catamarano Ikigai, un Catana 47
-  * Utilizzo della cucina e delle sue attrezzature
-  * Utilizzo delle attrezzature a bordo (Kayak, SUP, attrezzatura da snorkeling, ecc.)
-  * Partecipazione gratuita a classi di Yoga
-  * Sconti sui corsi di Freediving & Kitesurfing*
-  * Tasse di immigrazione
-  * Internet ad alta velocità (soggetto alla disponibilità del servizio Starlink)
-  * Tessera associativa di Ikigai Sailing ASD
+- Skipper certificato RYA Yacht Master
+- Istruttore di apnea (**AIDA e Apnea Total**), di kitesurf (**IKO**) e insegnante di yoga (**Yoga Alliance**).
+- 1 mese di imbarco in cabina doppia condivisa sul catamarano Ikigai, un Catana 47
+- Utilizzo della cucina e delle sue attrezzature
+- Utilizzo delle attrezzature a bordo (Kayak, SUP, attrezzatura da snorkeling, ecc.)
+- Partecipazione gratuita a classi di Yoga
+- Sconti sui corsi di Freediving & Kitesurfing*
+- Tasse di immigrazione
+- Internet ad alta velocità (soggetto alla disponibilità del servizio Starlink)
+- Tessera associativa di Ikigai Sailing ASD
 
 ### COSA NON È INCLUSO
-
-  * Voli e trasferimenti
-  * Assicurazione di viaggio (consigliata)
-  * Pasti e bevande consumati a terra
-  * Qualsiasi cosa non menzionata sotto la voce “Cosa è incluso”
-  * Cassa di bordo (cambusa, diesel, fee per accesso a specifiche isole private ecc.)  
+- Voli e trasferimenti
+- Assicurazione di viaggio (consigliata)
+- Pasti e bevande consumati a terra
+- Qualsiasi cosa non menzionata sotto la voce “Cosa è incluso”
+- Cassa di bordo (cambusa, diesel, fee per accesso a specifiche isole private ecc.)  
 Preventivabile in circa 20/25 dollari al giorno

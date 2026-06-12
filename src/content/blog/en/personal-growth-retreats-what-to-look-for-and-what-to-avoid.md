@@ -58,19 +58,14 @@ Similarly, **meditation sailing** transforms navigation into a moving meditation
 #### The Biological Benefits of Life at Sea
 
 During a **sailing retreat** , your body aligns with nature’s rhythm:
-
-  * **Days 1-2:** Digital detachment and the visual impact of the marine horizon kickstart **nervous system regulation nature**. The brain unplugs from urban micro-stimuli.
-
-  * **Days 3-4:** The constant movement of the hull requires continuous postural micro-adjustments. This is invisible sport that reactivates proprioception and deep muscle tone.
-
-  * **Days 5+:** The integration of freediving descents and active sailing creates a stable state of mental _flow_. Burnout gives way to a renewed inner clarity.
+- **Days 1-2:** Digital detachment and the visual impact of the marine horizon kickstart **nervous system regulation nature**. The brain unplugs from urban micro-stimuli.
+- **Days 3-4:** The constant movement of the hull requires continuous postural micro-adjustments. This is invisible sport that reactivates proprioception and deep muscle tone.
+- **Days 5+:** The integration of freediving descents and active sailing creates a stable state of mental _flow_. Burnout gives way to a renewed inner clarity.
 
 ## Who This Is For (and Who It Is NOT For)
 
 Choosing a _sailing and freediving holiday_ as a personal growth path requires honesty with oneself.
-
-  * **It is NOT for you** if you are looking for a luxury spa, if you demand immense and isolated individual spaces, if you want a rigid schedule of theoretical lectures, or if you simply want to be served and pampered in a holiday village.
-
-  * **It is FOR you** if you are a professional, freelancer, or manager noticing the signs of mental overload and looking for an authentic reset. It is for you if you love active sports (trekking, swimming, surfing, yoga), maintain a conscious diet, and want to get your hands dirty, experience the beauty of wild nature, and rediscover your inner resources through a real, physical, and unforgettable experience.
+- **It is NOT for you** if you are looking for a luxury spa, if you demand immense and isolated individual spaces, if you want a rigid schedule of theoretical lectures, or if you simply want to be served and pampered in a holiday village.
+- **It is FOR you** if you are a professional, freelancer, or manager noticing the signs of mental overload and looking for an authentic reset. It is for you if you love active sports (trekking, swimming, surfing, yoga), maintain a conscious diet, and want to get your hands dirty, experience the beauty of wild nature, and rediscover your inner resources through a real, physical, and unforgettable experience.
 
 Personal growth cannot be planned at a desk, nor can it be bought by the pound at commercial holistic resorts. It must be felt on your own skin. If you truly want to overcome stress and find your course, stop looking for a simple spiritual “retreat.” Look for an adventure that challenges your body, stimulates your mind, and reconnects you to the earth and the sea. Explore the potential of a **sailing and freediving holiday** and turn your next vacation into a biological and personal evolution.

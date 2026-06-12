@@ -20,16 +20,11 @@ Emergere in superficie dopo una fase di immersione porta spesso a un **rilascio 
 ### Benefici delle sedute Janzu
 
 Janzu offre numerosi benefici sia per il corpo che per la mente, tra cui:
-
-  * **Riduzione dello stress e dell’ansia**
-
-  * **Miglioramento della respirazione e della consapevolezza corporea**
-
-  * **Scioglimento delle tensioni muscolari e articolari**
-
-  * **Sblocco emozionale e rilascio di traumi**
-
-  * **Profonda sensazione di pace, leggerezza e presenza**
+- **Riduzione dello stress e dell’ansia**
+- **Miglioramento della respirazione e della consapevolezza corporea**
+- **Scioglimento delle tensioni muscolari e articolari**
+- **Sblocco emozionale e rilascio di traumi**
+- **Profonda sensazione di pace, leggerezza e presenza**
 
 ### Janzu: Un’Esperienza di Riconnessione
 

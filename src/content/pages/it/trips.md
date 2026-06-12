@@ -27,14 +27,12 @@ Più tempo dedichi a vivere in armonia con la natura e il mare, più profondi e 
 ### 1 Settimana – Una Boccata di Aria Pura
 
 **DISPONIBILE SOLO A NATALE E CAPODANNO**
-
-  * **Reset mentale:** disconnessione dalle preoccupazioni quotidiane e primo senso di pace interiore.
-  * **Recupero energetico:** migliore qualità del sonno grazie ai ritmi naturali e all’aria pulita.
-  * **Riduzione dello stress:** la respirazione consapevole e l’esposizione al blu del mare calmano la mente e il sistema nervoso.
-  * **Vitalità fisica:** il movimento naturale migliora la circolazione e riduce tensioni muscolari.
-  * Fatti un idea di come è la vita per chi ha deciso di vivere in mare
-
-  * Ricevi un introduzione o pratica una delle nostre discipline
+- **Reset mentale:** disconnessione dalle preoccupazioni quotidiane e primo senso di pace interiore.
+- **Recupero energetico:** migliore qualità del sonno grazie ai ritmi naturali e all’aria pulita.
+- **Riduzione dello stress:** la respirazione consapevole e l’esposizione al blu del mare calmano la mente e il sistema nervoso.
+- **Vitalità fisica:** il movimento naturale migliora la circolazione e riduce tensioni muscolari.
+- Fatti un idea di come è la vita per chi ha deciso di vivere in mare
+- Ricevi un introduzione o pratica una delle nostre discipline
 
 [Prenota](https://www.ikigaisailing.com/it/prodotto/settimana-di-natale-capodanno/)
 

@@ -19,10 +19,9 @@ oldUrls:
 2.000,00 €
 
 It is an opportunity reserved for members who have already tasted the Ikigai lifestyle philosophy and feel ready to immerse themselves more fully and continuously in this dimension of nature, simplicity, sharing, and transformation.
-
-  * Description 
-  * Logistic 
-  * Contribution & Inclusions 
+- Description 
+- Logistic 
+- Contribution & Inclusions 
 
 ## Description
 
@@ -62,17 +61,15 @@ That’s why **the contribution requested is much lower than market prices,** al
 We want each person on board to have the space, time, and quality of connection that make the Ikigai experience something authentic and transformative.
 
 ## During the Month
-
-  * Shared moments alternate with personal free time.
-  * Activities (freediving, janzu, yoga, sailing, kite*, meditation, etc.) blend with the rhythm of the group and nature.
-  * Each participant’s personal skills are valued—whether cooking, documenting the journey, playing music, or storytelling.
+- Shared moments alternate with personal free time.
+- Activities (freediving, janzu, yoga, sailing, kite*, meditation, etc.) blend with the rhythm of the group and nature.
+- Each participant’s personal skills are valued—whether cooking, documenting the journey, playing music, or storytelling.
 
 ## Core Requirements
-
-  * A positive attitude and initiative in handling the small and big challenges that may arise on board.
-  * Autonomy in managing your free time, aligning with the crew’s rhythm.
-  * Order and cleanliness, in both personal and common spaces, as a sign of respect for yourself and others.
-  * Kindness and mutual respect as the foundation of co-living: life on board works when everyone contributes to a serene, collaborative atmosphere.
+- A positive attitude and initiative in handling the small and big challenges that may arise on board.
+- Autonomy in managing your free time, aligning with the crew’s rhythm.
+- Order and cleanliness, in both personal and common spaces, as a sign of respect for yourself and others.
+- Kindness and mutual respect as the foundation of co-living: life on board works when everyone contributes to a serene, collaborative atmosphere.
 
 ### Sharing with Shorter Experiences
 
@@ -104,23 +101,21 @@ If you have specific needs (such as early flights, delays, or an extended stay),
 Note: On board we can host a limited number of 2 to a maximum of 3 monthly boardings at the same time. Applications are evaluated and selected based on motivation and affinity with the project.
 
 ### WHAT IS INCLUDED
-
-  * RYA Yachtmaster certified skipper
-  * Freediving instructor (**AIDA & Apnea Total**), kitesurf instructor (**IKO**), and yoga teacher (**Yoga Alliance**)
-  * 1 month onboard in a shared double cabin on Ikigai, a Catana 47 catamaran
-  * Use of the kitchen and its equipment
-  * Use of onboard equipment (kayak, SUP, snorkeling gear, etc.)
-  * Free participation in yoga classes
-  * Discounts on freediving & kitesurfing courses*
-  * Immigration fees
-  * High-speed internet (subject to Starlink availability)
-  * Ikigai Sailing ASD membership card
+- RYA Yachtmaster certified skipper
+- Freediving instructor (**AIDA & Apnea Total**), kitesurf instructor (**IKO**), and yoga teacher (**Yoga Alliance**)
+- 1 month onboard in a shared double cabin on Ikigai, a Catana 47 catamaran
+- Use of the kitchen and its equipment
+- Use of onboard equipment (kayak, SUP, snorkeling gear, etc.)
+- Free participation in yoga classes
+- Discounts on freediving & kitesurfing courses*
+- Immigration fees
+- High-speed internet (subject to Starlink availability)
+- Ikigai Sailing ASD membership card
 
 ### WHAT IS NOT INCLUDED
-
-  * Flights and transfers
-  * Travel insurance (recommended)
-  * Meals and drinks consumed ashore
-  * Anything not mentioned under “What is included”
-  * Onboard kitty (food provisions, diesel, fees for access to specific private islands, etc.)  
+- Flights and transfers
+- Travel insurance (recommended)
+- Meals and drinks consumed ashore
+- Anything not mentioned under “What is included”
+- Onboard kitty (food provisions, diesel, fees for access to specific private islands, etc.)  
 Estimated at around 20–25 USD per day

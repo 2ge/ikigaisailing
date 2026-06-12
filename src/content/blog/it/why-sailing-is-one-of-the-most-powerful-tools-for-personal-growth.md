@@ -20,20 +20,18 @@ Il nostro sistema nervoso non è progettato per l’iperstimolazione continua.
 Notifiche, scadenze, multitasking e rumore tengono il corpo in uno stato di **attivazione costante**.
 
 In mare succede l’opposto:
-
-  * i movimenti sono ciclici
-  * i suoni sono naturali
-  * il tempo torna ad essere percepito, non misurato
+- i movimenti sono ciclici
+- i suoni sono naturali
+- il tempo torna ad essere percepito, non misurato
 
 Questo crea le condizioni ideali per passare dalla modalità **“attacco o fuga”** a quella di **regolazione e recupero**. La crescita personale passa necessariamente attraverso la co-regolazione del sistema nervoso, e la vela favorisce questo processo.
 
 ## **Perché la vela calma più di una vacanza tradizionale**
 
 A differenza di altre esperienze di viaggio, la vela:
-
-  * richiede **presenza gentile** (non performance)
-  * elimina distrazioni superflue
-  * favorisce la **co-regolazione** (equipaggio, vento, mare)
+- richiede **presenza gentile** (non performance)
+- elimina distrazioni superflue
+- favorisce la **co-regolazione** (equipaggio, vento, mare)
 
 Non sei spettatore: sei parte di un sistema vivo.  
 Ed è proprio questo coinvolgimento equilibrato che **riporta stabilità al sistema nervoso**.
@@ -44,10 +42,9 @@ Può sembrare un paradosso, ma è così:
 quando l’ambiente è essenziale, il corpo si rilassa.
 
 In catamarano:
-
-  * lo spazio è definito
-  * le giornate hanno una struttura naturale
-  * le decisioni sono semplici e concrete
+- lo spazio è definito
+- le giornate hanno una struttura naturale
+- le decisioni sono semplici e concrete
 
 Questa chiarezza esterna genera **sicurezza interna** , uno dei prerequisiti fondamentali per il benessere profondo.
 
@@ -57,7 +54,6 @@ L’orizzonte continuo, senza interruzioni, ha un effetto diretto sul sistema vi
 Lo sguardo si distende. Il respiro segue. La mente smette di anticipare.
 
 È qui che molte persone sperimentano:
-
-  * chiarezza
-  * intuizioni spontanee
-  * un senso di “ritorno a casa”
+- chiarezza
+- intuizioni spontanee
+- un senso di “ritorno a casa”

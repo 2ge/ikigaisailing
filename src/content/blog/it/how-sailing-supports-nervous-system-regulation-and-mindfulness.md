@@ -37,7 +37,6 @@ Partecipare a una sessione **di navigazione rigenerativa** significa immergersi 
 Non stiamo parlando di una classica vacanza benessere o di un semplice viaggio turistico. **La vela rigenerativa** è un ritorno all’essenziale attraverso lo sport e il contatto viscerale con la natura. È un invito a riscoprire le tue risorse interiori in un laboratorio a cielo aperto, dove il mare funge da specchio e il vento da guida.
 
 Scegliere **la navigazione rigenerativa** significa investire nella tua salute mentale e fisica. Scendere dalla barca dopo una giornata di navigazione non ti lascerà solo con la pelle salata, ma con una visione più chiara dei tuoi obiettivi e una riserva di calma interiore da portare con te a riva.
-
-* * *
+- *
 
 **Sei pronto a salpare e a trovare la tua rotta?**

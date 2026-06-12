@@ -18,10 +18,9 @@ Not as a trend, but as a response to a deeper longing: to move through the world
 Mindful travel isn’t about doing less — it’s about **being more present**.
 
 It means:
-
-  * choosing experiences aligned with personal values
-  * slowing down enough to feel what’s happening inside
-  * allowing space instead of filling every moment
+- choosing experiences aligned with personal values
+- slowing down enough to feel what’s happening inside
+- allowing space instead of filling every moment
 
 Traveling with intention isn’t escaping life.  
 It’s creating the conditions to meet it more honestly.
@@ -31,10 +30,9 @@ It’s creating the conditions to meet it more honestly.
 Among conscious travel experiences, life at sea offers something unique.
 
 A **life at sea experience** naturally invites:
-
-  * disconnection from artificial rhythms
-  * immersion in natural cycles
-  * presence through movement, silence, and simplicity
+- disconnection from artificial rhythms
+- immersion in natural cycles
+- presence through movement, silence, and simplicity
 
 At sea, awareness doesn’t require effort.  
 It arises through the environment itself.
@@ -45,10 +43,9 @@ A **conscious sailing experience** is not about luxury or consumption.
 It’s about relationship.
 
 Relationship with:
-
-  * the sea and its changing conditions
-  * others on board
-  * one’s own inner landscape
+- the sea and its changing conditions
+- others on board
+- one’s own inner landscape
 
 Sailing demands attention, cooperation, and adaptability.  
 Every action matters. Every moment is shared.
@@ -60,11 +57,10 @@ This is why sailing becomes a powerful form of **mindfulness sailing** — lived
 On a sailboat, mindfulness is woven into daily life.
 
 It shows up:
-
-  * in how you move with the boat
-  * in listening to the wind
-  * in simple routines
-  * in shared silence
+- in how you move with the boat
+- in listening to the wind
+- in simple routines
+- in shared silence
 
 There is no separation between practice and experience.  
 Presence becomes part of living.
@@ -73,10 +69,9 @@ Presence becomes part of living.
 
 Mindful travel isn’t for everyone.  
 It speaks to those who feel that:
-
-  * conventional travel no longer fulfills them
-  * their body is asking for a different pace
-  * real change starts from awareness
+- conventional travel no longer fulfills them
+- their body is asking for a different pace
+- real change starts from awareness
 
 To travel with intention is to choose to be fully present — wherever you are.
 

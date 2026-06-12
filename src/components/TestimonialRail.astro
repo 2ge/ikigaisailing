@@ -27,7 +27,7 @@ const cards = await Promise.all(
 );
 ---
 
-<div class="snap-rail -mx-4 px-4 sm:mx-0 sm:px-0">
+<div class="snap-rail -mx-4 px-4 py-2 sm:mx-0 sm:px-1">
   {cards.map(({ item, href, Content, translated }, i) => (
     <figure class="group relative flex w-[82vw] max-w-sm flex-col rounded-2xl bg-sand-50 p-6 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300 sm:w-80">
       <a href={href} class="absolute inset-0 z-0 rounded-2xl" aria-label={`Read ${item.data.author}'s review`}></a>

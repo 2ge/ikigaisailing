@@ -14,12 +14,9 @@ Viaggiare significa cambiare ritmo, scardinare le abitudini quotidiane e offrire
 Per comprendere il valore dell’alimentazione a bordo di _Ikigai Sailing_ , è essenziale chiarire un punto: non siamo un centro di meditazione né un retreat spirituale tradizionale. Non troverai programmi dietetici rigidi, digiuni forzati o atmosfere da vacanza wellness standard.
 
 La parola chiave della nostra filosofia è **embodied experience** : un’esperienza incarnata dove il corpo, il movimento e l’ambiente marino collaborano per ritrovare l’equilibrio. In questo contesto, l’alimentazione consapevole diventa uno strumento pratico e sensoriale. Significa:
-
-  * **Ascoltare i segnali del corpo:** Riconoscere la vera fame biologica rispetto alla fame emotiva dettata dallo stress cittadino e dal burnout.
-
-  * **Connettersi con la provenienza:** Privilegiare ingredienti freschi, locali, prevalentemente vegetali o pescetariani, legati al territorio che stiamo navigando.
-
-  * **Rallentare il ritmo:** Cucinare e mangiare a bordo seguendo i tempi del mare, trasformando il pasto in un momento di condivisione e presenza.
+- **Ascoltare i segnali del corpo:** Riconoscere la vera fame biologica rispetto alla fame emotiva dettata dallo stress cittadino e dal burnout.
+- **Connettersi con la provenienza:** Privilegiare ingredienti freschi, locali, prevalentemente vegetali o pescetariani, legati al territorio che stiamo navigando.
+- **Rallentare il ritmo:** Cucinare e mangiare a bordo seguendo i tempi del mare, trasformando il pasto in un momento di condivisione e presenza.
 
 #### Il mare come ambiente trasformativo per il sistema nervoso
 

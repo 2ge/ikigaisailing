@@ -54,14 +54,13 @@ Disponiamo inoltre di 2 watermaker per un totale di 150 LT/H e di 1 lavatrice.
 ## ATTREZZATURA SPORTIVA:
 
 A bordo troverete anche :
-
-  * Dinghy 25hp,
-  * Kayak 3 posti
-  * SUP
-  * Attrezzatura da snorkeling, freediving e spearfishing
-  * Attrezzatura completa per scuba diving
-  * Attrezzatura per kitesurfing
-  * Mat Yoga
+- Dinghy 25hp,
+- Kayak 3 posti
+- SUP
+- Attrezzatura da snorkeling, freediving e spearfishing
+- Attrezzatura completa per scuba diving
+- Attrezzatura per kitesurfing
+- Mat Yoga
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_7c038b30775c4f34b61113a3180a796bmv2.jpg)
 

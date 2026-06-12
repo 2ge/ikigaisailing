@@ -20,12 +20,9 @@ Conversely, aboard a catamaran, wellness becomes an action you actively perform 
 Why does a **sailing and freediving holiday** have such a profound impact on our bodies? The answer lies primarily in the return to the natural rhythm of the elements.
 
 Today, our nervous systems are hyper-stimulated by notifications and digital deadlines. On board, however, the pace is dictated exclusively by the wind and the tides. This biological reset occurs thanks to three fundamental pillars:
-
-  * **Sport and Awareness:** The union of sailing and apnea requires listening to your heartbeat and consciously regulating your breath.
-
-  * **Transformative Environment:** The open sea eliminates superfluous distractions, bringing the mind back to the “here and now.”
-
-  * **Technical Guidance:** The key figure is **Luca** , skipper and instructor, who uses sport as a gateway to personal growth.
+- **Sport and Awareness:** The union of sailing and apnea requires listening to your heartbeat and consciously regulating your breath.
+- **Transformative Environment:** The open sea eliminates superfluous distractions, bringing the mind back to the “here and now.”
+- **Technical Guidance:** The key figure is **Luca** , skipper and instructor, who uses sport as a gateway to personal growth.
 
 ### Beyond Clichés: An Experience for an Active Audience
 

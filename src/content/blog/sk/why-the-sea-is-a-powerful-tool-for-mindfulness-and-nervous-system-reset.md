@@ -21,8 +21,7 @@ Pre mnohých ľudí transformácia začína práve tu – nie ako jasné rozhodn
 A často práve v tomto priestore sa more stáva sprievodcom.
 
 Nie ako únik, ale ako **regulujúce prostredie** – prostredie, ktoré jemne privádza myseľ a telo späť do súladu.
-
-* * *
+- *
 
 ## **More a nervový systém: Prvotný vzťah**
 
@@ -40,8 +39,7 @@ Tieto prvky prirodzene podporujú **reset a reguláciu nervového systému**, po
 
 Namiesto stimulácie nervového systému ho more **spolureguluje** – vyvoláva stav bezpečia, prítomnosti a prispôsobivosti.  
 Z tohto stavu sa stáva jasnosť možnou.
-
-* * *
+- *
 
 ## **Vtelená všímavosť: Prítomnosť, ktorá začína v tele a pomáha nášmu nervovému systému obnoviť rovnováhu**
 
@@ -62,8 +60,7 @@ Samotné prostredie ju podporuje.
 
 More nevyžaduje produktivitu ani kontrolu.  
 Vyzýva k vnímaniu – a v tom vnímaní sa niečo zmierňuje.
-
-* * *
+- *
 
 ## **Príroda, nekonečnosť a vnútorná zmena Príroda** nedáva okamžité odpovede.
 
@@ -79,8 +76,7 @@ Táto vnútorná priestrannosť je nevyhnutná pre každého, kto pociťuje potr
 
 Jasnosť neprichádza z vynútených rozhodnutí.  
 Objavuje sa, keď je dostatok vnútorného priestoru na vnímanie nových možností.
-
-* * *
+- *
 
 ## **More ako reset nervového systému**
 
@@ -100,8 +96,7 @@ Toto obnovenie je jemné, ale hlboké.
 -   pocit vnútornej harmónie
 
 Z tohto stavu vzniká zmena prirodzene – nie je vnucovaná, ale cítená.
-
-* * *
+- *
 
 ## **Skúsenosť pre tých, ktorí cítia skôr, ako vedia**
 
@@ -115,8 +110,7 @@ Zážitky spojené s morom oslovujú ľudí, ktorí:
 -   sú zvedaví na zmenu, ktorá začína zvnútra
 
 Pre mnohých sa to stáva prvým stretnutím so **zážitkom spojeným s telom** – nie je to workshop ani metóda, ale živé prostredie, kde telo môže viesť.
-
-* * *
+- *
 
 ## **Ikigai Sailing: Keď sa more stáva priestorom na počúvanie**
 
@@ -125,8 +119,7 @@ Každá plavba je navrhnutá tak, aby podporovala prítomnosť, reguláciu a hlb
 
 Zámerom nie je vrátiť sa „premenený“  
 , ale vrátiť sa **viac v súlade** – viac prepojený s tým, čo sa cíti ako pravdivé, podstatné a pripravené na zmenu.
-
-* * *
+- *
 
 ### **Zažite život na palube Zažite Ikigai Sailing** Ak niečo vo vás žiada o priestor,
 

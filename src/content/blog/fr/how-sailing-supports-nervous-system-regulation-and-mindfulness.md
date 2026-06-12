@@ -37,7 +37,6 @@ Participer à une session **de voile régénérative,** c’est s’immerger dan
 Il ne s’agit pas de vacances bien-être classiques ni d’un simple voyage touristique. **La voile régénérative,** c’est un retour à l’essentiel par le sport et le contact viscéral avec la nature. C’est une invitation à redécouvrir tes ressources intérieures dans un laboratoire à ciel ouvert, où la mer fait office de miroir et le vent de guide.
 
 Choisir **la voile régénérative**, c'est investir dans ta santé mentale et physique. En descendant du bateau après une journée de navigation, tu n'auras pas seulement la peau salée, mais aussi une vision plus claire de tes objectifs et un réservoir de calme intérieur à ramener avec toi à terre.
-
-* * *
+- *
 
 **Es-tu prêt à mettre les voiles et à tracer ta propre route ?**

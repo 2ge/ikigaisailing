@@ -18,9 +18,8 @@ oldUrls:
 # Exchange / Paid Boarding
 
 Ikigai Sailing is a life project, a voyage around the world in stages, blending sailing, exploration, personal growth, and immersion in nature.
-
-  * Description 
-  * Logistic 
+- Description 
+- Logistic 
 
 ## Description
 
@@ -35,10 +34,9 @@ If you feel the call of the ocean and want to challenge yourself, there are two 
 Do you want to learn, grow, and gain hands-on experience on board?
 
 We are looking for motivated people who wish to approach the world of sailing and the disciplines we practice: sailing, freediving, kitesurfing, apnea, and onboard life management.
-
-  * You will dedicate about 2–3 hours a day to support activities (boat management, small tasks, assisting the crew).
-  * In return, you will have free boarding and the opportunity to experience the sea as a true protagonist.
-  * You will share common expenses with all of us by contributing to the onboard fund (_cassa di bordo_).
+- You will dedicate about 2–3 hours a day to support activities (boat management, small tasks, assisting the crew).
+- In return, you will have free boarding and the opportunity to experience the sea as a true protagonist.
+- You will share common expenses with all of us by contributing to the onboard fund (_cassa di bordo_).
 
 **Skill Exchange**
 
@@ -51,16 +49,14 @@ This is the perfect opportunity if you have little sea experience and want to le
 ## **Professionals**
 
 If you already have experience in the nautical sector and want to contribute in a more specific way, we are looking for hostesses and deckhands with skills in boat management and maintenance.
-
-  * You can apply as an experienced crew member.
-  * We offer a dynamic and stimulating environment, where your skills will be valued and put at the service of the project.
+- You can apply as an experienced crew member.
+- We offer a dynamic and stimulating environment, where your skills will be valued and put at the service of the project.
 
 ## **Why apply?**
-
-  * To live the sea as a home, not just as a simple vacation.
-  * To be part of a project that combines sport, nature, and community.
-  * To grow as a person and as a sailor, sharing experiences and responsibilities.
-  * To contribute with your work or creative skills to an authentic and ever-evolving project.
+- To live the sea as a home, not just as a simple vacation.
+- To be part of a project that combines sport, nature, and community.
+- To grow as a person and as a sailor, sharing experiences and responsibilities.
+- To contribute with your work or creative skills to an authentic and ever-evolving project.
 
 [**Send your application**](https://www.ikigaisailing.com/contact-2/)
 

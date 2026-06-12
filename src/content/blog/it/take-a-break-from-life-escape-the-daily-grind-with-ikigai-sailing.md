@@ -16,19 +16,17 @@ Molte persone si sentono intrappolate in una routine che non le soddisfa più. C
 Ikigai Sailing ti offre un’**esperienza di viaggio slow senza precedenti** , permettendoti di **vivere a bordo di uno yacht a vela completamente attrezzato** per soli **2.000 € al mese**. Questa esperienza all-inclusive è progettata per aiutarti a sfuggire allo stress della vita quotidiana e abbracciare la libertà dell’oceano. 
 
 #### **Cosa vivrai a bordo**
-
-  * **Viaggio senza stress:** Dimentica scadenze, schermi e rumori della città.
-  * **Vita semplice sull’oceano:** Meno distrazioni, più connessione con la natura.
-  * **Navigazione a lungo termine accessibile:** Vivi il mare senza spendere una fortuna.
-  * **Benessere e consapevolezza:** Svegliati con il suono delle onde, segui il ritmo del mare e ritrova te stesso.
-  * **Una comunità di supporto:** Condividi il viaggio con altri esploratori in cerca di un nuovo inizio.
+- **Viaggio senza stress:** Dimentica scadenze, schermi e rumori della città.
+- **Vita semplice sull’oceano:** Meno distrazioni, più connessione con la natura.
+- **Navigazione a lungo termine accessibile:** Vivi il mare senza spendere una fortuna.
+- **Benessere e consapevolezza:** Svegliati con il suono delle onde, segui il ritmo del mare e ritrova te stesso.
+- **Una comunità di supporto:** Condividi il viaggio con altri esploratori in cerca di un nuovo inizio.
 
 ### **Chi può unirsi a questa esperienza?**
-
-  * Se senti di **aver bisogno di una pausa dalla vita** , questa è la tua occasione per staccare e ritrovare un nuovo equilibrio.
-  * Se sogni una **disintossicazione digitale in barca a vela** , la nostra barca è il rifugio perfetto.
-  * Se hai l’anima di un **nomade dell’oceano** , il nostro stile di vita ti farà sentire a casa.
-  * Se cerchi un modo per **fuggire dalla routine quotidiana** , questa esperienza cambierà il tuo modo di vedere la vita.
+- Se senti di **aver bisogno di una pausa dalla vita** , questa è la tua occasione per staccare e ritrovare un nuovo equilibrio.
+- Se sogni una **disintossicazione digitale in barca a vela** , la nostra barca è il rifugio perfetto.
+- Se hai l’anima di un **nomade dell’oceano** , il nostro stile di vita ti farà sentire a casa.
+- Se cerchi un modo per **fuggire dalla routine quotidiana** , questa esperienza cambierà il tuo modo di vedere la vita.
 
 ### **Posti limitati: prenota subito il tuo!**
 

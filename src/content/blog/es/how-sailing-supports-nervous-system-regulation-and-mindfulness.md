@@ -37,7 +37,6 @@ Participar en una sesión **de navegación regenerativa** significa sumergirte e
 No estamos hablando de unas vacaciones de bienestar al uso ni de un simple viaje turístico. **La navegación regenerativa** es un retorno a lo esencial a través del deporte y el contacto visceral con la naturaleza. Es una invitación a redescubrir tus recursos internos en un laboratorio al aire libre, donde el mar actúa como espejo y el viento como guía.
 
 Elegir **la navegación regenerativa** significa invertir en tu salud mental y física. Al bajar del barco tras un día de navegación, no solo te quedarás con la piel salada, sino con una visión más clara de tus objetivos y una reserva de calma interior que te llevarás contigo a tierra.
-
-* * *
+- *
 
 **¿Estás listo para zarpar y encontrar tu propio rumbo?**

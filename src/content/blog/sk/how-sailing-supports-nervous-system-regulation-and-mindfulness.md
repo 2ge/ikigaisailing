@@ -38,7 +38,6 @@ Pod vedením **Luca**, skúseného kapitána a inštruktora, sa naučíte, že r
 Nehovoríme tu o bežnej wellness dovolenke ani o jednoduchom turistickom výlete. **Regeneratívne plachtenie** je návrat k podstatným veciam prostredníctvom športu a hlbokého kontaktu s prírodou. Je to pozvánka na znovuobjavenie vašich vnútorných zdrojov v laboratóriu pod šírym nebom, kde more funguje ako zrkadlo a vietor ako sprievodca.
 
 Rozhodnúť sa pre **regeneratívne plachtenie** znamená investovať do svojho duševného a fyzického zdravia. Keď po dni plavby vystúpite z lode, nebudete mať len slanú pokožku, ale aj jasnejšiu predstavu o svojich cieľoch a zásobu vnútorného pokoja, ktorú si odnesiete späť na breh.
-
-* * *
+- *
 
 **Ste pripravení vyplávať a nájsť si vlastnú cestu?**

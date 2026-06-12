@@ -14,18 +14,16 @@ We’re currently sailing in the stunning **San Blas Islands, Panama** , and off
 With **satellite Wi-Fi** , fresh meals, and epic sunrises, your productivity will have a view!
 
 ### **⚓ Why Choose Ikigai?**
-
-  * Stable **satellite internet** for working remotely
-  * Peaceful surroundings, no distractions
-  * Daily connection to nature and simple living
-  * Small, international group of like-minded travelers
-  * Transparent pricing: **€1000 per week** , **€2000 per month** (+ food & fuel costs)
+- Stable **satellite internet** for working remotely
+- Peaceful surroundings, no distractions
+- Daily connection to nature and simple living
+- Small, international group of like-minded travelers
+- Transparent pricing: **€1000 per week** , **€2000 per month** (+ food & fuel costs)
 
 ### **💰 What’s the cost?**
-
-  * **1-Week Trial** : €1000
-  * **Full Month** : €2000
-  * **Fixed Costs** (fuel & food): €20/day approx.*
+- **1-Week Trial** : €1000
+- **Full Month** : €2000
+- **Fixed Costs** (fuel & food): €20/day approx.*
 
 *Check terms conditions on the experience sheet
 

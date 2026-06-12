@@ -5,7 +5,7 @@ locale: "it"
 pubDate: "2024-04-16"
 image: "~/assets/pages/vita-a-bordo-social/nomadi-digitali.avif"
 ---
-* Hai mai sognato di svegliarti ogni mattina circondato da acque cristalline, palme e silenzio?  
+- Hai mai sognato di svegliarti ogni mattina circondato da acque cristalline, palme e silenzio?  
 Se sei un **nomade digitale** in cerca di una vita fuori dall’ordinario, **Ikigai Sailing** è la tua prossima destinazione.
 
 ### 🌴 Vivi e Lavora in Catamarano ai Caraibi
@@ -14,24 +14,16 @@ A bordo del nostro catamarano, ormeggiato tra le splendide isole di **San Blas, 
 Che tu sia un freelance, un creativo, un programmatore o un consulente, questa è la tua _base galleggiante_ per un’esperienza indimenticabile.
 
 ### 💻 Nomadi digitali in barca: perché sceglierci
-
-  * Wi-Fi satellitare per il tuo smart working
-
-  * Natura selvaggia e zero distrazioni
-
-  * Routine zen: meditazione, snorkeling, journaling
-
-  * Community internazionale, piccola e selezionata
-
-  * Prezzi chiari: **€1000 per 1 settimana** , **€2000 per 1 mese** (+ spese di cambusa e carburante)
+- Wi-Fi satellitare per il tuo smart working
+- Natura selvaggia e zero distrazioni
+- Routine zen: meditazione, snorkeling, journaling
+- Community internazionale, piccola e selezionata
+- Prezzi chiari: **€1000 per 1 settimana** , **€2000 per 1 mese** (+ spese di cambusa e carburante)
 
 ### 🧭 Quanto costa vivere su Ikigai?
-
-  * **Settimana di prova** : €1000
-
-  * **Mese intero a bordo** : €2000
-
-  * **Spese fisse** (carburante e cambusa): €20/giorno circa*
+- **Settimana di prova** : €1000
+- **Mese intero a bordo** : €2000
+- **Spese fisse** (carburante e cambusa): €20/giorno circa*
 
 *Verifica termini e condizioni nella scheda dell’offerta.
 

@@ -10,10 +10,9 @@ Viviamo in un mondo sempre più frenetico, dove le distrazioni digitali e gli im
 ### L’Effetto Rigenerante dell’Acqua sul Cervello
 
 Numerosi studi dimostrano che l’ambiente marino ha un effetto diretto sul nostro sistema nervoso. Il movimento ritmico delle onde, il colore rilassante dell’acqua e la vastità dell’orizzonte stimolano il cervello a produrre onde alfa e theta, associate a stati di rilassamento e creatività. Questo significa che trascorrere del tempo in mare può:
-
-  * **Ridurre il rumore mentale** : l’oceano agisce come un reset naturale, aiutandoci a distaccarci da pensieri ossessivi e distrazioni.
-  * **Aumentare la concentrazione** : la presenza dell’acqua induce uno stato meditativo che favorisce la focalizzazione e la lucidità mentale.
-  * **Migliorare la risoluzione dei problemi** : uno stato mentale rilassato stimola il pensiero laterale e la capacità di trovare soluzioni innovative.
+- **Ridurre il rumore mentale** : l’oceano agisce come un reset naturale, aiutandoci a distaccarci da pensieri ossessivi e distrazioni.
+- **Aumentare la concentrazione** : la presenza dell’acqua induce uno stato meditativo che favorisce la focalizzazione e la lucidità mentale.
+- **Migliorare la risoluzione dei problemi** : uno stato mentale rilassato stimola il pensiero laterale e la capacità di trovare soluzioni innovative.
 
 ### Il Mare Come Catalizzatore della Creatività
 

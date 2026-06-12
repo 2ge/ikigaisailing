@@ -37,17 +37,15 @@ Per le prenotazioni effettuate dopo la **data limite** , sarà richiesto il paga
 ### **Politica di Cancellazione**
 
 #### **a) Cancellazione da parte del partecipante:**
-
-  * Se la prenotazione viene annullata **fino a 2 mesi prima della partenza** , è possibile richiedere il rimborso dell’importo già versato.
-  * Per cancellazioni effettuate **meno di 2 mesi prima** dell’inizio dell’esperienza, il contributo versato non sarà rimborsato, ma potrà essere utilizzato come **credito** per partecipare ad altre proposte ed esperienze organizzate dall’associazione.
-  * Raccomandiamo comunque di sottoscrivere un’assicurazione di viaggio che copra questa eventualità.
+- Se la prenotazione viene annullata **fino a 2 mesi prima della partenza** , è possibile richiedere il rimborso dell’importo già versato.
+- Per cancellazioni effettuate **meno di 2 mesi prima** dell’inizio dell’esperienza, il contributo versato non sarà rimborsato, ma potrà essere utilizzato come **credito** per partecipare ad altre proposte ed esperienze organizzate dall’associazione.
+- Raccomandiamo comunque di sottoscrivere un’assicurazione di viaggio che copra questa eventualità.
 
 #### **b) Cancellazione da parte nostra:**
 
 In caso di circostanze straordinarie, come **disastri naturali, instabilità politica del Paese di destinazione, mancato raggiungimento del numero minimo di partecipanti entro 30 giorni dalla partenza** , il partecipante avrà diritto a:
-
-  * Utilizzare il contributo versato per partecipare ad altre attività o esperienze in programma.
-  * Richiedere il rimborso dell’importo già pagato.
+- Utilizzare il contributo versato per partecipare ad altre attività o esperienze in programma.
+- Richiedere il rimborso dell’importo già pagato.
 
 _NB: Non saranno riconosciuti**costi o spese aggiuntive** , oltre al contributo versato, come compensazione per la cancellazione del viaggio. Per questo motivo, consigliamo vivamente di stipulare un’assicurazione di viaggio che copra eventuali costi extra._
 
@@ -62,22 +60,20 @@ _NB: Non saranno riconosciuti**costi o spese aggiuntive** , oltre al contributo 
 Gli ospiti che si comportano in modo **inappropriato** nei confronti dell’equipaggio, degli altri partecipanti o delle persone locali potranno essere **allontanati dall’esperienza**.
 
 Comportamenti inaccettabili includono:
-
-  * Abuso verbale, atteggiamenti aggressivi o violenza.
-  * Comportamenti ripetutamente disturbanti.
-  * Consumo eccessivo di alcol o droghe.
-  * Molestie sessuali (inclusi commenti o contatti indesiderati).
-  * Azioni che intimidano, offendono o umiliano un’altra persona sulla base di età, razza, genere, disabilità, religione o orientamento sessuale.
+- Abuso verbale, atteggiamenti aggressivi o violenza.
+- Comportamenti ripetutamente disturbanti.
+- Consumo eccessivo di alcol o droghe.
+- Molestie sessuali (inclusi commenti o contatti indesiderati).
+- Azioni che intimidano, offendono o umiliano un’altra persona sulla base di età, razza, genere, disabilità, religione o orientamento sessuale.
 
 In questi casi, **non sarà concesso alcun rimborso** e tutti i costi relativi alla partenza anticipata saranno a carico del partecipante.
 
 ### **Limitazione di Responsabilità**
 
 L’associazione sportiva non sarà responsabile per costi, danni o perdite derivanti da:
-
-  * Ritardi o cancellazioni causati da **disastri naturali, condizioni meteorologiche estreme o eventi al di fuori del nostro controllo**.
-  * Spese personali non coperte dall’assicurazione di viaggio.
-  * Danni derivanti dalla mancata osservanza delle regole di comportamento o sicurezza durante l’esperienza.
+- Ritardi o cancellazioni causati da **disastri naturali, condizioni meteorologiche estreme o eventi al di fuori del nostro controllo**.
+- Spese personali non coperte dall’assicurazione di viaggio.
+- Danni derivanti dalla mancata osservanza delle regole di comportamento o sicurezza durante l’esperienza.
 
 ### **Modifiche al Programma**
 

@@ -29,8 +29,7 @@ Itinéraire
 
 Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du monde, avec une brève description de chacun :
 
-2022
-
+## 2022
 ### On met les voiles !
 
 -   **Juillet – Rome, Italie** Le point de départ du voyage, avec des adieux émouvants à la capitale italienne, riche en histoire et en culture.
@@ -40,14 +39,13 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 -   **Novembre – Gibraltar** La « porte de l'Atlantique », où l'équipage s'est préparé pour la traversée vers les îles Canaries.
 -   **Décembre – Cap-Vert (15-18 décembre)** Une escale courte mais intense dans ces îles tropicales, riches en culture créole et en paysages volcaniques.
 
-2023
-
+## 2023
 ### Traversée de l'Atlantique
 
 **Janvier**
 
 -   ```
-    * **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
+- **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
     ```
     
     -   **Îles Vierges** Un archipel de rêve avec des baies calmes, parfait pour la voile et la plongée.
@@ -57,7 +55,7 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 **Février**
 
 -   ```
-    * **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
+- **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
     ```
     
     -   **La Dominique** « L'île nature des Caraïbes », avec ses forêts tropicales luxuriantes, ses cascades à couper le souffle et sa culture accueillante.
@@ -66,7 +64,7 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 **Mars**
 
 -   ```
-    * **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
+- **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
     ```
     
     -   **Saint-Vincent** Une île montagneuse et luxuriante au charme authentique et sauvage.
@@ -84,14 +82,13 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 **Juin**
 
 -   ```
-    * **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
+- **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
     ```
     
 
 **Septembre – Martinique** Une escale prolongée pour profiter du climat agréable et du confort de l'île.
 
-2024
-
+## 2024
 ### Venezuela et îles
 
 **Janvier** – Anguilla, Guadeloupe
@@ -104,16 +101,14 @@ Voici la liste des lieux visités par Ikigai Sailing au cours de son tour du mon
 
 **Décembre** – Los Roques
 
-2025
-
+## 2025
 ### ABC et Panama
 
 \*\*25  
 mars Aruba, Bon Air,  
 Curaçao\*\*Ensuite, on mettra le cap sur la Colombie, puis on passera par le canal de Panama pour rejoindre le Pacifique…
 
-2026
-
+## 2026
 ### San Blas
 
 SUIVANT

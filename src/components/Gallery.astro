@@ -47,6 +47,9 @@ const large = await Promise.all(
       children: 'a',
       pswpModule: () => import('photoswipe'),
       bgOpacity: 0.92,
+      initialZoomLevel: 'fit', // open the whole photo fit-to-screen (no over-zoom)
+      secondaryZoomLevel: 1.6, // tap/click zooms to a comfortable level, not actual pixels
+      maxZoomLevel: 3,
     });
     lb.init();
   }

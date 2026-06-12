@@ -3,6 +3,7 @@
 import { Image } from 'astro:assets';
 import PageLayout from '../../layouts/PageLayout.astro';
 import SectionHeading from '../../components/SectionHeading.astro';
+import IkigaiVenn from '../../components/IkigaiVenn.astro';
 import WhatsAppButton from '../../components/WhatsAppButton.astro';
 import JsonLd from '../../components/jsonld/JsonLd.astro';
 import { useTranslations, localizePath, defaultLocale, type Locale } from '../../i18n/ui';
@@ -63,21 +64,17 @@ const crumb = breadcrumbs(site, locale, [
     </div>
   </section>
 
-  {/* the four circles */}
+  {/* the four circles — Venn diagram */}
   <section class="bg-sand-100 py-20">
-    <div class="mx-auto max-w-4xl px-4 sm:px-6">
-      <div class="mx-auto mb-12 grid h-28 w-28 place-items-center rounded-full bg-coral-500 text-center text-sand-50 shadow-lg">
-        <div>
-          <span class="block font-display text-2xl leading-none">生き甲斐</span>
-          <span class="coords mt-1 block text-[0.6rem]">Ikigai</span>
-        </div>
-      </div>
-      <div class="grid gap-5 sm:grid-cols-2">
+    <div class="mx-auto max-w-5xl px-4 sm:px-6">
+      <IkigaiVenn />
+      {/* legend: what each circle means */}
+      <div class="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
         {circles.map((c) => (
-          <div class:list={['rounded-2xl p-6 ring-1 ring-ocean-950/5', c.bg]}>
-            <span class:list={['mb-3 inline-block h-2.5 w-2.5 rounded-full', c.dot]}></span>
-            <h3 class="font-display text-xl text-ocean-950">{c.title}</h3>
-            <p class="mt-2 text-sm leading-relaxed text-ink-soft">{c.body}</p>
+          <div class="rounded-2xl bg-sand-50 p-5 ring-1 ring-ocean-950/5">
+            <span class:list={['mb-2.5 inline-block h-2.5 w-2.5 rounded-full', c.dot]}></span>
+            <h3 class="font-display text-base text-ocean-950">{c.title}</h3>
+            <p class="mt-1.5 text-sm leading-relaxed text-ink-soft">{c.body}</p>
           </div>
         ))}
       </div>

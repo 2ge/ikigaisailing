@@ -20,8 +20,7 @@ Pour beaucoup de gens, la transformation commence là — non pas comme une déc
 Et c’est souvent dans cet espace que la mer devient un guide.
 
 Non pas comme une évasion, mais comme un **environnement régulateur** — un environnement qui ramène doucement le corps et l’esprit à la cohérence.
-
-* * *
+- *
 
 ## **La mer et le système nerveux : une relation primitive**
 
@@ -39,8 +38,7 @@ Ces éléments favorisent naturellement **la réinitialisation et la régulation
 
 Plutôt que de stimuler le système nerveux, la mer le **co-régule** — favorisant un état de sécurité, de présence et d’adaptabilité.  
 À partir de cet état, la clarté devient possible.
-
-* * *
+- *
 
 ## **La pleine conscience incarnée : une présence qui commence dans le corps et aide notre système nerveux à se réinitialiser**
 
@@ -61,8 +59,7 @@ L’environnement lui-même y contribue.
 
 La mer n’exige ni productivité ni contrôle.  
 Elle invite à ressentir — et dans ce ressenti, quelque chose s’adoucit.
-
-* * *
+- *
 
 ## **Nature, immensité et changement intérieur La nature** ne donne pas de réponses immédiates.
 
@@ -78,8 +75,7 @@ Cet espace intérieur est essentiel pour quiconque ressent le besoin de changer,
 
 La clarté ne vient pas en forçant les décisions.  
 Elle émerge lorsqu’il y a suffisamment d’espace intérieur pour percevoir de nouvelles possibilités.
-
-* * *
+- *
 
 ## **La mer comme réinitialisation du système nerveux**
 
@@ -99,8 +95,7 @@ Elle se manifeste souvent par :
 -   un sentiment d'harmonie intérieure
 
 À partir de cet état, le changement surgit naturellement — il n’est pas imposé, mais ressenti.
-
-* * *
+- *
 
 ## **Une expérience pour ceux qui ressentent avant de savoir**
 
@@ -114,8 +109,7 @@ Les expériences incarnées en mer s’adressent aux personnes qui :
 -   sont curieux de découvrir le changement qui vient de l’intérieur
 
 Pour beaucoup, c’est une première rencontre avec **l’expérience corporelle** — pas un atelier ni une méthode, mais un environnement vivant où le corps peut prendre les devants.
-
-* * *
+- *
 
 ## **Ikigai Sailing : quand la mer devient un espace d’écoute**
 
@@ -124,8 +118,7 @@ Chaque voyage est conçu pour favoriser la présence, la régulation et l’éco
 
 L'intention n'est pas de revenir « transformé »  
 , mais de revenir **plus en phase avec soi-même** — plus connecté à ce qui te semble vrai, essentiel et prêt à évoluer.
-
-* * *
+- *
 
 ### **Découvre la vie à bord Découvre Ikigai Sailing** Si quelque chose en toi réclame de l’espace,
 

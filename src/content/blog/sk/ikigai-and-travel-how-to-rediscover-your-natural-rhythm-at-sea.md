@@ -23,7 +23,7 @@ Plachtenie je viac než šport; je to dialóg s prírodou. Keď ste na palube, v
 ## **Prečo je život na mori tým najlepším spôsobom, ako sa zresetovať:**
 
 -   ```
-    * **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
+- **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
     ```
     
     -   **Aktívna všímavosť:** Prostredníctvom plachtenia, freedivingu a plávania sa zapájate do „vteleného uvedomenia si“ – uvedomenia si prostredníctvom akcie.

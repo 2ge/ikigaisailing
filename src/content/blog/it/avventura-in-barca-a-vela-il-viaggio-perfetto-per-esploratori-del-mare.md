@@ -8,10 +8,9 @@ image: "~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp"
 Scoprire il mondo dal mare offre un senso di libertà senza pari. **I viaggi avventura in barca a vela** sono l’opzione ideale per chi desidera esplorare luoghi incontaminati, immergersi nella natura e vivere un’esperienza autentica e sostenibile. **Ikigai Sailing sta attualmente navigando attraverso il mondo ed è ora a Panama, con l’obiettivo di attraversare l’Oceano nel 2026.**
 
 ### Perché Scegliere un Viaggio Avventura in Barca a Vela?
-
-  * **Connessione con la natura** : Navigare significa sentirsi parte del mare e del vento, unendo avventura e relax.
-  * **Destinazioni esclusive** : Dalle isole greche alla costa italiana, passando per i Caraibi e l’Oceano Indiano, ogni destinazione offre panorami mozzafiato.
-  * **Esperienza unica** : A bordo, si possono imparare le basi della vela, scoprire baie nascoste e godere di tramonti indimenticabili.
+- **Connessione con la natura** : Navigare significa sentirsi parte del mare e del vento, unendo avventura e relax.
+- **Destinazioni esclusive** : Dalle isole greche alla costa italiana, passando per i Caraibi e l’Oceano Indiano, ogni destinazione offre panorami mozzafiato.
+- **Esperienza unica** : A bordo, si possono imparare le basi della vela, scoprire baie nascoste e godere di tramonti indimenticabili.
 
 ### Le Migliori Destinazioni per un’Avventura in Barca a Vela
 

@@ -14,9 +14,8 @@ Ogni giorno produciamo la nostra **acqua potabile** e persino **frizzante** , di
 ### **Dissalatori a bordo**
 
 Alla base del sistema ci sono due **dissalatori** :
-
-  * 50 litri/ora
-  * 100 litri/ora
+- 50 litri/ora
+- 100 litri/ora
 
 ### **Filtrazione e osmosi inversa**
 
@@ -29,11 +28,10 @@ L’**acqua di mare** passa attraverso un **filtro a 5 micron** , quindi un sist
 ### **Rubinetto a 4 vie**
 
 Per migliorare gusto e qualità, l’acqua passa attraverso:
-
-  * **Lampada UV** → elimina batteri
-  * **Filtro al carbone 5 micron** → migliora purezza e sapore
-  * **Filtro mineralizzante** → restituisce sali minerali naturali
-  * **Bombola di CO**₂**\+ refrigeratore** → acqua fresca e frizzante
+- **Lampada UV** → elimina batteri
+- **Filtro al carbone 5 micron** → migliora purezza e sapore
+- **Filtro mineralizzante** → restituisce sali minerali naturali
+- **Bombola di CO**₂**\+ refrigeratore** → acqua fresca e frizzante
 
 Il sistema arriva a un **rubinetto a 4 vie** :
 

@@ -22,7 +22,7 @@ La voile est plus qu’un sport ; c’est un dialogue avec la nature. Quand tu e
 ## **Pourquoi la vie en mer est la réinitialisation ultime :**
 
 -   ```
-    * **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
+- **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
     ```
     
     -   **La pleine conscience active :** à travers la voile, la plongée en apnée et la natation, tu te livres à une « pleine conscience incarnée » — la conscience par l’action.

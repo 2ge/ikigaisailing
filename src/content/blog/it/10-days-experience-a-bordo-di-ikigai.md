@@ -39,114 +39,101 @@ La mattina presto una navetta ti condurrà nella selva panamense fino al porto c
 A bordo, il tempo rallenta. Iniziamo con un briefing sulla sicurezza, seguito dalla presentazione della barca e dell’equipaggio e dell’esperienza che stai per vivere.
 
 Dopo un pranzo leggero e rinfrescante, ti godi i primi bagni e momenti di relax tra i graziosi isolotti circostanti. I Guna ci raggiungono in canoa con aragoste, pesce fresco, frutta e verdura.
-
-  * 🥥 Pranzo e cena a bordo
-  * 🏐 Beach volley sulla spiaggia
-  * 🐠 Snorkeling tra i coralli
-  * 🌅 Prima routine serale (facoltativa)
+- 🥥 Pranzo e cena a bordo
+- 🏐 Beach volley sulla spiaggia
+- 🐠 Snorkeling tra i coralli
+- 🌅 Prima routine serale (facoltativa)
 
 ### **🏖️ Giorno 2 – Chichime Isola viva, chioschi e socialità, atmosfera caraibica**
-
-  * 06:30 – 08:00: Routine mattutina sul ponte
-  * 09:00 – 09:30: Colazione
-  * 10:00 – 11:00: Navigazione verso Chichime
-  * 11:00 – 16:00: Tempo libero tra bagni, snorkeling, beach volley
+- 06:30 – 08:00: Routine mattutina sul ponte
+- 09:00 – 09:30: Colazione
+- 10:00 – 11:00: Navigazione verso Chichime
+- 11:00 – 16:00: Tempo libero tra bagni, snorkeling, beach volley
 
 Pranzo a terra in uno dei due ristorantini tipici con amache sull’acqua. Questa è l’ultima isola “abitata” che visiteremo: l’atmosfera è vacanziera e conviviale, ideale per conoscere gli altri partecipanti e ambientarsi prima di entrare nella parte più selvaggia del viaggio.
-
-  * 17:30 – 19:00: Routine serale
-  * 20:00 – 21:00: Cena a bordo
-  * 21:00 – 23:00: Opzionale: dopocena con musica e karaoke a terra
+- 17:30 – 19:00: Routine serale
+- 20:00 – 21:00: Cena a bordo
+- 21:00 – 23:00: Opzionale: dopocena con musica e karaoke a terra
 
 ### **🐬 Giorno 3 – Cayo Holandese Ovest Natura incontaminata, barriera corallina vivace, introduzione all’apnea**
-
-  * 06:30 – 08:00: Routine mattutina
-  * 08:30 – 09:00: Colazione
-  * 10:00 – 12:00: Navigazione verso Cayo Holandese Ovest
-  * 12:00 – 14:00: Bagni e snorkeling sulla barriera
-  * 14:00 – 15:00: Pranzo a bordo
-  * 17:30 – 18:30: Routine serale breve
-  * 19:00 – 20:00: Classe teorica di apnea: respirazione, sicurezza, compensazione. Slide e documentari al proiettore.
-  * 20:30 – 21:30: Cena
-  * Dopo cena: accendiamo una lampada subacquea per osservare la vita marina da lei attratta e cosi facendo, se saremo fortunati, riceveremo visite dai nostri amici delfini
+- 06:30 – 08:00: Routine mattutina
+- 08:30 – 09:00: Colazione
+- 10:00 – 12:00: Navigazione verso Cayo Holandese Ovest
+- 12:00 – 14:00: Bagni e snorkeling sulla barriera
+- 14:00 – 15:00: Pranzo a bordo
+- 17:30 – 18:30: Routine serale breve
+- 19:00 – 20:00: Classe teorica di apnea: respirazione, sicurezza, compensazione. Slide e documentari al proiettore.
+- 20:30 – 21:30: Cena
+- Dopo cena: accendiamo una lampada subacquea per osservare la vita marina da lei attratta e cosi facendo, se saremo fortunati, riceveremo visite dai nostri amici delfini
 
 ### **🧘‍♂️ Giorno 4 – Cayo Holandese Ovest Sessione pratica di apnea, contatto profondo con il mare e con sé stessi**
-
-  * 06:30 – 07:30: Respirazione e stretching specifici per l’apnea
-  * 07:30 – 08:00: Colazione leggera
-  * 08:30 – 09:30: Ripasso teorico + spiegazione compensazione e tecnica
-  * 10:00 – 12:30: Sessione pratica in acqua
-  * 13:00 – 14:00: Pranzo a bordo
-  * 15:00 – 17:00: Attività libera: nuoto, snorkeling, pesca, relax, kayak, sup, incontro con le famiglie locali
-  * 17:30 – 19:00: Routine serale
-  * 20:00 – 21:00: Cena
-  * Dopo cena: proiezione sul videoproiettore dei video registrati durante la sessione pratica di freediving del mattino. Analizzeremo insieme le immagini per commentare tecnica, postura e progressi, offrendo consigli personalizzati a chi vorrà riceverli.
+- 06:30 – 07:30: Respirazione e stretching specifici per l’apnea
+- 07:30 – 08:00: Colazione leggera
+- 08:30 – 09:30: Ripasso teorico + spiegazione compensazione e tecnica
+- 10:00 – 12:30: Sessione pratica in acqua
+- 13:00 – 14:00: Pranzo a bordo
+- 15:00 – 17:00: Attività libera: nuoto, snorkeling, pesca, relax, kayak, sup, incontro con le famiglie locali
+- 17:30 – 19:00: Routine serale
+- 20:00 – 21:00: Cena
+- Dopo cena: proiezione sul videoproiettore dei video registrati durante la sessione pratica di freediving del mattino. Analizzeremo insieme le immagini per commentare tecnica, postura e progressi, offrendo consigli personalizzati a chi vorrà riceverli.
 
 ### **🏝️ Giorno 5 – Cayo Holandese Lagoon Laguna interna dai mille colori, esplorazione in SUP/kayak, yoga a terra e falò in spiaggia**
-
-  * 06:30 – 08:00: Routine mattutina sul ponte
-  * 08:30 – 09:00: Colazione
-  * 09:30 – 10:30: Navigazione verso Cayo Holandese Lagoon
-  * 11:00 – 13:00: Escursione tra gli isolotti disabitati con SUP, kayak o tender (dinghy)
-  * 13:00 – 14:00: Pranzo a bordo
-  * 15:00 – 17:00: Relax, bagno o visita ai Guna locali
-  * 17:30 – 19:00: Attività a terra: Yoga e meditazione al tramonto. Possibilità di integrare con esercizi cardio, base di pugilato o introduzione al Tai Chi.
-  * 19:30 – 22:00: Serata conviviale con falò e barbecue di pesce fresco sulla spiaggia, in compagnia delle famiglie Guna
+- 06:30 – 08:00: Routine mattutina sul ponte
+- 08:30 – 09:00: Colazione
+- 09:30 – 10:30: Navigazione verso Cayo Holandese Lagoon
+- 11:00 – 13:00: Escursione tra gli isolotti disabitati con SUP, kayak o tender (dinghy)
+- 13:00 – 14:00: Pranzo a bordo
+- 15:00 – 17:00: Relax, bagno o visita ai Guna locali
+- 17:30 – 19:00: Attività a terra: Yoga e meditazione al tramonto. Possibilità di integrare con esercizi cardio, base di pugilato o introduzione al Tai Chi.
+- 19:30 – 22:00: Serata conviviale con falò e barbecue di pesce fresco sulla spiaggia, in compagnia delle famiglie Guna
 
 ### **🌴 Giorno 6 – Cayo Holandese Swimming Pool Considerato l’ancoraggio più suggestivo dell’arcipelago, isolotti ricchi di palme con prato all’inglese a contrato con acque turchesi, communita di artigiani Guna e piantagioni di cocco**
-
-  * 06:30 – 08:00: Routine mattutina sul ponte
-  * 08:30 – 09:00: Colazione
-  * 09:30 – 10:30: Navigazione verso Cayo Holandese Est
-  * 11:00 – 12:30: Visita a un’isola abitata da famiglie artigiane Guna, dove potrai scoprire le loro tecniche tradizionali e acquistare, se lo desideri, oggetti unici fatti a mano
-  * 12:30 – 13:30: Pranzo al miglior ristorante dell’arcipelago, costruito su palafitte direttamente sull’acqua
-  * 12:30 – 13:30: Pranzo a bordo
-  * 17:00 – 21:00: Trasferimento a **Turtle Island** , isolotto paradisiaco con prato verde, palme da cocco, sabbia bianca e numerose amache appese tra gli alberi. Praticheremo Yoga, meditazione, Tabata o arti marziali all’ombra delle palme o semplicemente ci rilasseremo cullati dalle amache. A seguire, barbecue e cena in spiaggia, sotto le stelle.
+- 06:30 – 08:00: Routine mattutina sul ponte
+- 08:30 – 09:00: Colazione
+- 09:30 – 10:30: Navigazione verso Cayo Holandese Est
+- 11:00 – 12:30: Visita a un’isola abitata da famiglie artigiane Guna, dove potrai scoprire le loro tecniche tradizionali e acquistare, se lo desideri, oggetti unici fatti a mano
+- 12:30 – 13:30: Pranzo al miglior ristorante dell’arcipelago, costruito su palafitte direttamente sull’acqua
+- 12:30 – 13:30: Pranzo a bordo
+- 17:00 – 21:00: Trasferimento a **Turtle Island** , isolotto paradisiaco con prato verde, palme da cocco, sabbia bianca e numerose amache appese tra gli alberi. Praticheremo Yoga, meditazione, Tabata o arti marziali all’ombra delle palme o semplicemente ci rilasseremo cullati dalle amache. A seguire, barbecue e cena in spiaggia, sotto le stelle.
 
 ### **🐚 Giorno 7 – Cayo Holandese / Green Island Piantagioni di cocco, artigianato Guna, snorkeling sulla barriera e cinema sotto le stelle**
-
-  * 06:30 – 08:00: Routine mattutina sul ponte
-  * 08:30 – 09:00: Colazione
-  * 09:30 – 11:30: Snorkeling sulla barriera corallina o escursione alla piantagione di palme da cocco
-  * 12:30 – 14:00: Pranzo al ristorante su palafitte, direttamente sull’acqua
-  * 14:30 – 15:30: Navigazione verso Green Island
-  * 16:00 – 18:30: Relax tra le palme o bagno sulle spiagge bianche dell’isola
-  * 18:30 – 19:30: Routine serale a bordo
-  * 20:00 – 21:00: Cena
-  * 21:30 – 22:30: Proiezione sul videoproiettore: documentari, film o video girati durante il viaggio, condividendo emozioni e riflessioni sotto le stelle
+- 06:30 – 08:00: Routine mattutina sul ponte
+- 08:30 – 09:00: Colazione
+- 09:30 – 11:30: Snorkeling sulla barriera corallina o escursione alla piantagione di palme da cocco
+- 12:30 – 14:00: Pranzo al ristorante su palafitte, direttamente sull’acqua
+- 14:30 – 15:30: Navigazione verso Green Island
+- 16:00 – 18:30: Relax tra le palme o bagno sulle spiagge bianche dell’isola
+- 18:30 – 19:30: Routine serale a bordo
+- 20:00 – 21:00: Cena
+- 21:30 – 22:30: Proiezione sul videoproiettore: documentari, film o video girati durante il viaggio, condividendo emozioni e riflessioni sotto le stelle
 
 ### **🧜‍♀️ Giorno 8 – Green Island Esperienze libere, sessioni di Janzu, esplorazione e condivisione**
-
-  * 06:30 – 08:00: Routine mattutina sul ponte
-  * 08:30 – 09:00: Colazione
+- 06:30 – 08:00: Routine mattutina sul ponte
+- 08:30 – 09:00: Colazione
 
 Questa giornata è dedicata alla libertà e alla scoperta personale. Chi vorrà potrà partecipare a turno a una sessione individuale di **Janzu** , un trattamento acquatico profondo e rigenerante. Gli altri avranno la possibilità di:
-
-  * Visitare l’isola, abitata sia da famiglie Guna che da una giovane comunità internazionale di co-worker.
-  * Fare snorkeling o nuotare sulla barriera corallina
-  * Esplorare le baie circostanti in kayak o SUP
-  * Riposarsi tra le palme o leggere cullati da un’amaca
-
-  * 18:30 – 19:30: Routine serale (facoltativa)
-  * 20:00 – 21:00: Cena a bordo
+- Visitare l’isola, abitata sia da famiglie Guna che da una giovane comunità internazionale di co-worker.
+- Fare snorkeling o nuotare sulla barriera corallina
+- Esplorare le baie circostanti in kayak o SUP
+- Riposarsi tra le palme o leggere cullati da un’amaca
+- 18:30 – 19:30: Routine serale (facoltativa)
+- 20:00 – 21:00: Cena a bordo
 
 ### **🦈 Giorno 9 – Coco Bandero Isola privata da cartolina, squali nutrice pacifici ed attivita a terra.**
-
-  * 06:30 – 08:00: Routine mattutina sul ponte
-  * 08:30 – 09:00: Colazione
-  * 09:30 – 10:30: Navigazione verso Coco Bandero
-  * 12:00 – 13:00: Pranzo in spiaggia sotto le palme
-  * 13:00 – 17:00: Tempo libero per godersi questo angolo di paradiso solo per noi. Snorkeling tra coralli vivaci, relax in amaca, esplorazione delle acque cristalline o, per chi se la sente, nuoto in compagnia degli squali nutrice, docili e curiosi abitanti della zona
-  * 17:00 – 19:00: Routine serale sulle pedane in legno sull’isola
-  * 19:00 – 23:00: **Serata celebrativa** : festeggiamo la vita e questa esperienza con un grande falò, cena a base di aragoste, pesce fresco e verdure locali cucinate alla brace, accompagnate da musica, balli e condivisioni sotto il cielo stellato
+- 06:30 – 08:00: Routine mattutina sul ponte
+- 08:30 – 09:00: Colazione
+- 09:30 – 10:30: Navigazione verso Coco Bandero
+- 12:00 – 13:00: Pranzo in spiaggia sotto le palme
+- 13:00 – 17:00: Tempo libero per godersi questo angolo di paradiso solo per noi. Snorkeling tra coralli vivaci, relax in amaca, esplorazione delle acque cristalline o, per chi se la sente, nuoto in compagnia degli squali nutrice, docili e curiosi abitanti della zona
+- 17:00 – 19:00: Routine serale sulle pedane in legno sull’isola
+- 19:00 – 23:00: **Serata celebrativa** : festeggiamo la vita e questa esperienza con un grande falò, cena a base di aragoste, pesce fresco e verdure locali cucinate alla brace, accompagnate da musica, balli e condivisioni sotto il cielo stellato
 
 ### **🌅 Giorno 10 – Ritorno a Banedup Ultimi momenti in paradiso, beach volley, snorkeling e cerimonia di chiusura**
-
-  * Mattinata in relax: colazione libera a bordo con buffet self-service, ultimi bagni, amache, tempo per scrivere o semplicemente godersi il silenzio
-  * 12:00 – 15:00: Navigazione verso Banedup
-  * 16:00 – 18:30: Attività a scelta: beach volley a terra, snorkeling sulla barriera o routine serale soft
-  * 19:00 – 20:00: Cena a bordo
-  * 20:30 – 22:00: **Serata finale** : proiezione di foto e video dell’esperienza, consegna degli attestati di partecipazione, momento di condivisione e feedback con il gruppo
+- Mattinata in relax: colazione libera a bordo con buffet self-service, ultimi bagni, amache, tempo per scrivere o semplicemente godersi il silenzio
+- 12:00 – 15:00: Navigazione verso Banedup
+- 16:00 – 18:30: Attività a scelta: beach volley a terra, snorkeling sulla barriera o routine serale soft
+- 19:00 – 20:00: Cena a bordo
+- 20:30 – 22:00: **Serata finale** : proiezione di foto e video dell’esperienza, consegna degli attestati di partecipazione, momento di condivisione e feedback con il gruppo
 
 ### **🛶 Giorno 11 – Rientro**
 

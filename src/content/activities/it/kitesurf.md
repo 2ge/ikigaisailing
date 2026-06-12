@@ -60,11 +60,10 @@ Possibilità di noleggio attrezzatura a bordo
 Perché provarlo con Ikigai
 
 Unisciti a noi per imparare o perfezionare il kitesurf in una cornice paradisiaca, sempre in sicurezza e con un tocco di avventura.
-
-  * **Accesso Esclusivo:** Raggiungi le location più spettacolari e i venti più favorevoli, lontano dalla folla, in contesti naturali incontaminati. Lanciati con il kite direttamente dal catamarano, esplorando spot inaccessibili da terra.
-  * **Sicurezza Ottimizzata:** Il nostro dinghy dedicato garantisce supporto costante e interventi puntuali, assicurandoti sessioni in totale tranquillità.  
+- **Accesso Esclusivo:** Raggiungi le location più spettacolari e i venti più favorevoli, lontano dalla folla, in contesti naturali incontaminati. Lanciati con il kite direttamente dal catamarano, esplorando spot inaccessibili da terra.
+- **Sicurezza Ottimizzata:** Il nostro dinghy dedicato garantisce supporto costante e interventi puntuali, assicurandoti sessioni in totale tranquillità.  
 Libertà e Flessibilità: Scegli tu quando e dove surfare. A bordo di Ikigai, seguiamo le condizioni meteo e di vento migliori per offrirti un’esperienza di kitesurf senza pari.
-  * **Relax e Comfort:** Quando desideri una pausa, torna a bordo e rilassati. La nostra casa galleggiante ti offre momenti di puro relax e benessere per corpo e mente.
+- **Relax e Comfort:** Quando desideri una pausa, torna a bordo e rilassati. La nostra casa galleggiante ti offre momenti di puro relax e benessere per corpo e mente.
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/kite-surf7.jpg)
 

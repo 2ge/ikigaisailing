@@ -12,11 +12,10 @@ image: "~/assets/pages/vita-a-bordo-social/sailingmindfullness.webp"
 ## Perché la vela e la meditazione sono una combinazione perfetta?
 
 La navigazione a vela richiede presenza, consapevolezza e connessione con gli elementi. Il vento, le onde e il ritmo della barca ci insegnano a lasciar andare il controllo e ad accettare il momento presente, principi fondamentali della mindfulness. **Benefici del mindful sailing:**
-
-  * Riduce lo stress e l’ansia
-  * Migliora la concentrazione e la chiarezza mentale
-  * Favorisce una connessione profonda con la natura
-  * Aiuta a sviluppare resilienza e adattabilità
+- Riduce lo stress e l’ansia
+- Migliora la concentrazione e la chiarezza mentale
+- Favorisce una connessione profonda con la natura
+- Aiuta a sviluppare resilienza e adattabilità
 
 ## Come praticare la mindfulness in mare
 

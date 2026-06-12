@@ -70,20 +70,19 @@ la vita a bordo e’ meravigliosamente minimalista 🙂 nel senso che si ha biso
 Anche quando scendiamo a terra l’abbigliamento e’ informale e rilassato..
 
 Da ricordare:
-
-  * Protezione solare
-  * Cappello
-  * Occhiali da sole
-  * T-shirt leggere
-  * Pantaloncini
-  * Costumi
-  * Telo da mare
-  * Telo doccia
-  * Felpa leggera e/o giacca antivento
-  * leggera tipo K-Way (navigazione notturna)
-  * Pillole per il mal di mare (se occorrono)
-  * Ciabatte
-  * Maschera e boccaglio (se preferite usare i vostri, altrimenti sono gia presenti bordo)
+- Protezione solare
+- Cappello
+- Occhiali da sole
+- T-shirt leggere
+- Pantaloncini
+- Costumi
+- Telo da mare
+- Telo doccia
+- Felpa leggera e/o giacca antivento
+- leggera tipo K-Way (navigazione notturna)
+- Pillole per il mal di mare (se occorrono)
+- Ciabatte
+- Maschera e boccaglio (se preferite usare i vostri, altrimenti sono gia presenti bordo)
 
 _**IMPORTANTE NON PORTARE TROLLEY O BORSE RIGIDE**_
 

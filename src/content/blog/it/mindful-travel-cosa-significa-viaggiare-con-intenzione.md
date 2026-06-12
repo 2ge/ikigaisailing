@@ -18,10 +18,9 @@ Non come tendenza, ma come risposta a un bisogno profondo: viaggiare in modo int
 Il mindful travel non riguarda il fare di meno, ma il **sentire di più**.
 
 Significa:
-
-  * scegliere esperienze che rispecchiano i propri valori
-  * rallentare il ritmo per entrare in contatto con ciò che accade dentro
-  * lasciare spazio all’imprevisto, invece di riempire ogni momento
+- scegliere esperienze che rispecchiano i propri valori
+- rallentare il ritmo per entrare in contatto con ciò che accade dentro
+- lasciare spazio all’imprevisto, invece di riempire ogni momento
 
 Viaggiare con intenzione non è fuggire dalla vita quotidiana, ma creare un contesto in cui poterla osservare da una prospettiva nuova.
 
@@ -30,10 +29,9 @@ Viaggiare con intenzione non è fuggire dalla vita quotidiana, ma creare un cont
 Tra tutte le forme di viaggio consapevole, il mare occupa un posto speciale.
 
 Una **life at sea experience** non offre solo paesaggi, ma condizioni precise:
-
-  * distacco dai ritmi artificiali
-  * immersione in cicli naturali
-  * convivenza con il movimento, il silenzio e l’attesa
+- distacco dai ritmi artificiali
+- immersione in cicli naturali
+- convivenza con il movimento, il silenzio e l’attesa
 
 A bordo, la presenza non va cercata: emerge.
 
@@ -45,10 +43,9 @@ Il **conscious sailing experience** non è una crociera, né una vacanza da cons
 È una forma di viaggio relazionale.
 
 Relazione con:
-
-  * il mare e i suoi ritmi
-  * il gruppo e la condivisione autentica
-  * se stessi, senza distrazioni continue
+- il mare e i suoi ritmi
+- il gruppo e la condivisione autentica
+- se stessi, senza distrazioni continue
 
 Navigare richiede ascolto, adattamento, collaborazione.  
 Ogni gesto ha un impatto, ogni scelta è parte dell’esperienza.
@@ -61,11 +58,10 @@ A differenza di altri contesti, in mare la mindfulness non è separata dalla vit
 È integrata.
 
 Si manifesta:
-
-  * nel modo in cui si cammina sul ponte
-  * nell’attenzione al vento e alle condizioni
-  * nella semplicità dei gesti
-  * nei silenzi condivisi
+- nel modo in cui si cammina sul ponte
+- nell’attenzione al vento e alle condizioni
+- nella semplicità dei gesti
+- nei silenzi condivisi
 
 Questa presenza non viene insegnata, ma vissuta.  
 Ed è proprio per questo che lascia tracce profonde.
@@ -74,10 +70,9 @@ Ed è proprio per questo che lascia tracce profonde.
 
 Il mindful travel non è per tutti.  
 È per chi sente che:
-
-  * viaggiare “come prima” non basta più
-  * il corpo chiede un ritmo diverso
-  * il cambiamento non nasce dal fare, ma dal sentire
+- viaggiare “come prima” non basta più
+- il corpo chiede un ritmo diverso
+- il cambiamento non nasce dal fare, ma dal sentire
 
 Scegliere un’esperienza di viaggio consapevole significa dichiarare un’intenzione:  
 **esserci davvero**.

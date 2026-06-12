@@ -28,10 +28,9 @@ Rigenera il corpo, ma non riallinea.
 ## **Cos’è davvero una vacanza Ikigai Sailing**
 
 Una vacanza Ikigai Sailing:
-
-  * non propone soluzioni preconfezionate
-  * non promette trasformazioni immediate
-  * non segue un programma rigido
+- non propone soluzioni preconfezionate
+- non promette trasformazioni immediate
+- non segue un programma rigido
 
 È uno spazio intenzionale dove rallentare, osservare e riconnettersi a ciò che conta  
 davvero.  
@@ -48,10 +47,9 @@ In questo contesto, molte risposte emergono senza essere cercate.
 ## **Per chi è adatta una vacanza Ikigai**
 
 È adatta a chi:
-
-  * sente di essere in una fase di transizione
-  * percepisce un disallineamento interiore
-  * desidera chiarezza, non distrazione
+- sente di essere in una fase di transizione
+- percepisce un disallineamento interiore
+- desidera chiarezza, non distrazione
 
 Non è adatta a chi cerca solo intrattenimento.  
 E va bene così.

@@ -141,7 +141,6 @@ Scopri il piacere della libertà, della scoperta e del benessere in mare con esp
 Scopri dove ci troviamo ora
 
 Nel 2025/26 il nostro viaggio ci vede presso le incantevoli Isole San Blas, un paradiso unico nei Caraibi. La traversata del Pacifico è prevista per il 2027, aprendo un nuovo capitolo di avventure.
-
-  * San Blas
+- San Blas
 
 [ Scopri la rotta ](https://www.ikigaisailing.com/itinerario/)

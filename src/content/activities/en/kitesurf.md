@@ -58,11 +58,10 @@ Equipment rental available on board
 Why try it with Ikigai
 
 Join us to learn or perfect kitesurfing in a paradisiacal setting, always in safety and with a touch of adventure. 
-
-  * **Exclusive Access:** Reach the most spectacular locations and the best winds, away from the crowds, in pristine natural environments. Launch the kite directly from the catamaran, exploring spots that are inaccessible by land. 
-  * **Optimized Safety:** Our dedicated dinghy ensures constant support and timely interventions, guaranteeing you sessions in total peace of mind.
-  * **Freedom and Flexibility:** Choose when and where to surf. On board Ikigai, we follow the best weather and wind conditions to offer you an unparalleled kitesurfing experience.
-  * **Relaxation and Comfort:** When you need a break, return on board and unwind. Our floating home offers moments of pure relaxation and well-being for both body and mind. 
+- **Exclusive Access:** Reach the most spectacular locations and the best winds, away from the crowds, in pristine natural environments. Launch the kite directly from the catamaran, exploring spots that are inaccessible by land. 
+- **Optimized Safety:** Our dedicated dinghy ensures constant support and timely interventions, guaranteeing you sessions in total peace of mind.
+- **Freedom and Flexibility:** Choose when and where to surf. On board Ikigai, we follow the best weather and wind conditions to offer you an unparalleled kitesurfing experience.
+- **Relaxation and Comfort:** When you need a break, return on board and unwind. Our floating home offers moments of pure relaxation and well-being for both body and mind. 
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2024/06/kite-surf7.jpg)
 

@@ -26,11 +26,10 @@ _The Catana 47_ is designed to enjoy comfort and space without giving up the thr
 [](https://www.ikigaisailing.com/wp-content/uploads/2025/01/catana-47-e1737790771595.jpg)
 
 The boat features:
-
-  * **2 double cabins** (configurable with two single beds or one large double bed)
-  * **1 cabin with a double bed**
-  * **A fourth cabin converted into a large bathroom** with a panoramic shower for two people
-  * **2 electric toilets** , one on each hull
+- **2 double cabins** (configurable with two single beds or one large double bed)
+- **1 cabin with a double bed**
+- **A fourth cabin converted into a large bathroom** with a panoramic shower for two people
+- **2 electric toilets** , one on each hull
 
 At the bow, there is the **crew cabin** , the**sail locker** , and an entire **storage cabin** for sports equipment. At the stern, the **large cockpit table** can be lowered to create another spacious double bed.
 
@@ -51,28 +50,26 @@ Bread Maker – because baking fresh bread daily is priceless
 ## AUTONOMY:
 
 In terms of energy, we are completely self-sufficient with:
-
-  * **12 solar panels  
+- **12 solar panels  
 **
-  * **Hydroturbine  
+- **Hydroturbine  
 **
-  * **600Ah lithium batteries  
+- **600Ah lithium batteries  
 **
-  * **5kW diesel generator**  
+- **5kW diesel generator**  
 
 Additionally, we have **2 watermakers** producing **150 L/h** and a **washing machine**.
 
 ## SPORTS EQUIPMENT:
 
 Onboard, you will also find:
-
-  * **25hp dinghy**
-  * **3-person kayak**
-  * **SUP (Stand-Up Paddleboard)**
-  * **Snorkeling, freediving, and spearfishing gear**
-  * **Full scuba diving equipment**
-  * **Kitesurfing gear**
-  * **Yoga mat**
+- **25hp dinghy**
+- **3-person kayak**
+- **SUP (Stand-Up Paddleboard)**
+- **Snorkeling, freediving, and spearfishing gear**
+- **Full scuba diving equipment**
+- **Kitesurfing gear**
+- **Yoga mat**
 
 [!](https://www.ikigaisailing.com/wp-content/uploads/2025/01/d7f8a8_8e548b8301844ce39be1761967b738c4mv2.jpg)
 

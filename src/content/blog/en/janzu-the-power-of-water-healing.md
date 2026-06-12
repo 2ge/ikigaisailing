@@ -18,12 +18,11 @@ Emerging from the water often brings about a **profound physical and emotional r
 **Benefits of Janzu**
 
 Janzu offers a wide range of physical and mental benefits, including:
-
-  * **Reduction of stress and anxiety**
-  * **Improved breathing and body awareness**
-  * **Release of muscular and joint tension**
-  * **Emotional release and trauma relief**
-  * **Deep feelings of peace, lightness, and presence Janzu: An Experience of Reconnection**
+- **Reduction of stress and anxiety**
+- **Improved breathing and body awareness**
+- **Release of muscular and joint tension**
+- **Emotional release and trauma relief**
+- **Deep feelings of peace, lightness, and presence Janzu: An Experience of Reconnection**
 
 More than just a technique, Janzu is a **transformative experience**. The contact with water, the gentle surrender to fluid movement, and the rhythm of the breath create the perfect environment for **regaining balance, harmony, and a sense of wholeness**.
 

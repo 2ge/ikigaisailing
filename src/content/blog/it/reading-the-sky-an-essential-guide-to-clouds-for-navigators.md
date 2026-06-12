@@ -16,34 +16,29 @@ Ecco una panoramica sui principali tipi di nuvole, il loro impatto sul mare e su
 Le nuvole si classificano principalmente in base alla loro forma e altezza nell’atmosfera. Secondo la classificazione ufficiale dell’Organizzazione Meteorologica Mondiale, esistono 10 tipi principali di nuvole, suddivisi in 4 categorie. Ecco le più rilevanti per la navigazione:
 
 #### ☁️ **Cirri (Ci)** – Messaggeri del Cambiamento
-
-  * **Descrizione** : Alte, sottili e filamentose, spesso dall’aspetto evanescente.
-  * **Effetto** : Indicano bel tempo, ma possono annunciare l’arrivo di perturbazioni.
-  * **Navigazione** : Un segnale da monitorare per pianificare eventuali cambiamenti di rotta.
+- **Descrizione** : Alte, sottili e filamentose, spesso dall’aspetto evanescente.
+- **Effetto** : Indicano bel tempo, ma possono annunciare l’arrivo di perturbazioni.
+- **Navigazione** : Un segnale da monitorare per pianificare eventuali cambiamenti di rotta.
 
 #### ☁️ **Stratocumuli (Sc)** – Stabilità con Variabilità
-
-  * **Descrizione** : Nuvole basse e grigie, disposte in strati ondulati.
-  * **Effetto** : Possono portare piogge leggere e ridurre la visibilità.
-  * **Navigazione** : Generalmente indicano condizioni stabili, ma attenzione all’umidità.
+- **Descrizione** : Nuvole basse e grigie, disposte in strati ondulati.
+- **Effetto** : Possono portare piogge leggere e ridurre la visibilità.
+- **Navigazione** : Generalmente indicano condizioni stabili, ma attenzione all’umidità.
 
 #### ⛈ **Cumulonembi (Cb)** – I Giganti delle Tempeste
-
-  * **Descrizione** : Grandi nuvole a sviluppo verticale, spesso con sommità a incudine.
-  * **Effetto** : Portano temporali, fulmini, venti forti e precipitazioni intense.
-  * **Navigazione** : Estremamente pericolose, da evitare con decisione.
+- **Descrizione** : Grandi nuvole a sviluppo verticale, spesso con sommità a incudine.
+- **Effetto** : Portano temporali, fulmini, venti forti e precipitazioni intense.
+- **Navigazione** : Estremamente pericolose, da evitare con decisione.
 
 #### ☁️ **Nembostrati (Ns)** – Pioggia Costante e Visibilità Ridotta
-
-  * **Descrizione** : Strati spessi e grigi che coprono completamente il cielo.
-  * **Effetto** : Precipitazioni continue e moderate, con scarsa visibilità.
-  * **Navigazione** : Navigare sotto queste nuvole richiede attenzione extra.
+- **Descrizione** : Strati spessi e grigi che coprono completamente il cielo.
+- **Effetto** : Precipitazioni continue e moderate, con scarsa visibilità.
+- **Navigazione** : Navigare sotto queste nuvole richiede attenzione extra.
 
 #### ☁️ **Strati (St)** – Nebbia e Navigazione a Vista
-
-  * Descrizione: Nuvole basse, uniformemente distribuite, simili alla nebbia.
-  * Effetto: Limitano la visibilità e possono portare pioggerella.
-  * **Navigazione** : Rischio di perdita di orientamento e necessità di strumenti affidabili.
+- Descrizione: Nuvole basse, uniformemente distribuite, simili alla nebbia.
+- Effetto: Limitano la visibilità e possono portare pioggerella.
+- **Navigazione** : Rischio di perdita di orientamento e necessità di strumenti affidabili.
 
 ### **Perché Conoscere le Nuvole è Essenziale per un Navigatore?**
 

@@ -22,7 +22,7 @@ La navegación es más que un deporte; es un diálogo con la naturaleza. Cuando 
 ## **Por qué la vida en el mar es el reinicio definitivo:**
 
 -   ```
-    * **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
+- **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
     ```
     
     -   **Mindfulness activo:** A través de la navegación, el buceo libre y la natación, te sumerges en el «mindfulness encarnado»: la conciencia a través de la acción.

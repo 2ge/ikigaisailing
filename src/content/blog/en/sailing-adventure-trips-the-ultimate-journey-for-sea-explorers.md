@@ -8,10 +8,9 @@ image: "~/assets/pages/vita-a-bordo-social/Sailing-Adventure-Trip.webp"
 Exploring the world from the sea offers an unparalleled sense of freedom. **Sailing adventure trips** are the perfect choice for those who want to discover untouched places, immerse themselves in nature, and enjoy an authentic and sustainable experience. **Ikigai Sailing is currently sailing around the world and is now in Panama, planning to cross the Ocean in 2026.**
 
 ### Why Choose a Sailing Adventure Trip?
-
-  * **Connect with nature** : Sailing allows you to feel one with the sea and the wind, combining adventure and relaxation.
-  * **Exclusive destinations** : From the Greek islands to the Italian coast, the Caribbean, and the Indian Ocean, each destination offers breathtaking views.
-  * **A unique experience** : Onboard, you can learn the basics of sailing, explore hidden bays, and enjoy unforgettable sunsets.
+- **Connect with nature** : Sailing allows you to feel one with the sea and the wind, combining adventure and relaxation.
+- **Exclusive destinations** : From the Greek islands to the Italian coast, the Caribbean, and the Indian Ocean, each destination offers breathtaking views.
+- **A unique experience** : Onboard, you can learn the basics of sailing, explore hidden bays, and enjoy unforgettable sunsets.
 
 ### Top Destinations for a Sailing Adventure
 

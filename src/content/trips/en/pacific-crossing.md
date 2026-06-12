@@ -24,9 +24,8 @@ oldUrls:
 2.000,00 €
 
 **Join us on a once-in-a-lifetime adventure across the Pacific Ocean!**
-
-  * Description 
-  * Contribution & Inclusions 
+- Description 
+- Contribution & Inclusions 
 
 ## Description
 
@@ -69,77 +68,43 @@ But the intention begins now.
 ## Contribution & Inclusions
 
 **Included / Not Included WHAT IS INCLUDED**
-
-  * RYA Yacht Master certified skipper with ocean experience  
-
-  * Boarding for the entire period in a shared double cabin aboard _Ikigai_ , a Catana 47 (14 m), an ocean expedition catamaran designed for long-range navigation, equipped with:
-
-    * Dual electronic instrumentation  
-
-    * Autonomous energy system (solar panels, generator, hydrogenerator, inverter)  
-
-    * Dual helm stations and safety systems  
-
-    * Watermaker for fresh water production  
-
-    * Spare sails and complete replacement equipment  
-
-    * Tender with outboard engine for landings and shore transfers
-
-  * Use of onboard equipment (kayak, SUP, snorkeling gear, etc.) before and after the crossing  
-
-  * Free participation in Yoga classes onboard and ashore  
-
-  * Discounts on Freediving & Kitesurfing courses (before and after the crossing)  
-
-  * High-speed internet via Starlink (subject to coverage availability)  
-
-  * Ikigai Sailing ASD membership card valid for the current year  
-
-  * Updated safety equipment (life raft, life jackets, flares, fire extinguishers, medical kit)  
-
-  * Basic spare parts for routine maintenance during navigation  
-
-  * Fishing gear  
-
-  * Initial safety briefing and training for onboard life and the crossing  
-
-  * Practical support with customs and logistics procedures at stopover ports
+- RYA Yacht Master certified skipper with ocean experience  
+- Boarding for the entire period in a shared double cabin aboard _Ikigai_ , a Catana 47 (14 m), an ocean expedition catamaran designed for long-range navigation, equipped with:
+- Dual electronic instrumentation  
+- Autonomous energy system (solar panels, generator, hydrogenerator, inverter)  
+- Dual helm stations and safety systems  
+- Watermaker for fresh water production  
+- Spare sails and complete replacement equipment  
+- Tender with outboard engine for landings and shore transfers
+- Use of onboard equipment (kayak, SUP, snorkeling gear, etc.) before and after the crossing  
+- Free participation in Yoga classes onboard and ashore  
+- Discounts on Freediving & Kitesurfing courses (before and after the crossing)  
+- High-speed internet via Starlink (subject to coverage availability)  
+- Ikigai Sailing ASD membership card valid for the current year  
+- Updated safety equipment (life raft, life jackets, flares, fire extinguishers, medical kit)  
+- Basic spare parts for routine maintenance during navigation  
+- Fishing gear  
+- Initial safety briefing and training for onboard life and the crossing  
+- Practical support with customs and logistics procedures at stopover ports
 
 **WHAT IS NOT INCLUDED**
-
-  * Flights and transfers  
-
-  * Onboard common fund (_cassa di bordo_)  
-
-  * Travel insurance (strongly recommended)  
-
-  * Meals and drinks consumed ashore  
-
-  * Anything not mentioned under “What is included”
+- Flights and transfers  
+- Onboard common fund (_cassa di bordo_)  
+- Travel insurance (strongly recommended)  
+- Meals and drinks consumed ashore  
+- Anything not mentioned under “What is included”
 
 **ONBOARD COMMON FUND (extra to be budgeted)**
-
-  * Provisions (initial shopping and any restocking)  
-
-  * Diesel and gas  
-
-  * Clearance fees for departure from Panama and entry into French Polynesia (or other intermediate islands)  
-
-  * Panama Canal transit (toll, line handlers, rope/fender rental, possible agency fees)  
-
-  * Anchorage or marine park fees (Galápagos, Gambier, Tuamotu, etc.)  
-
-  * Possible marina docking fees  
-
-  * Communication/weather subscriptions: Iridium GO! / Starlink Ocean, PredictWind, satellite phone credits  
-
-  * Local SIM cards at intermediate ports  
-
-  * Visas and permits for each crew member  
-
-  * Possible repatriation costs or flights in case of early disembarkation  
-
-  * Shore transfers for supplies or administrative procedures
+- Provisions (initial shopping and any restocking)  
+- Diesel and gas  
+- Clearance fees for departure from Panama and entry into French Polynesia (or other intermediate islands)  
+- Panama Canal transit (toll, line handlers, rope/fender rental, possible agency fees)  
+- Anchorage or marine park fees (Galápagos, Gambier, Tuamotu, etc.)  
+- Possible marina docking fees  
+- Communication/weather subscriptions: Iridium GO! / Starlink Ocean, PredictWind, satellite phone credits  
+- Local SIM cards at intermediate ports  
+- Visas and permits for each crew member  
+- Possible repatriation costs or flights in case of early disembarkation  
+- Shore transfers for supplies or administrative procedures
 
 Extra drinking water (jerry cans/refills in case of watermaker issues)

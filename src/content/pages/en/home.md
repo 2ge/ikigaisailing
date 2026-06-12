@@ -131,7 +131,6 @@ Discover the joy of freedom, exploration, and well-being at sea with unique expe
 Discover where we are now 
 
 In 2025/26 our journey toke us to the enchanting San Blas Islands, a unique paradise of the Caribbean. The Pacific crossing is planned for 2027, opening a new chapter of adventures ahead.
-
-  * San Blas
+- San Blas
 
 [ Discover the route ](https://www.ikigaisailing.com/en/the-route/)

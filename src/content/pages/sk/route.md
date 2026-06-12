@@ -29,8 +29,7 @@ Trasa
 
 Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo sveta, s krátkym popisom každého z nich:
 
-2022
-
+## 2022
 ### Vyplávame!
 
 -   **Júl – Rím, Taliansko** Východiskový bod cesty s emotívnym rozlúčením s talianskym hlavným mestom, ktoré je bohaté na históriu a kultúru.
@@ -40,14 +39,13 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 -   **November – Gibraltár** „Brána do Atlantiku“, kde sa posádka pripravovala na preplavbu na Kanárske ostrovy.
 -   **December – Kapverdy (15.–18. december)** Krátka, ale intenzívna zastávka na tropických ostrovoch, bohatých na kreolskú kultúru a sopečné krajiny.
 
-2023
-
+## 2023
 ### Prechod cez Atlantik
 
 **Január**
 
 -   ```
-    * **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
+- **Saint Martin** A Caribbean island, half French and half Dutch, known for its stunning beaches and European-Caribbean cultural blend.
     ```
     
     -   **Panenské ostrovy** Rozprávkové súostrovie s pokojnými zátokami, ideálne na plachtenie a potápanie.
@@ -57,7 +55,7 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 **Február**
 
 -   ```
-    * **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
+- **Guadeloupe** A butterfly-shaped island known for its biodiversity and crystal-clear waters ideal for snorkeling.
     ```
     
     -   **Dominika** „Prírodný ostrov Karibiku“ s bujnými dažďovými pralesmi, úchvatnými vodopádmi a pohostinnou kultúrou.
@@ -66,7 +64,7 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 **Marec**
 
 -   ```
-    * **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
+- **Grenada** The “Spice Island,” is famous for its nutmeg plantations and golden beaches.
     ```
     
     -   **Svätý Vincent** Hornatý, bujný ostrov s autentickým a divokým šarmom.
@@ -84,14 +82,13 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 **Jún**
 
 -   ```
-    * **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
+- **Grenada** Another visit to further enjoy the local hospitality and natural beauty.
     ```
     
 
 **September – Martinik** Dlhšia zastávka, aby sme si užili príjemné podnebie a pohodlie ostrova.
 
-2024
-
+## 2024
 ### Venezuela a ostrovy
 
 **Január** – Anguilla, Guadeloupe
@@ -104,16 +101,14 @@ Tu je zoznam miest, ktoré Ikigai Sailing navštívila počas svojej cesty okolo
 
 **December** – Los Roques
 
-2025
-
+## 2025
 ### ABC a Panama
 
 \*\*25  
 . marec Aruba, Bon Air,  
 Curacao\*\*Ďalej sa vydáme do Kolumbie, potom prejdeme Panamským prieplavom a dostaneme sa do Tichého oceánu...
 
-2026
-
+## 2026
 ### San Blas
 
 ĎALEJ

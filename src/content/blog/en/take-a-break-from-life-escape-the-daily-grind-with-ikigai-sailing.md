@@ -16,19 +16,17 @@ Many people feel stuck in a routine that no longer fulfills them. Whether you’
 Ikigai Sailing provides a **one-of-a-kind slow travel experience** , allowing you to **live aboard a fully equipped sailing yacht** for just **_€2,000 per month_**. This all-inclusive experience is designed to help you escape the stresses of daily life and embrace the freedom of the ocean.
 
 #### **What You’ll Experience**
-
-  * **Stress-Free Travel:** Leave behind deadlines, screens, and city noise.
-  * **Simple Life on the Ocean:** Minimal distractions, maximum connection with nature.
-  * **Affordable Long-Term Sailing:** A unique opportunity to experience life at sea without breaking the bank.
-  * **Healing and Mindfulness:** Wake up to the sound of waves, enjoy the rhythm of the sea, and reconnect with yourself.
-  * **A Supportive Community:** Share this journey with like-minded adventurers looking to reset and recharge.
+- **Stress-Free Travel:** Leave behind deadlines, screens, and city noise.
+- **Simple Life on the Ocean:** Minimal distractions, maximum connection with nature.
+- **Affordable Long-Term Sailing:** A unique opportunity to experience life at sea without breaking the bank.
+- **Healing and Mindfulness:** Wake up to the sound of waves, enjoy the rhythm of the sea, and reconnect with yourself.
+- **A Supportive Community:** Share this journey with like-minded adventurers looking to reset and recharge.
 
 ### **Who is This For?**
-
-  * If you feel like you **need a break from life** , this is your chance to step away and gain a new perspective.
-  * If you’re dreaming of a **digital detox sailing** adventure, our boat offers the perfect escape.
-  * If you’re an **ocean nomad** at heart, our lifestyle will feel like home.
-  * If you’re searching for a way to **escape the daily grind** , this experience will transform the way you see life.
+- If you feel like you **need a break from life** , this is your chance to step away and gain a new perspective.
+- If you’re dreaming of a **digital detox sailing** adventure, our boat offers the perfect escape.
+- If you’re an **ocean nomad** at heart, our lifestyle will feel like home.
+- If you’re searching for a way to **escape the daily grind** , this experience will transform the way you see life.
 
 ### **Limited Spots Available – Secure Yours Today!**
 

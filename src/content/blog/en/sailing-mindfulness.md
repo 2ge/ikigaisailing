@@ -12,11 +12,10 @@ image: "~/assets/pages/vita-a-bordo-social/sailingmindfullness.webp"
 ## Why are sailing and meditation a perfect match?
 
 Sailing requires presence, awareness, and a deep connection with the elements. The wind, the waves, and the rhythm of the boat teach us to let go of control and embrace the present moment—core principles of mindfulness. **Benefits of mindful sailing:**
-
-  * Reduces stress and anxiety
-  * Improves focus and mental clarity
-  * Enhances a deep connection with nature
-  * Helps develop resilience and adaptability
+- Reduces stress and anxiety
+- Improves focus and mental clarity
+- Enhances a deep connection with nature
+- Helps develop resilience and adaptability
 
 ## How to practice mindfulness at sea
 

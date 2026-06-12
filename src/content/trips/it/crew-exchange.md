@@ -18,9 +18,8 @@ oldUrls:
 # Imbarco a Scambio / Retribuito
 
 Ikigai Sailing è un progetto di vita, un viaggio intorno al mondo a tappe, che fonde vela, esplorazione, crescita personale e immersione nella natura.
-
-  * Descrizione 
-  * Logistic 
+- Descrizione 
+- Logistic 
 
 ## Descrizione
 
@@ -35,12 +34,9 @@ Se senti il richiamo dell’oceano e vuoi metterti in gioco, ci sono due modi pe
 Vuoi imparare, crescere e fare esperienza pratica a bordo?
 
 Cerchiamo persone motivate che desiderano avvicinarsi al mondo della vela e alle discipline che pratichiamo: **vela, freediving, kitesurf, apnea, gestione della vita di bordo**.
-
-  * Dedicherai circa **2–3 ore al giorno** ad attività di supporto (gestione della barca, piccoli lavori, aiuto all’equipaggio).  
-
-  * In cambio, avrai **imbarco gratuito** e l’opportunità di vivere il mare da protagonista.  
-
-  * Condividerai con tutti noi le spese comuni partecipando alla **cassa di bordo**.
+- Dedicherai circa **2–3 ore al giorno** ad attività di supporto (gestione della barca, piccoli lavori, aiuto all’equipaggio).  
+- In cambio, avrai **imbarco gratuito** e l’opportunità di vivere il mare da protagonista.  
+- Condividerai con tutti noi le spese comuni partecipando alla **cassa di bordo**.
 
 **Skill Exchange**
 
@@ -53,20 +49,14 @@ Se sei **videomaker, storyteller, travel blogger, fotografo o content creator** 
 ## **Professionisti**
 
 Se invece hai già esperienza nel settore nautico e vuoi contribuire in maniera più specifica, cerchiamo **hostess e marinai** con competenze nella gestione della barca e nella manutenzione.
-
-  * Potrai candidarti come **membro esperto dell’equipaggio**.  
-
-  * Offriamo un contesto dinamico e stimolante, dove le tue capacità saranno valorizzate e messe al servizio del progetto.
+- Potrai candidarti come **membro esperto dell’equipaggio**.  
+- Offriamo un contesto dinamico e stimolante, dove le tue capacità saranno valorizzate e messe al servizio del progetto.
 
 ## **Perché candidarsi?**
-
-  * Vivere il mare come casa, non come semplice vacanza.  
-
-  * Far parte di un progetto che unisce sport, natura e comunità.  
-
-  * Crescere come persona e come marinaio, condividendo esperienze e responsabilità.  
-
-  * Contribuire con il tuo lavoro o con le tue competenze creative a un progetto autentico e in continua evoluzione.
+- Vivere il mare come casa, non come semplice vacanza.  
+- Far parte di un progetto che unisce sport, natura e comunità.  
+- Crescere come persona e come marinaio, condividendo esperienze e responsabilità.  
+- Contribuire con il tuo lavoro o con le tue competenze creative a un progetto autentico e in continua evoluzione.
 
 👉 [**Invia la tua candidatura**](https://www.ikigaisailing.com/it/contact/)
 

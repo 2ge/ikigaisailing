@@ -14,10 +14,9 @@ We’ve all seen the Venn diagrams, but finding your Ikigai in a cubicle or behi
 ## **The Ikigai Sailing Approach: Embodied Mindfulness**
 
 At Ikigai Sailing, we apply this ancient concept to the modern search for purpose. We aren’t a traditional spiritual retreat; we are a platform for **embodied experiences**.
-
-  * **Action-Based Growth:** We use sailing and watersports to bridge the gap between mind and body. When you handle a sail or hold your breath underwater, you are practicing Ikigai in its purest, most physical form.
-  * **Transformative Environment:** The sea doesn’t care about your job title. It demands presence, resilience, and authenticity.
-  * **Expert Guidance:** Led by Luca, our skipper and instructor, the experience is designed for active individuals who prefer salt water over incense and real movement over rigid programs.
+- **Action-Based Growth:** We use sailing and watersports to bridge the gap between mind and body. When you handle a sail or hold your breath underwater, you are practicing Ikigai in its purest, most physical form.
+- **Transformative Environment:** The sea doesn’t care about your job title. It demands presence, resilience, and authenticity.
+- **Expert Guidance:** Led by Luca, our skipper and instructor, the experience is designed for active individuals who prefer salt water over incense and real movement over rigid programs.
 
 ## Toward a New Course
 

@@ -24,9 +24,8 @@ oldUrls:
 2.000,00 €
 
 **Unisciti a noi per un’avventura unica nella vita attraverso l’Oceano Pacifico!**
-
-  * Descrizione 
-  * Incluso / Non incluso 
+- Descrizione 
+- Incluso / Non incluso 
 
 ## Descrizione
 
@@ -76,16 +75,11 @@ _“Chi ha visto il mare aperto non torna più lo stesso.”_
 # **COSA È INCLUSO Skipper certificato RYA Yacht Master** con esperienza oceanica
 
 **Imbarco per tutto il periodo** in cabina doppia condivisa a bordo di **Ikigai** , un **Catana 47** (14 m), catamarano oceanico da spedizione progettato per la navigazione a lungo raggio, equipaggiato con:  
-
-  * doppia strumentazione elettronica  
-
-  * Sistema energetico autonomo (pannelli solari, generatore, idrogeneratore, inverter)  
-
-  * doppia timoneria e sistInseemi di sicurezza  
-
-  * **dissalatore** per produzione acqua dolce  
-
-  * **vele di rispetto** e dotazioni complete di ricambio
+- doppia strumentazione elettronica  
+- Sistema energetico autonomo (pannelli solari, generatore, idrogeneratore, inverter)  
+- doppia timoneria e sistInseemi di sicurezza  
+- **dissalatore** per produzione acqua dolce  
+- **vele di rispetto** e dotazioni complete di ricambio
 
 **Tender con motore fuoribordo** per sbarchi e trasferimenti a terra  
 Utilizzo delle attrezzature a bordo (kayak, SUP, attrezzatura da snorkeling, ecc.) **prima e dopo la traversata Partecipazione gratuita a**classi di Yoga** a bordo e a terra  
@@ -98,36 +92,23 @@ Utilizzo delle attrezzature a bordo (kayak, SUP, attrezzatura da snorkeling, ecc
 **Supporto pratico per procedure doganali e logistiche** nei porti di scalo
 
 # **COSA NON È INCLUSO**
-
-  * Voli e trasferimenti
-  * Cassa di bordo  
-
-  * Assicurazione di viaggio (caldamente consigliata)  
-
-  * Pasti e bevande consumati a terra  
-
-  * Qualsiasi cosa non menzionata sotto la voce “Cosa è incluso”
+- Voli e trasferimenti
+- Cassa di bordo  
+- Assicurazione di viaggio (caldamente consigliata)  
+- Pasti e bevande consumati a terra  
+- Qualsiasi cosa non menzionata sotto la voce “Cosa è incluso”
 
 # **CASSA DI BORDO (extra da prevedere)**
-
-  * **Cambusa** (spesa iniziale e rifornimenti eventuali)  
-
-  * **Diesel e gas 
-  * **Clearance** d’uscita da Panama e d’ingresso in Polinesia Francese (o altre isole intermedie)  
-
-  * **Transito Canale di Panama** (pedaggio, line handler, noleggio cime/parabordi, eventuale agenzia)  
-
-  * **Tasse di ancoraggio o parchi marini** (Galápagos, Gambier, Tuamotu, ecc.)  
-
-  * Eventuali costi di **ormeggio in marina 
-  * **Abbonamenti comunicazione/meteo** : Iridium GO! / Starlink Ocean, PredictWind, ricariche telefono satellitare  
-
-  * **SIM locali** nei porti intermedi  
-
-  * **Visti e permessi** per ciascun membro dell’equipaggio  
-
-  * Eventuali costi di **rimpatrio o voli** in caso di sbarco anticipato  
-
-  * **Trasferimenti a terra** per rifornimenti o pratiche burocratiche
+- **Cambusa** (spesa iniziale e rifornimenti eventuali)  
+- **Diesel e gas 
+- **Clearance** d’uscita da Panama e d’ingresso in Polinesia Francese (o altre isole intermedie)  
+- **Transito Canale di Panama** (pedaggio, line handler, noleggio cime/parabordi, eventuale agenzia)  
+- **Tasse di ancoraggio o parchi marini** (Galápagos, Gambier, Tuamotu, ecc.)  
+- Eventuali costi di **ormeggio in marina 
+- **Abbonamenti comunicazione/meteo** : Iridium GO! / Starlink Ocean, PredictWind, ricariche telefono satellitare  
+- **SIM locali** nei porti intermedi  
+- **Visti e permessi** per ciascun membro dell’equipaggio  
+- Eventuali costi di **rimpatrio o voli** in caso di sbarco anticipato  
+- **Trasferimenti a terra** per rifornimenti o pratiche burocratiche
 
 **Acqua potabile extra** (taniche/rifornimenti in caso di problemi al dissalatore)

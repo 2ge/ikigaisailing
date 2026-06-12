@@ -23,14 +23,13 @@ I dati personali (nome, cognome, telefono, indirizzo email, indirizzo di residen
 I dati personali forniti saranno oggetto:
 
 in relazione ad obblighi legali, fiscali, assicurativi e statutari:
-
-  * di trattamento relativo alle finalità istituzionali esercitate dall’Associazione;
-  * di trattamento finalizzato a rendere possibile la vita associativa nell’Associazione;
-  * di trattamento relativo alla riscossione e al pagamento di quote di tesseramento, assicurative e di iscrizione ad eventi degli eventuali Enti nazionali di affiliazione, anche derivanti da specifici accordi intervenuti con gli stessi;
-  * di trattamento finalizzato agli obblighi amministrativi, fiscali e contabili dell’Associazione stessa (ivi compresa l’emissione di ricevute, la produzione di certificazioni telematiche, la tenuta del libro degli Associati, etc.).  
+- di trattamento relativo alle finalità istituzionali esercitate dall’Associazione;
+- di trattamento finalizzato a rendere possibile la vita associativa nell’Associazione;
+- di trattamento relativo alla riscossione e al pagamento di quote di tesseramento, assicurative e di iscrizione ad eventi degli eventuali Enti nazionali di affiliazione, anche derivanti da specifici accordi intervenuti con gli stessi;
+- di trattamento finalizzato agli obblighi amministrativi, fiscali e contabili dell’Associazione stessa (ivi compresa l’emissione di ricevute, la produzione di certificazioni telematiche, la tenuta del libro degli Associati, etc.).  
 in relazione a necessità di profilazione e di comunicazione delle attività dell’Associazione:
-  * di trattamento connesso alla necessità di comprendere, per il raggiungimento delle comuni finalità istituzionali statutarie, quali siano le attività più idonee per gli Associati;
-  * di trattamento connesso alla necessità di proporre le attività più idonee agli Associati;
+- di trattamento connesso alla necessità di comprendere, per il raggiungimento delle comuni finalità istituzionali statutarie, quali siano le attività più idonee per gli Associati;
+- di trattamento connesso alla necessità di proporre le attività più idonee agli Associati;
 
 Si informa che, tenuto conto delle finalità del trattamento come sopra illustrate, il conferimento dei dati è obbligatorio ed il loro mancato, parziale o inesatto conferimento potrà avere, come conseguenza, l’impossibilità di svolgere l’attività dell’Associazione e di assolvere gli adempimenti previsti dallo Statuto stesso.
 
@@ -42,11 +41,10 @@ I dati personali vengono conservati per tutta la durata del rapporto di associaz
 In qualsiasi momento potrai esercitare i diritti:  
 – di accesso ai dati personali;  
 – di ottenere la rettifica o la cancellazione degli stessi o la limitazione del trattamento che lo riguardano nei casi in cui ciò non confligga con altre disposizioni di legge;
-
-  * di opporti al trattamento;
-  * di opporti alla portabilità dei dati;
-  * di revocare il consenso, ove previsto nei casi in cui ciò non confligga con altre disposizioni di legge: la revoca del consenso non pregiudica la liceità del trattamento basata sul consenso conferito prima della revoca;
-  * di proporre reclamo all’autorità di controllo (Garante Privacy).
+- di opporti al trattamento;
+- di opporti alla portabilità dei dati;
+- di revocare il consenso, ove previsto nei casi in cui ciò non confligga con altre disposizioni di legge: la revoca del consenso non pregiudica la liceità del trattamento basata sul consenso conferito prima della revoca;
+- di proporre reclamo all’autorità di controllo (Garante Privacy).
 
 L’esercizio dei tuoi diritti potrà avvenire attraverso l’invio di una richiesta mediante email all’indirizzo info@ikigaisailing.com
 

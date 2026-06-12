@@ -14,14 +14,9 @@ Molti conoscono il classico diagramma di Venn (ciò che ami, ciò in cui sei bra
 ## **L’applicazione pratica con Ikigai Sailing**
 
 Ikigai Sailing nasce per portare questa filosofia fuori dalle aule di coaching e portarla in mare aperto. Non siamo un centro di meditazione, ma un laboratorio di vita autentica.
-
-  * 
-
-  *     * **Sport e Consapevolezza:** Attraverso la vela e l’apnea, mettiamo alla prova i nostri limiti e scopriamo nuove capacità.
-
-  *     * **Natura e Riflessione:** Il mare toglie il superfluo. Senza le distrazioni della terraferma, il significato di ciò che conta davvero emerge spontaneamente.
-
-  *     * **La guida:** Avere uno skipper-istruttore come Luca significa avere un facilitatore che non insegna teoria, ma condivide uno stile di vita basato sulla presenza e sul rispetto degli elementi.
+- * **Sport e Consapevolezza:** Attraverso la vela e l’apnea, mettiamo alla prova i nostri limiti e scopriamo nuove capacità.
+- **Natura e Riflessione:** Il mare toglie il superfluo. Senza le distrazioni della terraferma, il significato di ciò che conta davvero emerge spontaneamente.
+- **La guida:** Avere uno skipper-istruttore come Luca significa avere un facilitatore che non insegna teoria, ma condivide uno stile di vita basato sulla presenza e sul rispetto degli elementi.
 
 ## **Verso una nuova rotta**
 

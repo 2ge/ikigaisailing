@@ -62,19 +62,18 @@ On Ikigai, we are fully energy self-sufficient. Thanks to solar panels, a hydrog
 ### What should I pack?
 
 Life on board is wonderfully minimalist 🙂 You’ll need very little, as most of the time is spent barefoot and in a swimsuit. Even ashore, clothing is informal and relaxed. Be sure to bring: 
-
-  * Sunscreen
-  * Hat
-  * Sunglasses
-  * Light T-shirts
-  * Shorts
-  * Swimsuits
-  * Beach towel
-  * Shower towel
-  * Light sweatshirt and/or windbreaker (for night sailing)
-  * Seasickness pills (if needed)
-  * Flip flops
-  * Mask and snorkel (if you prefer to use your own — we also have them on board)
+- Sunscreen
+- Hat
+- Sunglasses
+- Light T-shirts
+- Shorts
+- Swimsuits
+- Beach towel
+- Shower towel
+- Light sweatshirt and/or windbreaker (for night sailing)
+- Seasickness pills (if needed)
+- Flip flops
+- Mask and snorkel (if you prefer to use your own — we also have them on board)
 
 _**IMPORTANT: Do NOT bring hard-shell suitcases or trolleys.**_
 

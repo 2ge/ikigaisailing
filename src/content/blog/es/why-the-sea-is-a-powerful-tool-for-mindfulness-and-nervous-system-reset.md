@@ -20,8 +20,7 @@ Para muchas personas, la transformación empieza aquí: no como una decisión cl
 Y a menudo es en este espacio donde el mar se convierte en un guía.
 
 No como un escape, sino como un **entorno regulador**, uno que devuelve suavemente la coherencia a la mente y al cuerpo.
-
-* * *
+- *
 
 ## **El mar y el sistema nervioso: una relación primitiva**
 
@@ -39,8 +38,7 @@ Estos elementos favorecen de forma natural **el restablecimiento y la regulació
 
 En lugar de estimular el sistema nervioso, el mar lo **co-regula**, invitando a un estado de seguridad, presencia y adaptabilidad.  
 Desde este estado, la claridad se hace posible.
-
-* * *
+- *
 
 ## **Mindfulness corporal: una presencia que empieza en el cuerpo y ayuda a nuestro sistema nervioso a reiniciarse**
 
@@ -61,8 +59,7 @@ El entorno mismo la favorece.
 
 El mar no exige productividad ni control.  
 Invita a sentir —y al sentir, algo se suaviza.
-
-* * *
+- *
 
 ## **Naturaleza, inmensidad y cambio interior La naturaleza** no da respuestas inmediatas.
 
@@ -78,8 +75,7 @@ Esta amplitud interior es esencial para cualquiera que sienta la necesidad de ca
 
 La claridad no surge de forzar las decisiones.  
 Aparece cuando hay suficiente espacio interior para percibir nuevas posibilidades.
-
-* * *
+- *
 
 ## **El mar como reinicio del sistema nervioso**
 
@@ -99,8 +95,7 @@ A menudo se manifiesta como:
 -   una sensación de equilibrio interior
 
 Desde este estado, el cambio surge de forma orgánica: no se impone, sino que se siente.
-
-* * *
+- *
 
 ## **Una experiencia para quienes sienten antes de saber**
 
@@ -114,8 +109,7 @@ Las experiencias corporales en el mar conectan con personas que:
 -   sienten curiosidad por el cambio que empieza desde dentro
 
 Para muchos, esto se convierte en su primer contacto con **una experiencia vivencial**: no es un taller ni un método, sino un entorno vivo donde el cuerpo puede tomar la iniciativa.
-
-* * *
+- *
 
 ## **Ikigai Sailing: cuando el mar se convierte en un espacio para escuchar**
 
@@ -124,8 +118,7 @@ Cada viaje está diseñado para fomentar la presencia, la regulación y la escuc
 
 La intención no es volver «transformado»  
 , sino volver **más en sintonía**, más conectado con lo que se siente verdadero, esencial y listo para cambiar.
-
-* * *
+- *
 
 ### **Experimenta la vida a bordo Experimenta Ikigai Sailing** Si algo dentro de ti pide espacio,
 

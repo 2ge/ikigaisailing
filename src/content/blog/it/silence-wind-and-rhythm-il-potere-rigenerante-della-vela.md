@@ -18,12 +18,9 @@ Sotto la guida di **Luca** , skipper e istruttore esperto, imparerai che timonar
 ## L’esperienza a bordo: un viaggio nei sensi
 
 Partecipare a un’uscita di **vela rigenerante** significa immergersi in un ambiente dove ogni elemento contribuisce al tuo benessere:
-
-  * **Rhythm (Ritmo):** Il respiro si sincronizza naturalmente con il rollio dello scafo. Questo movimento oscillatorio stimola il nervo vago, favorendo un immediato rilassamento profondo.
-
-  * **Wind (Vento):** Il vento diventa il tuo unico feedback. Imparare a leggerlo e a sentirlo sulla pelle ripulisce la mente dal sovraccarico informativo della vita cittadina.
-
-  * **Silence (Silenzio):** Quando il rumore del motore lascia spazio allo scorrere dell’acqua contro la chiglia, avviene il miracolo. Quel silenzio permette un reset profondo dello stress accumulato.
+- **Rhythm (Ritmo):** Il respiro si sincronizza naturalmente con il rollio dello scafo. Questo movimento oscillatorio stimola il nervo vago, favorendo un immediato rilassamento profondo.
+- **Wind (Vento):** Il vento diventa il tuo unico feedback. Imparare a leggerlo e a sentirlo sulla pelle ripulisce la mente dal sovraccarico informativo della vita cittadina.
+- **Silence (Silenzio):** Quando il rumore del motore lascia spazio allo scorrere dell’acqua contro la chiglia, avviene il miracolo. Quel silenzio permette un reset profondo dello stress accumulato.
 
 ## Oltre la vacanza: un laboratorio di vita
 

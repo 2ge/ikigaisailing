@@ -14,10 +14,8 @@ At **Ikigai Sailing** , we don’t offer a traditional wellness retreat or a pas
 Sailing is more than a sport; it’s a dialogue with nature. When you are on board, your body must adapt to the movement of the waves and the direction of the wind. This physical engagement is a powerful tool for mindfulness. Under the guidance of Luca, our skipper and instructor, you will move from mental burnout to physical presence.
 
 ## **Why Life at Sea is the Ultimate Reset:**
-
-  *     * **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
-    * **Active Mindfulness:** Through sailing, freediving, and swimming, you engage in “embodied mindfulness”—awareness through action.
-
-  * **Authenticity over Luxury:** This is for the curious and the active. It’s about raw connection with the elements, healthy living, and genuine self-reflection.
+- **Natural Pacing:** Your day is governed by the sun and the tides, not by alarms and notifications.
+- **Active Mindfulness:** Through sailing, freediving, and swimming, you engage in “embodied mindfulness”—awareness through action.
+- **Authenticity over Luxury:** This is for the curious and the active. It’s about raw connection with the elements, healthy living, and genuine self-reflection.
 
 Stop searching for a “vacation” and start looking for a transformation. It’s time to find your natural rhythm again.

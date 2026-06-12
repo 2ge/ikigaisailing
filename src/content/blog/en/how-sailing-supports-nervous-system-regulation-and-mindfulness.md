@@ -18,19 +18,15 @@ Under the guidance of **Luca** , an expert skipper and instructor, you will lear
 ## The Onboard Experience: A Journey of the Senses
 
 Participating in a **regenerative sailing** session means immersing yourself in an environment where every element contributes to your well-being:
-
-  * **Rhythm:** Your breath naturally synchronizes with the rolling of the hull. This oscillatory movement stimulates the vagus nerve, promoting immediate deep relaxation.
-
-  * **Wind:** The wind becomes your only feedback. Learning to read it and feel it on your skin clears the mind of the information overload typical of urban life.
-
-  * **Silence:** When the noise of the engine gives way to the sound of water rushing against the keel, a miracle happens. That silence allows for a profound reset of accumulated stress.
+- **Rhythm:** Your breath naturally synchronizes with the rolling of the hull. This oscillatory movement stimulates the vagus nerve, promoting immediate deep relaxation.
+- **Wind:** The wind becomes your only feedback. Learning to read it and feel it on your skin clears the mind of the information overload typical of urban life.
+- **Silence:** When the noise of the engine gives way to the sound of water rushing against the keel, a miracle happens. That silence allows for a profound reset of accumulated stress.
 
 ## Beyond the Vacation: A Laboratory for Life
 
 We are not talking about a standard wellness holiday or a simple tourist trip. **Regenerative sailing** is a return to the essentials through sport and visceral contact with nature. It is an invitation to rediscover your inner resources in an open-air laboratory, where the sea acts as a mirror and the wind as a guide.
 
 Choosing **regenerative sailing** means investing in your mental and physical health. Stepping off the boat after a day of navigation won’t just leave you with salty skin, but with a clearer vision of your goals and a reservoir of inner calm to carry back with you to shore.
-
-* * *
+- *
 
 **Are you ready to set sail and find your own course?**
