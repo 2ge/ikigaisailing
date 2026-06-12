@@ -3,7 +3,7 @@ author: Elisa
 source: direct
 locale: it
 translations: {}
-sourceHash: 32f25a041725950f
+sourceHash: 380a3fb7e6d4ff54
 ---
 
 La prima parola che mi viene in mente dopo questa esperienza di 10 giorni a bordo di Ikigai Sailing è GRAZIE. Grazie per averci riportato ai ritmi naturali della vita, con così tante nuove esperienze per me, come la meditazione, lo yoga e l’apnea, che permettono di riconnettersi con il proprio corpo e la propria mente. Una disconnessione fondamentale dalla “matrix”.

@@ -1,0 +1,114 @@
+---
+/** Dedicated, designed Ikigai concept page: definition + the four-circle diagram + pillars. */
+import { Image } from 'astro:assets';
+import PageLayout from '../../layouts/PageLayout.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import WhatsAppButton from '../../components/WhatsAppButton.astro';
+import JsonLd from '../../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, defaultLocale, type Locale } from '../../i18n/ui';
+import { entryForLocale } from '../../lib/content';
+import { breadcrumbs } from '../../lib/schema';
+
+export async function getStaticPaths() {
+  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
+    params: { locale: locale === defaultLocale ? undefined : locale },
+    props: { locale },
+  }));
+}
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+const page = await entryForLocale('pages', 'ikigai', locale);
+
+const circles = [
+  { title: t('ikigai.love'), body: t('ikigai.loveBody'), bg: 'bg-coral-400/15', dot: 'bg-coral-500' },
+  { title: t('ikigai.good'), body: t('ikigai.goodBody'), bg: 'bg-ocean-400/15', dot: 'bg-ocean-500' },
+  { title: t('ikigai.needs'), body: t('ikigai.needsBody'), bg: 'bg-sand-400/20', dot: 'bg-sand-500' },
+  { title: t('ikigai.paid'), body: t('ikigai.paidBody'), bg: 'bg-ocean-700/15', dot: 'bg-ocean-700' },
+];
+const pillars = [
+  { k: '01', title: t('ikigai.passion'), body: t('ikigai.passionBody') },
+  { k: '02', title: t('ikigai.vocation'), body: t('ikigai.vocationBody') },
+  { k: '03', title: t('ikigai.mission'), body: t('ikigai.missionBody') },
+  { k: '04', title: t('ikigai.profession'), body: t('ikigai.professionBody') },
+];
+
+const site = Astro.site!.origin;
+const crumb = breadcrumbs(site, locale, [
+  { name: 'Ikigai Sailing', path: '/' },
+  { name: page?.data.title ?? 'Ikigai', path: '/ikigai/' },
+]);
+---
+
+<PageLayout title={page?.data.title ?? 'What is Ikigai — Ikigai Sailing'} description={page?.data.description ?? 'The meaning of Ikigai.'} path="/ikigai/">
+  <JsonLd slot="head" schema={crumb} />
+
+  {/* hero */}
+  <header class="relative isolate overflow-hidden bg-ocean-950">
+    {page?.data.heroImage && (
+      <Image src={page.data.heroImage} alt={page.data.title} width={1800} height={900} widths={[640, 1024, 1800]} sizes="100vw" priority class="absolute inset-0 -z-10 h-full w-full object-cover opacity-50" />
+    )}
+    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/50 to-transparent"></div>
+    <div class="mx-auto flex min-h-[52vh] max-w-4xl flex-col justify-end px-4 py-16 sm:px-6">
+      <p class="coords text-ocean-300">生き甲斐 · Ikigai</p>
+      <h1 class="mt-3 font-display text-4xl leading-tight text-sand-50 sm:text-5xl">{page?.data.title ?? t('ikigai.whatis')}</h1>
+    </div>
+  </header>
+
+  {/* definition */}
+  <section class="bg-sand-50 py-16">
+    <div class="mx-auto max-w-3xl px-4 text-center sm:px-6">
+      <SectionHeading eyebrow={t('ikigai.whatis')} title={t('ikigai.diagramTitle')} align="center" />
+      <p class="mt-6 text-lg leading-relaxed text-ink-soft">{t('ikigai.intro')}</p>
+      <p class="mt-4 text-lg leading-relaxed text-ink-soft">{t('ikigai.applied')}</p>
+    </div>
+  </section>
+
+  {/* the four circles */}
+  <section class="bg-sand-100 py-20">
+    <div class="mx-auto max-w-4xl px-4 sm:px-6">
+      <div class="mx-auto mb-12 grid h-28 w-28 place-items-center rounded-full bg-coral-500 text-center text-sand-50 shadow-lg">
+        <div>
+          <span class="block font-display text-2xl leading-none">生き甲斐</span>
+          <span class="coords mt-1 block text-[0.6rem]">Ikigai</span>
+        </div>
+      </div>
+      <div class="grid gap-5 sm:grid-cols-2">
+        {circles.map((c) => (
+          <div class:list={['rounded-2xl p-6 ring-1 ring-ocean-950/5', c.bg]}>
+            <span class:list={['mb-3 inline-block h-2.5 w-2.5 rounded-full', c.dot]}></span>
+            <h3 class="font-display text-xl text-ocean-950">{c.title}</h3>
+            <p class="mt-2 text-sm leading-relaxed text-ink-soft">{c.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* the four pillars */}
+  <section class="bg-ocean-950 py-20 text-sand-50">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <SectionHeading eyebrow={t('ikigai.pillarsEyebrow')} title={t('ikigai.pillarsTitle')} align="center" light />
+      <div class="mt-12 grid gap-px overflow-hidden rounded-2xl bg-sand-50/10 sm:grid-cols-2 lg:grid-cols-4">
+        {pillars.map((p) => (
+          <div class="bg-ocean-900 p-7">
+            <span class="coords text-ocean-300">{p.k}</span>
+            <h3 class="mt-2 font-display text-xl text-sand-50">{p.title}</h3>
+            <p class="mt-3 text-sm leading-relaxed text-sand-100/80">{p.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* CTA */}
+  <section class="bg-coral-500 py-16 text-center text-sand-50">
+    <div class="mx-auto max-w-2xl px-4">
+      <h2 class="font-display text-2xl sm:text-3xl">{t('home.ctaTitle')}</h2>
+      <p class="mx-auto mt-3 max-w-md text-sand-50/90">{t('contact.whatsappLead')}</p>
+      <div class="mt-7 flex flex-wrap justify-center gap-3">
+        <a href={localizePath('/trips/', locale)} class="rounded-full bg-sand-50 px-6 py-3 font-semibold text-coral-600 transition hover:bg-sand-100">{t('cta.discoverTrips')}</a>
+        <WhatsAppButton />
+      </div>
+    </div>
+  </section>
+</PageLayout>
