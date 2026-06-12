@@ -17,6 +17,7 @@ import TripsIndexView from '../../views/TripsIndexView.astro';
 import ActivitiesIndexView from '../../views/ActivitiesIndexView.astro';
 import BlogIndexView from '../../views/BlogIndexView.astro';
 import FaqView from '../../views/FaqView.astro';
+import BenefitsView from '../../views/BenefitsView.astro';
 import PageView from '../../views/PageView.astro';
 
 export async function getStaticPaths() {
@@ -47,6 +48,8 @@ const Dedicated = DEDICATED.has(pageKey) ? DEDICATED_VIEWS[pageKey] : null;
     <BlogIndexView locale={locale} />
   ) : pageKey === 'faq' ? (
     <FaqView locale={locale} />
+  ) : pageKey === 'benefits' ? (
+    <BenefitsView locale={locale} />
   ) : (
     <PageView slug={pageKey} locale={locale} />
   )

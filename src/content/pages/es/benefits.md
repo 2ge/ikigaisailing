@@ -1,11 +1,10 @@
 ---
-title: >-
-  Ventajas de vivir en el extranjero: disfruta de la naturaleza con Ikigai
-  Sailing
+title: 'Las ventajas de vivir a bordo: vive en armonía con el mar'
 description: >-
-  Descubre las numerosas ventajas de vivir en el extranjero, desde el
-  crecimiento personal y el enriquecimiento cultural hasta nuevas oportunidades
-  profesionales y la aventura.
+  El bienestar a bordo del Ikigai: ritmos circadianos naturales, la calma que
+  aporta el «blue-mind», el aire puro del mar, comida de verdad, desintoxicación
+  digital y cielos estrellados: los beneficios de vivir en armonía con el
+  océano.
 locale: es
 heroImage: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 gallery:
@@ -16,7 +15,7 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 78534d31ba2a713b
+sourceHash: c66e8b11474e3c3b
 ---
 
 ## Beneficios de la Ikigai Sailing
@@ -49,7 +48,7 @@ Rejuvenece cuerpo y mente con actividades físicas que fomentan la respiración 
 
 ### Actividad física
 
-Mantente en forma gracias al movimiento natural y dinámico que exige la vida en el mar.
+Mantente en forma gracias al movimiento natural y dinámico que requiere la vida en el mar.
 
 ### Práctica meditativa
 

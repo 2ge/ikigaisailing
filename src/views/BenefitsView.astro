@@ -1,0 +1,108 @@
+---
+/**
+ * Designed "Life aboard" benefits page: hero + a grid of benefit cards (icon +
+ * title + body parsed from the markdown `### …` items) + CTA. Replaces the plain
+ * stacked prose. Icons are assigned by index, so they work in every locale.
+ */
+import { Image } from 'astro:assets';
+import PageLayout from '../layouts/PageLayout.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import WhatsAppButton from '../components/WhatsAppButton.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, type Locale } from '../i18n/ui';
+import { entryForLocale, availableLocalesFor } from '../lib/content';
+import { breadcrumbs } from '../lib/schema';
+
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+const entry = await entryForLocale('pages', 'benefits', locale);
+const availableLocales = await availableLocalesFor('pages', 'benefits');
+const d = entry?.data;
+
+// parse "### Title\n\nBody" benefit items from the markdown body
+const body = entry?.body ?? '';
+const items: { title: string; body: string }[] = [];
+const re = /^###\s+(.+?)\s*\n+([\s\S]*?)(?=\n###\s|\n##\s|\n\[|$)/gm;
+let m: RegExpExecArray | null;
+while ((m = re.exec(body))) {
+  const text = m[2].trim().replace(/\*\*/g, '').replace(/\s*\n\s*/g, ' ').trim();
+  if (m[1].trim() && text) items.push({ title: m[1].replace(/\*\*/g, '').trim(), body: text });
+}
+// the lead = the longest paragraph before the first benefit heading
+const intro = body.split(/\n###\s/)[0];
+const lead = intro
+  .split('\n\n')
+  .map((p) => p.replace(/^#+\s*/, '').trim())
+  .filter((p) => p && !p.startsWith('['))
+  .sort((a, b) => b.length - a.length)[0];
+
+// stroke icons (heroicons-style), assigned to benefits by order
+const ICONS = [
+  'M12 3v1m0 16v1m9-9h-1M4 12H3m15.36 6.36-.7-.7M6.34 6.34l-.7-.7m12.72 0-.7.7M6.34 17.66l-.7.7M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z', // sun
+  'M3 12c6 0 9-3 9-9 0 6 3 9 9 9-6 0-9 3-9 9 0-6-3-9-9-9Z', // leaf/nourish
+  'M3 8h13a3 3 0 1 0-3-3M3 12h16a3 3 0 1 1-3 3M3 16h11a3 3 0 1 1-3 3', // wind/air
+  'M12 3s6 6.5 6 11a6 6 0 1 1-12 0c0-4.5 6-11 6-11Z', // water drop / blue mind
+  'M12 4v6m0 0c-3 0-5 2-5 5a3 3 0 0 0 5 2.2A3 3 0 0 0 17 15c0-3-2-5-5-5Z', // breathing
+  'm13 2-8 11h6l-1 9 8-11h-6l1-9Z', // activity / energy
+  'M12 5a3 3 0 1 0 0-.01M5 19c1.5-3 4-4.5 7-4.5s5.5 1.5 7 4.5M9 12c1-1.5 1.7-2.2 3-2.2s2 .7 3 2.2', // meditation
+  'M3 3l18 18M9.5 5.2A9 9 0 0 1 21 12s-1 1.6-2.7 3M6.3 6.3A9 9 0 0 0 3 12s3 5 9 5a8.7 8.7 0 0 0 3.4-.7', // digital detox (eye-off-ish)
+  'M4 20h16M6 20V10l6-5 6 5v10M9 20v-5h6v5', // outdoor / shelter under sky
+  'm12 3 2 5 5 .4-3.8 3.3 1.2 5L12 19l-4.6 2.7 1.2-5L4.8 13.4 9.8 13 12 3Z', // star
+  'M16 19a4 4 0 0 0-8 0M12 11a3 3 0 1 0 0-.01M20 19a3 3 0 0 0-5-2.2M4 19a3 3 0 0 1 5-2.2', // people
+];
+
+const site = Astro.site!.origin;
+const crumb = breadcrumbs(site, locale, [
+  { name: 'Ikigai Sailing', path: '/' },
+  { name: d?.title ?? 'Benefits', path: '/benefits/' },
+]);
+---
+
+<PageLayout title={d?.title ?? 'Benefits of life aboard'} description={d?.description ?? ''} path="/benefits/" availableLocales={availableLocales}>
+  <JsonLd slot="head" schema={crumb} />
+
+  {/* hero */}
+  <header class="relative isolate overflow-hidden bg-ocean-950">
+    {d?.heroImage && (
+      <Image src={d.heroImage} alt={d.title} width={1800} height={900} widths={[640, 1024, 1800]} sizes="100vw" priority class="absolute inset-0 -z-10 h-full w-full object-cover opacity-50" />
+    )}
+    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/50 to-transparent"></div>
+    <div class="mx-auto flex min-h-[52vh] max-w-4xl flex-col justify-end px-4 py-16 sm:px-6">
+      <p class="coords text-ocean-300">{t('nav.benefits')}</p>
+      <h1 class="mt-3 font-display text-4xl leading-tight text-sand-50 sm:text-5xl">{d?.title ?? t('nav.benefits')}</h1>
+      {lead && <p class="mt-4 max-w-2xl text-lg text-sand-100/90">{lead}</p>}
+    </div>
+  </header>
+
+  {/* benefit grid */}
+  <section class="bg-sand-50 py-20">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <SectionHeading eyebrow={t('nav.benefits')} title={t('benefits.gridTitle')} align="center" />
+      <div class="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {items.map((b, i) => (
+          <article class="group rounded-2xl bg-sand-100 p-6 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300">
+            <span class="grid h-12 w-12 place-items-center rounded-xl bg-ocean-700/10 text-ocean-700 transition group-hover:bg-ocean-700 group-hover:text-sand-50">
+              <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d={ICONS[i % ICONS.length]} />
+              </svg>
+            </span>
+            <h3 class="mt-4 font-display text-lg text-ocean-950">{b.title}</h3>
+            <p class="mt-1.5 text-sm leading-relaxed text-ink-soft">{b.body}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* CTA */}
+  <section class="bg-coral-500 py-16 text-center text-sand-50">
+    <div class="mx-auto max-w-2xl px-4">
+      <h2 class="font-display text-2xl sm:text-3xl">{t('home.ctaTitle')}</h2>
+      <p class="mx-auto mt-3 max-w-md text-sand-50/90">{t('contact.whatsappLead')}</p>
+      <div class="mt-7 flex flex-wrap justify-center gap-3">
+        <a href={localizePath('/trips/', locale)} class="rounded-full bg-sand-50 px-6 py-3 font-semibold text-coral-600 transition hover:bg-sand-100">{t('cta.discoverTrips')}</a>
+        <WhatsAppButton />
+      </div>
+    </div>
+  </section>
+</PageLayout>
