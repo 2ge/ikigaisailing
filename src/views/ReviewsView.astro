@@ -6,6 +6,7 @@ import JsonLd from '../components/jsonld/JsonLd.astro';
 import YouTubeEmbed from '../components/YouTubeEmbed.astro';
 import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
 import { entriesForLocale, entryForLocale, slugOf } from '../lib/content';
+import { translationToHtml } from '../lib/format';
 import googleReviews from '../data/google-reviews.json';
 
 const g = googleReviews as { rating: number | null; count: number; mapsUri: string | null; reviews: { author: string; photo: string | null; profileUrl: string | null; rating: number; text: string; when: string }[] };
@@ -119,7 +120,7 @@ const reviewSchema = {
         <figure id={slug} class="scroll-mt-28 break-inside-avoid rounded-2xl bg-sand-100 p-6 ring-1 ring-ocean-950/5 target:ring-2 target:ring-coral-400">
           <blockquote class="prose-ikigai text-[0.95rem]">
             <div data-orig={i}><Content /></div>
-            {translated && <div data-trans={i} hidden set:html={translated.replace(/\n\n/g, '<br><br>')} />}
+            {translated && <div data-trans={i} hidden set:html={translationToHtml(translated)} />}
           </blockquote>
           <figcaption class="mt-4 flex items-center justify-between border-t border-ocean-950/10 pt-3">
             <div>

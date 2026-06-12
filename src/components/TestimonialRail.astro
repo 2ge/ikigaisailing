@@ -9,6 +9,7 @@ import { render } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import { useTranslations, localizePath, type Locale } from '../i18n/ui';
 import { slugOf } from '../lib/content';
+import { translationToHtml } from '../lib/format';
 
 interface Props {
   testimonials: CollectionEntry<'testimonials'>[];
@@ -37,7 +38,7 @@ const cards = await Promise.all(
       <blockquote class="testimonial-clamp prose-ikigai mt-3 flex-1 text-[0.95rem] leading-relaxed">
         <div data-orig={i}><Content /></div>
         {translated && (
-          <div data-trans={i} hidden set:html={translated.replace(/\n\n/g, '<br><br>')} />
+          <div data-trans={i} hidden set:html={translationToHtml(translated)} />
         )}
       </blockquote>
       <figcaption class="mt-4 border-t border-ocean-950/5 pt-3">
