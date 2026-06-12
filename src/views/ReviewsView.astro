@@ -107,11 +107,13 @@ const reviewSchema = {
             return (
             <figure class="flex flex-col rounded-2xl border border-ocean-950/10 bg-sand-100 p-6">
               <div class="text-coral-500" aria-label={`${r.rating} stars`}>{'★'.repeat(Math.round(r.rating))}</div>
-              <blockquote class="prose-ikigai mt-3 flex-1 text-[0.95rem]">
+              {/* clamped like the guest letters so one long review (Arianna) can't blow out the row; expands on click */}
+              <blockquote class="testimonial-clamp prose-ikigai mt-3 text-[0.95rem]">
                 <div data-orig={`g${i}`} set:html={translationToHtml(r.text)} />
                 {canTranslate && <div data-trans={`g${i}`} hidden set:html={translationToHtml(tr!)} />}
               </blockquote>
-              <figcaption class="mt-4 flex items-center gap-3 border-t border-ocean-950/5 pt-3">
+              <button class="review-more mt-2 hidden self-start text-xs font-medium text-ocean-600 underline underline-offset-2 hover:text-ocean-800" data-more={`g${i}`} data-more-label={t('reviews.more')} data-less-label={t('reviews.less')}>{t('reviews.more')}</button>
+              <figcaption class="mt-auto flex items-center gap-3 border-t border-ocean-950/5 pt-3">
                 {r.photo && <img src={r.photo} alt="" width="32" height="32" loading="lazy" class="h-8 w-8 rounded-full object-cover" referrerpolicy="no-referrer" />}
                 <div class="flex-1">
                   <p class="font-semibold text-ocean-950">{r.author}</p>
