@@ -1,6 +1,6 @@
 ---
-title: "Personal growth retreats: cosa cercare (e cosa evitare)"
-description: "Cerchi un personal growth retreat? Scopri come evitare i cliché new age e rigidi resort per scegliere un'autentica embodied experience"
+title: "Ritiri di crescita personale: cosa cercare (e cosa evitare)"
+description: "Cerchi un ritiro di crescita personale? Scopri come evitare i cliché new age e rigidi resort per scegliere un'autentica embodied experience"
 locale: "it"
 pubDate: "2026-06-06"
 image: "~/assets/pages/breathe-sail-flow-retrait/Immagini-per-sito-web-1500-x-1000-13.png"

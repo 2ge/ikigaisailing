@@ -1,5 +1,5 @@
 ---
-title: "Sailing and Freediving Holiday: Oltre il Resort"
+title: "Vacanza tra vela e apnea: oltre il resort"
 description: "Retreat in catamarano vs Resort: scopri la \"Embodied Experience\" di Ikigai Sailing. Sport, apnea e natura per resettare il sistema nervoso"
 locale: "it"
 pubDate: "2026-05-06"
