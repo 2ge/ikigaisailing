@@ -22,6 +22,30 @@ const pages = defineCollection({
       locale: z.enum(LOCALES),
       heroImage: image().optional(),
       gallery: z.array(image()).default([]),
+      /** Optional intro lead (e.g. the Story page). */
+      lead: z.string().optional(),
+      /** Optional milestone timeline (e.g. the Story page). */
+      timeline: z.array(z.object({ year: z.string(), text: z.string() })).default([]),
+      /** Optional voyage log grouped by year (the Route page). */
+      voyage: z
+        .array(
+          z.object({
+            year: z.string(),
+            title: z.string(),
+            legs: z.array(
+              z.object({
+                when: z.string(),
+                place: z.string(),
+                note: z.string(),
+                now: z.boolean().optional(),
+              }),
+            ),
+          }),
+        )
+        .default([]),
+      /** Optional "road ahead" block (the Route page). */
+      aheadTitle: z.string().optional(),
+      ahead: z.string().optional(),
       /** Old WordPress URL(s) this page replaces — drives _redirects generation. */
       oldUrls: z.array(z.string()).default([]),
       ...translationMeta,
@@ -65,6 +89,8 @@ const activities = defineCollection({
       category: z.string().default('wellness'),
       image: image().optional(),
       gallery: z.array(image()).default([]),
+      /** Spec facts (Level, Duration, …) shown as a designed grid. Lifted from body. */
+      facts: z.array(z.object({ label: z.string(), value: z.string() })).default([]),
       order: z.number().default(99),
       oldUrls: z.array(z.string()).default([]),
       ...translationMeta,

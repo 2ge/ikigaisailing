@@ -1,16 +1,10 @@
 ---
-import PageLayout from '../../layouts/PageLayout.astro';
-import PageHero from '../../components/PageHero.astro';
-import { useTranslations, defaultLocale, type Locale } from '../../i18n/ui';
-import { WHATSAPP_URL, SOCIALS } from '../../i18n/nav';
-import { entryForLocale } from '../../lib/content';
+import PageLayout from '../layouts/PageLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
+import { WHATSAPP_URL, SOCIALS } from '../i18n/nav';
+import { entryForLocale } from '../lib/content';
 
-export async function getStaticPaths() {
-  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
-    params: { locale: locale === defaultLocale ? undefined : locale },
-    props: { locale },
-  }));
-}
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 const intro = await entryForLocale('pages', 'contact', locale);

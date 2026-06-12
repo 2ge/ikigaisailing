@@ -88,16 +88,3 @@ _**IMPORTANTE NON PORTARE TROLLEY O BORSE RIGIDE**_
 ### Quante persone ci saranno a bordo?
 
 Il gruppo è composto da un massimo di 6 partecipanti, per garantire un’esperienza intima, curata e autentica.
-
-### Formule Di Imbarco
-
-#### [10 Days experience](/it/imbarchi/10-days-on-board/)
-
-3.000,00 €
-
-[Esperienza riservata ai soci](/it/imbarchi/one-month/)
-
-#### [Un Mese a Bordo](/it/imbarchi/one-month/)
-
-2.000,00 €
-

@@ -1,8 +1,9 @@
 ---
-title: Výhody života v zahraničí – Objavte prírodu s Ikigai Sailing
+title: Výhody života na lodi — Žite v harmónii s morom
 description: >-
-  Objavte množstvo výhod života v zahraničí – od osobného rastu a kultúrneho
-  obohatenia až po nové kariérne príležitosti a dobrodružstvo.
+  Blahobyt života na palube lode Ikigai: prirodzené cirkadiánne rytmy, pokoj
+  vďaka modrej farbe mora, čistý morský vzduch, skutočné jedlo, digitálna
+  detoxikácia a hviezdnatá obloha – výhody života v harmónii s oceánom.
 locale: sk
 heroImage: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 gallery:
@@ -13,7 +14,7 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 78534d31ba2a713b
+sourceHash: c66e8b11474e3c3b
 needsReview: true
 ---
 
@@ -23,7 +24,7 @@ More ako spôsob života
 
 Výhody života v harmónii s prírodou
 
-Život uprostred prírody, v súlade s rytmom mora, ponúka viac než len únik z rutiny – je to návrat k našej podstate. Od spojenia s okolitým prostredím až po zlepšenie fyzického a duševného zdravia, život pod šírym nebom, v kontakte s morom, podporuje hlboký a autentický pocit zdravia a pohody. Objavte výhody, ktoré na vás čakajú.
+Život uprostred prírody, v súlade s rytmom mora, ponúka viac než len únik od rutiny – je to návrat k našej podstate. Od spojenia s okolitým prostredím až po zlepšenie fyzického a duševného zdravia, život pod šírym nebom, v kontakte s morom, podporuje hlboký a autentický pocit zdravia a pohody. Objavte výhody, ktoré na vás čakajú.
 
 ### Sledujte cirkadiánne rytmy
 
@@ -35,7 +36,7 @@ Vychutnajte si autentické chute čerstvých rýb a miestnych produktov, ďaleko
 
 ### Kvalita vzduchu
 
-Nadýchnite sa čistého, regenerujúceho vzduchu otvoreného mora.
+Nadýchnite sa čistým, regenerujúcim vzduchom otvoreného mora.
 
 ### Blue Mind (výhľad na more)
 
@@ -55,7 +56,7 @@ Nájdite vnútorný pokoj, keď vás ukolíšu zvuky a rytmy mora.
 
 ### Digitálna detoxikácia
 
-Oslobodiť svoju myseľ odpojením sa od zariadení a opätovným spojením so sebou samým.
+Oslobodi svoju myseľ tým, že sa odpojíš od zariadení a znovu sa spojíš so sebou samým.
 
 ### Život v prírode
 

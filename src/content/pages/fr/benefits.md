@@ -1,11 +1,9 @@
 ---
-title: >-
-  Les avantages de vivre à l'étranger - Profite pleinement de la nature avec
-  Ikigai Sailing
+title: Les avantages de la vie en mer — Vis en harmonie avec la mer
 description: >-
-  Découvre les nombreux avantages de vivre à l'étranger, qu'il s'agisse
-  d'épanouissement personnel, d'enrichissement culturel, de nouvelles
-  opportunités professionnelles ou d'aventure.
+  Le bien-être à bord de l'Ikigai : rythmes circadiens naturels, sérénité «
+  blue-mind », air marin pur, vraie nourriture, détox numérique et ciel étoilé —
+  les bienfaits d'une vie en harmonie avec l'océan.
 locale: fr
 heroImage: ~/assets/pages/vita-a-bordo-social/Popolo-Guna-San-Blas.avif
 gallery:
@@ -16,7 +14,7 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 78534d31ba2a713b
+sourceHash: c66e8b11474e3c3b
 ---
 
 ## Les bienfaits de la voile avec Ikigai Sailing
@@ -57,7 +55,7 @@ Trouve la paix intérieure en te laissant bercer par les sons et les rythmes de 
 
 ### Détox numérique
 
-Libère ton esprit en te déconnectant de tes appareils et en te reconnectant avec toi-même.
+Libère ton esprit en te déconnectant de tes appareils et en te reconnectant à toi-même.
 
 ### Vie en plein air
 
@@ -67,11 +65,11 @@ Passe chaque jour au cœur de la nature : soleil, vent et eau cristalline.
 
 **Aucune pollution lumineuse :** admire un ciel étoilé immaculé, loin des lumières de la ville.
 
-### Des relations interpersonnelles épanouissantes
+### Des relations humaines épanouissantes
 
 Renforce tes liens personnels en partageant des expériences uniques et authentiques.
 
-Contacte-nous dès maintenant pour organiser ton séjour !
+Contacte-nous dès maintenant pour planifier ton séjour !
 
 Embarque pour la liberté !
 

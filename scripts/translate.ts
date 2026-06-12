@@ -20,6 +20,7 @@ import TurndownService from 'turndown';
 import { createHash } from 'node:crypto';
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { resolve, join } from 'node:path';
+import { localizePath } from '../src/i18n/ui';
 
 const ROOT = resolve(import.meta.dirname, '..');
 const CONTENT = join(ROOT, 'src', 'content');
@@ -37,7 +38,7 @@ const FORMALITY: Partial<Record<Loc, deepl.Formality>> = {
 };
 // frontmatter string fields to translate, per collection
 const FM_FIELDS: Record<string, string[]> = {
-  pages: ['title', 'description'],
+  pages: ['title', 'description', 'lead', 'aheadTitle', 'ahead'],
   trips: ['title', 'description', 'priceNote', 'season'],
   activities: ['title', 'summary'],
   blog: ['title', 'description'],
@@ -68,12 +69,21 @@ function payloadOf(collection: string, fm: Record<string, any>, body: string) {
   const fields: Record<string, any> = {};
   for (const f of FM_FIELDS[collection] ?? []) if (fm[f] != null) fields[f] = fm[f];
   if (fm.faq) fields.faq = fm.faq;
+  if (fm.facts) fields.facts = fm.facts;
+  if (fm.timeline) fields.timeline = fm.timeline;
+  if (fm.voyage) fields.voyage = fm.voyage;
   return { fields, body };
 }
 
-/** root-relative internal links get the locale prefix in generated files */
+/**
+ * Root-relative internal links get localized: locale prefix + translated section
+ * segment (e.g. `/trips/x/` → `/es/imbarchi/x/`). Assets and API routes pass through.
+ */
 function localizeLinks(md: string, loc: Loc): string {
-  return md.replace(/\]\(\/(?!(it|es|fr|sk)\/)(?!assets|api)([^)]*)\)/g, `](/${loc}/$2)`);
+  return md.replace(/\]\((\/[^)\s]+)\)/g, (full, href: string) => {
+    if (/^\/(assets|api|og-|_)/.test(href)) return full;
+    return `](${localizePath(href, loc as any)})`;
+  });
 }
 
 async function main() {
@@ -141,6 +151,22 @@ async function main() {
     return localizeLinks(td.turndown(out), loc);
   };
 
+  // Source-aware body translation (testimonials can originate in EN *or* IT).
+  // DeepL requires a regional variant when English is the TARGET.
+  const DEEPL_TARGET: Record<string, string> = { en: 'en-US', it: 'it', es: 'es', fr: 'fr', sk: 'sk' };
+  const tBodyFrom = async (md: string, srcLoc: string, tgtLoc: Loc): Promise<string> => {
+    if (!md.trim()) return md;
+    const html = await marked.parse(md);
+    const res = await translator.translateText(
+      [html],
+      srcLoc as deepl.SourceLanguageCode,
+      DEEPL_TARGET[tgtLoc] as deepl.TargetLanguageCode,
+      { formality: FORMALITY[tgtLoc], tagHandling: 'html' as const },
+    );
+    const out = (Array.isArray(res) ? res[0] : res).text;
+    return localizeLinks(td.turndown(out), tgtLoc);
+  };
+
   const stale: string[] = [];
   let written = 0;
 
@@ -170,6 +196,33 @@ async function main() {
         if (src.data.faq?.length) {
           const qa = await tText(src.data.faq.flatMap((x: any) => [x.q, x.a]), loc);
           fm.faq = src.data.faq.map((_: any, i: number) => ({ q: qa[2 * i], a: qa[2 * i + 1] }));
+        }
+        if (src.data.facts?.length) {
+          const lv = await tText(src.data.facts.flatMap((x: any) => [x.label, x.value]), loc);
+          fm.facts = src.data.facts.map((_: any, i: number) => ({ label: lv[2 * i], value: lv[2 * i + 1] }));
+        }
+        if (src.data.timeline?.length) {
+          const tl = await tText(src.data.timeline.flatMap((x: any) => [x.year, x.text]), loc);
+          fm.timeline = src.data.timeline.map((_: any, i: number) => ({ year: tl[2 * i], text: tl[2 * i + 1] }));
+        }
+        if (src.data.voyage?.length) {
+          const flat: string[] = [];
+          for (const y of src.data.voyage) {
+            flat.push(y.title);
+            for (const l of y.legs) flat.push(l.when, l.place, l.note);
+          }
+          const out = await tText(flat, loc);
+          let i = 0;
+          fm.voyage = src.data.voyage.map((y: any) => ({
+            year: y.year,
+            title: out[i++],
+            legs: y.legs.map((l: any) => ({
+              when: out[i++],
+              place: out[i++],
+              note: out[i++],
+              ...(l.now ? { now: true } : {}),
+            })),
+          }));
         }
         delete fm.oldUrls; // old URLs only exist for en/it live pages
         fm.translated = 'deepl';
@@ -201,19 +254,18 @@ async function main() {
       if (CHECK) continue;
 
       for (const l of missing) {
-        // human IT twin body wins over DeepL
+        // A human-authored twin in the target locale wins over machine translation;
+        // otherwise DeepL-translate the source review. Works for any origin locale
+        // (EN- and IT-origin reviews alike), so no review is left perpetually stale.
         const twin = join(tDir, l, file);
-        if (l === 'it' && existsSync(twin)) {
-          have.it = matter(readFileSync(twin, 'utf8')).content.trim();
-          continue;
+        if (existsSync(twin)) {
+          const twinData = matter(readFileSync(twin, 'utf8'));
+          if (twinData.data.translated !== 'deepl') {
+            have[l] = twinData.content.trim();
+            continue;
+          }
         }
-        if (l === 'en' && origLoc === 'it' && existsSync(twin)) {
-          have.en = matter(readFileSync(twin, 'utf8')).content.trim();
-          continue;
-        }
-        if (origLoc === 'en') {
-          have[l] = await tBody(src.content.trim(), l as Loc);
-        }
+        have[l] = await tBodyFrom(src.content.trim(), src.data.locale ?? origLoc, l as Loc);
       }
       const fm = { ...src.data, translations: have, sourceHash: h };
       writeFileSync(join(dir, file), matter.stringify('\n' + src.content.trim() + '\n', fm));

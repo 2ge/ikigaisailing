@@ -28,7 +28,6 @@ gallery:
   - "~/assets/trips/10-days-on-board/lucabrano5.avif"
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
 ---
 “Nella mia vita precedente ero un imprenditore. Ho iniziato giovanissimo, seguendo le orme di mio padre e aprendo la mia prima attività quando ero ancora minorenne. La passione per la nautica è nata fin da subito, grazie a un’altra grande passione: la pesca in apnea.
 

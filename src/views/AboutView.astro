@@ -1,30 +1,24 @@
 ---
 /** Dedicated, designed About page: intro + stats + certifications + crew + vision. */
 import { Image } from 'astro:assets';
-import PageLayout from '../../layouts/PageLayout.astro';
-import SectionHeading from '../../components/SectionHeading.astro';
-import WhatsAppButton from '../../components/WhatsAppButton.astro';
-import JsonLd from '../../components/jsonld/JsonLd.astro';
-import { useTranslations, localizePath, defaultLocale, type Locale } from '../../i18n/ui';
-import { entryForLocale } from '../../lib/content';
-import { breadcrumbs } from '../../lib/schema';
+import PageLayout from '../layouts/PageLayout.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import WhatsAppButton from '../components/WhatsAppButton.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, defaultLocale, type Locale } from '../i18n/ui';
+import { entryForLocale } from '../lib/content';
+import { breadcrumbs } from '../lib/schema';
 // crew
-import lucaPhoto from '../../assets/crew/luca.webp';
-import branoPhoto from '../../assets/crew/brano.jpg';
-import paolaPhoto from '../../assets/crew/paola.png';
+import lucaPhoto from '../assets/crew/luca-solo.webp';
+import branoPhoto from '../assets/crew/brano.jpg';
+import paolaPhoto from '../assets/crew/paola.png';
 // certifications
-import coni from '../../assets/certs/coni.png';
-import aida from '../../assets/certs/aida.png';
-import iantd from '../../assets/certs/iantd.png';
-import iko from '../../assets/certs/iko.png';
-import apnea from '../../assets/certs/apneatotal.png';
+import coni from '../assets/certs/coni.png';
+import aida from '../assets/certs/aida.png';
+import iantd from '../assets/certs/iantd.png';
+import iko from '../assets/certs/iko.png';
+import apnea from '../assets/certs/apneatotal.png';
 
-export async function getStaticPaths() {
-  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
-    params: { locale: locale === defaultLocale ? undefined : locale },
-    props: { locale },
-  }));
-}
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 const lp = (p: string) => localizePath(p, locale);

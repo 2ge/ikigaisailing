@@ -1,0 +1,20 @@
+---
+/** Vertical milestone timeline. Each entry is a {year, text} pair. */
+interface Props {
+  entries: { year: string; text: string }[];
+}
+const { entries } = Astro.props;
+---
+
+<ol class="relative mx-auto max-w-2xl border-l-2 border-ocean-200 pl-8">
+  {entries.map((e, i) => (
+    <li class="reveal relative pb-10 last:pb-0" style={`animation-delay:${i * 80}ms`}>
+      {/* node */}
+      <span class="absolute -left-[2.6rem] top-1 grid h-7 w-7 place-items-center rounded-full bg-ocean-700 ring-4 ring-sand-50">
+        <span class="h-2 w-2 rounded-full bg-sand-50"></span>
+      </span>
+      <p class="coords text-sm font-semibold uppercase tracking-wide text-coral-600">{e.year}</p>
+      <p class="mt-1.5 leading-relaxed text-ink-soft">{e.text}</p>
+    </li>
+  ))}
+</ol>

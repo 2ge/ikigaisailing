@@ -1,18 +1,12 @@
 ---
 import { render } from 'astro:content';
-import PageLayout from '../../layouts/PageLayout.astro';
-import PageHero from '../../components/PageHero.astro';
-import JsonLd from '../../components/jsonld/JsonLd.astro';
-import YouTubeEmbed from '../../components/YouTubeEmbed.astro';
-import { useTranslations, defaultLocale, type Locale } from '../../i18n/ui';
-import { entriesForLocale, entryForLocale, slugOf } from '../../lib/content';
+import PageLayout from '../layouts/PageLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import YouTubeEmbed from '../components/YouTubeEmbed.astro';
+import { useTranslations, defaultLocale, type Locale } from '../i18n/ui';
+import { entriesForLocale, entryForLocale, slugOf } from '../lib/content';
 
-export async function getStaticPaths() {
-  return (['en', 'it', 'es', 'fr', 'sk'] as Locale[]).map((locale) => ({
-    params: { locale: locale === defaultLocale ? undefined : locale },
-    props: { locale },
-  }));
-}
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 const intro = await entryForLocale('pages', 'reviews', locale);
@@ -55,6 +49,32 @@ const reviewSchema = {
     </div>
   </section>
 
+  {/* external reviews CTAs */}
+  <section class="bg-sand-50 pt-12 text-center">
+    <div class="flex flex-wrap items-center justify-center gap-3">
+      <a
+        href="https://www.trustpilot.com/review/ikigaisailing.com"
+        target="_blank"
+        rel="noopener"
+        class="inline-flex items-center gap-2 rounded-full bg-[#00b67a] px-6 py-3 font-semibold text-white shadow-sm transition hover:brightness-105"
+      >
+        <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="m12 2 2.95 6.7 7.05.62-5.32 4.67 1.6 6.99L12 17.3 5.72 21l1.6-6.99L2 9.32l7.05-.62L12 2Z"/></svg>
+        {t('reviews.external')}
+        <span aria-hidden="true">↗</span>
+      </a>
+      <a
+        href="https://www.google.com/maps?cid=15753278920699617280"
+        target="_blank"
+        rel="noopener"
+        class="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-semibold text-ocean-950 shadow-sm ring-1 ring-ocean-950/10 transition hover:bg-sand-100"
+      >
+        <svg class="h-5 w-5" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.5a5.6 5.6 0 0 1-2.4 3.6v3h3.9c2.3-2.1 3.5-5.2 3.5-8.8Z"/><path fill="#34A853" d="M12 24c3.2 0 6-1.1 8-3l-3.9-3a7.2 7.2 0 0 1-10.7-3.8H1.3v3.1A12 12 0 0 0 12 24Z"/><path fill="#FBBC05" d="M5.4 14.2a7.2 7.2 0 0 1 0-4.6V6.5H1.3a12 12 0 0 0 0 11l4.1-3.3Z"/><path fill="#EA4335" d="M12 4.8c1.8 0 3.3.6 4.6 1.8l3.4-3.4A12 12 0 0 0 1.3 6.5l4.1 3.1A7.2 7.2 0 0 1 12 4.8Z"/></svg>
+        {t('reviews.google')}
+        <span aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </section>
+
   {/* written reviews */}
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
     <div class="columns-1 gap-6 sm:columns-2 lg:columns-3 [&>*]:mb-6">
@@ -77,13 +97,25 @@ const reviewSchema = {
   </div>
 
   <script>
-    document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
-      const i = btn.dataset.toggle;
-      const orig = document.querySelector<HTMLElement>(`[data-orig="${i}"]`);
-      const trans = document.querySelector<HTMLElement>(`[data-trans="${i}"]`);
-      let showing = false;
-      btn.addEventListener('click', () => { showing = !showing; if (orig) orig.hidden = showing; if (trans) trans.hidden = !showing; });
-    });
+    // Re-bind on every (View Transitions) navigation, not just first load —
+    // otherwise the toggle is dead when /reviews/ is reached via client-side nav.
+    function bindToggles() {
+      document.querySelectorAll<HTMLButtonElement>('[data-toggle]').forEach((btn) => {
+        if (btn.dataset.bound) return;
+        btn.dataset.bound = '1';
+        const card = btn.closest('figure');
+        const i = btn.dataset.toggle;
+        const orig = card?.querySelector<HTMLElement>(`[data-orig="${i}"]`);
+        const trans = card?.querySelector<HTMLElement>(`[data-trans="${i}"]`);
+        let showing = false;
+        btn.addEventListener('click', () => {
+          showing = !showing;
+          if (orig) orig.hidden = showing;
+          if (trans) trans.hidden = !showing;
+        });
+      });
+    }
+    document.addEventListener('astro:page-load', bindToggles);
     // briefly emphasise a review deep-linked from the homepage (#slug)
     function flash() {
       const el = location.hash && document.querySelector(location.hash);

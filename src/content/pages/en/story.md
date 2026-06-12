@@ -28,7 +28,6 @@ gallery:
   - "~/assets/trips/10-days-on-board/lucabrano5.avif"
   - "~/assets/trips/acconto/attraversata-atlantica.webp"
   - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
 ---
 “In my previous life, I was an entrepreneur. I started very young, following in my father’s footsteps and opening my first business while I was still a minor. My passion for sailing began early on, thanks to another great passion of mine: freediving.
 

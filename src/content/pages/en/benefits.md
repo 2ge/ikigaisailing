@@ -1,6 +1,6 @@
 ---
-title: "Benefits of Living Abroad - Embrace Nature with Ikigai Sailing"
-description: "Explore the many benefits of living abroad, from personal growth and cultural enrichment to new career opportunities and adventure."
+title: "Benefits of Life Aboard — Live in Harmony with the Sea"
+description: "The wellbeing of life aboard Ikigai: natural circadian rhythms, blue-mind calm, clean sea air, real food, digital detox and starry skies — the benefits of living in harmony with the ocean."
 locale: "en"
 oldUrls:
   - "/benefits/"

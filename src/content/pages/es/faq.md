@@ -18,16 +18,16 @@ gallery:
   - ~/assets/trips/acconto/san-blas.webp
   - ~/assets/trips/acconto/skipper.webp
 translated: deepl
-sourceHash: 25ef143e96050e89
+sourceHash: 9d90a412d5937fe7
 ---
 
 ### ¿Necesito tener experiencia previa en yoga, meditación o buceo libre?
 
 No, no es necesario. Todas las sesiones son aptas para todos los niveles y son opcionales.
 
-### Me pone nervioso aguantar la respiración, ¿qué debo hacer?
+### Me pone nervioso aguantar la respiración, ¿qué hago?
 
-No te preocupes: nuestros instructores están certificados y cualificados para guiarte de forma segura y apoyarte durante estas experiencias.
+No te preocupes: nuestros instructores están certificados y cualificados para guiarte de forma segura y apoyarte en estas experiencias.
 
 ### ¿Qué es el Janzu?
 
@@ -39,7 +39,7 @@ Por las mañanas (unas 1,5 horas), nos centramos en técnicas de respiración Pr
 
 ### ¿Me marearé?
 
-Probablemente no: el gran catamarán ofrece una estabilidad excelente y fondeamos en zonas protegidas. Si te da, las pastillas para el mareo son muy eficaces y el cuerpo suele adaptarse en un par de días.
+Probablemente no: el gran catamarán ofrece una estabilidad excelente y fondeamos en zonas protegidas. Si te pasa, las pastillas para el mareo son muy eficaces y el cuerpo suele adaptarse en un par de días.
 
 ### ¿Tengo que hacerme socio de Ikigai para participar en un retiro?
 
@@ -59,11 +59,11 @@ Sí, es recomendable llevar algunos dólares estadounidenses para tu estancia en
 
 ### ¿Cómo llego al barco?
 
-Tu viaje probablemente comenzará con un vuelo al Aeropuerto Internacional de Tocumen (PTY) en la ciudad de Panamá, donde normalmente llegarás por la tarde o por la noche. Tendrás que pasar al menos una noche en la capital, una gran oportunidad para explorar la ciudad y pasear por las encantadoras calles del Casco Viejo, declarado Patrimonio de la Humanidad por la UNESCO. A la mañana siguiente, un jeep 4×4 privado te recogerá en tu hotel y te llevará a la costa caribeña. Tras unas 2,5 horas atravesando la selva tropical de Guna Yala, un barco local te llevará a Ikigai, donde llegarás sobre las 10:30 de la mañana. Organizamos todo el viaje en colaboración con socios locales de confianza para garantizar una logística fluida y segura de principio a fin.
+Tu viaje probablemente comenzará con un vuelo al Aeropuerto Internacional de Tocumen (PTY) en la ciudad de Panamá, donde normalmente llegarás por la tarde o por la noche. Tendrás que pasar al menos una noche en la capital, una gran oportunidad para explorar la ciudad y pasear por las encantadoras calles del Casco Viejo, declarado Patrimonio de la Humanidad por la UNESCO. A la mañana siguiente, un jeep 4×4 privado te recogerá en tu hotel y te llevará a la costa caribeña. Tras unas 2,5 horas atravesando la selva tropical de Guna Yala, un barco local te llevará a Ikigai, donde llegarás sobre las 10:30 de la mañana. Todo el viaje lo organizamos nosotros en colaboración con socios locales de confianza para garantizar una logística fluida y segura de principio a fin.
 
 ### ¿Cómo se gestiona la electricidad a bordo? ¿Qué tipo de voltaje y enchufes hay?
 
-En el Ikigai somos totalmente autosuficientes en materia de energía. Gracias a los paneles solares, un hidrogenerador y un generador de reserva, producimos y almacenamos toda la energía necesaria para vivir a bordo, incluso durante largas estancias en el mar. El sistema eléctrico funciona a 220 voltios (estándar europeo) y 12 voltios (CC). Cada camarote está equipado con enchufes europeos tipo Schuko. También hay una estación de carga compartida en la zona de la cabina para cargar teléfonos, cámaras, tabletas y ordenadores portátiles. Por favor, evita usar dispositivos de alto consumo (como secadores de pelo o hervidores eléctricos), ya que pueden sobrecargar el sistema. Si vienes de un país con enchufes diferentes (por ejemplo, el Reino Unido o EE. UU.), te recomendamos traer un adaptador universal. Te pedimos que utilices la electricidad de forma responsable: nuestro sistema es eficiente, pero está diseñado para un estilo de vida sostenible en armonía con el mar.
+En el Ikigai somos totalmente autosuficientes energéticamente. Gracias a los paneles solares, un hidrogenerador y un generador de reserva, producimos y almacenamos toda la energía necesaria para vivir a bordo, incluso durante largas estancias en el mar. El sistema eléctrico funciona a 220 voltios (estándar europeo) y 12 voltios (CC). Cada camarote está equipado con enchufes europeos tipo Schuko. También hay una estación de carga compartida en la zona de la cabina para cargar teléfonos, cámaras, tabletas y ordenadores portátiles. Por favor, evita usar dispositivos de alto consumo (como secadores de pelo o hervidores eléctricos), ya que pueden sobrecargar el sistema. Si vienes de un país con enchufes diferentes (por ejemplo, el Reino Unido o EE. UU.), te recomendamos traer un adaptador universal. Te pedimos que utilices la electricidad de forma responsable: nuestro sistema es eficiente, pero está diseñado para un estilo de vida sostenible en armonía con el mar.
 
 ### ¿Qué debo llevar?
 
@@ -95,15 +95,3 @@ A bordo encontrarás instructores certificados (Yoga Alliance, AIDA Internationa
 ### ¿Tengo que saber nadar?
 
 Sí, es importante que te sientas cómodo en el agua. No hace falta que seas un atleta, pero sí que te sientas a gusto en el mar.
-
-### Fórmula de embarque
-
-#### [10 días a bordo del Ikigai](/es/embarques/10-days-on-board/)
-
-3.000,00 €
-
-[Experiencia reservada a socios](/es/embarques/one-month/)
-
-#### [Un mes a bordo](/es/embarques/one-month/)
-
-2.000,00 €

@@ -4,7 +4,7 @@
  * (en/it/es/fr/sk + x-default → EN), OG + Twitter cards, and a JSON-LD slot.
  * Hreflang alternates are generated automatically from the current path.
  */
-import { locales, defaultLocale, getLocaleFromUrl, localizePath, type Locale } from '../i18n/ui';
+import { locales, defaultLocale, getLocaleFromUrl, localizePath, canonicalizePath, type Locale } from '../i18n/ui';
 
 interface Props {
   title: string;
@@ -16,6 +16,8 @@ interface Props {
   /** Set false on pages that should not emit hreflang (e.g. 404). */
   alternates?: boolean;
   noindex?: boolean;
+  /** Locales this page exists in — hreflang is only emitted for these. */
+  availableLocales?: Locale[];
 }
 
 const {
@@ -24,21 +26,26 @@ const {
   ogType = 'website',
   alternates = true,
   noindex = false,
+  availableLocales,
 } = Astro.props;
 
 const site = Astro.site!;
 const locale = getLocaleFromUrl(Astro.url);
-const basePath =
-  Astro.props.path ?? Astro.url.pathname.replace(/^\/(it|es|fr|sk)(\/|$)/, '/');
+const basePath = Astro.props.path ?? canonicalizePath(Astro.url.pathname, locale);
 const canonical = new URL(localizePath(basePath, locale), site).href;
 const ogImage = new URL(Astro.props.ogImage ?? '/og-default.jpg', site).href;
 
+// only advertise locales the page is actually built in (avoids hreflang → 404)
+const altLocales = (availableLocales ?? (locales as readonly Locale[])).filter((l) =>
+  (locales as readonly Locale[]).includes(l),
+) as Locale[];
 const alternateLinks = alternates
-  ? (locales as readonly Locale[]).map((l) => ({
+  ? altLocales.map((l) => ({
       hreflang: l,
       href: new URL(localizePath(basePath, l), site).href,
     }))
   : [];
+const xDefaultLocale = altLocales.includes(defaultLocale) ? defaultLocale : altLocales[0];
 
 const fullTitle = title.includes('Ikigai') ? title : `${title} | Ikigai Sailing`;
 ---
@@ -49,8 +56,8 @@ const fullTitle = title.includes('Ikigai') ? title : `${title} | Ikigai Sailing`
 {noindex && <meta name="robots" content="noindex, nofollow" />}
 
 {alternateLinks.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
-{alternates && (
-  <link rel="alternate" hreflang="x-default" href={new URL(localizePath(basePath, defaultLocale), site).href} />
+{alternates && xDefaultLocale && (
+  <link rel="alternate" hreflang="x-default" href={new URL(localizePath(basePath, xDefaultLocale), site).href} />
 )}
 
 <meta property="og:type" content={ogType} />

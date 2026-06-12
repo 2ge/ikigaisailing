@@ -17,7 +17,7 @@ gallery:
 ---
 _The Catana 47_ is designed to enjoy comfort and space without giving up the thrill of sailing and the sea. It is a high-performance catamaran capable of maintaining high speeds on long crossings and moving easily even in light winds, while its spacious interiors guarantee comfort in all weather conditions. It can accommodate 6 to 7 people in 4 cabins.
 
-[Take the virtual tour →](https://www.catana.com/visite/Catana-47/Catana-47.html)
+[Take the virtual tour →](https://www.cruisingworld.com/sailboats/catana-47/)
 
 ## Cabins & layout
 

@@ -1,82 +1,56 @@
 ---
-import { Image } from 'astro:assets';
-import PageLayout from '../../layouts/PageLayout.astro';
-import PageHero from '../../components/PageHero.astro';
-import Prose from '../../components/Prose.astro';
-import Gallery from '../../components/Gallery.astro';
-import JsonLd from '../../components/jsonld/JsonLd.astro';
-import { useTranslations, localizePath, type Locale } from '../../i18n/ui';
-import { WHATSAPP_URL } from '../../i18n/nav';
-import { slugOf, entryForLocale, existingLocalePaths } from '../../lib/content';
-import { breadcrumbs } from '../../lib/schema';
+/**
+ * Single-segment dispatcher: top-level pages, the bespoke designed pages, and
+ * the section indexes (trips / activities / blog). The URL segment is localized
+ * (e.g. /sk/pribeh/), resolved back to a canonical page key in lib/routes.
+ */
+import type { Locale } from '../../i18n/ui';
+import { topLevelStaticPaths, DEDICATED } from '../../lib/routes';
+import AboutView from '../../views/AboutView.astro';
+import IkigaiView from '../../views/IkigaiView.astro';
+import RouteView from '../../views/RouteView.astro';
+import StoryView from '../../views/StoryView.astro';
+import SeasonView from '../../views/SeasonView.astro';
+import ReviewsView from '../../views/ReviewsView.astro';
+import ContactView from '../../views/ContactView.astro';
+import TripsIndexView from '../../views/TripsIndexView.astro';
+import ActivitiesIndexView from '../../views/ActivitiesIndexView.astro';
+import BlogIndexView from '../../views/BlogIndexView.astro';
+import FaqView from '../../views/FaqView.astro';
+import BenefitsView from '../../views/BenefitsView.astro';
+import PageView from '../../views/PageView.astro';
 
 export async function getStaticPaths() {
-  // Standalone informational pages. Index/landing slugs have their own routes.
-  const RESERVED = new Set(['home', 'activities', 'trips', 'reviews', 'contact', 'season-2025-26', 'route', 'about', 'ikigai']);
-  return existingLocalePaths('pages', { filter: (e) => !RESERVED.has(slugOf(e)) });
+  return topLevelStaticPaths();
 }
 
-const { slug, locale } = Astro.props as { slug: string; locale: Locale };
-const t = useTranslations(locale);
-const entry = await entryForLocale('pages', slug, locale);
-if (!entry) return Astro.redirect('/404/');
-const d = entry.data;
+const { locale, pageKey } = Astro.props as { locale: Locale; pageKey: string };
 
-const site = Astro.site!.origin;
-const crumb = breadcrumbs(site, locale, [
-  { name: 'Ikigai Sailing', path: '/' },
-  { name: d.title, path: `/${slug}/` },
-]);
+const DEDICATED_VIEWS: Record<string, any> = {
+  about: AboutView,
+  ikigai: IkigaiView,
+  route: RouteView,
+  story: StoryView,
+  'season-2025-26': SeasonView,
+  reviews: ReviewsView,
+  contact: ContactView,
+};
+const Dedicated = DEDICATED.has(pageKey) ? DEDICATED_VIEWS[pageKey] : null;
 ---
-
-<PageLayout title={d.title} description={d.description} path={`/${slug}/`}>
-  <JsonLd slot="head" schema={crumb} />
-
-  {d.heroImage ? (
-    <header class="relative isolate overflow-hidden bg-ocean-950">
-      <Image
-        src={d.heroImage}
-        alt={d.title}
-        width={1800}
-        height={900}
-        widths={[640, 1024, 1800]}
-        sizes="100vw"
-        loading="eager"
-        class="absolute inset-0 -z-10 h-full w-full object-cover opacity-55"
-      />
-      <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/40 to-transparent"></div>
-      <div class="mx-auto flex min-h-[52vh] max-w-4xl flex-col justify-end px-4 py-16 sm:px-6">
-        <p class="coords text-ocean-300">9°33′N · 78°57′W</p>
-        <h1 class="mt-3 font-display text-4xl leading-tight text-sand-50 sm:text-5xl">{d.title}</h1>
-        <p class="mt-4 max-w-2xl text-lg text-sand-100/90">{d.description}</p>
-      </div>
-    </header>
+{
+  Dedicated ? (
+    <Dedicated locale={locale} />
+  ) : pageKey === 'trips' ? (
+    <TripsIndexView locale={locale} />
+  ) : pageKey === 'activities' ? (
+    <ActivitiesIndexView locale={locale} />
+  ) : pageKey === 'blog' ? (
+    <BlogIndexView locale={locale} />
+  ) : pageKey === 'faq' ? (
+    <FaqView locale={locale} />
+  ) : pageKey === 'benefits' ? (
+    <BenefitsView locale={locale} />
   ) : (
-    <PageHero title={d.title} lead={d.description} />
-  )}
-
-  <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
-    <Prose entry={entry} />
-  </article>
-
-  {d.gallery.length > 0 && (
-    <section class="bg-sand-100 py-16">
-      <div class="mx-auto max-w-6xl px-4 sm:px-6">
-        <p class="coords mb-6 text-ocean-600">{t('trip.gallery')}</p>
-        <Gallery images={d.gallery} alt={d.title} />
-      </div>
-    </section>
-  )}
-
-  {/* closing CTA band — every page ends with a way aboard */}
-  <section class="bg-ocean-900 py-16 text-center text-sand-50">
-    <div class="mx-auto max-w-2xl px-4">
-      <h2 class="font-display text-2xl sm:text-3xl">{t('contact.title')}</h2>
-      <p class="mx-auto mt-3 max-w-md text-sand-100/80">{t('contact.whatsappLead')}</p>
-      <div class="mt-7 flex flex-wrap justify-center gap-3">
-        <a href={localizePath('/trips/', locale)} class="rounded-full bg-coral-500 px-6 py-3 font-semibold text-sand-50 transition hover:bg-coral-400">{t('cta.discoverTrips')}</a>
-        <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="rounded-full border border-sand-100/30 px-6 py-3 font-semibold text-sand-50 transition hover:bg-ocean-950/40">{t('cta.whatsapp')}</a>
-      </div>
-    </div>
-  </section>
-</PageLayout>
+    <PageView slug={pageKey} locale={locale} />
+  )
+}
