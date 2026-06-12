@@ -1,32 +1,34 @@
 ---
 /**
- * Analytics — loaded OFF the critical path (requestIdleCallback) to protect LCP.
- * Per owner decision: keep GTM + Meta pixel AND add self-hosted umami in parallel.
- * IDs centralised here. Skipped entirely on dev / preview.
+ * Analytics — GTM + Meta Pixel run **off the main thread via Partytown**
+ * (type="text/partytown"), so they cost ~0 main-thread time and don't drag
+ * Core Web Vitals. umami (privacy-friendly) is tiny and loads normally.
+ * Per owner decision: keep GTM + Meta pixel AND add umami. Prod only.
  */
 const GTM_ID = 'GTM-MM7ZH8ZJ';
 const META_PIXEL_ID = '936580528526004';
-const UMAMI_SRC = import.meta.env.PUBLIC_UMAMI_SRC; // e.g. https://umami.2pu.net/script.js
+const UMAMI_SRC = import.meta.env.PUBLIC_UMAMI_SRC;
 const UMAMI_ID = import.meta.env.PUBLIC_UMAMI_ID;
 const isProd = import.meta.env.PROD;
 ---
 
 {isProd && (
-  <script is:inline define:vars={{ GTM_ID, META_PIXEL_ID, UMAMI_SRC, UMAMI_ID }}>
-    // Defer all third-party tags until the browser is idle — keeps them out of LCP.
-    const boot = () => {
-      // Google Tag Manager
+  <>
+    {/* GTM via Partytown (web worker) */}
+    <script type="text/partytown" is:inline define:vars={{ GTM_ID }}>
       (function (w, d, s, l, i) {
         w[l] = w[l] || [];
-        w[l].push({ 'gtm.start': Date.now(), event: 'gtm.js' });
-        const f = d.getElementsByTagName(s)[0];
-        const j = d.createElement(s);
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s);
         j.async = true;
         j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i;
         f.parentNode.insertBefore(j, f);
       })(window, document, 'script', 'dataLayer', GTM_ID);
+    </script>
 
-      // Meta Pixel
+    {/* Meta Pixel via Partytown */}
+    <script type="text/partytown" is:inline define:vars={{ META_PIXEL_ID }}>
       !(function (f, b, e, v, n, t, s) {
         if (f.fbq) return;
         n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
@@ -37,19 +39,15 @@ const isProd = import.meta.env.PROD;
       })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
       window.fbq('init', META_PIXEL_ID);
       window.fbq('track', 'PageView');
+    </script>
 
-      // Self-hosted umami (privacy-friendly, parallel to GTM per owner)
-      if (UMAMI_SRC && UMAMI_ID) {
-        const u = document.createElement('script');
-        u.async = true; u.defer = true; u.src = UMAMI_SRC;
-        u.setAttribute('data-website-id', UMAMI_ID);
-        document.head.appendChild(u);
-      }
-    };
-    if ('requestIdleCallback' in window) requestIdleCallback(boot, { timeout: 4000 });
-    else window.addEventListener('load', () => setTimeout(boot, 1200));
-  </script>
-  <noscript>
-    <iframe src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`} height="0" width="0" style="display:none;visibility:hidden"></iframe>
-  </noscript>
+    {/* umami — lightweight, privacy-friendly; loads normally (only if configured) */}
+    {UMAMI_SRC && UMAMI_ID && (
+      <script async defer src={UMAMI_SRC} data-website-id={UMAMI_ID}></script>
+    )}
+
+    <noscript>
+      <iframe src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`} height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+  </>
 )}

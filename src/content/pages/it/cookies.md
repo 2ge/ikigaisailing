@@ -1,55 +1,42 @@
 ---
-title: "Cookie policy"
-description: "Cookie policy"
-locale: "it"
-oldUrls:
-  - "/it/cookie-policy/"
-heroImage: "~/assets/trips/acconto/IMG-20221227-WA0019.jpg"
-gallery:
-  - "~/assets/trips/acconto/itinerario.jpg"
-  - "~/assets/trips/acconto/ikigaisailing.webp"
-  - "~/assets/trips/acconto/lucabrano5.webp"
-  - "~/assets/trips/acconto/attraversata-atlantica.webp"
-  - "~/assets/trips/acconto/san-blas.webp"
-  - "~/assets/trips/acconto/skipper.webp"
-  - "~/assets/trips/acconto/user1.webp"
-  - "~/assets/trips/acconto/user3.webp"
+title: Informativa sui cookie
+description: Come Ikigai Sailing utilizza i cookie su questo sito web.
+locale: it
+translated: deepl
+sourceHash: 069ccce68dec954d
 ---
 
-## Interpretation and Definitions
+## Interpretazione e definizioni
 
-### Interpretation
+### Interpretazione
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. 
+I termini con l'iniziale maiuscola hanno il significato definito alle seguenti condizioni. Le definizioni che seguono hanno lo stesso significato sia che compaiano al singolare che al plurale.
 
-* * *
+### Definizioni
 
-### Definitions
+Ai fini della presente Informativa sui cookie:
 
-For the purposes of this Cookies Policy: • “Company” (referred to as either “the Company”, “We”, “Us” or “Our” in this Cookies Policy) refers to [COMPANY INFORMATION]. • “Cookies” means small files that are placed on Your computer, mobile device or any other device by a website, containing details of your browsing history on that website among its many uses. • “Website” refers to [WEBSITE NAME], accessible from [WEBSITE URL] • “You” means the individual accessing or using the Website, or a company, or any legal entity on behalf of which such individual is accessing or using the Website, as applicable. 
+-   **Società** (indicata come "la Società", "Noi", "Ci" o "Nostro" nella presente Politica sui cookie) si riferisce a Ikigai Sailing ASD, Via Gorlago 37 – 00135 Roma (RM), Italia, codice fiscale 96511650580.
+-   Per **"cookie"** si intendono piccoli file che vengono memorizzati sul tuo computer, dispositivo mobile o qualsiasi altro dispositivo da un sito web e che, tra le altre cose, contengono dettagli sulla tua cronologia di navigazione su quel sito web.
+-   **Il termine "Sito web"** si riferisce a Ikigai Sailing, accessibile all'indirizzo [https://www.ikigaisailing.com](https://www.ikigaisailing.com).
+-   **Con** **"tu"** si intende la persona fisica che accede o utilizza il sito web, oppure una società o qualsiasi persona giuridica per conto della quale tale persona fisica accede o utilizza il sito web, a seconda dei casi.
 
-* * *
+## L'uso dei cookie
 
-## The use of the Cookies
+### Tipi di cookie che utilizziamo
 
-### Type of Cookies We Use
+I cookie possono essere "persistenti" o "di sessione". I cookie persistenti rimangono sul tuo computer o dispositivo mobile quando ti disconnetti, mentre i cookie di sessione vengono eliminati non appena chiudi il browser web.
 
-Cookies can be “Persistent” or “Session” Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. 
+Utilizziamo sia cookie di sessione che persistenti per le finalità indicate di seguito:
 
-* * *
+-   **Cookie necessari/essenziali** (di sessione, gestiti da noi) — essenziali per fornirti i servizi disponibili attraverso il sito web e per consentirti di utilizzare alcune delle sue funzionalità. Senza questi cookie, i servizi che hai richiesto non possono essere forniti.
+-   **Cookie di funzionalità** (persistenti, gestiti da noi) — ci permettono di ricordare le scelte che fai quando usi il sito web, come la tua lingua preferita, per offrirti un'esperienza più personalizzata.
+-   **Cookie analitici e di prestazione** (persistenti, gestiti da terze parti) — utilizzati per comprendere il traffico sul Sito Web e il modo in cui i visitatori lo utilizzano, in modo da poterlo migliorare. A tal fine utilizziamo Google Tag Manager e uno strumento di analisi rispettoso della privacy.
 
-### We use both session and persistent Cookies for the purposes set out below:
+### Le tue scelte riguardo ai cookie
 
-• Necessary / Essential Cookies Type: Session Cookies Administered by: Us Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services. • Cookies Policy / Notice Acceptance Cookies Type: Persistent Cookies Administered by: Us Purpose: These Cookies identify if users have accepted the use of cookies on the Website. • Functionality Cookies Type: Persistent Cookies Administered by: Us Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website. • Tracking and Performance Cookies Type: Persistent Cookies Administered by: Third-Parties Purpose: These Cookies are used to track information about traffic to the Website and how users use the Website. The information gathered via these Cookies may directly or indirectly identify you as an individual visitor. This is because the information collected is typically linked to a pseudonymous identifier associated with the device you use to access the Website. We may also use these Cookies to test new advertisements, pages, features or new functionality of the Website to see how our users react to them. 
+Se preferisci evitare l'uso dei cookie sul sito web, puoi disabilitarli nel tuo browser ed eliminare quelli salvati dal browser per questo sito. Se non accetti i nostri cookie, potresti riscontrare qualche inconveniente nell'utilizzo del sito web e alcune funzionalità potrebbero non funzionare correttamente. Le pagine di aiuto del tuo browser spiegano come cancellare o rifiutare i cookie (Chrome, Firefox, Safari ed Edge forniscono tutte queste informazioni).
 
-* * *
+## Contattaci
 
-## Your Choices Regarding Cookies
-
-If You prefer to avoid the use of Cookies on the Website, first You must disable the use of Cookies in your browser and then delete the Cookies saved in your browser associated with this website. You may use this option for preventing the use of Cookies at any time. If You do not accept Our Cookies, You may experience some inconvenience in your use of the Website and some features may not function properly. If You’d like to delete Cookies or instruct your web browser to delete or refuse Cookies, please visit the help pages of your web browser. For the Chrome web browser, please visit this page from Google: https://support.google.com/accounts/answer/32050 For the Internet Explorer web browser, please visit this page from Microsoft: http://support.microsoft.com/kb/278835 For the Firefox web browser, please visit this page from Mozilla: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored For the Safari web browser, please visit this page from Apple: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac For any other web browser, please visit your web browser’s official web pages. 
-
-* * *
-
-## Contact Us
-
-If you have any questions about this Cookies Policy, You can contact us: • By visiting this page on our website: [WEBSITE CONTACT PAGE URL] • By sending us an email: [WEBSITE CONTACT EMAIL]
+Se hai domande su questa Politica sui cookie, puoi contattarci tramite [la](/it/contact/) nostra [pagina dei contatti](/it/contact/) o su WhatsApp al numero +39 331 32 926 29.
