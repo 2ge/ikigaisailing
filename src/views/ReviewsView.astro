@@ -14,6 +14,12 @@ const hasGoogle = g.reviews.length > 0;
 
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
+
+// Trustpilot TrustBox (free official "Review Carousel" widget) — business unit
+// for ikigaisailing.com (TrustScore 4.6 / 24 reviews). data-locale maps the page
+// language to Trustpilot's format; sk falls back to en-US (not a widget locale).
+const TRUSTPILOT_BUID = '5fe0cf3580728900010a6211';
+const TP_LOCALE: Record<Locale, string> = { en: 'en-US', it: 'it-IT', es: 'es-ES', fr: 'fr-FR', sk: 'en-US' };
 const intro = await entryForLocale('pages', 'reviews', locale);
 const testimonials = await entriesForLocale('testimonials', locale);
 
@@ -121,6 +127,26 @@ const reviewSchema = {
     </section>
   )}
 
+  {/* live Trustpilot reviews — free official TrustBox (Review Carousel), loaded only on this page */}
+  <section class="bg-sand-50 pt-12">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <p class="coords mb-5 text-ocean-600">Live on Trustpilot</p>
+      {/* TrustBox widget - Review Carousel */}
+      <div
+        class="trustpilot-widget"
+        data-locale={TP_LOCALE[locale]}
+        data-template-id="53aa8912dec7e10d38f59f36"
+        data-businessunit-id={TRUSTPILOT_BUID}
+        data-style-height="240px"
+        data-style-width="100%"
+        data-stars="4,5"
+      >
+        <a href="https://www.trustpilot.com/review/ikigaisailing.com" target="_blank" rel="noopener">Trustpilot</a>
+      </div>
+      {/* End TrustBox widget */}
+    </div>
+  </section>
+
   {/* written guest letters — labelled divider sets these apart from the live Google block */}
   <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
     <div class="mb-8 flex items-center gap-4">
@@ -210,5 +236,23 @@ const reviewSchema = {
       el.classList.add('ring-2', 'ring-coral-400');
     }
     document.addEventListener('astro:page-load', flash);
+
+    // Trustpilot TrustBox: load the official bootstrap once, then (re)render the
+    // widget on every page-load so it also works when /reviews/ is reached via
+    // View Transitions (the bootstrap only auto-inits on a full document load).
+    function renderTrustpilot() {
+      const el = document.querySelector('.trustpilot-widget');
+      if (!el) return; // not on the reviews page
+      const TP = (window as any).Trustpilot;
+      if (TP) { TP.loadFromElement(el, true); return; }
+      if (document.getElementById('tp-bootstrap')) return; // already loading
+      const s = document.createElement('script');
+      s.id = 'tp-bootstrap';
+      s.async = true;
+      s.src = 'https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js';
+      s.onload = renderTrustpilot;
+      document.head.appendChild(s);
+    }
+    document.addEventListener('astro:page-load', renderTrustpilot);
   </script>
 </PageLayout>
