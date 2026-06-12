@@ -10,10 +10,11 @@ import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
 interface Props {
   /** page context drives the suggestion chips */
   context?: 'home' | 'trip' | 'activity' | 'season' | 'generic';
-  /** Turnstile site key (public). Falls back to the test key. */
+  /** Turnstile site key (public). Empty = Turnstile disabled (owner not configured yet). */
   turnstileSiteKey?: string;
 }
-const { context = 'generic', turnstileSiteKey = '1x00000000000000000000AA' } = Astro.props;
+// Only enable Turnstile once the owner sets a real key AND the server has TURNSTILE_SECRET.
+const { context = 'generic', turnstileSiteKey = '' } = Astro.props;
 const locale = getLocaleFromUrl(Astro.url);
 const t = useTranslations(locale);
 

@@ -165,7 +165,11 @@ export function initConcierge(root: HTMLElement) {
     const holder = panel.querySelector('[data-turnstile-holder]') as HTMLElement;
     const go = () => {
       // @ts-expect-error global injected by the Turnstile script
-      window.turnstile?.render(holder, { sitekey: siteKey, size: 'invisible', callback: (tok: string) => (turnstileToken = tok) });
+      window.turnstile?.render(holder, {
+        sitekey: siteKey,
+        appearance: 'interaction-only', // only shows a challenge if one is needed
+        callback: (tok: string) => (turnstileToken = tok),
+      });
     };
     // @ts-expect-error
     if (window.turnstile) return go();
