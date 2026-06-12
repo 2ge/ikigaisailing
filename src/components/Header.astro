@@ -84,7 +84,6 @@ const lp = (p: string) => localizePath(p, locale);
           aria-label={t('lang.switch')}
         >
           <span class="flag" set:html={flags[locale]} />
-          {locale.toUpperCase()}
           <svg class="h-3 w-3 opacity-50" viewBox="0 0 12 12" fill="none" aria-hidden="true">
             <path d="M2.5 4.5L6 8l3.5-3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
           </svg>
