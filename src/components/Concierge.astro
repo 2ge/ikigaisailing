@@ -1,0 +1,76 @@
+---
+/**
+ * "Ask Ikigai" concierge widget. Floating button bottom-right; the panel + all
+ * logic load only on first interaction (the chat script is fetched on click),
+ * so it costs ~0 KB on initial page load. Vanilla JS, localized via ui.ts.
+ * Suggestion chips vary by page type (set `context` prop).
+ */
+import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
+
+interface Props {
+  /** page context drives the suggestion chips */
+  context?: 'home' | 'trip' | 'activity' | 'season' | 'generic';
+  /** Turnstile site key (public). Falls back to the test key. */
+  turnstileSiteKey?: string;
+}
+const { context = 'generic', turnstileSiteKey = '1x00000000000000000000AA' } = Astro.props;
+const locale = getLocaleFromUrl(Astro.url);
+const t = useTranslations(locale);
+
+const chipSets: Record<string, string[]> = {
+  trip: ["What's included?", 'How do I get there?', 'Is it suitable for beginners?'],
+  activity: ['Do I need experience?', 'What gear is provided?', 'Is it safe?'],
+  season: ['How much is a week?', 'When does the season run?', 'What will we do each day?'],
+  home: ['What trips do you offer?', 'Where is San Blas?', 'How do I book?'],
+  generic: ['What trips do you offer?', "What's included?", 'How do I book?'],
+};
+const chips = chipSets[context] ?? chipSets.generic;
+---
+
+<div
+  id="ikigai-concierge"
+  data-locale={locale}
+  data-turnstile={turnstileSiteKey}
+  data-chips={JSON.stringify(chips)}
+  data-strings={JSON.stringify({
+    title: t('concierge.title'),
+    subtitle: t('concierge.subtitle'),
+    placeholder: t('concierge.placeholder'),
+    open: t('concierge.open'),
+    send: t('concierge.send'),
+    whatsapp: t('cta.whatsapp'),
+  })}
+>
+  <button
+    id="concierge-fab"
+    class="fixed bottom-20 right-5 z-40 flex h-13 items-center gap-2 rounded-full bg-ocean-700 py-3 pl-4 pr-5 font-semibold text-sand-50 shadow-lg shadow-ocean-950/25 transition hover:bg-ocean-600"
+    aria-label={t('concierge.open')}
+  >
+    <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M3 12a9 9 0 1 1 4.5 7.8L3 21l1.2-4.5A8.96 8.96 0 0 1 3 12Z" />
+      <path stroke-linecap="round" d="M8 11h8M8 14h5" />
+    </svg>
+    <span class="text-sm">{t('concierge.open')}</span>
+  </button>
+</div>
+
+<style>
+  .h-13 { height: 3.25rem; }
+</style>
+
+<script>
+  // Tiny loader — the real chat module is fetched only on first click.
+  const root = document.getElementById('ikigai-concierge');
+  const fab = document.getElementById('concierge-fab');
+  let loaded = false;
+  fab?.addEventListener('click', async () => {
+    if (loaded) {
+      window.dispatchEvent(new CustomEvent('concierge:toggle'));
+      return;
+    }
+    loaded = true;
+    const { initConcierge } = await import('../scripts/concierge-widget.ts');
+    initConcierge(root!);
+    window.dispatchEvent(new CustomEvent('concierge:toggle'));
+  });
+</script>

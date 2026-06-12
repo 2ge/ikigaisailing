@@ -32,3 +32,6 @@ pnpm-debug.log*
 # local screenshots / playwright
 *.jpeg
 .playwright-mcp/
+
+# generated concierge corpus (rebuilt each build)
+functions/api/_knowledge.ts

@@ -79,7 +79,30 @@ Never committed. Build-time in `.env`; runtime via `wrangler pages secret put <N
 | `RESEND_API_KEY`, `CREW_EMAIL` | Pages secret | transactional email |
 | `TURNSTILE_SECRET` | Pages secret | contact form anti-spam |
 | `LISTMONK_URL`, `LISTMONK_API_KEY`, `LISTMONK_*_LIST_ID` | Pages secret | mailing |
+| `GEMINI_API_KEY` | Pages secret | "Ask Ikigai" concierge (Google Gemini) |
+| `GEMINI_MODEL` | Pages var (optional) | concierge model override (default `gemini-flash-latest`) |
+| `CONCIERGE_DAILY_BUDGET_USD` | Pages var (optional) | concierge daily spend cap (default `2`) |
 | `PUBLIC_UMAMI_SRC`, `PUBLIC_UMAMI_ID` | `wrangler.toml` vars | analytics (public) |
+
+## "Ask Ikigai" concierge (Phase 10)
+
+A chat widget (bottom-right, lazy-loaded — 0 KB until clicked) answering visitor
+questions **strictly from site content**, in the visitor's language, handing off to
+WhatsApp when it can't help.
+
+- **Model:** Google **Gemini** (`gemini-flash-latest`) via `functions/api/concierge.ts`,
+  SSE-streamed. Thinking disabled for fast, short answers. Free-tier friendly.
+- **Knowledge:** `scripts/gen-knowledge.ts` compiles all EN content into
+  `functions/api/_knowledge.ts` on every build (never stale). Editable rules in
+  `src/concierge/system-prompt.md`.
+- **Guardrails:** 10 turns/conversation, 500 chars/message, 20 requests/hour/IP,
+  `$2`/day budget cap, Turnstile on the first message — all via the `CONCIERGE_KV`
+  namespace (bound in `wrangler.toml`).
+- **Escalation log:** every WhatsApp hand-off is logged to KV. `npm run concierge:report`
+  lists the unanswered questions — exactly the FAQ items / blog posts to write next
+  (feeds the monthly SEO loop). Needs a `CLOUDFLARE_KV_TOKEN` (Workers KV read) in `.env`.
+- **Swap provider:** the only provider-specific code is the upstream `fetch` in
+  `concierge.ts`; the widget/KV/limits are agnostic.
 
 ## Stripe (Phase 4)
 

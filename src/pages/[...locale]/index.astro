@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
 ---
-<PageLayout title={`${t('site.name')} – ${t('site.tagline')}`} description={t('home.heroLead')} path="/">
+<PageLayout title={`${t('site.name')} – ${t('site.tagline')}`} description={t('home.heroLead')} path="/" conciergeContext="home">
   <HomeJsonLd slot="head" />
   <Home locale={locale} />
 </PageLayout>

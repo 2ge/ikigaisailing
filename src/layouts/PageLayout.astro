@@ -1,9 +1,10 @@
 ---
-/** Standard page shell: BaseLayout + Header + Footer + floating WhatsApp button. */
+/** Standard page shell: BaseLayout + Header + Footer + WhatsApp + concierge. */
 import BaseLayout from './BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import WhatsAppFloat from '../components/WhatsAppFloat.astro';
+import Concierge from '../components/Concierge.astro';
 
 interface Props {
   title: string;
@@ -13,7 +14,10 @@ interface Props {
   ogType?: 'website' | 'article';
   alternates?: boolean;
   noindex?: boolean;
+  /** concierge suggestion-chip context */
+  conciergeContext?: 'home' | 'trip' | 'activity' | 'season' | 'generic';
 }
+const { conciergeContext = 'generic' } = Astro.props;
 ---
 
 <BaseLayout {...Astro.props}>
@@ -24,4 +28,5 @@ interface Props {
   </main>
   <Footer />
   <WhatsAppFloat />
+  <Concierge context={conciergeContext} />
 </BaseLayout>

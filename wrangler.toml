@@ -9,3 +9,8 @@ pages_build_output_dir = "dist"
 [vars]
 PUBLIC_UMAMI_SRC = ""
 PUBLIC_UMAMI_ID = ""
+
+# KV for the concierge: rate-limit counters, daily budget, escalation log.
+[[kv_namespaces]]
+binding = "CONCIERGE_KV"
+id = "546c18890a5d4e6a92fecf660a801fb4"
