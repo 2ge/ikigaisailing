@@ -1,7 +1,44 @@
 {
-  "rating": null,
-  "count": 0,
-  "mapsUri": null,
-  "reviews": [],
-  "fetchedAt": null
+  "rating": 5,
+  "count": 8,
+  "mapsUri": "https://maps.google.com/?cid=15753278920699617280&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "reviews": [
+    {
+      "author": "Nuria Muñoz",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocJeu8VXcOW9wGEr7_g5nfxYbmjh4jahOMxiX0tvdGhF1mwthFM=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/109205155361717649967/reviews",
+      "rating": 5,
+      "text": "It's not just a trip or a cruise; for me, it's been an experience I'll never forget. It's not just the staff's professionalism and hospitality, but the combination of everything that touched me deeply. The place is magical, the ship is comfortable, and the people are lovely. The activities and food are focused on physical and mental well-being. I can only be grateful to the Ikigai team 🫶🏻",
+      "when": "a month ago",
+      "lang": "en-US"
+    },
+    {
+      "author": "Arianna Coronati",
+      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXSnu-S_I47a8fj9UryZAD5nk0YA8K0ZnvAoH2avLMRMAlmskA=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/117556127907574194893/reviews",
+      "rating": 5,
+      "text": "Lucky!\nWe felt truly fortunate when, not long ago, a dear friend of ours met Luca on a beach in Los Roques.\nFrom that moment, we learned about the Ikigai Sailing project. Even before taking part in this incredible experience, we watched this crew of dreamy sailors from afar. Shortly thereafter, we found ourselves aboard the catamaran with them. Lucky!\n\nMy partner and I enjoyed every single moment of this memorable journey.\nWe discovered the beauty of being able to rely on someone. Luca guided us with professionalism, safety, and tranquility toward new activities: meditation, yoga, freediving, and spearfishing. We surpassed our physical and mental limits, learned to slow down, to look within. We felt regenerated and stronger.\n\nSurrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect mix.\nWe cannot fail to mention Paula's sweetness and Luca's passion for cooking. Together, they pampered us, preparing delicacies from the sea every day. We felt at home.\nWe discovered places that made us cry, we shared emotional moments watching the sunset, we met the resilient Guna people, with a deep spiritual connection to nature. We immersed ourselves completely in this adventure, we felt part of the Ikigai Sailing \"family\" and nothing compared to the grandeur of the nature of the San Blas Islands.\nI don't think we'll ever be able to put it into words.\n\nOurs is just a goodbye; we'll meet again in the new world; Ikigai has stolen our hearts.\n\n——————————\n\nWe felt truly lucky when, not long ago, a dear friend of ours met Luca on a beach in Los Roques.\nFrom that moment on, we learned about the Ikigai Sailing project. Even before taking part in this incredible experience, we watched this crew of dreamers from afar.\n\nMy partner and I enjoyed every single moment of this memorable journey.\nWe discovered the beauty of being able to trust someone. Luca guided us with professionalism, confidence, and calmness toward new activities: meditation, yoga, free diving, and spearfishing. We pushed past our physical and mental limits; we learned to slow down and look within ourselves. We felt regenerated and stronger.\n\nSurrounded by the unique atmosphere of the Caribbean Sea, the Ikigai crew is a perfect mix.\nWe simply must mention Paula's kindness and Luca's cooking passion. Together, they prepare delicious seafood dishes every day. We felt right at home.\nWe shared emotional moments watching the sunset, we met the Guna people, with a deep spiritual connection to nature.\n\nWe immersed ourselves completely in this adventure; we felt like part of the Ikigai Sailing family.\nWe'll meet again in the new world.",
+      "when": "a month ago",
+      "lang": "en-US"
+    },
+    {
+      "author": "Jose Cortes",
+      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXaciZS1kylKcc-gYndq9uUxUjGgHE9FNhENBqYCCoMiGEDGipQ=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/113800229465281498725/reviews",
+      "rating": 5,
+      "text": "I went with my wife, my two daughters, four cats, and my parakeet. We really enjoyed the experience; everything was excellent! 10/10",
+      "when": "a week ago",
+      "lang": "en-US"
+    },
+    {
+      "author": "Cristiano Talpo",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocKFTucAzyWiuqoOJk3s-DOYqAP5XXkUB40kE9ltR2VdFYTuhQ=s128-c0x00000000-cc-rp-mo",
+      "profileUrl": "https://www.google.com/maps/contrib/102469962779327433269/reviews",
+      "rating": 5,
+      "text": "We spent about ten days in San Blas with Ikigai in January. The archipelago is beautiful, still protected by the locals from mass tourism.\nA timeless vacation in a breathtaking natural setting: wild islands, hospitable locals, coral reef, sharks, dolphins, sun, and wind...\nIkigai is a very comfortable catamaran, with everything you could possibly need.\nLuca and Paola spoiled and looked after us with excellent cuisine, exercise, meditation, conversation, and wonderful company.\nLuca is the friend who has the courage to do what everyone dreams of doing, with great energy and enthusiasm. Thank you and... fair winds!",
+      "when": "3 weeks ago",
+      "lang": "en-US"
+    }
+  ],
+  "fetchedAt": "2026-06-12T20:40:44.792Z"
 }
