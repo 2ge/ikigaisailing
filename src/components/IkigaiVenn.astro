@@ -9,10 +9,10 @@ import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
 const t = useTranslations(getLocaleFromUrl(Astro.url));
 
 const circles = [
-  { label: t('ikigai.love'), cls: 'left-1/2 top-0 -translate-x-1/2', fill: 'bg-coral-400/45' },
-  { label: t('ikigai.good'), cls: 'left-0 top-1/2 -translate-y-1/2', fill: 'bg-ocean-400/45' },
-  { label: t('ikigai.needs'), cls: 'right-0 top-1/2 -translate-y-1/2', fill: 'bg-sand-400/55' },
-  { label: t('ikigai.paid'), cls: 'bottom-0 left-1/2 -translate-x-1/2', fill: 'bg-ocean-600/45' },
+  { label: t('ikigai.love'), cls: 'left-1/2 top-0 -translate-x-1/2', fill: 'bg-coral-400/45', lbl: 'top-[9%] left-1/2 -translate-x-1/2' },
+  { label: t('ikigai.good'), cls: 'left-0 top-1/2 -translate-y-1/2', fill: 'bg-ocean-400/45', lbl: 'left-[7%] top-1/2 -translate-y-1/2' },
+  { label: t('ikigai.needs'), cls: 'right-0 top-1/2 -translate-y-1/2', fill: 'bg-sand-400/55', lbl: 'right-[7%] top-1/2 -translate-y-1/2' },
+  { label: t('ikigai.paid'), cls: 'bottom-0 left-1/2 -translate-x-1/2', fill: 'bg-ocean-600/45', lbl: 'bottom-[9%] left-1/2 -translate-x-1/2' },
 ];
 // pairwise overlaps (petals)
 const petals = [
@@ -28,9 +28,10 @@ const petals = [
   <div class="relative h-full w-full" style="mix-blend-mode: normal;">
     {/* four overlapping circles (multiply so overlaps deepen) */}
     {circles.map((c) => (
-      <div class:list={['absolute grid h-[62%] w-[62%] place-items-start justify-center rounded-full mix-blend-multiply ring-1 ring-ocean-950/5', c.fill, c.cls]}>
-        <span class="mt-[12%] max-w-[60%] text-center text-sm font-semibold leading-tight text-ocean-950">{c.label}</span>
-      </div>
+      <div class:list={['absolute h-[62%] w-[62%] rounded-full mix-blend-multiply ring-1 ring-ocean-950/5', c.fill, c.cls]}></div>
+    ))}
+    {circles.map((c) => (
+      <span class:list={['absolute z-[5] max-w-[22%] text-center text-sm font-semibold leading-tight text-ocean-950', c.lbl]}>{c.label}</span>
     ))}
     {/* petals */}
     {petals.map((p) => (
