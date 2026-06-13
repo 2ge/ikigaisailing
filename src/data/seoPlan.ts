@@ -41,9 +41,11 @@ export const PHASES: Phase[] = [
     ],
   },
   {
-    id: 'p3', title: 'Phase 3 — Pillar pages', goal: 'Geo authority hubs that link the whole cluster together.',
+    id: 'p3', title: 'Phase 3 — Geo pages & pillars', goal: 'Region hubs + geo activity pages (the near-term money); activity pages go evergreen/global.',
     steps: [
-      { title: '/san-blas/ evergreen pillar → "san blas catamaran", links to all San Blas spokes + money pages', status: 'todo', note: 'decision: new pillar vs reuse season page' },
+      { title: '/san-blas/ evergreen pillar → "san blas catamaran", links to all geo activity pages + money pages', status: 'todo' },
+      { title: 'Geo activity pages /san-blas/<activity> → regional keywords (yoga/freediving/janzu san blas)', status: 'todo', note: 'highest-volume, season-active → build FIRST' },
+      { title: 'Re-point /activities/<x> to GLOBAL keywords; re-map seoKeywords.ts (pending URL shape)', status: 'todo' },
       { title: '/world-voyage/ pillar for the Global set', status: 'todo' },
     ],
   },
@@ -65,7 +67,8 @@ export const SPRINT: string[] = [
 ];
 
 export const DECISIONS: { q: string; status: Status; answer?: string }[] = [
-  { q: '/san-blas/ as a new evergreen pillar (recommended), + /world-voyage/ later?', status: 'todo' },
+  { q: 'Page architecture: evergreen ACTIVITY pages target GLOBAL keywords; GEO landing pages (/san-blas/<activity>) target the regional keywords — re-pointed as the boat moves (San Blas → Polynesia → …).', status: 'now', answer: 'Agreed in principle (owner, 2026-06-13). Strict keyword split avoids cannibalization. Open sub-question: URL shape — /san-blas/yoga (recommended) vs /panama/san-blas/yoga.' },
+  { q: '/san-blas/ as a new evergreen pillar (recommended), + /world-voyage/ later?', status: 'now', answer: 'Yes — becomes the geo hub with activity children; season page feeds it.' },
   { q: 'Publishing pace — how many articles/week should Claude write?', status: 'todo' },
   { q: 'Language priority — EN-first then all 5, or push IT/SK harder?', status: 'todo' },
   { q: 'Spoke depth — many short 600–800w posts vs fewer 1,200–1,500w deep guides?', status: 'todo' },
