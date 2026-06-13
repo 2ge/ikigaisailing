@@ -10,6 +10,9 @@
  */
 import '../../../styles/global.css';
 import { SETS, rankedClusters, type SetId } from '../../../data/seoKeywords';
+import gsc from '../../../data/gsc-ranks.json';
+
+const rankMap = new Map((gsc.queries as any[]).map((q) => [q.query, q]));
 
 export function getStaticPaths() {
   return (Object.keys(SETS) as SetId[]).map((id) => ({ params: { set: id } }));
@@ -53,14 +56,14 @@ const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500
 
       <p class="mb-5 rounded-lg border border-white/10 bg-white/[0.02] p-3 text-[0.7rem] leading-relaxed text-slate-400">
         <b class="text-slate-300">Priority</b> = monthly volume × winnability (lower difficulty scored higher) → work top-down.
-        <b class="text-slate-300">Rank</b> = current Google position of ikigaisailing.com — needs a live source (GSC not yet
-        connected). Per SEMrush the site ranks only for incidental blog terms, so these commercial targets read
-        <span class="text-rose-400">n/r</span> (not ranking, &gt;100). Click a row for its 5 spokes.
+        <b class="text-slate-300">Rank</b> = live Google position from Search Console (refreshed {gsc.generatedAt}, last-28-day avg).
+        <span class="text-rose-400">n/r</span> = no impressions in 28 days (effectively unranked for that term). Click a row for its spokes.
       </p>
 
       <div class="space-y-2">
         {rows.map((r, i) => {
           const tg = tier(r.score);
+          const g = rankMap.get(r.primary);
           return (
             <details class="group rounded-xl border border-white/10 bg-white/[0.02]">
               <summary class="grid cursor-pointer grid-cols-[2rem_1fr_auto] items-center gap-3 px-3 py-2.5">
@@ -72,7 +75,9 @@ const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500
                 <span class="flex items-center gap-2 font-mono text-[0.7rem]">
                   <span class="text-slate-300">{r.vol ? `${r.vol}/mo` : '—'}</span>
                   <span class={kdTone(r.kd)} title={`KD ${r.kd}`}>{(r.kd||'').replace(/ \(0\)/,'').slice(0,8)}</span>
-                  <span class="rounded border border-rose-500/30 px-1.5 py-0.5 text-rose-400/80" title="not ranking (needs GSC)">n/r</span>
+                  {g
+                    ? <span class={`rounded border px-1.5 py-0.5 ${g.position<=10?'border-emerald-500/40 text-emerald-300':g.position<=20?'border-amber-500/40 text-amber-300':'border-white/15 text-slate-400'}`} title={`GSC: ${g.impressions} impressions, ${g.clicks} clicks (28d)`}>#{g.position}</span>
+                    : <span class="rounded border border-rose-500/30 px-1.5 py-0.5 text-rose-400/80" title="no GSC impressions in 28d">n/r</span>}
                   <span class={`w-12 rounded border px-1.5 py-0.5 text-center ${tg.c}`}>{tg.t}·{r.score}</span>
                 </span>
               </summary>

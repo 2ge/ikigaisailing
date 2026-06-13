@@ -1,0 +1,1331 @@
+{
+ "generatedAt": "2026-06-13",
+ "property": "https://www.ikigaisailing.com/",
+ "range": {
+  "startDate": "2026-05-14",
+  "endDate": "2026-06-11"
+ },
+ "count": 220,
+ "queries": [
+  {
+   "query": "janzu",
+   "position": 9.9,
+   "impressions": 344,
+   "clicks": 1
+  },
+  {
+   "query": "diving reflex",
+   "position": 7.6,
+   "impressions": 189,
+   "clicks": 0
+  },
+  {
+   "query": "le onde del mare",
+   "position": 9.4,
+   "impressions": 94,
+   "clicks": 1
+  },
+  {
+   "query": "onde del mare",
+   "position": 9.5,
+   "impressions": 93,
+   "clicks": 0
+  },
+  {
+   "query": "sailing",
+   "position": 16.2,
+   "impressions": 88,
+   "clicks": 0
+  },
+  {
+   "query": "ikigai",
+   "position": 12.7,
+   "impressions": 83,
+   "clicks": 0
+  },
+  {
+   "query": "onda del mare",
+   "position": 8.6,
+   "impressions": 66,
+   "clicks": 0
+  },
+  {
+   "query": "riflesso di immersione",
+   "position": 8,
+   "impressions": 64,
+   "clicks": 0
+  },
+  {
+   "query": "onda mare",
+   "position": 10.4,
+   "impressions": 34,
+   "clicks": 0
+  },
+  {
+   "query": "skipper barca",
+   "position": 45,
+   "impressions": 30,
+   "clicks": 0
+  },
+  {
+   "query": "janzu near me",
+   "position": 10.4,
+   "impressions": 28,
+   "clicks": 0
+  },
+  {
+   "query": "emergenza in mare",
+   "position": 45.3,
+   "impressions": 27,
+   "clicks": 0
+  },
+  {
+   "query": "tipi di onde marine",
+   "position": 1.5,
+   "impressions": 26,
+   "clicks": 1
+  },
+  {
+   "query": "onde marine",
+   "position": 19,
+   "impressions": 25,
+   "clicks": 0
+  },
+  {
+   "query": "onde oceaniche",
+   "position": 7.4,
+   "impressions": 25,
+   "clicks": 0
+  },
+  {
+   "query": "ikigai sailing",
+   "position": 1,
+   "impressions": 24,
+   "clicks": 13
+  },
+  {
+   "query": "soccorso in mare",
+   "position": 48.3,
+   "impressions": 24,
+   "clicks": 0
+  },
+  {
+   "query": "onde di mare",
+   "position": 8.1,
+   "impressions": 23,
+   "clicks": 0
+  },
+  {
+   "query": "soccorso mare",
+   "position": 33.3,
+   "impressions": 22,
+   "clicks": 0
+  },
+  {
+   "query": "corso skipper",
+   "position": 37,
+   "impressions": 19,
+   "clicks": 0
+  },
+  {
+   "query": "onde mare",
+   "position": 8.2,
+   "impressions": 19,
+   "clicks": 0
+  },
+  {
+   "query": "tipi di onde",
+   "position": 8.8,
+   "impressions": 19,
+   "clicks": 0
+  },
+  {
+   "query": "what is janzu",
+   "position": 10.4,
+   "impressions": 18,
+   "clicks": 0
+  },
+  {
+   "query": "cosa portare in barca a vela",
+   "position": 47.2,
+   "impressions": 17,
+   "clicks": 0
+  },
+  {
+   "query": "janzu water therapy",
+   "position": 20.9,
+   "impressions": 16,
+   "clicks": 1
+  },
+  {
+   "query": "riflesso da immersione",
+   "position": 7.3,
+   "impressions": 16,
+   "clicks": 0
+  },
+  {
+   "query": "corso da skipper",
+   "position": 37.7,
+   "impressions": 15,
+   "clicks": 0
+  },
+  {
+   "query": "corsi per diventare skipper",
+   "position": 28.3,
+   "impressions": 14,
+   "clicks": 0
+  },
+  {
+   "query": "corso per skipper",
+   "position": 31.9,
+   "impressions": 14,
+   "clicks": 0
+  },
+  {
+   "query": "corsi skipper",
+   "position": 29.2,
+   "impressions": 13,
+   "clicks": 0
+  },
+  {
+   "query": "corso skipper professionista",
+   "position": 36.5,
+   "impressions": 13,
+   "clicks": 0
+  },
+  {
+   "query": "diventare skipper da zero",
+   "position": 27.8,
+   "impressions": 13,
+   "clicks": 0
+  },
+  {
+   "query": "corsi per skipper",
+   "position": 29.8,
+   "impressions": 12,
+   "clicks": 0
+  },
+  {
+   "query": "corso di skipper",
+   "position": 25.3,
+   "impressions": 12,
+   "clicks": 0
+  },
+  {
+   "query": "corsi per skipper professionista",
+   "position": 36.9,
+   "impressions": 11,
+   "clicks": 0
+  },
+  {
+   "query": "diventare uno skipper",
+   "position": 11.8,
+   "impressions": 11,
+   "clicks": 0
+  },
+  {
+   "query": "skipper come diventare",
+   "position": 24.5,
+   "impressions": 11,
+   "clicks": 0
+  },
+  {
+   "query": "skipper cosa fa",
+   "position": 10.6,
+   "impressions": 11,
+   "clicks": 0
+  },
+  {
+   "query": "abilitazione skipper",
+   "position": 35.3,
+   "impressions": 10,
+   "clicks": 0
+  },
+  {
+   "query": "brevetto skipper",
+   "position": 31.6,
+   "impressions": 10,
+   "clicks": 0
+  },
+  {
+   "query": "diventare skipper professionista",
+   "position": 22.1,
+   "impressions": 10,
+   "clicks": 0
+  },
+  {
+   "query": "emergenze in mare",
+   "position": 41,
+   "impressions": 10,
+   "clicks": 0
+  },
+  {
+   "query": "formazione skipper pratico",
+   "position": 17.9,
+   "impressions": 10,
+   "clicks": 0
+  },
+  {
+   "query": "cavalloni mare",
+   "position": 1,
+   "impressions": 9,
+   "clicks": 0
+  },
+  {
+   "query": "come diventare skipper",
+   "position": 18.7,
+   "impressions": 9,
+   "clicks": 0
+  },
+  {
+   "query": "cosa fa uno skipper",
+   "position": 12.3,
+   "impressions": 9,
+   "clicks": 0
+  },
+  {
+   "query": "corsi di skipper",
+   "position": 30.5,
+   "impressions": 8,
+   "clicks": 0
+  },
+  {
+   "query": "ikigai yacht",
+   "position": 14.1,
+   "impressions": 8,
+   "clicks": 0
+  },
+  {
+   "query": "skipper barca a vela",
+   "position": 67.3,
+   "impressions": 8,
+   "clicks": 0
+  },
+  {
+   "query": "skipper vela",
+   "position": 79.7,
+   "impressions": 7,
+   "clicks": 0
+  },
+  {
+   "query": "soft-skills für skipper",
+   "position": 24.6,
+   "impressions": 7,
+   "clicks": 0
+  },
+  {
+   "query": "tipologie di onde",
+   "position": 8.8,
+   "impressions": 6,
+   "clicks": 1
+  },
+  {
+   "query": "emergenza mare",
+   "position": 53.3,
+   "impressions": 6,
+   "clicks": 0
+  },
+  {
+   "query": "mare con onde",
+   "position": 10.2,
+   "impressions": 6,
+   "clicks": 0
+  },
+  {
+   "query": "soccorso a mare",
+   "position": 37.3,
+   "impressions": 6,
+   "clicks": 0
+  },
+  {
+   "query": "come si formano le onde del mare",
+   "position": 18,
+   "impressions": 5,
+   "clicks": 0
+  },
+  {
+   "query": "corso skipper vela",
+   "position": 32.8,
+   "impressions": 5,
+   "clicks": 0
+  },
+  {
+   "query": "descrizione delle onde del mare",
+   "position": 5.4,
+   "impressions": 5,
+   "clicks": 0
+  },
+  {
+   "query": "diventare skipper",
+   "position": 13.6,
+   "impressions": 5,
+   "clicks": 0
+  },
+  {
+   "query": "diving reflex neonato",
+   "position": 33.2,
+   "impressions": 5,
+   "clicks": 0
+  },
+  {
+   "query": "traversata oceanica",
+   "position": 26.2,
+   "impressions": 5,
+   "clicks": 0
+  },
+  {
+   "query": "cos'è uno skipper",
+   "position": 11,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "cosa vuol dire pacifico",
+   "position": 13.5,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "janzu water massage",
+   "position": 25.3,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "mammalian dive",
+   "position": 4.3,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "mammalian reflex",
+   "position": 5.8,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "quanto guadagna uno skipper",
+   "position": 32,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "sailing adventure",
+   "position": 1.5,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "sails",
+   "position": 18.3,
+   "impressions": 4,
+   "clicks": 0
+  },
+  {
+   "query": "come vestirsi in barca a vela",
+   "position": 89.7,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "cosa sono le onde marine",
+   "position": 10.3,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "ikiga",
+   "position": 1,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "kayaking",
+   "position": 7,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "lavorare come skipper",
+   "position": 19,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "onda lunga mare",
+   "position": 22.7,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "onde che si infrangono sugli scogli",
+   "position": 1,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "patente skipper",
+   "position": 13.3,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "periodo onda mare",
+   "position": 43,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "servizio di soccorso in mare",
+   "position": 40,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "skipper cos'è",
+   "position": 41,
+   "impressions": 3,
+   "clicks": 0
+  },
+  {
+   "query": "abbigliamento barca a vela cosa portare",
+   "position": 40,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "abbigliamento in barca a vela",
+   "position": 62.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "abbigliamento per andare in barca",
+   "position": 76,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "azioni del mare",
+   "position": 56.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "come si diventa skipper",
+   "position": 17,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "come si formano le onde",
+   "position": 37,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "corso skipper principiante",
+   "position": 27.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "diffrazione onde mare",
+   "position": 45.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "ikigaimaga",
+   "position": 4.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "le onde marine",
+   "position": 19,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "mare onda",
+   "position": 16.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "onda del mare in inglese",
+   "position": 21,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "onda di mare",
+   "position": 27.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "onda oceano",
+   "position": 30,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "onde acqua",
+   "position": 52.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "onde del mare frasi canzoni",
+   "position": 3,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "pacific crossing",
+   "position": 20.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "pacific crossing sailing",
+   "position": 57,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "pacific ocean crossing",
+   "position": 38.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "sailing retreat",
+   "position": 10,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "sailing surf",
+   "position": 12,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "sailing+xigua",
+   "position": 9,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "skipper barca significato",
+   "position": 33,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "skipper barche",
+   "position": 72.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "skipper professionista",
+   "position": 34.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "skipper significato",
+   "position": 55,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "skipper yacht",
+   "position": 47.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "terapia janzu",
+   "position": 11.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "xigua+sailing",
+   "position": 6,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "yoga",
+   "position": 1.5,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "yoga studio",
+   "position": 1,
+   "impressions": 2,
+   "clicks": 0
+  },
+  {
+   "query": "abbigliamento barca vela cosa portare",
+   "position": 20,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "abbigliamento per andare in barca a vela",
+   "position": 75,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "adventure sailing",
+   "position": 31,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "al mare",
+   "position": 2,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "azione del mare",
+   "position": 70,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "barca a vela cosa portare",
+   "position": 39,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "become a skipper",
+   "position": 63,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "bluemind experience",
+   "position": 8,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "che tipo di onde si originano in mare aperto",
+   "position": 15,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "chi è lo skipper",
+   "position": 58,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "come le onde del mare testo",
+   "position": 4,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "come onde del mare",
+   "position": 29,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "come si chiama chi guida la barca",
+   "position": 58,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "come si chiama chi guida una barca",
+   "position": 62,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "come si formano le onde del mare scuola primaria",
+   "position": 33,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "corso per diventare skipper",
+   "position": 23,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "corso per skipper professionista",
+   "position": 40,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "corso per skipper vela",
+   "position": 30,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "cos'è lo skipper",
+   "position": 53,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "cosa avere in barca",
+   "position": 47,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "cosa fa lo skipper",
+   "position": 26,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "cosa fanno le onde del mare",
+   "position": 23,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "cosa portare in barca",
+   "position": 55,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "cosa sono le onde del mare",
+   "position": 11,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "crossing pacific",
+   "position": 44,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "curiosità sul corpo umano",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "dailing",
+   "position": 13,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "del mare",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "dive and sail",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "dive boat",
+   "position": 24,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "dive reflex",
+   "position": 20,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "for sailing",
+   "position": 2,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "formation skipper",
+   "position": 79,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "frasi onde del mare",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "frasi sulle onde del mare",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "freediving",
+   "position": 5,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "how to become a skipper",
+   "position": 67,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ichigai",
+   "position": 9,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ikigai experience",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ikigai sport",
+   "position": 7,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ikigari",
+   "position": 13,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ikigau",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ikigay",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ikkagai",
+   "position": 15,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "jansu",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "kite-surfing",
+   "position": 51,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "l'onde marine",
+   "position": 5,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "le onde le portano in spiaggia",
+   "position": 27,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "le onde si infrangono sugli scogli",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "learning to free dive",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "mammal reflex",
+   "position": 5,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "mare e onde",
+   "position": 16,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "mare lungo",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "mare lungo significato",
+   "position": 14,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "mare onde",
+   "position": 9,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "meditation",
+   "position": 13,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "movimento onde del mare",
+   "position": 26,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "numero soccorso in mare",
+   "position": 64,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "oceano onde",
+   "position": 21,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onda in inglese traduzione",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onda lunga significato",
+   "position": 61,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onda sinonimo",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde basse",
+   "position": 44,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde de mar",
+   "position": 6,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde del mare in inglese",
+   "position": 30,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde del mare significato",
+   "position": 9,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde del mare sinonimo",
+   "position": 13,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde e mare",
+   "position": 8,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde e maree",
+   "position": 24,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde sea",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde sinonimo",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "onde sugli scogli",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "pacific crossing sailboat",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "para sailing",
+   "position": 4,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "portami a sentire le onde del mare frasi",
+   "position": 4,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "quanto costa diventare skipper",
+   "position": 9,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "record di profondità in apnea",
+   "position": 12,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "rifrazione delle onde marine",
+   "position": 55,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "rifrazione onde marine",
+   "position": 51,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "saelling",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sail",
+   "position": 11,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailgp roma",
+   "position": 12,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailinf",
+   "position": 12,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing and boating",
+   "position": 31,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing camp",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing equipment",
+   "position": 9,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing school",
+   "position": 21,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing schools",
+   "position": 21,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing sport",
+   "position": 13,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sailing surfing",
+   "position": 12,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sea mind",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sinonimo di onda",
+   "position": 3,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "skipper boating",
+   "position": 66,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "skipper chi è",
+   "position": 7,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "skipper corso",
+   "position": 37,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "skipper lavoro cos è",
+   "position": 36,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "skipper nave",
+   "position": 75,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sponde del mare",
+   "position": 24,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sport sailing",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "ssiling",
+   "position": 31,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "sunset cruise",
+   "position": 31,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "suono delle onde del mare",
+   "position": 2,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "tipo di onde",
+   "position": 10,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "top sailing",
+   "position": 21,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "vestiti per andare in barca",
+   "position": 82,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "we sailing",
+   "position": 21,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "wellness",
+   "position": 1,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "what is your responsibility as a skipper?",
+   "position": 13,
+   "impressions": 1,
+   "clicks": 0
+  },
+  {
+   "query": "yoga subacqueo",
+   "position": 6,
+   "impressions": 1,
+   "clicks": 0
+  }
+ ]
+}

@@ -16,6 +16,7 @@
     "img:index": "tsx scripts/imgindex/imgindex.ts index",
     "img:query": "tsx scripts/imgindex/imgindex.ts query",
     "img:stats": "tsx scripts/imgindex/imgindex.ts stats",
+    "gsc:ranks": "tsx scripts/gsc-ranks.ts",
     "test": "playwright test"
   },
   "dependencies": {
