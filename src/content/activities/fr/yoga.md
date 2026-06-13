@@ -12,8 +12,12 @@ locale: fr
 category: wellness
 image: ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg
 gallery:
-  - ~/assets/activities/yoga/yoga-ikigai-v.jpg
-  - ~/assets/activities/yoga/yoga-ikigai3.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-42.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-57.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-70.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-60.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg
 order: 1
 facts:
   - label: Niveau

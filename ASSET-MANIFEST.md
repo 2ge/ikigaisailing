@@ -131,6 +131,10 @@
 | /wp-content/uploads/2026/05/IKIGAI-16.jpg | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg | it~project~ritiro-yoga-in-barca-a-vela |
 | /wp-content/uploads/2026/05/IKIGAI-17-2.jpg | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg | it~project~ritiro-yoga-in-barca-a-vela |
 | /wp-content/uploads/2026/05/IKIGAI-69-4.jpg | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg | it~project~ritiro-yoga-in-barca-a-vela |
+| (Google Drive: ikigaisailingasd) | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-42.jpg | it~project~ritiro-yoga-in-barca-a-vela |
+| (Google Drive: ikigaisailingasd) | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-57.jpg | it~project~ritiro-yoga-in-barca-a-vela |
+| (Google Drive: ikigaisailingasd) | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-60.jpg | it~project~ritiro-yoga-in-barca-a-vela |
+| (Google Drive: ikigaisailingasd) | src/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-70.jpg | it~project~ritiro-yoga-in-barca-a-vela |
 | /wp-content/uploads/2024/06/yoga-ikigai-v.jpg | src/assets/activities/yoga/yoga-ikigai-v.jpg | it~project~yoga,project~yoga-2 |
 | /wp-content/uploads/2024/06/yoga-ikigai3.jpg | src/assets/activities/yoga/yoga-ikigai3.jpg | it~project~yoga,project~yoga-2 |
 | /wp-content/uploads/2025/06/IMG_3296-1-1000x563.avif | src/assets/activities/freediving/IMG_3296-1-1000x563.avif | project~apnea-2,project~diving-2,project~janzu-2,project~kite-surf-3,project~meditation,project~yoga-2 |
