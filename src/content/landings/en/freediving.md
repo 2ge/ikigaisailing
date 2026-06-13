@@ -5,28 +5,30 @@ seoTitle: "Freediving in San Blas, Panama — Catamaran | Ikigai"
 metaDescription: "Train freediving in San Blas, Panama aboard our Catana 47 catamaran. AIDA & Apnea Total certified skippers, calm clear Caribbean water, per-cabin booking direct with the crew."
 locale: "en"
 heroImage: "~/assets/activities/freediving/apnea2.jpg"
-lead: "Freediving in San Blas, Panama means dropping into glass-clear, bath-warm Caribbean water straight off the back of a Catana 47 — guided by AIDA and Apnea Total certified skippers, with reefs, sandbanks and nothing but blue beneath you."
+lead: "Freediving in San Blas, Panama means stepping off the back of a Catana 47 into water you can see the bottom of, warm enough to dive in boardshorts, with a coach who's AIDA and Apnea Total certified running your safety. Reefs, sandbanks, a lot of blue. And almost nobody else doing it here."
 faq:
   - q: "Do I need freediving experience?"
-    a: "No. We coach complete beginners through their first relaxed breath-hold dives, and we also have the certifications to push experienced apneists deeper. Every session is built around safety and the right buddy system."
-  - q: "Are the instructors certified?"
-    a: "Yes — our skippers hold AIDA and Apnea Total freediving certifications, so the training is real, not improvised. They're also RYA Yachtmaster sailors."
+    a: "No. We coach people who've never held their breath past a few seconds, and we've got the certs to push experienced apneists deeper. Every dive runs on a proper one-up-one-down buddy system."
+  - q: "Are the instructors actually certified?"
+    a: "Yes — AIDA and Apnea Total. The same skippers are RYA Yachtmaster sailors, so the seamanship is real too. This isn't a guide pointing at fish."
   - q: "Why freedive from a catamaran instead of a day boat?"
-    a: "Because you reach reefs and sandbanks no day tour gets to, dive on your own schedule with the conditions you want, and come back aboard to rest, eat and recover between dives."
+    a: "You reach reefs no day tour bothers with, dive on your schedule in the conditions you want, and rest between dives instead of riding back to a marina."
   - q: "What does it cost?"
-    a: "You book per cabin and pay a member contribution to our non-profit ASD — not an agency fee. See the season page for rates, or message us on WhatsApp."
+    a: "By the cabin, as a member contribution to our non-profit ASD — not an agency fee. See the season page for rates, or message us on WhatsApp."
 ---
 
-## Why freedive in San Blas?
+## Why San Blas is built for apnea
 
-The **San Blas (Guna Yala) archipelago in Panama** is almost made for apnea: hundreds of sheltered islands, water around 28 °C, visibility that runs to the seabed, and barely any other boats. From **Ikigai**, our **Catana 47 catamaran**, you dive straight off the steps into reefs, drop-offs and bright sandbanks — then climb back aboard to recover. Very few operators in San Blas offer dedicated, certified freediving, so the whole niche is open to travellers who want to actually learn, not just snorkel.
+365 islands, sheltered lagoons, water around 28 °C, visibility that runs to the seabed. Here's the part the brochures skip: almost no one runs certified freediving in San Blas. The reefs are pristine because nobody's diving them. From **Ikigai**, our **Catana 47**, you're off a day-boat's clock — you dive when the conditions line up, on the spot you chose, then climb the swim ladder and breathe. No hour-long ride back to anything.
 
-## What does the freediving experience include?
+## What you actually get
 
-Aboard a Catana 47, per cabin, you get hands-on freediving coaching from skippers certified by **AIDA** and **Apnea Total**, daily guided sessions matched to your level, all gear, meals cooked aboard, and slow sailing between dive sites in the San Blas islands. Beginners learn breathing, relaxation and equalisation and make their first calm breath-hold dives; experienced apneists get depth work with a proper safety buddy system. Because your contribution is a **member contribution to Ikigai Sailing ASD** (a CONI-recognised, MSP Italia–affiliated non-profit) rather than a commercial charter fee, a week of certified freediving here costs far less than a comparable liveaboard.
+Per cabin, you get hands-on apnea coaching from skippers certified by **AIDA** and **Apnea Total** — real instruction, drilled in order. Beginners learn the breathe-up, the relaxation, the equalisation, and make their first calm breath-holds with a buddy one metre away. Experienced divers get depth and a safety system that's actually run, not assumed. Add all the gear, meals cooked aboard, and slow sailing between dive sites across the islands. The price is a **member contribution to Ikigai Sailing ASD**, a CONI-recognised non-profit — not a liveaboard fee — so a week of certified freediving here costs well under what Egypt or the Maldives quote for the same.
 
-## Freediving and breath — beyond the sport
+## It's more than holding your breath
 
-Apnea isn't only a discipline; it's a way to slow the mind and learn how you breathe. Mornings often start with yoga and breathwork before the water, so technique and calm build together.
+Apnea teaches you to switch the mind off. That's the actual skill. Most mornings start with yoga and breathwork before the water, because the calm you build on the mat is the calm that carries you to the bottom and back without rushing. The diving and the stillness train each other.
 
-This is the San Blas chapter — see our worldwide **freediving liveaboard** page for how the boat takes apnea around the world, or check the season's dates and contribution.
+## Beginner or chasing depth
+
+Both, and often on the same boat. We've walked someone who wouldn't put their face in the water through their first ten metres, and we've run safety for divers working on a personal best. The water's so clear and warm that learning here feels less like a course and more like remembering you already knew how.

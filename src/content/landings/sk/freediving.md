@@ -1,7 +1,7 @@
 ---
 title: 'Šnorchlovanie v San Blas, Panama'
 description: >-
-  Prenájom katamaránu na freediving v San Blase v Paname — trénujte apnoe pod
+  Prenájom katamaránu na freediving v San Blase v Paname – trénujte apnoe pod
   vedením kapitánov s certifikátmi AIDA a Apnea Total na palube lode Catana 47 v
   teplých a priezračných vodách Guna Yala.
 seoTitle: 'Freediving v San Blas, Panama — Katamarán | Ikigai'
@@ -12,48 +12,51 @@ metaDescription: >-
 locale: sk
 heroImage: ~/assets/activities/freediving/apnea2.jpg
 lead: >-
-  Freediving v San Blas v Paname znamená ponoriť sa priamo z paluby lode Catana
-  47 do krištáľovo čistej a príjemne teplej karibskej vody – pod vedením
-  kapitánov s certifikátmi AIDA a Apnea Total, s útesmi, pieskovými lavicami a
-  pod vami len nekonečnou modrou hlbinou.
+  Potápanie na voľný dych v San Blas v Paname znamená skočiť zo zadnej paluby
+  lode Catana 47 do vody, v ktorej vidíte na dno, ktorá je dostatočne teplá na
+  to, aby ste sa mohli potápať v plavkách, a kde o vašu bezpečnosť dbá
+  inštruktor s certifikátmi AIDA a Apnea Total. Útesy, pieskové lavice, veľa
+  modrej farby. A takmer nikto iný to tu nerobí.
 faq:
   - q: Potrebujem skúsenosti s freedivingom?
     a: >-
-      Nie. Začiatočníkov sprevádzame pri ich prvých uvoľnených ponoroch s
-      zadržaným dychom a disponujeme aj certifikáciami, vďaka ktorým môžeme
-      skúsených potápačov viesť do väčších hĺbok. Každá lekcia je postavená na
-      bezpečnosti a správnom systéme partnerstva.
-  - q: Majú inštruktori certifikát?
+      Nie. Trénujeme ľudí, ktorí doteraz nedokázali zadržať dych dlhšie ako pár
+      sekúnd, a máme certifikáty na to, aby sme skúsených apneistov posunuli do
+      väčších hĺbok. Každý ponor prebieha podľa správneho systému „jeden hore,
+      jeden dole“ s partnerom.
+  - q: Majú inštruktori skutočne certifikát?
     a: >-
-      Áno – naši kapitáni majú certifikáty v freedivingu od organizácií AIDA a
-      Apnea Total, takže výcvik je profesionálny, nie improvizovaný. Sú to
-      zároveň jachtári s certifikátom RYA Yachtmaster.
+      Áno – AIDA a Apnea Total. Tí istí kapitáni sú držiteľmi certifikátu RYA
+      Yachtmaster, takže ich námorné zručnosti sú naozajstné. Nie je to len
+      sprievodca, ktorý ukazuje na ryby.
   - q: Prečo sa potápať z katamaránu a nie z výletnej lode?
     a: >-
-      Keďže sa dostanete k útesom a pieskovým plytčinám, kam sa žiadny
-      jednodňový výlet nedostane, môžete sa potápať podľa vlastného harmonogramu
-      a za podmienok, ktoré vám vyhovujú, a medzi ponormi sa vrátiť na loď, kde
-      si oddýchnete, najete sa a zotavíte sa.
+      Dostanete sa k útesom, kam sa bežné jednodňové výlety ani nezaoberajú,
+      potápate sa podľa vlastného harmonogramu a za podmienok, ktoré si sami
+      zvolíte, a medzi ponormi si oddýchnete namiesto toho, aby ste sa vracali
+      späť do prístavu.
   - q: Koľko to stojí?
     a: >-
-      Rezervujete si kabínu a platíte členský príspevok našej neziskovej
-      organizácii ASD – nejde o poplatok cestovnej kancelárii. Ceny nájdete na
-      stránke so sezónnymi informáciami alebo nám napíšte cez WhatsApp.
+      Pri chate, ako členský príspevok do našej neziskovej organizácie ASD –
+      nejde o poplatok agentúre. Ceny nájdete na stránke venovanej sezónam alebo
+      nám napíšte cez WhatsApp.
 translated: deepl
-sourceHash: 65532dc7bd22544f
+sourceHash: 728794303456aa2d
 needsReview: true
 ---
 
-## Prečo sa venovať freedivingu v San Blase?
+## Prečo je San Blas ako stvorený pre freediving
 
-**Súostrovie** **San Blas (Guna Yala) v Paname** je ako stvorené pre freediving: stovky chránených ostrovov, voda s teplotou okolo 28 °C, viditeľnosť až na morské dno a takmer žiadne iné lode. Z nášho **katamaránu Catana 47** s názvom **Ikigai** sa ponoríte priamo zo schodíkov do útesov, strmých svahov a svetlých pieskových lavíc – a potom sa vrátite späť na palubu, aby ste si oddýchli. Veľmi málo prevádzkovateľov v San Blase ponúka špecializované, certifikované freedivingové kurzy, takže celý tento segment je otvorený pre cestovateľov, ktorí sa chcú skutočne naučiť freediving, a nie len šnorchlovať.
+365 ostrovov, chránené lagúny, voda s teplotou okolo 28 °C, viditeľnosť až na morské dno. Tu je časť, ktorú brožúry vynechávajú: takmer nikto v San Blase neorganizuje certifikované freedivingové kurzy. Útesy sú nedotknuté, pretože na nich nikto neponára. Z **Ikigai**, našej **lode Catana 47**, ste mimo časového harmonogramu výletných lodí – potápate sa, keď sú podmienky priaznivé, na mieste, ktoré ste si vybrali, potom vyliezate po rebríku a nadýchate sa. Žiadna hodinová cesta späť k ničomu.
 
-## Čo zahŕňa zážitok z freedivingu?
+## Čo skutočne dostanete
 
-Na palube Catany 47 získate v každej kajute praktický tréning freedivingu od kapitánov certifikovaných organizáciami **AIDA** a **Apnea Total**, denné vedené lekcie prispôsobené vašej úrovni, všetko vybavenie, stravu pripravovanú na palube a pomalú plavbu medzi potápačskými lokalitami na ostrovoch San Blas. Začiatočníci sa naučia dýchanie, relaxáciu a vyrovnávanie tlaku a absolvujú svoje prvé pokojné ponory s zadržaným dychom; skúsení freediveri absolvujú ponory do hĺbky s riadnym bezpečnostným systémom partnerov. Keďže váš príspevok je **členským príspevkom do Ikigai Sailing ASD** (neziskovej organizácie uznanej CONI a pridruženej k MSP Italia) a nie komerčným poplatkom za prenájom, týždeň certifikovaného freedivingu tu stojí oveľa menej ako porovnateľný pobyt na liveaboarde.
+V každej kajute dostanete praktický tréning apnoe od kapitánov certifikovaných organizáciami **AIDA** a **Apnea Total** – skutočné inštrukcie, precvičované v správnom poradí. Začiatočníci sa naučia dýchanie, relaxáciu, vyrovnávanie tlaku a urobia svoje prvé pokojné zadržania dychu s partnerom vo vzdialenosti jedného metra. Skúsení potápači získajú hĺbku a bezpečnostný systém, ktorý skutočne funguje, nie je len predpokladom. Pridajte k tomu všetko vybavenie, jedlá varené na palube a pomalú plavbu medzi potápačskými lokalitami po ostrovoch. Cena je **členský príspevok do Ikigai Sailing ASD**, neziskovej organizácie uznanej CONI – nie je to poplatok za liveaboard – takže týždeň certifikovaného freedivingu tu stojí oveľa menej, ako ponúkajú Egypt alebo Maldivy za to isté.
 
-## Freediving a dýchanie – viac ako len šport
+## Je to viac než len zadržiavanie dychu
 
-Apnoe nie je len disciplína; je to spôsob, ako upokojiť myseľ a naučiť sa dýchať. Ráno často začíname jógou a dychovými cvičeniami pred vstupom do vody, aby sa technika a pokoj budovali spoločne.
+Apnoe vás naučí vypnúť myseľ. To je skutočná zručnosť. Väčšina rán začína jógou a dychovými cvičeniami pred vstupom do vody, pretože pokoj, ktorý nadobudnete na podložke, je pokojom, ktorý vás bez náhlenia zanesie na dno a späť. Potápanie a pokoj sa navzájom dopĺňajú.
 
-Toto je kapitola o San Blase – pozrite si našu stránku o celosvetových **výletoch s liveaboardom pre voľné potápanie**, kde sa dozviete, ako loď prináša apnoe po celom svete, alebo si skontrolujte termíny sezóny a príspevok.
+## Začiatočník alebo honba za hĺbkou
+
+Oboje, a často na tej istej lodi. Pomohli sme niekomu, kto si nechcel namočiť tvár do vody, prekonať prvých desať metrov, a zabezpečovali sme bezpečnosť potápačom, ktorí pracovali na svojom osobnom rekorde. Voda je taká čistá a teplá, že sa tu učenie nezdá ako kurz, ale skôr ako spomienka na to, čo ste už vedeli.
