@@ -3,22 +3,22 @@
  * /admin/seo/san-blas and /admin/seo/global — the keyword portfolio for each strategy set,
  * SORTED BY IMPORTANCE (priority = volume × winnability) so the owner focuses on the top
  * keywords first. Primary target + est. volume/KD + priority + current rank, each expandable
- * to its 5 spokes. Basic-Auth gated, noindex, out of sitemap. Data: src/data/seoPortfolio.ts.
+ * to its 5 spokes. Basic-Auth gated, noindex, out of sitemap. Data: src/data/seoKeywords.ts.
  *
  * "Current rank" needs a live source (GSC service account — not yet wired). SEMrush data shows
  * the site ranks only for incidental blog terms, so every commercial target here is unranked.
  */
 import '../../../styles/global.css';
-import { PORTFOLIO, setById, rankedClusters } from '../../../data/seoPortfolio';
+import { SETS, rankedClusters, type SetId } from '../../../data/seoKeywords';
 
 export function getStaticPaths() {
-  return PORTFOLIO.map((s) => ({ params: { set: s.id } }));
+  return (Object.keys(SETS) as SetId[]).map((id) => ({ params: { set: id } }));
 }
-const { set: setId } = Astro.params;
-const set = setById(setId!)!;
-const other = PORTFOLIO.find((s) => s.id !== set.id)!;
-const rows = rankedClusters(set);
-const top = rows[0]?.score || 1;
+const setId = Astro.params.set as SetId;
+const set = { id: setId, ...SETS[setId] };
+const otherId = (setId === 'san-blas' ? 'global' : 'san-blas') as SetId;
+const other = { id: otherId, ...SETS[otherId] };
+const rows = rankedClusters(setId);
 
 const kdTone = (kd = '') => /extrem/i.test(kd) ? 'text-emerald-400' : /very low|^low$/i.test(kd) ? 'text-emerald-300' : 'text-amber-300';
 const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500/50 bg-emerald-500/10', t: 'P1' }
@@ -70,7 +70,7 @@ const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500
                   <span class="ml-2 rounded bg-white/5 px-1.5 py-0.5 font-mono text-[0.6rem] uppercase text-slate-400">{r.locale}</span>
                 </span>
                 <span class="flex items-center gap-2 font-mono text-[0.7rem]">
-                  <span class="text-slate-300">{r.vol}/mo</span>
+                  <span class="text-slate-300">{r.vol ? `${r.vol}/mo` : '—'}</span>
                   <span class={kdTone(r.kd)} title={`KD ${r.kd}`}>{(r.kd||'').replace(/ \(0\)/,'').slice(0,8)}</span>
                   <span class="rounded border border-rose-500/30 px-1.5 py-0.5 text-rose-400/80" title="not ranking (needs GSC)">n/r</span>
                   <span class={`w-12 rounded border px-1.5 py-0.5 text-center ${tg.c}`}>{tg.t}·{r.score}</span>
@@ -79,7 +79,8 @@ const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500
               <div class="border-t border-white/5 px-3 py-2.5">
                 <p class="mb-1.5 font-mono text-[0.6rem] uppercase tracking-widest text-slate-600">supporting spokes</p>
                 <ul class="flex flex-wrap gap-1.5">
-                  {r.spokes.map((s) => <li class="rounded-md border border-white/10 bg-white/[0.03] px-2 py-1 font-mono text-[0.7rem] text-slate-400">{s}</li>)}
+                  {(r.spokes ?? []).map((s) => <li class="rounded-md border border-white/10 bg-white/[0.03] px-2 py-1 font-mono text-[0.7rem] text-slate-400">{s}</li>)}
+                  {(!r.spokes || r.spokes.length === 0) && <li class="font-mono text-[0.7rem] text-slate-600">— no spokes yet —</li>}
                 </ul>
               </div>
             </details>
@@ -88,7 +89,7 @@ const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500
       </div>
 
       <footer class="mt-8 flex items-center justify-between border-t border-white/5 pt-4 font-mono text-[0.65rem] text-slate-600">
-        <span>src/data/seoPortfolio.ts</span>
+        <span>src/data/seoKeywords.ts</span>
         <a href={`/admin/seo/${other.id}/`} class="text-slate-400 hover:text-emerald-300">→ {other.title}</a>
       </footer>
     </main>
