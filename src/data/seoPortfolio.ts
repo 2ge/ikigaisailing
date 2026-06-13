@@ -92,3 +92,21 @@ export const PORTFOLIO: PortfolioSet[] = [
 ];
 
 export const setById = (id: string) => PORTFOLIO.find((s) => s.id === id);
+
+/**
+ * Importance score = monthly volume × winnability (easier keyword → score it higher).
+ * The classic low-hanging-fruit prioritisation: high traffic + low difficulty first.
+ */
+const KD_WEIGHT: Record<string, number> = { 'extremely low': 1, 'very low': 0.9, low: 0.72, 'low-med': 0.55, med: 0.4 };
+export function winnability(kd = ''): number {
+  const k = kd.toLowerCase().replace(/\s*\(0\)\s*/, '').trim();
+  return KD_WEIGHT[k] ?? 0.6;
+}
+export const priority = (c: Cluster): number => Math.round((c.vol ?? 0) * winnability(c.kd));
+
+/** Flatten a set's primary keywords across locales, tagged + scored, sorted by priority desc. */
+export function rankedClusters(set: PortfolioSet) {
+  return set.locales
+    .flatMap((b) => b.clusters.map((c) => ({ ...c, locale: b.locale, label: b.label, score: priority(c) })))
+    .sort((a, b) => b.score - a.score);
+}

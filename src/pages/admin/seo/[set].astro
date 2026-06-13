@@ -1,11 +1,15 @@
 ---
 /**
- * /admin/seo/san-blas and /admin/seo/global — the full keyword portfolio per set,
- * grouped by language (primary targets + their 5 spokes). Basic-Auth gated, noindex,
- * out of sitemap. Data: src/data/seoPortfolio.ts.
+ * /admin/seo/san-blas and /admin/seo/global — the keyword portfolio for each strategy set,
+ * SORTED BY IMPORTANCE (priority = volume × winnability) so the owner focuses on the top
+ * keywords first. Primary target + est. volume/KD + priority + current rank, each expandable
+ * to its 5 spokes. Basic-Auth gated, noindex, out of sitemap. Data: src/data/seoPortfolio.ts.
+ *
+ * "Current rank" needs a live source (GSC service account — not yet wired). SEMrush data shows
+ * the site ranks only for incidental blog terms, so every commercial target here is unranked.
  */
 import '../../../styles/global.css';
-import { PORTFOLIO, setById } from '../../../data/seoPortfolio';
+import { PORTFOLIO, setById, rankedClusters } from '../../../data/seoPortfolio';
 
 export function getStaticPaths() {
   return PORTFOLIO.map((s) => ({ params: { set: s.id } }));
@@ -13,8 +17,13 @@ export function getStaticPaths() {
 const { set: setId } = Astro.params;
 const set = setById(setId!)!;
 const other = PORTFOLIO.find((s) => s.id !== set.id)!;
-const totalKw = set.locales.reduce((n, b) => n + b.clusters.reduce((m, c) => m + 1 + c.spokes.length, 0), 0);
+const rows = rankedClusters(set);
+const top = rows[0]?.score || 1;
+
 const kdTone = (kd = '') => /extrem/i.test(kd) ? 'text-emerald-400' : /very low|^low$/i.test(kd) ? 'text-emerald-300' : 'text-amber-300';
+const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500/50 bg-emerald-500/10', t: 'P1' }
+  : s >= 55 ? { c: 'text-amber-300 border-amber-500/50 bg-amber-500/10', t: 'P2' }
+  : { c: 'text-slate-400 border-white/15 bg-white/5', t: 'P3' };
 ---
 <!doctype html>
 <html lang="en">
@@ -28,9 +37,9 @@ const kdTone = (kd = '') => /extrem/i.test(kd) ? 'text-emerald-400' : /very low|
   </head>
   <body class="min-h-screen font-sans text-slate-200 antialiased">
     <main class="mx-auto max-w-4xl px-5 py-8">
-      <header class="mb-6 border-b border-emerald-500/20 pb-4">
+      <header class="mb-5 border-b border-emerald-500/20 pb-4">
         <div class="flex flex-wrap items-center justify-between gap-3">
-          <p class="font-mono text-xs uppercase tracking-[0.3em] text-emerald-400/80">/admin · seo · keyword portfolio</p>
+          <p class="font-mono text-xs uppercase tracking-[0.3em] text-emerald-400/80">/admin · seo · keywords by priority</p>
           <nav class="flex gap-2 font-mono text-xs">
             <a href="/admin/seo/san-blas/" class={`rounded-full border px-3 py-1.5 ${set.id==='san-blas'?'border-emerald-400 text-emerald-300 bg-emerald-500/10':'border-white/15 text-slate-400 hover:text-emerald-300'}`}>San Blas</a>
             <a href="/admin/seo/global/" class={`rounded-full border px-3 py-1.5 ${set.id==='global'?'border-emerald-400 text-emerald-300 bg-emerald-500/10':'border-white/15 text-slate-400 hover:text-emerald-300'}`}>Global</a>
@@ -39,39 +48,46 @@ const kdTone = (kd = '') => /extrem/i.test(kd) ? 'text-emerald-400' : /very low|
         </div>
         <h1 class="mt-3 font-display text-3xl text-emerald-300">{set.title}</h1>
         <p class="mt-1 text-sm text-slate-400">{set.tagline}</p>
-        <p class="mt-1 font-mono text-[0.7rem] text-slate-500">{set.window} · {totalKw} keywords across {set.locales.length} languages</p>
+        <p class="mt-1 font-mono text-[0.7rem] text-slate-500">{set.window} · {rows.length} primary keywords, sorted by importance</p>
       </header>
 
-      <div class="space-y-8">
-        {set.locales.map((block) => (
-          <section>
-            <h2 class="mb-3 flex items-center gap-2 font-mono text-sm uppercase tracking-[0.2em] text-emerald-400/80">
-              <span class="inline-block h-px w-6 bg-current opacity-50"></span>{block.label}
-            </h2>
-            <div class="space-y-3">
-              {block.clusters.map((c) => (
-                <div class="card rounded-xl border border-white/10 bg-white/[0.02] p-4">
-                  <div class="flex flex-wrap items-baseline justify-between gap-2">
-                    <p class="font-semibold text-slate-100">{c.primary}</p>
-                    <p class="font-mono text-[0.7rem] text-slate-500">
-                      {c.vol != null && <span class="text-slate-300">{c.vol}/mo</span>}
-                      {c.kd && <span class={`ml-2 ${kdTone(c.kd)}`}>KD {c.kd}</span>}
-                    </p>
-                  </div>
-                  <p class="mt-1 font-mono text-[0.6rem] uppercase tracking-widest text-slate-600">primary</p>
-                  <ul class="mt-2 flex flex-wrap gap-1.5">
-                    {c.spokes.map((s) => (
-                      <li class="rounded-md border border-white/10 bg-white/[0.03] px-2 py-1 font-mono text-[0.7rem] text-slate-400">{s}</li>
-                    ))}
-                  </ul>
-                </div>
-              ))}
-            </div>
-          </section>
-        ))}
+      <p class="mb-5 rounded-lg border border-white/10 bg-white/[0.02] p-3 text-[0.7rem] leading-relaxed text-slate-400">
+        <b class="text-slate-300">Priority</b> = monthly volume × winnability (lower difficulty scored higher) → work top-down.
+        <b class="text-slate-300">Rank</b> = current Google position of ikigaisailing.com — needs a live source (GSC not yet
+        connected). Per SEMrush the site ranks only for incidental blog terms, so these commercial targets read
+        <span class="text-rose-400">n/r</span> (not ranking, &gt;100). Click a row for its 5 spokes.
+      </p>
+
+      <div class="space-y-2">
+        {rows.map((r, i) => {
+          const tg = tier(r.score);
+          return (
+            <details class="group rounded-xl border border-white/10 bg-white/[0.02]">
+              <summary class="grid cursor-pointer grid-cols-[2rem_1fr_auto] items-center gap-3 px-3 py-2.5">
+                <span class="text-center font-mono text-xs text-slate-600">{i + 1}</span>
+                <span class="min-w-0">
+                  <span class="text-sm text-slate-100">{r.primary}</span>
+                  <span class="ml-2 rounded bg-white/5 px-1.5 py-0.5 font-mono text-[0.6rem] uppercase text-slate-400">{r.locale}</span>
+                </span>
+                <span class="flex items-center gap-2 font-mono text-[0.7rem]">
+                  <span class="text-slate-300">{r.vol}/mo</span>
+                  <span class={kdTone(r.kd)} title={`KD ${r.kd}`}>{(r.kd||'').replace(/ \(0\)/,'').slice(0,8)}</span>
+                  <span class="rounded border border-rose-500/30 px-1.5 py-0.5 text-rose-400/80" title="not ranking (needs GSC)">n/r</span>
+                  <span class={`w-12 rounded border px-1.5 py-0.5 text-center ${tg.c}`}>{tg.t}·{r.score}</span>
+                </span>
+              </summary>
+              <div class="border-t border-white/5 px-3 py-2.5">
+                <p class="mb-1.5 font-mono text-[0.6rem] uppercase tracking-widest text-slate-600">supporting spokes</p>
+                <ul class="flex flex-wrap gap-1.5">
+                  {r.spokes.map((s) => <li class="rounded-md border border-white/10 bg-white/[0.03] px-2 py-1 font-mono text-[0.7rem] text-slate-400">{s}</li>)}
+                </ul>
+              </div>
+            </details>
+          );
+        })}
       </div>
 
-      <footer class="mt-10 flex items-center justify-between border-t border-white/5 pt-4 font-mono text-[0.65rem] text-slate-600">
+      <footer class="mt-8 flex items-center justify-between border-t border-white/5 pt-4 font-mono text-[0.65rem] text-slate-600">
         <span>src/data/seoPortfolio.ts</span>
         <a href={`/admin/seo/${other.id}/`} class="text-slate-400 hover:text-emerald-300">→ {other.title}</a>
       </footer>
