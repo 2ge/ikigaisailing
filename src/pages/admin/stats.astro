@@ -88,7 +88,14 @@ import '../../styles/global.css';
 
       try {
         const ch = new BroadcastChannel('ikigai_debug');
-        ch.onmessage = (e) => render(e.data);
+        ch.onmessage = (e) => {
+          render(e.data);
+          // mirror the browsed URL into our own (locale prefix included — it's in d.path)
+          try {
+            const p = e.data.path || '/';
+            history.replaceState(null, '', '/admin/stats' + (p.endsWith('/') ? p : p + '/'));
+          } catch {}
+        };
       } catch {
         panel.innerHTML = 'BroadcastChannel unavailable in this browser.';
       }

@@ -33,7 +33,13 @@ export const onRequest: PagesFunction<Env> = async ({ request, env, next }) => {
       },
     });
   }
-  const res = await next();
+  // /admin/stats/<any path> is a virtual mirror of the page being inspected — serve the
+  // single stats asset for all of them (the client rewrites its own URL via replaceState),
+  // so reloads / shared deep links resolve instead of 404ing.
+  const url = new URL(request.url);
+  const rewrite = url.pathname.startsWith('/admin/stats/') && url.pathname !== '/admin/stats/';
+  const res = rewrite ? await next(new Request(new URL('/admin/stats/', url).toString(), request)) : await next();
+
   // never let the authed admin page be cached/indexed anywhere
   const out = new Response(res.body, res);
   out.headers.set('Cache-Control', 'no-store');
