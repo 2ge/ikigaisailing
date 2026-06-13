@@ -26,7 +26,7 @@ export const mainNav: NavItem[] = [
     key: 'nav.trips',
     path: '/trips/',
     children: [
-      { key: 'nav.season', path: '/season-2025-26/' },
+      { key: 'nav.season', path: '/panama/san-blas/' },
       { key: 'nav.trips', path: '/trips/' },
       { key: 'nav.liveaboard', path: '/liveaboard/' },
     ],
@@ -44,7 +44,7 @@ export const footerNav: Record<'footer.about' | 'footer.onboard' | 'footer.conne
     { key: 'nav.reviews', path: '/reviews/' },
   ],
   'footer.onboard': [
-    { key: 'nav.season', path: '/season-2025-26/' },
+    { key: 'nav.season', path: '/panama/san-blas/' },
     { key: 'nav.trips', path: '/trips/' },
     { key: 'nav.activities', path: '/activities/' },
     { key: 'nav.liveaboard', path: '/liveaboard/' },

@@ -27,6 +27,8 @@ const pages = defineCollection({
       gallery: z.array(image()).default([]),
       /** Optional intro lead (e.g. the Story page). */
       lead: z.string().optional(),
+      /** Optional FAQ → FAQPage JSON-LD (e.g. the San Blas hub / season page). */
+      faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
       /** Optional milestone timeline (e.g. the Story page). */
       timeline: z.array(z.object({ year: z.string(), text: z.string() })).default([]),
       /** Optional voyage log grouped by year (the Route page). */

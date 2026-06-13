@@ -5,7 +5,7 @@
 | / | src/content/pages/en/home.md | / |  |
 | /10-days-experience-aboard-ikigai/ | src/content/blog/en/10-days-experience-aboard-ikigai.md | /blog/10-days-experience-aboard-ikigai/ |  |
 | /10-fascinating-facts-about-the-guna-people/ | src/content/blog/en/10-fascinating-facts-about-the-guna-people.md | /blog/10-fascinating-facts-about-the-guna-people/ |  |
-| /2025-26-season/ | src/content/pages/en/season-2025-26.md | /season-2025-26/ |  |
+| /2025-26-season/ | src/content/pages/en/season-2025-26.md | /panama/san-blas/ | merged into the San Blas hub; /season-2025-26/ 301s here |
 | /about-us/ | src/content/pages/en/about.md | /about/ |  |
 | /being-a-skipper-what-it-entails/ | src/content/blog/en/being-a-skipper-what-it-entails.md | /blog/being-a-skipper-what-it-entails/ |  |
 | /benefits/ | src/content/pages/en/benefits.md | /benefits/ |  |
@@ -88,7 +88,7 @@
 | /it/silence-wind-and-rhythm-il-potere-rigenerante-della-vela/ | src/content/blog/it/silence-wind-and-rhythm-il-potere-rigenerante-della-vela.md | /it/blog/silence-wind-and-rhythm-il-potere-rigenerante-della-vela/ | IT-only post (no EN twin) |
 | /it/spearfishing-a-bordo-di-ikigai-larte-antica-della-pesca-in-apnea-e-sostenibile/ | src/content/blog/it/spearfishing-aboard-ikigai-the-ancient-art-of-sustainable-and-communal-fishing.md | /it/blog/spearfishing-aboard-ikigai-the-ancient-art-of-sustainable-and-communal-fishing/ |  |
 | /it/sport-attivita/ | src/content/pages/it/activities.md | /it/activities/ |  |
-| /it/stagione-2025-26-2/ | src/content/pages/it/season-2025-26.md | /it/season-2025-26/ |  |
+| /it/stagione-2025-26-2/ | src/content/pages/it/season-2025-26.md | /it/panama/san-blas/ | merged into the San Blas hub; /it/stagione-2025-26/ 301s here |
 | /it/terms-conditions/ | src/content/pages/it/terms.md | /it/terms/ |  |
 | /it/testimonials/anja-rolfes-2/ | src/content/testimonials/it/anja-rolfes-2.md | /it/reviews/ |  |
 | /it/testimonials/arianna/ | src/content/testimonials/it/arianna.md | /it/reviews/ |  |

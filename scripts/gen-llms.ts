@@ -55,7 +55,7 @@ lines.push('');
 lines.push('## Key pages');
 lines.push(`- [The Route](${SITE}/route/): where Ikigai is sailing now and next`);
 lines.push(`- [Catana 47](${SITE}/catana-47/): the boat`);
-lines.push(`- [Season 2025/26 San Blas](${SITE}/season-2025-26/): the main season`);
+lines.push(`- [San Blas catamaran charter](${SITE}/panama/san-blas/): the main season + per-cabin booking`);
 lines.push(`- [Reviews](${SITE}/reviews/): guest testimonials`);
 lines.push(`- [Contact](${SITE}/contact/): book direct`);
 lines.push('');

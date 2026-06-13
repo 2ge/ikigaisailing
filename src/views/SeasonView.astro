@@ -4,7 +4,7 @@ import { Image } from 'astro:assets';
 import PageLayout from '../layouts/PageLayout.astro';
 import SectionHeading from '../components/SectionHeading.astro';
 import TripCard from '../components/TripCard.astro';
-import ActivityCard from '../components/ActivityCard.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
 import TestimonialRail from '../components/TestimonialRail.astro';
 import Prose from '../components/Prose.astro';
 import WhatsAppButton from '../components/WhatsAppButton.astro';
@@ -12,7 +12,7 @@ import JsonLd from '../components/jsonld/JsonLd.astro';
 import { useTranslations, localizePath, defaultLocale, type Locale } from '../i18n/ui';
 import { WHATSAPP_URL } from '../i18n/nav';
 import { entryForLocale, entriesForLocale } from '../lib/content';
-import { breadcrumbs } from '../lib/schema';
+import { breadcrumbs, faqPage } from '../lib/schema';
 
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
@@ -20,25 +20,31 @@ const lp = (p: string) => localizePath(p, locale);
 
 const page = await entryForLocale('pages', 'season-2025-26', locale);
 const trips = (await entriesForLocale('trips', locale)).sort((a, b) => a.data.order - b.data.order);
-const activities = (await entriesForLocale('activities', locale))
-  .sort((a, b) => a.data.order - b.data.order)
-  .slice(0, 6);
 const testimonials = (await entriesForLocale('testimonials', locale)).slice(0, 8);
+
+// San Blas activity hub — cards link down to each geo activity page
+const GEO_ACTS = ['freediving', 'yoga', 'janzu', 'meditation'];
+const geoCards = (await Promise.all(GEO_ACTS.map((a) => entryForLocale('landings', a, locale))))
+  .map((e, i) => (e ? { slug: GEO_ACTS[i], title: e.data.title, hero: e.data.heroImage } : null))
+  .filter(Boolean) as { slug: string; title: string; hero: any }[];
 
 const site = Astro.site!.origin;
 const crumb = breadcrumbs(site, locale, [
   { name: 'Ikigai Sailing', path: '/' },
-  { name: page?.data.title ?? 'Season 2025/26', path: '/season-2025-26/' },
+  { name: 'San Blas', path: '/panama/san-blas/' },
 ]);
 ---
 
 <PageLayout
   title={page?.data.seoTitle ?? page?.data.title ?? 'Season 2025/26 — San Blas'}
   description={page?.data.metaDescription ?? page?.data.description ?? 'The 2025/26 San Blas season aboard Ikigai.'}
-  path="/season-2025-26/"
+  path="/panama/san-blas/"
   conciergeContext="season"
 >
-  <JsonLd slot="head" schema={crumb} />
+  <Fragment slot="head">
+    <JsonLd schema={crumb} />
+    {page?.data.faq?.length ? <JsonLd schema={faqPage(page.data.faq)} /> : null}
+  </Fragment>
 
   {/* hero */}
   <header class="relative isolate overflow-hidden bg-ocean-950">
@@ -69,15 +75,22 @@ const crumb = breadcrumbs(site, locale, [
     </div>
   </section>
 
-  {/* activities */}
+  {/* San Blas activity hub — links down to each geo activity page */}
   <section class="bg-sand-100 py-20">
     <div class="mx-auto max-w-6xl px-4 sm:px-6">
       <div class="flex flex-wrap items-end justify-between gap-4">
         <SectionHeading eyebrow={t('home.activitiesEyebrow')} title={t('home.activitiesTitle')} />
         <a href={lp('/activities/')} class="coords text-ocean-600 hover:text-ocean-800">{t('cta.allActivities')} →</a>
       </div>
-      <div class="mt-12 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
-        {activities.map((activity) => <ActivityCard activity={activity} locale={locale} />)}
+      <div class="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        {geoCards.map((c) => (
+          <a href={lp(`/panama/san-blas/${c.slug}/`)} class="group relative overflow-hidden rounded-2xl bg-ocean-100 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300">
+            <div class="aspect-[4/3] overflow-hidden">
+              {c.hero && <Image src={c.hero} alt={c.title} width={520} height={390} class="h-full w-full object-cover transition duration-700 group-hover:scale-105" />}
+            </div>
+            <div class="p-4"><h3 class="font-display text-lg text-ocean-950">{c.title}</h3></div>
+          </a>
+        ))}
       </div>
     </div>
   </section>
@@ -102,6 +115,16 @@ const crumb = breadcrumbs(site, locale, [
       <div class="mt-12"><TestimonialRail testimonials={testimonials} locale={locale} /></div>
     </div>
   </section>
+
+  {/* FAQ — feeds FAQPage JSON-LD in the head */}
+  {page?.data.faq?.length ? (
+    <section class="bg-sand-50 py-20">
+      <div class="mx-auto max-w-3xl px-4 sm:px-6">
+        <SectionHeading eyebrow="Good to know" title={t('trip.faq')} />
+        <div class="mt-10"><FaqAccordion faq={page.data.faq} /></div>
+      </div>
+    </section>
+  ) : null}
 
   {/* CTA */}
   <section class="bg-coral-500 py-20 text-center text-sand-50">
