@@ -20,7 +20,7 @@ export interface KwLoc { primary: string; vol?: number; kd?: string; spokes?: st
 export interface Keyword {
   id: string;
   set: SetId;
-  page?: { collection: 'activities' | 'trips' | 'pages'; slug: string }; // existing page (scored by matrix)
+  page?: { collection: 'activities' | 'trips' | 'pages' | 'landings'; slug: string }; // existing page (scored by matrix)
   build?: string; // planned URL — page not built yet (shown in portfolio, not scored)
   loc: { en: KwLoc } & Partial<Record<Loc, KwLoc>>;
 }
@@ -115,17 +115,17 @@ export const KEYWORDS: Keyword[] = [
     it: { primary: 'noleggio cabina catamarano all inclusive san blas', vol: 140, kd: 'Low' }, es: { primary: 'alquiler cabina catamaran todo incluido san blas', vol: 180, kd: 'Low-Med' },
     fr: { primary: 'location cabine catamaran tout inclus san blas', vol: 120, kd: 'Low-Med' }, sk: { primary: 'all inclusive katamaran prenajom kabiny san blas', vol: 40, kd: 'Extremely Low (0)' },
   } },
-  { id: 'sanblas-yoga', set: 'san-blas', build: '/panama/san-blas/yoga/', loc: {
+  { id: 'sanblas-yoga', set: 'san-blas', page: { collection: 'landings', slug: 'yoga' }, loc: {
     en: { primary: 'yoga retreat san blas panama', vol: 130, kd: 'Low', spokes: ['yoga sailing retreat san blas', 'wellness retreat san blas islands', 'mindful sailing san blas', 'yoga catamaran panama'] },
     it: { primary: 'ritiro yoga vela panama', vol: 90, kd: 'Low' }, es: { primary: 'retiro yoga vela panama', vol: 120, kd: 'Low' },
     fr: { primary: 'retraite yoga voile panama', vol: 110, kd: 'Low' }, sk: { primary: 'yoga a plachtenie retreat panama', vol: 30, kd: 'Extremely Low (0)' },
   } },
-  { id: 'sanblas-freediving', set: 'san-blas', build: '/panama/san-blas/freediving/', loc: {
+  { id: 'sanblas-freediving', set: 'san-blas', page: { collection: 'landings', slug: 'freediving' }, loc: {
     en: { primary: 'freediving catamaran charter san blas', vol: 90, kd: 'Very Low', spokes: ['freediving san blas panama', 'apnea training catamaran caribbean', 'spearfishing charter san blas', 'sailing and freediving retreat', 'line diving san blas panama'] },
     it: { primary: 'catamarano apnea san blas panama', vol: 50, kd: 'Extremely Low' }, es: { primary: 'catamaran apnea san blas panama', vol: 70, kd: 'Low' },
     fr: { primary: 'catamaran apnee san blas panama', vol: 60, kd: 'Low' }, sk: { primary: 'freediving katamaran san blas panama', vol: 20, kd: 'Extremely Low (0)' },
   } },
-  { id: 'sanblas-janzu', set: 'san-blas', build: '/panama/san-blas/janzu/', loc: {
+  { id: 'sanblas-janzu', set: 'san-blas', page: { collection: 'landings', slug: 'janzu' }, loc: {
     en: { primary: 'janzu water therapy retreat san blas', vol: 80, kd: 'Extremely Low', spokes: ['janzu therapy panama', 'aquatic bodywork retreat caribbean', 'water healing therapy retreat', 'atma janzu session caribbean'] },
     it: { primary: 'ritiro terapia acqua janzu panama', vol: 40, kd: 'Extremely Low' }, es: { primary: 'retiro terapia acuatica janzu panama', vol: 60, kd: 'Extremely Low' },
     fr: { primary: 'retraite therapie aquatique janzu panama', vol: 50, kd: 'Extremely Low' }, sk: { primary: 'janzu vodna terapia retreat panama', vol: 15, kd: 'Extremely Low (0)' },
@@ -154,7 +154,9 @@ export const KEYWORDS: Keyword[] = [
 
 // ─── derived helpers — consumers read from these, never duplicate keywords ───
 export const pathOf = (p: NonNullable<Keyword['page']>) =>
-  p.collection === 'pages' ? `/${p.slug}/` : `/${p.collection}/${p.slug}/`;
+  p.collection === 'landings' ? `/panama/san-blas/${p.slug}/`
+  : p.collection === 'pages' ? `/${p.slug}/`
+  : `/${p.collection}/${p.slug}/`;
 
 /** Page → per-locale primary keyword. Drives the matrix + page scoring (existing pages only). */
 export const SEO_TARGETS = KEYWORDS.filter((k) => k.page).map((k) => ({

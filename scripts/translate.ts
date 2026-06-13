@@ -42,6 +42,7 @@ const FM_FIELDS: Record<string, string[]> = {
   trips: ['title', 'description', 'seoTitle', 'metaDescription', 'priceNote', 'season'],
   activities: ['title', 'summary', 'seoTitle', 'metaDescription'],
   blog: ['title', 'description'],
+  landings: ['title', 'description', 'seoTitle', 'metaDescription', 'lead'],
 };
 
 const CHECK = process.argv.includes('--check');

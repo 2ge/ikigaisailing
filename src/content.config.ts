@@ -141,4 +141,22 @@ const blog = defineCollection({
     }),
 });
 
-export const collections = { pages, trips, activities, testimonials, blog };
+/** Geo landing pages (e.g. /panama/san-blas/<activity>/). Slug = the activity. */
+const landings = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/landings' }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      seoTitle: z.string().optional(),
+      metaDescription: z.string().optional(),
+      locale: z.enum(LOCALES),
+      heroImage: image().optional(),
+      gallery: z.array(image()).default([]),
+      lead: z.string().optional(),
+      faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+      ...translationMeta,
+    }),
+});
+
+export const collections = { pages, trips, activities, testimonials, blog, landings };

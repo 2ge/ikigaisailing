@@ -19,6 +19,7 @@ const cols: Record<string, any[]> = {
   activities: await getCollection('activities'),
   trips: await getCollection('trips'),
   pages: await getCollection('pages'),
+  landings: await getCollection('landings'),
 };
 const strip = (md: string) => (md || '')
   .replace(/```[\s\S]*?```/g, ' ').replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
