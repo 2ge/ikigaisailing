@@ -5,6 +5,10 @@ seoTitle: "Freediving in San Blas, Panama — Catamaran | Ikigai"
 metaDescription: "Train freediving in San Blas, Panama aboard our Catana 47 catamaran. AIDA & Apnea Total certified skippers, calm clear Caribbean water, per-cabin booking direct with the crew."
 locale: "en"
 heroImage: "~/assets/activities/freediving/apnea2.jpg"
+gallery:
+  - "~/assets/activities/freediving/apnea1.jpg"
+  - "~/assets/activities/freediving/apnea4.jpg"
+  - "~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg"
 lead: "Freediving in San Blas, Panama means stepping off the back of a Catana 47 into water you can see the bottom of, warm enough to dive in boardshorts, with a coach who's AIDA and Apnea Total certified running your safety. Reefs, sandbanks, a lot of blue. And almost nobody else doing it here."
 faq:
   - q: "Do I need freediving experience?"

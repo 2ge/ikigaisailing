@@ -43,6 +43,10 @@ faq:
       factura de spa.
 translated: deepl
 sourceHash: 42704ac5009e47cf
+gallery:
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/janzu/Janzu-terapia1.avif
+  - ~/assets/activities/janzu/Janzu-terapia2.avif
 ---
 
 ## Qué es el Janzu y qué no es

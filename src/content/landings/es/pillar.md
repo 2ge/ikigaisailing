@@ -1,9 +1,9 @@
 ---
 title: 'Alquiler de catamaranes en San Blas: la guía de Guna Yala'
 description: >-
-  Alquila un catamarán en San Blas, Panamá: navega por Guna Yala pagando por
-  camarote, con buceo libre, yoga y Janzu a bordo de un Catana 47. Se pagan las
-  cuotas de los socios, no comisiones de intermediarios.
+  Alquila un catamarán en San Blas, Panamá: navega por Guna Yala con alojamiento
+  por camarote, con buceo libre, yoga y Janzu a bordo de un Catana 47. Se pagan
+  las cuotas de los socios, no comisiones de intermediarios.
 seoTitle: Alquiler de catamaranes en San Blas (por camarote) | Ikigai Sailing
 metaDescription: >-
   Alquiler de catamarán por camarote en San Blas, Panamá: un Catana 47 por las
@@ -20,8 +20,8 @@ lead: >-
 faq:
   - q: ¿Cómo funciona el alquiler de un catamarán por camarote?
     a: >-
-      Reservas una litera, no todo el barco. La tripulación, la ruta y los demás
-      pasajeros ya están allí: te unes a ellos, te adaptas al ritmo y navegas
+      Reservas una litera, no el barco entero. La tripulación, la ruta y los
+      demás pasajeros ya están allí: tú te unes, te adaptas al ritmo y navegas
       por las islas de San Blas sin necesidad de formar tu propio grupo.
   - q: ¿Cuánto cuesta y por qué es más barato que las agencias?
     a: >-
@@ -32,21 +32,23 @@ faq:
       la página de la temporada o envíanos un mensaje por WhatsApp.
   - q: ¿Cuándo puedo navegar por San Blas?
     a: >-
-      Durante la temporada baja, más o menos hasta marzo. Fuera de ese periodo,
-      el barco sigue su ruta, y el mismo modelo de tarifa por camarote se
-      mantiene.
+      Estaremos fondeados en San Blas desde diciembre de 2025 hasta junio de
+      2026, la tranquila temporada caribeña. Después, el barco seguirá su ruta
+      hacia el Pacífico, y el mismo modelo de tarifa por camarote seguirá
+      vigente.
   - q: ¿Cómo llego hasta allí?
     a: >-
       Un 4×4 desde la ciudad de Panamá por la cordillera de Guna Yala y,
       después, un breve trayecto en panga hasta donde esté fondeado el Ikigai.
-      Nos encargamos de organizar todo el traslado una vez que hayas reservado.
+      Nos encargamos de organizar todo el traslado una vez que hayas hecho la
+      reserva.
 translated: deepl
-sourceHash: 8d0cb7cdea6890bf
+sourceHash: b83612d7a21dc093
 ---
 
 ## En qué consiste realmente un alquiler de catamarán en San Blas
 
-San Blas —**Guna Yala** en los mapas— es un territorio indígena autónomo formado por unas 365 islas frente a la costa caribeña de Panamá. Los guna lo gestionan ellos mismos: no hay edificios de hormigón, ni complejos turísticos, y hay un límite a lo que se puede sacar del mar. La mayoría de las islas son pequeños parches deshabitados de palmeras y arena blanca. Solo hay una forma de llegar: en barco. Navegamos en el **Ikigai**, un catamarán **Catana 47**, y lo alquilamos **por camarote**, así que no necesitas formar un grupo ni alquilar todo el barco.
+San Blas —**Guna Yala** en los mapas— es un territorio indígena autónomo formado por unas 365 islas frente a la costa caribeña de Panamá. Los guna lo gestionan ellos mismos: no hay edificios de hormigón, ni complejos turísticos, y hay un límite a lo que se puede pescar. La mayoría de las islas son islotes deshabitados de palmeras y arena blanca. Solo hay una forma de llegar: en barco. Navegamos en el **Ikigai**, un catamarán **Catana 47**, y lo alquilamos **por camarote**, así que no necesitas formar un grupo ni alquilar todo el barco.
 
 ## Por camarote, no por barco, y por qué eso importa
 
@@ -58,4 +60,4 @@ Buceo en apnea en aguas en las que se ve el fondo. Yoga en una cubierta plana. J
 
 ## Un lugar que sigue siendo dueño de sí mismo
 
-No encontrarás esto en Bali ni en Croacia. Las lagunas se mantienen cálidas y tranquilas todo el año, la mayoría de los días no verás ningún otro barco de alquiler, y la cultura que te rodea es la propia de los Guna: molas secándose en un tendedero, canoas de madera, un ritmo que precede a la marina en varios siglos.
+No encontrarás esto en Bali ni en Croacia. Las lagunas se mantienen cálidas y tranquilas todo el año, la mayoría de los días no verás otro barco de alquiler, y la cultura que te rodea es la propia de los Guna: molas secándose en un tendedero, canoas de madera, un ritmo que precede a la marina en varios siglos.

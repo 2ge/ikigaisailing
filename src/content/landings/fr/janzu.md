@@ -45,6 +45,10 @@ faq:
       lucratif, et non à une facture de spa.
 translated: deepl
 sourceHash: 42704ac5009e47cf
+gallery:
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/janzu/Janzu-terapia1.avif
+  - ~/assets/activities/janzu/Janzu-terapia2.avif
 ---
 
 ## Ce qu’est le Janzu, et ce qu’il n’est pas

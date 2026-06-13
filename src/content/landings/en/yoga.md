@@ -5,6 +5,10 @@ seoTitle: "Yoga Retreat in San Blas, Panama | Ikigai Sailing"
 metaDescription: "Daily yoga and breathwork aboard a Catana 47 catamaran in San Blas, Panama. Small group, warm Caribbean water, slow sailing between Guna Yala islands — book per cabin."
 locale: "en"
 heroImage: "~/assets/pages/home/IKIGAI-130-1.jpg"
+gallery:
+  - "~/assets/activities/ritiro-yoga-in-barca-a-vela/carla-yoga.webp"
+  - "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg"
+  - "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg"
 lead: "A yoga retreat in San Blas, Panama isn't a hotel with a sea view. It's a Catana 47 catamaran at anchor among the Guna islands, your mat on the foredeck at first light, the water already 28 °C. No timetable. No wifi tugging at your sleeve. Just breath, salt, and the next island over."
 faq:
   - q: "How much does the San Blas yoga retreat cost?"
@@ -12,7 +16,7 @@ faq:
   - q: "Do I need yoga experience?"
     a: "No. Practice is gentle and meets you where you are. The point is breath and reconnecting with your body at sea, not pretzel postures."
   - q: "When is the San Blas season?"
-    a: "We're in San Blas through the calm months, roughly until March. After that the same practice sails on with the boat to the next destination."
+    a: "We're anchored in San Blas from December 2025 to June 2026. After that the boat sails on, and the same per-cabin practice travels with it to the next destination."
   - q: "How do I reach the catamaran?"
     a: "From Panama City it's a 4×4 over the Guna Yala ridge, then a short panga ride to wherever Ikigai is anchored. We set up the whole transfer — just send us your arrival time."
 ---

@@ -45,6 +45,10 @@ faq:
       conto di un centro benessere.
 translated: deepl
 sourceHash: 42704ac5009e47cf
+gallery:
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/janzu/Janzu-terapia1.avif
+  - ~/assets/activities/janzu/Janzu-terapia2.avif
 ---
 
 ## Cos'è il Janzu e cosa non è

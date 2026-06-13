@@ -5,6 +5,10 @@ seoTitle: "Janzu Water Therapy in San Blas, Panama | Ikigai"
 metaDescription: "Experience Janzu aquatic bodywork in the warm, still water of San Blas, Panama. One-on-one water-healing sessions from a Catana 47 catamaran — a regenerative therapy aboard."
 locale: "en"
 heroImage: "~/assets/activities/janzu/Janzu-terapia3-1024x575.avif"
+gallery:
+  - "~/assets/activities/janzu/janzu1.jpg"
+  - "~/assets/activities/janzu/Janzu-terapia1.avif"
+  - "~/assets/activities/janzu/Janzu-terapia2.avif"
 lead: "Janzu in San Blas, Panama is aquatic bodywork in the one setting it actually needs: warm, still, silent water. A practitioner floats you, cradles your head, moves you in slow arcs until your breath drops and your body stops holding on. One-on-one, off the back of a Catana 47, palm islands on every side."
 faq:
   - q: "What is Janzu?"

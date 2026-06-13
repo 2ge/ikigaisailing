@@ -11,11 +11,15 @@ metaDescription: >-
   tranquilla tra le isole di Guna Yala — prenota per cabina.
 locale: it
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
+gallery:
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/carla-yoga.webp
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg
 lead: >-
   Un ritiro yoga a San Blas, in Panama, non è un hotel con vista sul mare. È un
   catamarano Catana 47 all’ancora tra le isole Guna, con il tuo tappetino sul
-  ponte di prua alle prime luci dell’alba e l’acqua che segna già i 28 °C.
-  Nessun orario da rispettare. Nessun wifi che ti tira per la manica. Solo
+  ponte di prua alle prime luci dell’alba e l’acqua che ha già raggiunto i 28
+  °C. Nessun orario da rispettare. Nessun Wi-Fi che ti tira per la manica. Solo
   respiro, salsedine e l'isola successiva.
 faq:
   - q: Quanto costa il ritiro yoga a San Blas?
@@ -32,9 +36,9 @@ faq:
       posizioni contorte.
   - q: Quando è la stagione di San Blas?
     a: >-
-      Restiamo a San Blas durante i mesi più tranquilli, più o meno fino a
-      marzo. Dopodiché la stessa squadra salpa con la barca verso la prossima
-      destinazione.
+      Saremo all'ancora a San Blas da dicembre 2025 a giugno 2026. Dopodiché la
+      barca salperà di nuovo, e la stessa formula "per cabina" ci accompagnerà
+      alla prossima destinazione.
   - q: Come si raggiunge il catamarano?
     a: >-
       Da Panama City si parte in fuoristrada attraverso la catena montuosa di
@@ -42,7 +46,7 @@ faq:
       l'Ikigai. Ci occupiamo noi di organizzare tutto il trasferimento: basta
       che ci comunichi l'orario di arrivo.
 translated: deepl
-sourceHash: fb84af288ae94aa1
+sourceHash: 6ccc03f9dbc2675d
 ---
 
 ## Com'è davvero un ritiro yoga su un catamarano
@@ -59,4 +63,4 @@ Le famose rotte di yoga-vela sono il Mediterraneo e il Sud-Est asiatico. Prenota
 
 ## Chi sale a bordo
 
-Principianti e praticanti con vent'anni di esperienza. Viaggiatori solitari, coppie, alcune persone più vicine al burnout di quanto direbbero ad alta voce. Manteniamo il gruppo piccolo di proposito: pratica che si può sentire, non una classe di trenta persone stipate su un pontile.
+Principianti e praticanti con vent'anni di esperienza. Viaggiatori solitari, coppie, alcune persone più vicine al burnout di quanto non ammettano ad alta voce. Manteniamo il gruppo piccolo di proposito: una pratica che si può sentire, non una lezione da trenta persone stipate su un pontile.

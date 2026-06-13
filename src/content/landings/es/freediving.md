@@ -44,6 +44,10 @@ faq:
       WhatsApp.
 translated: deepl
 sourceHash: 728794303456aa2d
+gallery:
+  - ~/assets/activities/freediving/apnea1.jpg
+  - ~/assets/activities/freediving/apnea4.jpg
+  - ~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg
 ---
 
 ## Por qué San Blas es el lugar ideal para el buceo en apnea

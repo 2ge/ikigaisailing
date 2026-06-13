@@ -1,22 +1,26 @@
 ---
-title: Ritiro di meditazione nelle Isole San Blas
+title: Ritiro di meditazione alle Isole San Blas
 description: >-
   Un ritiro di meditazione e respirazione in piccoli gruppi nelle isole San
   Blas, a Panama — a bordo di un catamarano Catana 47 all'ancora a Guna Yala,
-  senza campo e senza orari.
+  senza rete e senza orari.
 seoTitle: Ritiro di meditazione alle Isole San Blas | Ikigai Sailing
 metaDescription: >-
   Meditazione ed esercizi di respirazione a bordo di un catamarano Catana 47
   nelle isole San Blas, a Panama. Niente Wi-Fi, niente itinerario: si resta
   all’ancora a Guna Yala, prenotazione per cabina con l’equipaggio.
 locale: it
-heroImage: ~/assets/activities/janzu/Janzu-terapia3-1024x575.avif
+heroImage: ~/assets/activities/meditation/meditazione4.jpg
+gallery:
+  - ~/assets/trips/ikigai-experience/meditation-2.webp
+  - ~/assets/activities/meditation/meditazione2-copia-2.webp
+  - ~/assets/activities/project/meditazione1.jpg
 lead: >-
-  Un ritiro di meditazione nelle isole San Blas ti libera da tutte quelle cose
-  da cui di solito cerchi di fuggire quando mediti. Qui non c'è campo, non ci
-  sono orari, né il trambusto della città. Solo un Catana 47 all'ancora, l'acqua
-  che si estende fino all'orizzonte e quel tipo di quiete che la maggior parte
-  dei ritiri può solo promettere. Ti siedi, respiri, e le isole fanno il resto.
+  Un ritiro di meditazione alle Isole San Blas ti libera da tutte quelle cose da
+  cui di solito cerchi di fuggire quando mediti. Qui non c'è campo, non ci sono
+  orari, né il trambusto della città. Solo un Catana 47 all'ancora, l'acqua che
+  si estende a perdita d'occhio e quel tipo di quiete che la maggior parte dei
+  ritiri può solo promettere. Ti siedi, respiri, e le isole fanno il resto.
 faq:
   - q: Quanto costa il ritiro di meditazione a San Blas?
     a: >-
@@ -40,24 +44,24 @@ faq:
       il ritiro inizia davvero.
   - q: Quando è la stagione di San Blas?
     a: >-
-      Durante i mesi più tranquilli, più o meno fino a marzo, restiamo
-      all’ancora a San Blas. Dopodiché, la stessa squadra salpa con la barca
-      verso la prossima destinazione di Ikigai.
+      Siamo all'ancora a San Blas da dicembre 2025 a giugno 2026. Dopodiché la
+      barca salperà di nuovo, e la stessa formula "per cabina" la seguirà
+      ovunque Ikigai si dirigerà.
 translated: deepl
-sourceHash: 1763edc9d7cda727
+sourceHash: a4e549f3fe91af7f
 ---
 
 ## Come si vive un ritiro di meditazione all’ancora
 
-Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**, ancorato nelle lagune di Guna Yala. Non c'è una sala di meditazione né un gong. Le sessioni mattutine si svolgono sul ponte di prua — un catamarano rimane stabile, quindi non devi stare tutto il tempo a contrastarne l'inclinazione — e la colonna sonora è il vento tra le sartie e l'acqua che batte contro gli scafi. Tra una seduta e l'altra nuoti, galleggi, osservi una fregata che sfrutta le correnti termiche. La giornata non ha un programma che la vincoli, il che si rivela essere la cosa più rara che un ritiro possa offrire.
+Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**, ancorato nelle lagune di Guna Yala. Non c'è una sala di meditazione né un gong. Le sessioni mattutine si svolgono sul ponte di prua — un catamarano rimane stabile, quindi non devi stare tutto il tempo a contrastarne l'inclinazione — e la colonna sonora è il vento tra le sartie e l'acqua che batte contro gli scafi. Tra una seduta e l'altra nuoti, galleggi, osservi una fregata che sfrutta le correnti termiche. La giornata non ha un programma che la vincoli, il che risulta essere la cosa più rara che un ritiro possa offrire.
 
 ## Cosa è incluso nel ritiro di meditazione a San Blas
 
-Prenoti una cuccetta, vicino alla cabina: non devi portare un gruppo, né riempire l’intera barca. La settimana ti offre un letto a bordo di un Catana 47, sessioni mattutine e esercizi di respirazione guidati, ogni pasto cucinato a bordo con pesce appena pescato e prodotti delle isole, attrezzatura per lo snorkeling e l'apnea, e una navigazione tranquilla tra gli ancoraggi con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è un **contributo associativo a Ikigai Sailing ASD**, un'associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. Ecco perché una settimana qui costa una frazione di una crociera di agenzia: i tuoi soldi servono a gestire la barca e l'esperienza, non a pagare la commissione di un intermediario.
+Prenoti una cuccetta, in cabina — non devi portare un gruppo, né riempire l’intera barca. La settimana ti offre un letto a bordo di un Catana 47, sessioni mattutine e esercizi di respirazione guidati, ogni pasto cucinato a bordo con pesce appena pescato e prodotti delle isole, attrezzatura per lo snorkeling e l'apnea, e una navigazione tranquilla tra gli ancoraggi con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è un **contributo associativo a Ikigai Sailing ASD**, un'associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. Ecco perché una settimana qui costa una frazione di una crociera con un'agenzia: i tuoi soldi servono a gestire la barca e l'esperienza, non a pagare la commissione di un intermediario.
 
 ## Perché le isole fanno metà del lavoro
 
-La maggior parte dei ritiri di meditazione combatte contro l’ambiente circostante: la strada fuori, il telefono in tasca, il prossimo impegno in agenda. San Blas elimina tutte e tre queste cose. È un territorio autonomo dei Guna senza resort, senza ripetitori, senza cemento. Le lagune rimangono calme e calde tutto l’anno, la maggior parte dei giorni non vedrai altre barche e il silenzio non è artificiale: è semplicemente ciò che rimane quando il rumore non ha da dove provenire. Non devi sforzarti per entrare in meditazione. È il posto a farti entrare.
+La maggior parte dei ritiri di meditazione combatte contro l’ambiente circostante: la strada fuori, il telefono in tasca, il prossimo impegno in agenda. San Blas elimina tutte e tre queste cose. È un territorio autonomo dei Guna senza resort, senza ripetitori, senza cemento. Le lagune rimangono calme e calde tutto l'anno, la maggior parte dei giorni non vedrai altre barche e il silenzio non è artificiale: è semplicemente ciò che rimane quando il rumore non ha da dove provenire. Non devi sforzarti per entrare in meditazione. È il posto a farti entrare.
 
 ## Chi sale a bordo
 
