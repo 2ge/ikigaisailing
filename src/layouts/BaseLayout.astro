@@ -9,6 +9,7 @@ import { ClientRouter } from 'astro:transitions';
 import SEO from '../components/SEO.astro';
 import LocaleRedirect from '../components/LocaleRedirect.astro';
 import Analytics from '../components/Analytics.astro';
+import DebugBeacon from '../components/DebugBeacon.astro';
 import { getLocaleFromUrl } from '../i18n/ui';
 import '../styles/global.css';
 
@@ -63,5 +64,6 @@ const locale = getLocaleFromUrl(Astro.url);
   </head>
   <body class="min-h-screen bg-sand-50 font-sans text-ink antialiased">
     <slot />
+    <DebugBeacon />
   </body>
 </html>
