@@ -89,7 +89,7 @@ const t = useTranslations(locale);
     const btn = $('[data-cart-checkout]'); const msg = $('[data-cart-msg]');
     btn.disabled = true;
     try {
-      const res = await fetch('/api/checkout', {
+      const res = await fetch('/api/paypal', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ items: items.map((i) => ({ sku: i.sku, quantity: i.qty })), locale: document.documentElement.lang || 'en' }),
       });
