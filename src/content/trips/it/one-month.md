@@ -1,16 +1,16 @@
 ---
-title: "Un Mese a Bordo"
-description: "Un mese a Bordo del Catamarano Ikigai La Trasformazione TotaleNuovo stile di vita: consolidamento di abitudini salutari per il corpo e la mente."
-locale: "it"
+title: Un Mese a Bordo
+description: "Un mese a Bordo del Catamarano Ikigai La Trasformazione TotaleNuovo stile di vita:\_consolidamento di abitudini salutari per il corpo e la mente."
+locale: it
 price: 2000
-currency: "EUR"
-duration: "1 month"
-location: "San Blas, Panama"
+currency: EUR
+duration: 1 month
+location: 'San Blas, Panama'
 membersOnly: true
-heroImage: "~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp"
+heroImage: ~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp
 order: 3
 oldUrls:
-  - "/it/prodotto/un-mese/"
+  - /it/prodotto/un-mese/
 ---
 
 2.000,00 €
@@ -26,22 +26,22 @@ L’esperienza di un mese a bordo è pensata per chi sente il richiamo a fermars
 
 È un’opportunità **riservata ai soci** che hanno già assaporato la filosofia di vita Ikigai e si sentono pronti a immergersi in modo più completo e continuativo in questa dimensione fatta di natura, semplicità, condivisione e trasformazione.
 
-**Fuori dal Matrix, dentro la Vita  Che tu sia un appassionato di vela, un amante della natura o semplicemente in cerca di una pausa rigenerante, **Ikigai Sailing è la tua occasione per ritrovare il senso, il ritmo, il respiro.  Perché il mare non è solo uno scenario: è **una casa, un maestro, un luogo di verità**.
+Fuori dal Matrix, dentro la Vita  Che tu sia un appassionato di vela, un amante della natura o semplicemente in cerca di una pausa rigenerante, Ikigai Sailing è la tua occasione per ritrovare il senso, il ritmo, il respiro.  Perché il mare non è solo uno scenario: è una casa, un maestro, un luogo di verità.
 
-**Un ritmo diverso  Questa esperienza è pensata per chi desidera **staccarsi dai ritmi convenzionali** e ritrovare un tempo più **lento, naturale ed essenziale**.
+Un ritmo diverso  Questa esperienza è pensata per chi desidera staccarsi dai ritmi convenzionali e ritrovare un tempo più lento, naturale ed essenziale.
 È un invito a sperimentare i benefici di uno stile di vita fondato sull’ascolto del corpo, il contatto con la natura, la presenza nel “qui e ora”.
 
-P**arte della vita di bordo  A bordo non sei un ospite: **sei parte dell’equipaggio**.
-Parteciperai alla vita quotidiana, potrai approfondire le discipline proposte (freediving, yoga, meditazione, vela, janzu) e, se vorrai, **condividere le tue passioni, competenze e creatività**.
+Parte della vita di bordo  A bordo non sei un ospite: sei parte dell’equipaggio.
+Parteciperai alla vita quotidiana, potrai approfondire le discipline proposte (freediving, yoga, meditazione, vela, janzu) e, se vorrai, condividere le tue passioni, competenze e creatività.
 Uno scambio reale, dove ognuno arricchisce l’altro e il viaggio diventa uno specchio di crescita reciproca.
 
-**Un tempo necessario  Settimane brevi, soprattutto se precedute da lunghi viaggi o periodi di stress, possono non bastare**per entrare davvero nel ritmo magico della barca** , né per creare relazioni significative.
-Un mese, invece, **offre il tempo necessario per disintossicarsi dal superfluo** , riconnettersi a sé stessi e vivere in profondità ogni aspetto dell’esperienza.
+Un tempo necessario  Settimane brevi, soprattutto se precedute da lunghi viaggi o periodi di stress, possono non bastareper entrare davvero nel ritmo magico della barca , né per creare relazioni significative.
+Un mese, invece, offre il tempo necessario per disintossicarsi dal superfluo , riconnettersi a sé stessi e vivere in profondità ogni aspetto dell’esperienza.
 
-**Una scelta accessibile e flessibile  Crediamo che tutti debbano avere la possibilità di esplorare il proprio Ikigai.
-Per questo il **contributo richiesto è molto inferiore ai prezzi di mercato** , in linea con la nostra missione di diffondere benessere e consapevolezza attraverso la vita in mare.
+Una scelta accessibile e flessibile  Crediamo che tutti debbano avere la possibilità di esplorare il proprio Ikigai.
+Per questo il contributo richiesto è molto inferiore ai prezzi di mercato , in linea con la nostra missione di diffondere benessere e consapevolezza attraverso la vita in mare.
 
-**Posti limitati  Solo **2 o 3 posti al mese** sono destinati a questo tipo di imbarco.
+Posti limitati  Solo 2 o 3 posti al mese sono destinati a questo tipo di imbarco.
 Vogliamo che ogni persona a bordo abbia lo spazio, il tempo e la qualità relazionale che rendono l’esperienza Ikigai qualcosa di autentico e trasformativo.
 
 ## Durante il mese:

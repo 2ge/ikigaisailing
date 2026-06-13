@@ -1,20 +1,22 @@
 ---
-title: "Chi Siamo – Ikigai Sailing e la serenità della vela"
-description: "Scopri la filosofia di Ikigai Sailing: vivere il mare con consapevolezza, libertà e passione per la natura e l’avventura."
-locale: "it"
+title: Chi Siamo – Ikigai Sailing e la serenità della vela
+description: >-
+  Scopri la filosofia di Ikigai Sailing: vivere il mare con consapevolezza,
+  libertà e passione per la natura e l’avventura.
+locale: it
 oldUrls:
-  - "/it/about/"
-heroImage: "~/assets/pages/about/20221114_180633.jpg"
+  - /it/about/
+heroImage: ~/assets/pages/about/20221114_180633.jpg
 gallery:
-  - "~/assets/activities/janzu/janzu1.jpg"
-  - "~/assets/activities/kitesurf/kite-surf7.jpg"
-  - "~/assets/activities/project/meditazione1.jpg"
-  - "~/assets/activities/diving/scuba-diving-3.jpg"
-  - "~/assets/activities/project/yoga-ikigai.jpg"
-  - "~/assets/trips/acconto/20221220_125124.jpg"
-  - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
-
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/kitesurf/kite-surf7.jpg
+  - ~/assets/activities/project/meditazione1.jpg
+  - ~/assets/activities/diving/scuba-diving-3.jpg
+  - ~/assets/activities/project/yoga-ikigai.jpg
+  - ~/assets/trips/acconto/20221220_125124.jpg
+  - ~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp
 ---
+
 ## Chi Siamo
 
 Ikigai Sailing è una comunità in continua crescita, composta da sognatori, velisti, apneisti, subacquei, kitesurfer e appassionati di sport e avventura.
@@ -50,7 +52,7 @@ LUCA
 
 **Skipper, Istruttore di Kitesurfing & Freediving Skipper, Istruttore di Kitesurfing & Freediving**
 
-Luca è certificato **RYA Yachtmaster Offshore** e istruttore di vela riconosciuto dal CONI. È anche istruttore di apnea per le organizzazioni **AIDA** e **Apnea**Totale** e di kitesurfing con qualifica per **IKO International**
+Luca è certificato RYA Yachtmaster Offshore e istruttore di vela riconosciuto dal CONI. È anche istruttore di apnea per le organizzazioni AIDA e ApneaTotale e di kitesurfing con qualifica per IKO International
 
 La sua vocazione per l’ospitalità, combinata con la passione per il buon cibo gli permette di creare un’esperienza unica a bordo incentrate sul benEssere psicofisico fondendo l’attività fisica e lo sport con pratiche quali la meditazione ed il **Janzu** arricchendo il tutto con i piaceri di **una sana Dolce Vita**.
 
@@ -97,4 +99,3 @@ Il nostro progetto è un viaggio intorno al mondo in barca a vela, dove insegnia
 ![ikigaisailing-2024-anguilla](../../../assets/pages/home/ikigaisailing-2024-anguilla.avif)
 
 ![20221220_125124](../../../assets/trips/acconto/20221220_125124.jpg)
-

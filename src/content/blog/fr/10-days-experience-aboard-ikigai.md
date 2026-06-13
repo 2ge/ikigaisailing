@@ -7,7 +7,7 @@ locale: fr
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 300e90093507641a
+sourceHash: 30e484a0d0f82303
 ---
 
 ### Introduction
@@ -23,13 +23,13 @@ Cette expérience Ikigai est conçue pour t'aider à explorer l'équilibre entre
 -   Méditation assise ou en mouvement
 -   Des séances physiques en rotation (entraînement Tabata au poids du corps ou bases de la boxe) _Toutes les séances s’adaptent à l’énergie du groupe et à la météo._
 
-**🌇 Soirée : Termine la journée par des activités axées sur** l'introspection, la relaxation et la régénération\*\*, notamment :
+🌇 Soirée : Termine la journée par des activités axées sur l'introspection, la relaxation et la régénération, notamment :
 
 -   Yoga au coucher du soleil
 -   Méditation
 -   Partage en silence ou en cercle _(selon le groupe et le lieu)_
 
-\*\*🕊️ Temps libre : les pauses entre les activités sont volontairement laissées libres — pour se reposer, lire, nager, profiter du silence ou vivre des moments spontanés. **Il n’y a rien d’autre à faire que d’être.**
+🕊️ Temps libre : les pauses entre les activités sont volontairement laissées libres — pour se reposer, lire, nager, profiter du silence ou vivre des moments spontanés. Il n’y a rien d’autre à faire que d’être.
 
 ### 🍽️ La vie à bord et la nourriture
 
@@ -56,7 +56,7 @@ Le programme peut être modifié en fonction :
 ### ✈️ Arrivée à Panama City
 
 -   Transfert privé depuis l'aéroport
--   Nuit à **Casco Viejo**, quartier classé au patrimoine mondial de l'UNESCO
+-   Nuit à **Casco Viejo**, quartier classé au patrimoine de l'UNESCO
 -   Promenade en soirée dans les ruelles coloniales, les terrasses animées, au son de la musique et à la découverte de la cuisine locale
 
 ### 🏝️ Jour 1 – Bienvenue à Banedup Points forts :
@@ -81,9 +81,9 @@ Le programme peut être modifié en fonction :
 -   🥥 Déjeuner dans un restaurant en bord de mer
 -   🌇 17h30–19h00 : Routine du soir
 -   🍽️ 20h00 : Dîner
--   🎶 21h00 : Musique live et karaoké en option à terre
+-   🎶 21h00 : Musique live et karaoké facultatifs à terre
 
-### 🐬 Jour 3 – Cays néerlandais occidentaux (Cayo Holandés Oeste) Une nature intacte et des récifs coralliens colorés
+### 🐬 Jour 3 – West Dutch Cays (Cayo Holandés Oeste) Une nature intacte et des récifs coralliens colorés
 
 -   🧘 06h30–08h00 : Routine matinale
 -   ☕ 08h30 : Petit-déjeuner
@@ -98,7 +98,7 @@ Le programme peut être modifié en fonction :
 
 -   🌬️ 06h30–07h30 : Respiration et étirements pour la plongée en apnée
 -   ☕ 07h30 : Petit-déjeuner léger
--   📘 08h30 : Révision théorique et technique
+-   📘 08h30 : Révision de la théorie et des techniques
 -   🌊 10h00–12h30 : Séance pratique de plongée en apnée
 -   🍽️ 13h00 : Déjeuner
 -   🕊️ 15h00–17h00 : Temps libre — plongée avec tuba, pêche, kayak, repos
@@ -107,7 +107,7 @@ Le programme peut être modifié en fonction :
 
 ### 🏝️ Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp
 
--   🧘 06h30 : Routine matinale
+-   🧘 06h30 : Routine du matin
 -   ☕ 08h30 : Petit-déjeuner
 -   ⛵ 09h30 : Navigation vers le lagon
 -   🏄 11h00 : Balade d'île en île en SUP ou en kayak

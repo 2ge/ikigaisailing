@@ -1,18 +1,19 @@
 ---
-title: "Traversata Oceano Pacifico"
-description: "Traversata Pacifica: Unisciti a noi per un'avventura unica nella vita attraverso l'Oceano Pacifico! 4.000 miglia nautiche da Panama alle Isole Marchesi"
-locale: "it"
+title: Traversata Oceano Pacifico
+description: "Traversata Pacifica: Unisciti a noi per un'avventura unica nella vita attraverso l'Oceano Pacifico!\_4.000 miglia nautiche da Panama alle Isole Marchesi"
+locale: it
 price: 2000
-currency: "EUR"
-duration: "3-4 weeks"
-location: "Panama → French Polynesia"
+currency: EUR
+duration: 3-4 weeks
+location: Panama → French Polynesia
 membersOnly: true
-heroImage: "~/assets/trips/acconto/IMG_3015-2-scaled.jpg"
+heroImage: ~/assets/trips/acconto/IMG_3015-2-scaled.jpg
 gallery:
-  - "~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp"
+  - >-
+    ~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp
 order: 4
 oldUrls:
-  - "/it/prodotto/traversata-pacifica/"
+  - /it/prodotto/traversata-pacifica/
 ---
 
 ![Traversata Oceano Pacifico - immagine 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -76,15 +77,15 @@ _“Chi ha visto il mare aperto non torna più lo stesso.”_
 - **dissalatore** per produzione acqua dolce
 - **vele di rispetto** e dotazioni complete di ricambio
 
-**Tender con motore fuoribordo** per sbarchi e trasferimenti a terra
-Utilizzo delle attrezzature a bordo (kayak, SUP, attrezzatura da snorkeling, ecc.) **prima e dopo la traversata Partecipazione gratuita a**classi di Yoga** a bordo e a terra
-**Sconti** sui corsi di Freediving & Kitesurfing (prima e dopo la traversata)
-**Internet ad alta velocità** tramite Starlink (soggetto a disponibilità di copertura)
-**Tessera associativa Ikigai Sailing ASD** valida per l’anno in corso
-**Attrezzatura di sicurezza** aggiornata (zattera di salvataggio, giubbotti, razzi, estintori, kit medico)
-**Pezzi di ricambio di base** per manutenzione ordinaria durante la navigazione
-**Attrezzatura da pesca Briefing iniziale di sicurezza e formazione** per la vita a bordo e la traversata
-**Supporto pratico per procedure doganali e logistiche** nei porti di scalo
+Tender con motore fuoribordo per sbarchi e trasferimenti a terra
+Utilizzo delle attrezzature a bordo (kayak, SUP, attrezzatura da snorkeling, ecc.) prima e dopo la traversata Partecipazione gratuita aclassi di Yoga a bordo e a terra
+Sconti sui corsi di Freediving & Kitesurfing (prima e dopo la traversata)
+Internet ad alta velocità tramite Starlink (soggetto a disponibilità di copertura)
+Tessera associativa Ikigai Sailing ASD valida per l’anno in corso
+Attrezzatura di sicurezza aggiornata (zattera di salvataggio, giubbotti, razzi, estintori, kit medico)
+Pezzi di ricambio di base per manutenzione ordinaria durante la navigazione
+Attrezzatura da pesca Briefing iniziale di sicurezza e formazione per la vita a bordo e la traversata
+Supporto pratico per procedure doganali e logistiche nei porti di scalo
 
 ## Cosa Non È Incluso
 - Voli e trasferimenti
@@ -94,16 +95,16 @@ Utilizzo delle attrezzature a bordo (kayak, SUP, attrezzatura da snorkeling, ecc
 - Qualsiasi cosa non menzionata sotto la voce “Cosa è incluso”
 
 ## CASSA DI BORDO (extra da prevedere)
-- **Cambusa** (spesa iniziale e rifornimenti eventuali)
-- **Diesel e gas
-- **Clearance** d’uscita da Panama e d’ingresso in Polinesia Francese (o altre isole intermedie)
-- **Transito Canale di Panama** (pedaggio, line handler, noleggio cime/parabordi, eventuale agenzia)
-- **Tasse di ancoraggio o parchi marini** (Galápagos, Gambier, Tuamotu, ecc.)
-- Eventuali costi di **ormeggio in marina
-- **Abbonamenti comunicazione/meteo** : Iridium GO! / Starlink Ocean, PredictWind, ricariche telefono satellitare
-- **SIM locali** nei porti intermedi
-- **Visti e permessi** per ciascun membro dell’equipaggio
-- Eventuali costi di **rimpatrio o voli** in caso di sbarco anticipato
-- **Trasferimenti a terra** per rifornimenti o pratiche burocratiche
+- Cambusa (spesa iniziale e rifornimenti eventuali)
+- Diesel e gas
+- Clearance d’uscita da Panama e d’ingresso in Polinesia Francese (o altre isole intermedie)
+- Transito Canale di Panama (pedaggio, line handler, noleggio cime/parabordi, eventuale agenzia)
+- Tasse di ancoraggio o parchi marini (Galápagos, Gambier, Tuamotu, ecc.)
+- Eventuali costi di ormeggio in marina
+- Abbonamenti comunicazione/meteo : Iridium GO! / Starlink Ocean, PredictWind, ricariche telefono satellitare
+- SIM locali nei porti intermedi
+- Visti e permessi per ciascun membro dell’equipaggio
+- Eventuali costi di rimpatrio o voli in caso di sbarco anticipato
+- Trasferimenti a terra per rifornimenti o pratiche burocratiche
 
 **Acqua potabile extra** (taniche/rifornimenti in caso di problemi al dissalatore)

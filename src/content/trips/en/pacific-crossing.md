@@ -1,20 +1,26 @@
 ---
-title: "Ocean Pacific Crossing"
-description: "Pacific Crossing, Join us on a once-in-a-lifetime adventure across the Pacific Ocean! 4,000 nautical miles from Panama to the Marquesas Islands"
-seoTitle: "Pacific Crossing Crew: Panama to Polynesia | Ikigai"
-metaDescription: "Join our 2027 Pacific crossing as crew — about 4,000 nautical miles from Panama to the Marquesas aboard a Catana 47, guided by a RYA Yachtmaster skipper."
-locale: "en"
+title: Ocean Pacific Crossing
+description: >-
+  Pacific Crossing, Join us on a once-in-a-lifetime adventure across the Pacific
+  Ocean! 4,000 nautical miles from Panama to the Marquesas Islands
+seoTitle: 'Pacific Crossing Crew: Panama to Polynesia | Ikigai'
+metaDescription: >-
+  Join our 2027 Pacific crossing as crew — about 4,000 nautical miles from
+  Panama to the Marquesas aboard a Catana 47, guided by a RYA Yachtmaster
+  skipper.
+locale: en
 price: 2000
-currency: "EUR"
-duration: "3-4 weeks"
-location: "Panama → French Polynesia"
+currency: EUR
+duration: 3-4 weeks
+location: Panama → French Polynesia
 membersOnly: true
-heroImage: "~/assets/trips/acconto/IMG_3015-2-scaled.jpg"
+heroImage: ~/assets/trips/acconto/IMG_3015-2-scaled.jpg
 gallery:
-  - "~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp"
+  - >-
+    ~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp
 order: 4
 oldUrls:
-  - "/prodotto/pacific-crossing/"
+  - /prodotto/pacific-crossing/
 ---
 
 ![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -26,7 +32,7 @@ oldUrls:
 
 ## Description
 
-**The Great Pacific Crossing  _From Panama to the Marquesas Islands – March 2027_ _
+The Great Pacific Crossing  _From Panama to the Marquesas Islands – March 2027_ _
 _ A rare, intense, unrepeatable experience.
 Setting off on an ocean crossing is something that goes beyond sailing.
 It’s a leap into the unknown, an act of trust.
@@ -35,7 +41,7 @@ It’s reconnecting with the rhythm of the wind, the night, and your inner world
 In March 2027, _Ikigai_ will leave the coasts of Panama to cross the Pacific Ocean.
 An epic journey of over 30 days of sailing, through one of the most remote and pristine areas on the planet.
 
-**The Itinerary  **Departure** : late February 2027 – Guna Yala Archipelago (Panama)
+The Itinerary  Departure : late February 2027 – Guna Yala Archipelago (Panama)
 After months in the San Blas Islands, we’ll set sail southwest.
 The first 1,000 miles will take us to the Galápagos, reached after around 10 days of open ocean.
 These will be days of wind, waves, moonlight, and silence. Days of transformation.
@@ -44,19 +50,19 @@ A short stop among the volcanic islands to touch land, restock, and prepare for 
 The 3,000-mile crossing to the Marquesas Islands, in the heart of French Polynesia.
 Estimated 20 days of non-stop sailing, where the ocean becomes home, horizon, and teacher.
 
-**This is not a vacation.  It’s a life experience.
+This is not a vacation.  It’s a life experience.
 Those who join this crossing will be part of the crew.
 They will share shifts, maneuvers, cooking, navigation, silences, and sunrises.
 And they’ll be part of something rare: a community sailing into the unknown with open hearts.
 
 You don’t need advanced sailing skills—just adaptability, the ability to listen, and a willingness to be transformed.
 
-**Why do it?  To truly feel what time means, when it’s no longer ruled by notifications but by waves.
+Why do it?  To truly feel what time means, when it’s no longer ruled by notifications but by waves.
 To look at the night sky with no artificial light, and find your true direction.
 To be part of something greater, something real.
 To live the essence of the ocean—and discover your own.
 
-**Want to cross the Pacific with us? [ Fill out the form to stay updated](/contact/) and receive all technical, economic, and logistical details as the departure approaches.
+Want to cross the Pacific with us? [ Fill out the form to stay updated](/contact/) and receive all technical, economic, and logistical details as the departure approaches.
 Spots will be very limited. Selections will take place in 2026.
 But the intention begins now.
 

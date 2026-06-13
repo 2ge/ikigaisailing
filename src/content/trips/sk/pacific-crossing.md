@@ -1,5 +1,5 @@
 ---
-title: Plavba cez Tichý oceán
+title: Prekročenie Tichého oceánu
 description: >-
   Plavba cez Tichý oceán – pridajte sa k nám na jedinečné dobrodružstvo cez
   Tichý oceán! 4 000 námorných míľ z Panamy na Markézy
@@ -20,7 +20,7 @@ gallery:
     ~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp
 order: 4
 translated: deepl
-sourceHash: edc0d4d36db5f24d
+sourceHash: bf9a8dcbd4664543
 needsReview: true
 ---
 
@@ -34,27 +34,27 @@ needsReview: true
 
 ## Popis
 
-\*\*Veľké prekročenie Tichého oceánu _Z Panamy na Markézy – marec 2027_ \_ \_ Vzácny, intenzívny a neopakovateľný zážitok. Vyraziť na plavbu cez oceán je niečo, čo presahuje rámec samotného plachtenia. Je to skok do neznáma, prejav dôvery. Je to opätovné spojenie s rytmom vetra, noci a vášho vnútorného sveta.
+Veľké prekročenie Tichého oceánu _Z Panamy na Markézy – marec 2027_ \_ \_ Vzácny, intenzívny a neopakovateľný zážitok. Vyraziť na plavbu cez oceán je niečo, čo presahuje rámec samotného plachtenia. Je to skok do neznáma, prejav dôvery. Je to opätovné spojenie s rytmom vetra, noci a vášho vnútorného sveta.
 
 V marci 2027 _loď_ _Ikigai_ opustí pobrežie Panamy, aby preplávala Tichý oceán. Epická cesta trvajúca viac ako 30 dní plavby cez jednu z najodľahlejších a najnedotknutejších oblastí na planéte.
 
-\*\*Trasa **Odchod**: koniec februára 2027 – súostrovie Guna Yala (Panama) Po mesiacoch strávených na ostrovoch San Blas vyplávame na juhozápad. Prvých 1 000 míľ nás zavedie na Galapágy, kam dorazíme po približne 10 dňoch plavby po otvorenom oceáne. Budú to dni vetra, vĺn, mesačného svitu a ticha. Dni premeny.
+Trasa Odchod: koniec februára 2027 – súostrovie Guna Yala (Panama) Po mesiacoch strávených na ostrovoch San Blas vyplávame na juhozápad. Prvých 1 000 míľ nás zavedie na Galapágy, kam dorazíme po približne 10 dňoch plavby po otvorenom oceáne. Budú to dni vetra, vĺn, mesačného svitu a ticha. Dni premeny.
 
 Krátka zastávka medzi sopečnými ostrovmi, aby sme sa dotkli pevniny, doplnili zásoby a pripravili sa na väčší skok: 3 000 míľová plavba na Markézy, v srdci Francúzskej Polynézie. Odhadom 20 dní nepretržitej plavby, kde sa oceán stane domovom, horizontom a učiteľom.
 
-\*\*Toto nie je dovolenka. Je to životná skúsenosť. Tí, ktorí sa pripoja k tomuto preplavbu, budú súčasťou posádky. Budú sa podieľať na striedaní, manévroch, varení, navigácii, tichu a východe slnka. A budú súčasťou niečoho vzácneho: komunity plaviacej sa do neznáma s otvorenými srdcami.
+Toto nie je dovolenka. Je to životná skúsenosť. Tí, ktorí sa pripoja k tomuto preplavbu, budú súčasťou posádky. Budú sa podieľať na striedaní, manévroch, varení, navigácii, tichu a východe slnka. A budú súčasťou niečoho vzácneho: komunity plaviacej sa do neznáma s otvorenými srdcami.
 
 Nepotrebujete pokročilé plavecké zručnosti – stačí prispôsobivosť, schopnosť počúvať a ochota premeniť sa.
 
-\*\*Prečo to robiť? Aby ste skutočne pocítili, čo znamená čas, keď už nie je riadený notifikáciami, ale vlnami. Aby ste sa pozerali na nočnú oblohu bez umelého osvetlenia a našli svoj skutočný smer. Aby ste boli súčasťou niečoho väčšieho, niečoho skutočného. Aby ste prežili podstatu oceánu – a objavili tú svoju.
+Prečo to robiť? Aby ste skutočne pocítili, čo znamená čas, keď už nie je riadený notifikáciami, ale vlnami. Aby ste sa pozerali na nočnú oblohu bez umelého svetla a našli svoj skutočný smer. Aby ste boli súčasťou niečoho väčšieho, niečoho skutočného. Aby ste prežili podstatu oceánu – a objavili tú svoju.
 
-\*\*Chcete s nami preplávať Tichý oceán? [Vyplňte formulár, aby ste boli informovaní](/sk/kontakt/) a dostávali všetky technické, ekonomické a logistické podrobnosti, keď sa bude blížiť odchod. Miesta budú veľmi obmedzené. Výber sa uskutoční v roku 2026. Ale zámer začína už teraz.
+Chcete s nami preplávať Tichý oceán? [Vyplňte formulár, aby ste boli informovaní](/sk/kontakt/) a dostávali všetky technické, ekonomické a logistické podrobnosti, keď sa bude blížiť odchod. Miesta budú veľmi obmedzené. Výber sa uskutoční v roku 2026. Ale zámer začína už teraz.
 
-**„Tí, ktorí videli otvorené more, sa nikdy nevrátia takí istí.“**
+**„Tí, ktorí videli otvorené more, sa už nikdy nevrátia takí istí.“**
 
 ## Príspevok a zahrnuté služby
 
-**V cene / Nie je v cene ČO JE V CENE**
+**Zahrnuté / Nezahrnuté ČO JE ZAHRNUTÉ**
 
 -   Kapitán s certifikátom RYA Yacht Master a skúsenosťami na mori
 -   Ubytovanie na celú dobu v zdieľanej dvojposteľovej kajute na palube _lode Ikigai_, Catana 47 (14 m), oceánskeho výpravného katamaránu určeného na dlhé plavby, vybaveného:
@@ -95,6 +95,6 @@ Nepotrebujete pokročilé plavecké zručnosti – stačí prispôsobivosť, sch
 -   Miestne SIM karty v medzipristávacích prístavoch
 -   Víza a povolenia pre každého člena posádky
 -   Prípadné náklady na repatriáciu alebo lety v prípade predčasného vylodenia
--   Preprava na breh za účelom nákupu zásob alebo vybavovania administratívnych záležitostí
+-   Preprava na breh za účelom nákupu zásob alebo vybavovania administratívnych formalít
 
 Dodatočná pitná voda (kanistre/doplnenie v prípade problémov s odsolovačom)

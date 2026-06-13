@@ -1,13 +1,14 @@
 ---
-title: "Primo soccorso in mare"
-description: "Primo soccorso in mare: affrontare l’imprevisto con prontezza"
-locale: "it"
-pubDate: "2025-02-27"
-image: "~/assets/pages/vita-a-bordo-social/first-aid.webp"
+title: Primo soccorso in mare
+description: 'Primo soccorso in mare: affrontare l’imprevisto con prontezza'
+locale: it
+pubDate: '2025-02-27'
+image: ~/assets/pages/vita-a-bordo-social/first-aid.webp
 ---
+
 **Primo soccorso in mare: affrontare l’imprevisto con prontezza**
 
-🚑 **L’importanza del primo soccorso in barca In mare, l’imprevedibilità è parte dell’avventura, ma anche una sfida. Un piccolo incidente può trasformarsi in un problema serio se non si è preparati. Sapere come gestire emergenze come ferite, ustioni, malesseri improvvisi o addirittura situazioni più critiche è fondamentale per garantire la sicurezza di tutti a bordo.
+🚑 L’importanza del primo soccorso in barca In mare, l’imprevedibilità è parte dell’avventura, ma anche una sfida. Un piccolo incidente può trasformarsi in un problema serio se non si è preparati. Sapere come gestire emergenze come ferite, ustioni, malesseri improvvisi o addirittura situazioni più critiche è fondamentale per garantire la sicurezza di tutti a bordo.
 
 ### Situazioni comuni di emergenza in barca e come affrontarle
 

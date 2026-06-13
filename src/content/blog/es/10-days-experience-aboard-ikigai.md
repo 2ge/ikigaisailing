@@ -7,7 +7,7 @@ locale: es
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 300e90093507641a
+sourceHash: 30e484a0d0f82303
 ---
 
 ### Introducción
@@ -21,15 +21,15 @@ Esta experiencia Ikigai está diseñada para ayudarte a explorar el equilibrio e
 -   Técnicas de respiración consciente
 -   Secuencias de yoga dinámicas o restaurativas
 -   Meditación sentada o en movimiento
--   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo) _. Todas las sesiones se adaptan a la energía del grupo y al tiempo._
+-   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo) _Todas las sesiones se adaptan a la energía del grupo y al tiempo._
 
-**🌇 Tarde: Termina el día con actividades centradas en** la introspección, la relajación y la regeneración\*\*, que incluyen:
+🌇 Tarde: Termina el día con actividades centradas en la introspección, la relajación y la regeneración, como:
 
 -   Yoga al atardecer
 -   Meditación
 -   Compartir en silencio o en círculo _(dependiendo del grupo y la ubicación)_
 
-\*\*🕊️ Tiempo libre: Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. **No hay nada que hacer más que estar.**
+🕊️ Tiempo libre: Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. No hay nada que hacer más que ser.
 
 ### 🍽️ La vida a bordo y la comida
 
@@ -39,7 +39,7 @@ La comida es el centro de la vida en _Ikigai Experience_. Combinamos lo que nos 
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos siempre que podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
+Pescamos siempre que podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin ninguna obligación.
 
 ### ☁️ Nota importante
 
@@ -72,7 +72,7 @@ El programa puede modificarse en función de:
 -   🐠 Snorkel en los arrecifes de coral
 -   🌅 Rutina nocturna opcional
 
-### 🏖️ Día 2 – Chichime Una isla animada con cabañas de playa y ambiente caribeño
+### 🏖️ Día 2 – Chichime Una isla animada con cabañas en la playa y ambiente caribeño
 
 -   🧘 06:30–08:00: Rutina matutina
 -   ☕ 09:00: Desayuno
@@ -83,11 +83,11 @@ El programa puede modificarse en función de:
 -   🍽️ 20:00: Cena
 -   🎶 21:00: Música en directo y karaoke opcionales en tierra
 
-### 🐬 Día 3 – Cayos Holandeses Oeste (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida
+### 🐬 Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida
 
 -   🧘 06:30–08:00: Rutina matutina
 -   ☕ 08:30: Desayuno
--   ⛵ 10:00: Navegación hacia los Cayos Holandeses Occidentales
+-   ⛵ 10:00: Navegación hacia los Cayos Holandeses
 -   🐠 12:00–14:00: Snorkel
 -   🍽️ 14:00: Almuerzo
 -   🌇 17:30: Rutina vespertina
@@ -109,10 +109,10 @@ El programa puede modificarse en función de:
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
--   ⛵ 09:30: Navegamos hacia la laguna
+-   ⛵ 09:30: Navegación hacia la laguna
 -   🏄 11:00: Recorrido por las islas en SUP o kayak
 -   🍽️ 13:00: Almuerzo
--   🕊️ 15:00: Tiempo libre / conocer a los lugareños
+-   🕊️ 15:00: Tiempo libre / conocer a la gente del lugar
 -   🌅 17:30: Yoga al atardecer o cardio/artes marciales
 -   🔥 19:30: Barbacoa en la playa y hoguera con las familias Guna
 
@@ -146,7 +146,7 @@ El programa puede modificarse en función de:
 -   🌇 18:30: Rutina nocturna opcional
 -   🍽️ 20:00: Cena
 
-### 🦈 Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta
+### 🦈 Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración
 
 -   🧘 06:30: Rutina matutina
 -   ☕ 08:30: Desayuno
