@@ -23,7 +23,7 @@ const path = '/panama/san-blas/';
 const site = Astro.site!.origin;
 
 // activity cards
-const ACTS = ['freediving', 'yoga', 'janzu'];
+const ACTS = ['freediving', 'yoga', 'janzu', 'meditation'];
 const cards = (await Promise.all(ACTS.map((a) => entryForLocale('landings', a, locale))))
   .filter(Boolean)
   .map((e: any, i) => ({ slug: ACTS[i], title: e.data.title, hero: e.data.heroImage }));
@@ -55,7 +55,7 @@ const seasonHref = localizePath('/season-2025-26/', locale);
 
     <section class="mt-14">
       <h2 class="font-display text-2xl text-ocean-950">{t('home.activitiesTitle')}</h2>
-      <div class="mt-6 grid gap-5 sm:grid-cols-3">
+      <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
         {cards.map((c) => (
           <a href={localizePath(`/panama/san-blas/${c.slug}/`, locale)} class="group relative overflow-hidden rounded-2xl bg-ocean-100 ring-1 ring-ocean-950/5 transition hover:ring-ocean-300">
             <div class="aspect-[4/3] overflow-hidden">
