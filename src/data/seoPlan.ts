@@ -41,12 +41,12 @@ export const PHASES: Phase[] = [
     ],
   },
   {
-    id: 'p3', title: 'Phase 3 — Geo pages & pillars', goal: 'Region hubs + geo activity pages (the near-term money); activity pages go evergreen/global.',
+    id: 'p3', title: 'Phase 3 — Geo pages & pillars', goal: 'Region hubs + geo activity pages (near-term money); activity pages go worldwide/evergreen.',
     steps: [
-      { title: '/san-blas/ evergreen pillar → "san blas catamaran", links to all geo activity pages + money pages', status: 'todo' },
-      { title: 'Geo activity pages /san-blas/<activity> → regional keywords (yoga/freediving/janzu san blas)', status: 'todo', note: 'highest-volume, season-active → build FIRST' },
-      { title: 'Re-point /activities/<x> to GLOBAL keywords; re-map seoKeywords.ts (pending URL shape)', status: 'todo' },
-      { title: '/world-voyage/ pillar for the Global set', status: 'todo' },
+      { title: '/panama/san-blas/ pillar → "san blas catamaran", links to geo activity pages + offers', status: 'todo' },
+      { title: 'Geo activity pages /panama/san-blas/<activity> → regional keywords (yoga/freediving/janzu san blas)', status: 'todo', note: 'highest-volume, season-active → build FIRST' },
+      { title: 'Re-point /activities/<x> to WORLDWIDE keywords (yoga/freediving on a catamaran); re-map seoKeywords.ts', status: 'now', note: 'needs worldwide volumes — keyword tool' },
+      { title: '/world-voyage/ pillar for the long-term voyage keywords', status: 'todo' },
     ],
   },
   {
@@ -67,8 +67,8 @@ export const SPRINT: string[] = [
 ];
 
 export const DECISIONS: { q: string; status: Status; answer?: string }[] = [
-  { q: 'Page architecture: evergreen ACTIVITY pages target GLOBAL keywords; GEO landing pages (/san-blas/<activity>) target the regional keywords — re-pointed as the boat moves (San Blas → Polynesia → …).', status: 'now', answer: 'Agreed in principle (owner, 2026-06-13). Strict keyword split avoids cannibalization. Open sub-question: URL shape — /san-blas/yoga (recommended) vs /panama/san-blas/yoga.' },
-  { q: '/san-blas/ as a new evergreen pillar (recommended), + /world-voyage/ later?', status: 'now', answer: 'Yes — becomes the geo hub with activity children; season page feeds it.' },
+  { q: 'Page architecture: evergreen ACTIVITY pages target worldwide keywords; GEO pages target regional keywords; re-pointed as the boat moves.', status: 'done', answer: 'DECIDED (owner 2026-06-13): geo URL = /panama/san-blas/<activity> — ALL San Blas pages/offers live under /panama/san-blas/. Activity pages (/activities/<x>) = worldwide "X on a catamaran" terms. Global set = worldwide activity keywords + long-term voyage keywords (not only "sail around the world").' },
+  { q: 'Keyword research source for worldwide-activity volumes (catamaran yoga/freediving/…)?', status: 'now', answer: 'No NEW paid access required — owner already has SEMrush (NoxTools) + Google Ads (Keyword Planner, free). Run those on Claude\'s seed list → paste back. OR DataForSEO (~$50) if owner wants Claude to pull + refresh + rank automatically.' },
   { q: 'Publishing pace — how many articles/week should Claude write?', status: 'todo' },
   { q: 'Language priority — EN-first then all 5, or push IT/SK harder?', status: 'todo' },
   { q: 'Spoke depth — many short 600–800w posts vs fewer 1,200–1,500w deep guides?', status: 'todo' },
