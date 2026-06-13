@@ -24,6 +24,10 @@ export const SEGMENTS: Record<string, Record<Loc, string>> = {
   faq: { en: 'faq', it: 'faq', es: 'faq', fr: 'faq', sk: 'faq' },
   'catana-47': { en: 'catana-47', it: 'catana-47', es: 'catana-47', fr: 'catana-47', sk: 'catana-47' },
   liveaboard: { en: 'liveaboard', it: 'vita-a-bordo', es: 'vida-a-bordo', fr: 'vie-a-bord', sk: 'zivot-na-palube' },
+  // De-routed: the season content now renders at /panama/san-blas/ (see lib/routes
+  // topLevelStaticPaths skip). Kept here so (a) check-routes' "every pages/*.md has a
+  // SEGMENTS entry" rule passes, and (b) gen-redirects can 301 every old localized
+  // season URL → /panama/san-blas/. No /season-2025-26/ route is emitted.
   'season-2025-26': {
     en: 'season-2025-26',
     it: 'stagione-2025-26',

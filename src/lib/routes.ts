@@ -13,7 +13,6 @@ export const DEDICATED = new Set([
   'ikigai',
   'route',
   'story',
-  'season-2025-26',
   'reviews',
   'contact',
 ]);
@@ -30,6 +29,7 @@ export async function topLevelStaticPaths() {
   for (const e of all) {
     const slug = slugOf(e);
     if (slug === 'home') continue; // home is the locale index route
+    if (slug === 'season-2025-26') continue; // de-routed — its content renders at /panama/san-blas/ (old URLs 301 there)
     (localesBySlug.get(slug) ?? localesBySlug.set(slug, new Set()).get(slug)!).add(localeOf(e) as Loc);
   }
   const out: { params: { locale: string | undefined; slug: string }; props: { locale: Loc; pageKey: string } }[] = [];

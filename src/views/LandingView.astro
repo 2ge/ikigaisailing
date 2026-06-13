@@ -33,7 +33,7 @@ const schemas = [
 ];
 const contactHref = localizePath(`/contact/?topic=${encodeURIComponent(d.title)}`, locale);
 const activityHref = localizePath(`/activities/${activity}/`, locale);
-const seasonHref = localizePath('/season-2025-26/', locale);
+const seasonHref = localizePath('/panama/san-blas/', locale);
 ---
 <PageLayout title={d.seoTitle ?? d.title} description={d.metaDescription ?? d.description} path={path} ogType="article" conciergeContext="activity" availableLocales={availableLocales}>
   <Fragment slot="head">{schemas.map((s) => <JsonLd schema={s} />)}</Fragment>

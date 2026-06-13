@@ -103,17 +103,15 @@ export const KEYWORDS: Keyword[] = [
   } },
 
   // ═══════════════ SAN BLAS — geo cluster under /panama/san-blas/ ═══════════════
-  { id: 'sanblas-pillar', set: 'san-blas', page: { collection: 'landings', slug: 'pillar' }, loc: {
-    en: { primary: 'san blas catamaran charter', vol: 210, kd: 'Low', spokes: ['san blas catamaran cruise', 'catamaran tours san blas', 'san blas catamaran rental', 'per cabin catamaran san blas', 'san blas sailing trip'] },
-    it: { primary: 'catamarano san blas', spokes: ['tour catamarano san blas', 'crociera catamarano san blas'] },
-    es: { primary: 'catamaran san blas', spokes: ['tour catamaran san blas', 'crucero catamaran san blas'] },
-    fr: { primary: 'catamaran san blas', spokes: ['croisière catamaran san blas'] },
-    sk: { primary: 'katamaran san blas', spokes: ['plavba katamaranom san blas'] },
-  } },
-  { id: 'sanblas-cabin', set: 'san-blas', page: { collection: 'pages', slug: 'season-2025-26' }, loc: {
-    en: { primary: 'all inclusive catamaran cabin charter san blas', vol: 240, kd: 'Low-Med', spokes: ['shared catamaran charter san blas', 'book a cabin catamaran san blas', 'san blas catamaran cruise per cabin', 'budget friendly catamaran san blas', '10 days catamaran cruise panama'] },
-    it: { primary: 'noleggio cabina catamarano all inclusive san blas', vol: 140, kd: 'Low' }, es: { primary: 'alquiler cabina catamaran todo incluido san blas', vol: 180, kd: 'Low-Med' },
-    fr: { primary: 'location cabine catamaran tout inclus san blas', vol: 120, kd: 'Low-Med' }, sk: { primary: 'all inclusive katamaran prenajom kabiny san blas', vol: 40, kd: 'Extremely Low (0)' },
+  // The San Blas hub + booking page: /panama/san-blas/ (content = pages/season-2025-26.md,
+  // de-routed from /season-2025-26/). Merged the former pillar + cabin clusters — one page,
+  // one canonical target, no self-cannibalization.
+  { id: 'sanblas-hub', set: 'san-blas', page: { collection: 'pages', slug: 'season-2025-26' }, loc: {
+    en: { primary: 'san blas catamaran charter', vol: 240, kd: 'Low', spokes: ['all inclusive catamaran cabin charter san blas', 'san blas catamaran cruise', 'per cabin catamaran san blas', 'catamaran tours san blas', 'san blas catamaran rental', 'book a cabin catamaran san blas', 'san blas sailing trip'] },
+    it: { primary: 'catamarano san blas', vol: 140, kd: 'Low', spokes: ['noleggio cabina catamarano all inclusive san blas', 'crociera catamarano san blas'] },
+    es: { primary: 'catamaran san blas', vol: 180, kd: 'Low-Med', spokes: ['alquiler cabina catamaran todo incluido san blas', 'crucero catamaran san blas'] },
+    fr: { primary: 'catamaran san blas', vol: 120, kd: 'Low-Med', spokes: ['location cabine catamaran tout inclus san blas', 'croisière catamaran san blas'] },
+    sk: { primary: 'katamaran san blas', vol: 40, kd: 'Extremely Low (0)', spokes: ['all inclusive katamaran prenajom kabiny san blas', 'plavba katamaranom san blas'] },
   } },
   { id: 'sanblas-yoga', set: 'san-blas', page: { collection: 'landings', slug: 'yoga' }, loc: {
     en: { primary: 'yoga retreat san blas panama', vol: 130, kd: 'Low', spokes: ['yoga sailing retreat san blas', 'wellness retreat san blas islands', 'mindful sailing san blas', 'yoga catamaran panama'] },
@@ -154,8 +152,8 @@ export const KEYWORDS: Keyword[] = [
 
 // ─── derived helpers — consumers read from these, never duplicate keywords ───
 export const pathOf = (p: NonNullable<Keyword['page']>) =>
-  p.collection === 'landings' ? (p.slug === 'pillar' ? '/panama/san-blas/' : `/panama/san-blas/${p.slug}/`)
-  : p.collection === 'pages' ? `/${p.slug}/`
+  p.collection === 'landings' ? `/panama/san-blas/${p.slug}/`
+  : p.collection === 'pages' ? (p.slug === 'season-2025-26' ? '/panama/san-blas/' : `/${p.slug}/`)
   : `/${p.collection}/${p.slug}/`;
 
 /** Page → per-locale primary keyword. Drives the matrix + page scoring (existing pages only). */

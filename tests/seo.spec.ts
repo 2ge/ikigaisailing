@@ -77,10 +77,14 @@ test.describe('crawl surface', () => {
     for (const [from, to] of [
       ['/about-us/', '/about/'],
       ['/the-story/', '/story/'],
-      ['/2025-26-season/', '/season-2025-26/'],
+      // season page merged into the San Blas hub — every old season URL must land there
+      ['/2025-26-season/', '/panama/san-blas/'],
+      ['/season-2025-26/', '/panama/san-blas/'],
+      ['/it/stagione-2025-26/', '/it/panama/san-blas/'],
+      ['/retreat/', '/panama/san-blas/'],
       ['/prodotto/one-month/', '/trips/one-month/'],
     ]) {
-      expect(r, `redirect ${from} → ${to}`).toContain(from);
+      expect(r, `redirect ${from} → ${to}`).toContain(`${from}  ${to}`);
     }
   });
 });

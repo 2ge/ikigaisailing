@@ -1,15 +1,21 @@
 ---
-/** /panama/san-blas/ pillar route (+ locale prefix). Content: landings/<locale>/pillar.md. */
+/**
+ * /panama/san-blas/ — the canonical San Blas hub + booking page (+ locale prefix).
+ * Renders the season/booking content (pages/<locale>/season-2025-26.md) via SeasonView,
+ * which also links down to the geo activity pages. The old /season-2025-26/ URLs 301 here.
+ */
 import { getCollection } from 'astro:content';
 import { LOCALES, type Loc } from '../../../../i18n/segments';
 import { slugOf, localeOf } from '../../../../lib/content';
-import PillarView from '../../../../views/PillarView.astro';
+import SeasonView from '../../../../views/SeasonView.astro';
 
 export async function getStaticPaths() {
-  const have = new Set((await getCollection('landings')).filter((e) => slugOf(e) === 'pillar').map((e) => localeOf(e) as Loc));
+  const have = new Set(
+    (await getCollection('pages')).filter((e) => slugOf(e) === 'season-2025-26').map((e) => localeOf(e) as Loc),
+  );
   const locs = have.has('en') ? [...LOCALES] : [...have];
   return locs.map((locale) => ({ params: { locale: locale === 'en' ? undefined : locale }, props: { locale } }));
 }
 const { locale } = Astro.props;
 ---
-<PillarView locale={locale} />
+<SeasonView locale={locale} />

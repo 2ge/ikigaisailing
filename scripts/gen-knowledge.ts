@@ -74,7 +74,7 @@ const KEY_PAGES = ['season-2025-26', 'catana-47', 'route', 'liveaboard', 'faq', 
 lines.push('\n## Key pages');
 for (const p of read('pages')) {
   if (!KEY_PAGES.includes(p.slug)) continue;
-  const url = `${SITE}/${p.slug === 'season-2025-26' ? 'season-2025-26' : p.slug}/`;
+  const url = `${SITE}/${p.slug === 'season-2025-26' ? 'panama/san-blas' : p.slug}/`;
   lines.push(`\n### ${p.data.title}  —  ${url}`);
   lines.push(excerpt(p.body, p.slug === 'faq' || p.slug === 'terms' ? 1800 : 900));
 }

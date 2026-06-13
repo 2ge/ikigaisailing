@@ -41,6 +41,11 @@ function current(path: string): string {
   return localizePath(canon, loc);
 }
 
+// Pages whose route was removed and whose content moved to a hand-picked path.
+// Every old URL of theirs (English-slug, live localized-slug, and WordPress
+// oldUrls) must 301 to the new path — critical for the ikigaisailing.com cutover.
+const MOVED: Record<string, string> = { 'season-2025-26': '/panama/san-blas/' };
+
 for (const collection of ['pages', 'trips', 'activities', 'blog']) {
   for (const loc of LOCS) {
     const dir = join(CONTENT, collection, loc);
@@ -49,11 +54,17 @@ for (const collection of ['pages', 'trips', 'activities', 'blog']) {
       const { data } = matter(readFileSync(join(dir, file), 'utf8'));
       const slug = file.replace(/\.md$/, '');
       const canon = canonicalPath(collection, slug);
-      const to = localizePath(canon, loc); // new localized URL
+      const moved = collection === 'pages' ? MOVED[slug] : undefined;
+      const to = moved ? (loc === 'en' ? moved : `/${loc}${moved}`) : localizePath(canon, loc);
 
-      // (2) previous English-slug localized URL → new localized URL
+      // (2) previous English-slug localized URL → target
       add(loc === 'en' ? canon : `/${loc}${canon}`, to);
-      // (1) WordPress oldUrls → new localized URL
+      // moved pages also 301 their LIVE localized slug (e.g. /it/stagione-2025-26/ → /it/panama/san-blas/)
+      if (moved) {
+        const seg = localizeSegment(slug, loc);
+        add(loc === 'en' ? `/${seg}/` : `/${loc}/${seg}/`, to);
+      }
+      // (1) WordPress oldUrls → target
       for (const old of (data.oldUrls as string[] | undefined) ?? []) add(old, to);
     }
   }
@@ -63,9 +74,9 @@ for (const collection of ['pages', 'trips', 'activities', 'blog']) {
 // localized targets that get re-localized to their current form.
 const EXTRA: Record<string, string> = {
   // Google Ads landing pages (paid traffic must not 404 after the cutover)
-  '/retreat/sailing-&-yoga': '/season-2025-26/',
-  '/retreat/sailing-&-yoga/': '/season-2025-26/',
-  '/retreat/': '/season-2025-26/',
+  '/retreat/sailing-&-yoga': '/panama/san-blas/',
+  '/retreat/sailing-&-yoga/': '/panama/san-blas/',
+  '/retreat/': '/panama/san-blas/',
   '/prodotto/advance-payment/': '/trips/',
   '/it/prodotto/acconto/': '/it/trips/',
   '/life-on-the-boat/': '/liveaboard/',
