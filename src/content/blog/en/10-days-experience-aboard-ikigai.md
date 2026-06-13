@@ -1,10 +1,13 @@
 ---
-title: "10 Days Ikigai Experience aboard"
-description: "Ikigai Experience is designed to help you explore the balance between commitment and listening, between discipline and freedom."
-locale: "en"
-pubDate: "2025-07-24"
-image: "~/assets/pages/ikigai/ikigaisailing.avif"
+title: 10 Days Ikigai Experience aboard
+description: >-
+  Ikigai Experience is designed to help you explore the balance between
+  commitment and listening, between discipline and freedom.
+locale: en
+pubDate: '2025-07-24'
+image: ~/assets/pages/ikigai/ikigaisailing.avif
 ---
+
 ### Introduction
 
 During Ikigai Experience every proposed activity is **highly recommended** , but never mandatory. The invitation is to step out of your comfort zone, try new experiences, and strengthen your discipline — while also listening deeply to your body and its needs.
@@ -18,14 +21,14 @@ This Ikigai experience is designed to help you explore the balance between **com
 - Rotating physical sessions (Tabata bodyweight workout or boxing basics)
 _All sessions adapt to group energy and weather._
 
-**🌇 Evening: End the day with activities focused on**introspection, relaxation, and regeneration** , including:
+🌇 Evening: End the day with activities focused onintrospection, relaxation, and regeneration , including:
 - Sunset yoga
 - Meditation
 - Silent or circle sharing
  _(depending on the group and location)_
 
-**🕊️ Free Time: Breaks between activities are intentionally left open — for rest, reading, swimming, silence, or spontaneous moments.
-**There’s nothing to do but be.**
+🕊️ Free Time: Breaks between activities are intentionally left open — for rest, reading, swimming, silence, or spontaneous moments.
+There’s nothing to do but be.
 
 ### 🍽️ Life on Board & Food
 

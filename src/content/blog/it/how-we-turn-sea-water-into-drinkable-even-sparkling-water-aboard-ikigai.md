@@ -1,10 +1,13 @@
 ---
-title: "Come trasformiamo l’acqua del mare in acqua potabile su Ikigai"
-description: "Scopri come Ikigai Sailing trasforma l'acqua di mare in acqua potabile, riducendo al minimo l'impatto ambientale."
-locale: "it"
-pubDate: "2026-01-24"
-image: "~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp"
+title: Come trasformiamo l’acqua del mare in acqua potabile su Ikigai
+description: >-
+  Scopri come Ikigai Sailing trasforma l'acqua di mare in acqua potabile,
+  riducendo al minimo l'impatto ambientale.
+locale: it
+pubDate: '2026-01-24'
+image: ~/assets/pages/vita-a-bordo-social/Sea-Water-into-Drinkable-Water.webp
 ---
+
 Trasformare l’acqua del mare in acqua potabile in mezzo all’oceano, dove l’**acqua dolce** non è mai scontata. A bordo di **Ikigai Sailing** abbiamo scelto di renderci indipendenti: niente bottiglie di plastica, niente rifornimenti obbligati nei porti. Solo mare, tecnologia e un po’ di ingegno.
 
 Ogni giorno produciamo la nostra **acqua potabile** e persino **frizzante** , direttamente dall’**acqua di mare**. Questo ci permette di vivere **off-grid** e ridurre drasticamente l’impatto ambientale della navigazione.
@@ -28,10 +31,10 @@ L’**acqua di mare** passa attraverso un **filtro a 5 micron** , quindi un sist
 ### Rubinetto a 4 vie
 
 Per migliorare gusto e qualità, l’acqua passa attraverso:
-- **Lampada UV** → elimina batteri
-- **Filtro al carbone 5 micron** → migliora purezza e sapore
-- **Filtro mineralizzante** → restituisce sali minerali naturali
-- **Bombola di CO**₂**\+ refrigeratore** → acqua fresca e frizzante
+- Lampada UV → elimina batteri
+- Filtro al carbone 5 micron → migliora purezza e sapore
+- Filtro mineralizzante → restituisce sali minerali naturali
+- Bombola di CO₂\+ refrigeratore → acqua fresca e frizzante
 
 Il sistema arriva a un **rubinetto a 4 vie** :
 

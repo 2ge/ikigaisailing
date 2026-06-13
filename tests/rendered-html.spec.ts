@@ -45,13 +45,16 @@ for (const p of pages) {
       // hreflang/og URLs legitimately contain it — those are not artifacts.
       // Real artifacts: WP uploads, the s.w.org emoji CDN, placeholder avatars,
       // and literal bullet glyphs in body copy.
-      const body = p.html.replace(/<style[\s\S]*?<\/style>/g, '');
+      const body = p.html
+        .replace(/<style[\s\S]*?<\/style>/g, '')
+        .replace(/<script[\s\S]*?<\/script>/g, '');
       const bad =
         /\/wp-content\//.test(p.html) ||
         /s\.w\.org/.test(p.html) ||
         /user[13]\.webp/.test(p.html) ||
-        /•/.test(body);
-      expect(bad, `${p.url} contains an artifact`).toBe(false);
+        /•/.test(body) ||
+        /\*\*/.test(body); // unrendered markdown bold — a WordPress-import artifact
+      expect(bad, `${p.url} contains an artifact (wp path, emoji CDN, bullet glyph, or literal **)`).toBe(false);
     });
 
     test('no obviously broken internal asset URLs', () => {

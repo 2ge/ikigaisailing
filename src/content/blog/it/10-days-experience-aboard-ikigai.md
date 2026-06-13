@@ -7,7 +7,7 @@ locale: it
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 300e90093507641a
+sourceHash: 30e484a0d0f82303
 ---
 
 ### Introduzione
@@ -23,13 +23,13 @@ Questa esperienza Ikigai è pensata per aiutarti a esplorare l'equilibrio tra **
 -   Meditazione da seduti o in movimento
 -   Sessioni fisiche a rotazione (allenamento Tabata a corpo libero o nozioni di base di boxe) _Tutte le sessioni si adattano all'energia del gruppo e alle condizioni meteorologiche._
 
-**🌇 Sera: Concludi la giornata con attività incentrate sull**'introspezione, il rilassamento e la rigenerazione\*\*, tra cui:
+🌇 Sera: Concludi la giornata con attività incentrate sull'introspezione, il rilassamento e la rigenerazione, tra cui:
 
 -   Yoga al tramonto
 -   Meditazione
 -   Condivisione in silenzio o in cerchio _(a seconda del gruppo e del luogo)_
 
-\*\*🕊️ Tempo libero: le pause tra un'attività e l'altra sono volutamente lasciate libere — per riposare, leggere, nuotare, stare in silenzio o godersi momenti spontanei. **Non c'è altro da fare che essere.**
+🕊️ Tempo libero: le pause tra un'attività e l'altra sono volutamente lasciate libere — per riposare, leggere, nuotare, stare in silenzio o vivere momenti spontanei. Non c'è altro da fare che essere.
 
 ### 🍽️ Vita a bordo e cibo
 
@@ -57,7 +57,7 @@ Il programma potrebbe subire modifiche in base a:
 
 -   Trasferimento privato dall'aeroporto
 -   Pernottamento a **Casco Viejo**, quartiere patrimonio dell'UNESCO
--   Passeggiata serale tra vicoli coloniali, vivaci terrazze, musica e cucina locale
+-   Passeggiata serale tra vicoli coloniali, terrazze animate, musica e cucina locale
 
 ### 🏝️ Giorno 1 – Benvenuto a Banedup Punti salienti:
 
@@ -154,7 +154,7 @@ Il programma potrebbe subire modifiche in base a:
 -   🏖️ 12:00: Pranzo in spiaggia
 -   🦈 13:00–17:00: Nuoto con gli squali (facoltativo), snorkeling, amache
 -   🌇 17:00: Routine serale
--   🔥 19:00–23:00: Festa finale intorno al falò: aragosta alla griglia e musica
+-   🔥 19:00–23:00: Festa finale attorno al falò: aragosta alla griglia e musica
 
 ### 🌅 Giorno 10 – Ritorno a Banedup Ultimi momenti in paradiso
 

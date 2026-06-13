@@ -12,7 +12,7 @@ sourceHash: 945f792d3fb4340f
 needsReview: true
 ---
 
-V posledných rokoch sa pojem _„Ikigai“_ teší čoraz väčšej obľube a často sa zjednodušuje na motivačnú frázu alebo farebný diagram. V japonskej kultúre je však Ikigai niečo oveľa hlbšie. Nie je to niečo, čo by ste mali naháňať – je to niečo**, na čo** by ste **mali načúvať**. Dovolenka v duchu Ikigai vychádza práve z tohto chápania.
+V posledných rokoch sa pojem _„Ikigai“_ teší čoraz väčšej obľube a často sa zjednodušuje na motivačnú frázu alebo farebný diagram. V japonskej kultúre je však Ikigai niečo oveľa hlbšie. Nie je to niečo, čo by ste mali naháňať – je to niečo, na čo by ste mali načúvať. Dovolenka v duchu Ikigai vychádza práve z tohto chápania.
 
 ## Skutočný význam Ikigai
 

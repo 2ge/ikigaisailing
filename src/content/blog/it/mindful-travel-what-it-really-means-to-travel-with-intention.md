@@ -43,7 +43,7 @@ In mare, la consapevolezza non richiede sforzo. Nasce dall'ambiente stesso.
 
 ## La navigazione consapevole come viaggio relazionale
 
-Un**'esperienza di navigazione consapevole** non riguarda il lusso o il consumo. Riguarda le relazioni.
+Un'esperienza di navigazione consapevole non riguarda il lusso o il consumo. Riguarda le relazioni.
 
 Relazione con:
 

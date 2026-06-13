@@ -7,7 +7,7 @@ locale: sk
 pubDate: '2025-07-24'
 image: ~/assets/pages/ikigai/ikigaisailing.avif
 translated: deepl
-sourceHash: 300e90093507641a
+sourceHash: 30e484a0d0f82303
 needsReview: true
 ---
 
@@ -15,7 +15,7 @@ needsReview: true
 
 Počas Ikigai Experience sú všetky navrhované aktivity **vysoko odporúčané**, ale nikdy nie sú povinné. Pozývame vás, aby ste vystúpili zo svojej komfortnej zóny, vyskúšali nové zážitky a posilnili svoju disciplínu – a zároveň hlboko načúvali svojmu telu a jeho potrebám.
 
-Tento program Ikigai Experience je navrhnutý tak, aby vám pomohol objaviť rovnováhu medzi **oddanosťou a vnímaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon – len príležitosť opäť sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
+Tento program Ikigai Experience je navrhnutý tak, aby vám pomohol nájsť rovnováhu medzi **odhodlaním a vnímaním**, medzi **disciplínou a slobodou**. Žiadne očakávania, žiadny výkon – len príležitosť znovu sa spojiť so sebou samým, s ostatnými a s prirodzeným rytmom života.
 
 ### 🌅 Denný program 🕐 Ráno (cca 1h30): Každý deň začína vedenou reláciou, ktorá môže zahŕňať:
 
@@ -24,13 +24,13 @@ Tento program Ikigai Experience je navrhnutý tak, aby vám pomohol objaviť rov
 -   Meditáciu v sede alebo v pohybe
 -   Striedajúce sa fyzické cvičenia (cvičenie s vlastnou váhou podľa metódy Tabata alebo základy boxu) _Všetky cvičenia sa prispôsobujú energii skupiny a počasiu._
 
-**🌇 Večer: Deň zakončíme aktivitami zameranými na** introspekciu, relaxáciu a regeneráciu\*\*, medzi ktoré patria:
+🌇 Večer: Deň zakončíme aktivitami zameranými na introspekciu, relaxáciu a regeneráciu, medzi ktoré patria:
 
 -   Jóga pri západe slnka
 -   Meditácia
 -   Tiché alebo kruhové zdieľanie _(v závislosti od skupiny a miesta)_
 
-\*\*🕊️ Voľný čas: Prestávky medzi aktivitami sú zámerne ponechané otvorené – na oddych, čítanie, plávanie, ticho alebo spontánne momenty. **Niet čo robiť**, **len byť.**
+🕊️ Voľný čas: Prestávky medzi aktivitami sú zámerne ponechané voľné – na oddych, čítanie, plávanie, ticho alebo spontánne momenty. Nič iné sa nedá robiť, len byť.
 
 ### 🍽️ Život na palube a jedlo
 
@@ -40,7 +40,7 @@ Jedlo je srdcom života na _Ikigai Experience_. Kombinujeme to, čo nám poskytu
 -   Tropické ovocie
 -   Miestna zelenina
 
-Keď je to možné, lovíme ryby a pripravujeme kreatívne jedlá: **carpaccio, tatarák, sashimi** a ďalšie. **Spoločné stolovanie je posvätné.** Môžete sa zapojiť do prípravy jedál – v duchu komunitného ducha, bez akýchkoľvek záväzkov.
+Keď je to možné, lovíme ryby a pripravujeme kreatívne jedlá: **carpaccio, tatarák, sashimi** a ďalšie. **Spoločné stolovanie je posvätné.** Môžete sa zapojiť do prípravy jedál – v duchu komunity, bez akýchkoľvek záväzkov.
 
 ### ☁️ Dôležitá poznámka
 
@@ -84,18 +84,18 @@ Program sa môže upraviť na základe:
 -   🍽️ 20:00: Večera
 -   🎶 21:00: Voliteľná živá hudba a karaoke na brehu
 
-### 🐬 Deň 3 – West Dutch Cays (Cayo Holandés Oeste) Nedotknutá príroda a živé koralové útesy
+### 🐬 Deň 3 – West Dutch Cays (Cayo Holandés Oeste) Nedotknutá príroda a žiarivé koralové útesy
 
 -   🧘 06:30–08:00: Ranná rutina
 -   ☕ 08:30: Raňajky
--   ⛵ 10:00: Plavba do West Dutch Cays
+-   ⛵ 10:00: Plavba na West Dutch Cays
 -   🐠 12:00–14:00: Šnorchlovanie
 -   🍽️ 14:00: Obed
 -   🌇 17:30: Večerná rutina
 -   📚 19:00: Teória freedivingu (dýchanie, vyrovnávanie tlaku, bezpečnosť)
 -   🌌 20:30: Večera a pozorovanie morského života pri svetle lodí
 
-### 🧘‍♂️ Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké prepojenie
+### 🧘‍♂️ Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké spojenie
 
 -   🌬️ 06:30–07:30: Dýchanie a strečing pre freediving
 -   ☕ 07:30: Ľahké raňajky
@@ -111,18 +111,18 @@ Program sa môže upraviť na základe:
 -   🧘 06:30: Ranná rutina
 -   ☕ 08:30: Raňajky
 -   ⛵ 09:30: Plavba do lagúny
--   🏄 11:00: Prehliadka ostrovov na SUP alebo kajaku
+-   🏄 11:00: Prehliadka ostrovov na SUP-e alebo kajaku
 -   🍽️ 13:00: Obed
 -   🕊️ 15:00: Voľný čas / stretnutie s miestnymi
 -   🌅 17:30: Jóga pri západe slnka alebo kardio/bojové umenia
--   🔥 19:30: Grilovanie na pláži a táborák s rodinami Guna
+-   🔥 19:30: Grilovanie na pláži a táborák s rodinami z kmeňa Guna
 
 ### 🌴 6. deň – Dutch Cays „Bazén“ Najmalebnejšie kotvisko
 
 -   🧘 06:30: Ranná rutina
 -   ☕ 08:30: Raňajky
 -   ⛵ 09:30: Plavba do East Dutch Cays
--   🧵 11:00: Návšteva remeselníckeho ostrova
+-   🧵 11:00: Návšteva remeselného ostrova
 -   🍽️ 12:30: Obed v reštaurácii na koloch
 -   🧘‍♂️ 17:00: Turtle Island – jóga, oddych, Tabata
 -   🌌 19:30: Večera v podobe grilovania pod hviezdami

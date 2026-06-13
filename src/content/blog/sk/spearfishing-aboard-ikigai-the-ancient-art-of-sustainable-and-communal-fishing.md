@@ -23,7 +23,7 @@ Podvodný lov však nie je len starobylý a udržateľný, je to aj **fyzická a
 
 ## Rešpekt k morskému životu
 
-Ďalším aspektom, ktorý hlboko ceníme, je **rešpekt k životu zvierat**. Na rozdiel od tých, ktoré sú chované v intenzívnom chove, ryby ulovené pri voľnom potápaní žijú podľa svojej skutočnej povahy až do poslednej chvíle. Nezažívajú žiadne dlhotrvajúce utrpenie – sú slobodné, vo svojom živle – a ich smrť je okamžitá. Veríme, že vďaka tomu je jedlo, ktoré podávame na palube**, čistejšie, autentickejšie a v súlade s prirodzeným kolobehom života**.
+Ďalším aspektom, ktorý hlboko ceníme, je rešpekt k životu zvierat. Na rozdiel od tých, ktoré sú chované v intenzívnom chove, ryby ulovené pri voľnom potápaní žijú podľa svojej skutočnej povahy až do poslednej chvíle. Nezažívajú žiadne dlhotrvajúce utrpenie – sú slobodné, vo svojom živle – a ich smrť je okamžitá. Veríme, že vďaka tomu je jedlo, ktoré podávame na palube, čistejšie, autentickejšie a v súlade s prirodzeným kolobehom života.
 
 ## Ľudský a spoločenský rozmer
 
