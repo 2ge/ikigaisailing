@@ -24,11 +24,12 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     const s = event.data.object;
     const email = s.customer_details?.email;
     const name = s.customer_details?.name ?? '';
-    const trip = s.metadata?.tripSlug ?? 'a trip';
+    // cart summary (multi-item) with single-trip fallback for legacy sessions
+    const items = s.metadata?.items ?? s.metadata?.tripSlug ?? 'your booking';
 
     await Promise.allSettled([
-      sendEmail(env, env.CREW_EMAIL, `New booking: ${trip}`, `${name} (${email}) booked ${trip}. Amount: ${(s.amount_total ?? 0) / 100} ${s.currency?.toUpperCase()}.`),
-      email && sendEmail(env, email, 'Your Ikigai Sailing booking', `Ciao ${name},\n\nThank you for booking ${trip} aboard Ikigai. We'll be in touch shortly with the next steps.\n\nFair winds,\nThe Ikigai crew`),
+      sendEmail(env, env.CREW_EMAIL, `New booking: ${items}`, `${name} (${email}) booked: ${items}. Amount: ${(s.amount_total ?? 0) / 100} ${s.currency?.toUpperCase()}.`),
+      email && sendEmail(env, email, 'Your Ikigai Sailing booking', `Ciao ${name},\n\nThank you for booking aboard Ikigai:\n  ${items}\n\nWe'll be in touch shortly with the next steps.\n\nFair winds,\nThe Ikigai crew`),
       email && subscribeListmonk(env, email, name),
     ]);
   }

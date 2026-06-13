@@ -40,6 +40,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     params.set('mode', 'payment');
 
     let li = 0;
+    const summary: string[] = [];
     for (const it of items) {
       const cat = CATALOG[it?.sku];
       if (!cat) continue; // unknown SKU — ignore
@@ -48,9 +49,11 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       params.set(`line_items[${li}][price_data][unit_amount]`, String(cat.cents));
       params.set(`line_items[${li}][price_data][product_data][name]`, cat.name);
       params.set(`line_items[${li}][quantity]`, String(qty));
+      summary.push(qty > 1 ? `${cat.name} ×${qty}` : cat.name);
       li++;
     }
     if (li === 0) return json({ error: 'no_valid_items' }, 400);
+    params.set('metadata[items]', summary.join(', ').slice(0, 480)); // Stripe metadata cap
 
     params.set('customer_creation', 'always');
     params.set('billing_address_collection', 'required');
