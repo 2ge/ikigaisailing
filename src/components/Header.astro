@@ -115,6 +115,14 @@ const lp = (p: string) => localizePath(p, locale);
         {t('cta.contact')}
       </a>
 
+      {/* cart */}
+      <button data-cart-button aria-label={t('cart.title')} class="relative rounded-full p-2 text-ink-soft transition hover:bg-ocean-100">
+        <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+          <path d="M6 7h12l-1 13H7L6 7Z" stroke-linejoin="round"/><path d="M9 7a3 3 0 0 1 6 0" stroke-linecap="round"/>
+        </svg>
+        <span data-cart-count class="absolute -right-0.5 -top-0.5 hidden min-w-[1.05rem] rounded-full bg-coral-500 px-1 text-center text-[0.65rem] font-bold leading-[1.05rem] text-white">0</span>
+      </button>
+
       {/* mobile hamburger */}
       <button
         id="menu-toggle"

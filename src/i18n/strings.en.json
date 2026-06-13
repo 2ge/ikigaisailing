@@ -138,5 +138,15 @@
   "ikigai.mission": "Mission",
   "ikigai.missionBody": "Promoting sustainable tourism and a healthy lifestyle that nourishes our essential needs and fosters true well-being.",
   "ikigai.profession": "Profession",
-  "ikigai.professionBody": "As professional skippers and instructors, we share a seafaring culture of adventure and well-being, with courses in sailing, freediving, fishing, diving, kitesurf and yoga."
+  "ikigai.professionBody": "As professional skippers and instructors, we share a seafaring culture of adventure and well-being, with courses in sailing, freediving, fishing, diving, kitesurf and yoga.",
+  "cart.title": "Your cart",
+  "cart.empty": "Your cart is empty.",
+  "cart.total": "Total",
+  "cart.checkout": "Checkout",
+  "cart.add": "Add to cart",
+  "cart.added": "In cart",
+  "cart.remove": "Remove",
+  "cart.extras": "Add extras",
+  "cart.indicative": "indicative price",
+  "cart.note": "Payments are member contributions to our ASD."
 }

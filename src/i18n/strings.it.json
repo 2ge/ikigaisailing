@@ -138,5 +138,15 @@
   "ikigai.mission": "Missione",
   "ikigai.missionBody": "Promuovere un turismo sostenibile e uno stile di vita sano che soddisfi i nostri bisogni fondamentali e favorisca un vero benessere.",
   "ikigai.profession": "Professione",
-  "ikigai.professionBody": "In qualità di skipper e istruttori professionisti, condividiamo una cultura marinara all'insegna dell'avventura e del benessere, con corsi di vela, apnea, pesca, immersioni, kitesurf e yoga."
+  "ikigai.professionBody": "In qualità di skipper e istruttori professionisti, condividiamo una cultura marinara all'insegna dell'avventura e del benessere, con corsi di vela, apnea, pesca, immersioni, kitesurf e yoga.",
+  "cart.title": "Il tuo carrello",
+  "cart.empty": "Il carrello è vuoto.",
+  "cart.total": "Totale",
+  "cart.checkout": "Vai al pagamento",
+  "cart.add": "Aggiungi al carrello",
+  "cart.added": "Nel carrello",
+  "cart.remove": "Rimuovi",
+  "cart.extras": "Aggiungi extra",
+  "cart.indicative": "prezzo indicativo",
+  "cart.note": "I pagamenti sono quote associative alla nostra ASD."
 }

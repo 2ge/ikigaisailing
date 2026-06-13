@@ -1,45 +1,61 @@
 /**
- * POST /api/checkout — create a Stripe Checkout Session for a trip.
- * Body: { tripSlug, quantity, locale, deposit? }
- * Price IDs are looked up server-side from TRIP_PRICES (never trusted from the client).
- * Members-only trips return 403 (they use the request-access flow instead).
+ * POST /api/checkout — create a Stripe Checkout Session from a cart.
+ * Body: { items: [{ sku, quantity }], locale }
+ * Prices are ALWAYS re-derived here from CATALOG (cents, EUR) via inline
+ * price_data — the client's prices are never trusted, and unknown SKUs are
+ * dropped. No Stripe Products need to pre-exist. Returns 503 'not_configured'
+ * until STRIPE_SECRET_KEY is set, so the cart degrades gracefully.
+ *
+ * ⚠️ Course prices below are PLACEHOLDERS pending the owner's confirmed rates;
+ * the transfer (€150) is confirmed. Keep in sync with src/data/addons.ts and
+ * trip frontmatter `price`.
  */
 interface Env {
-  STRIPE_SECRET_KEY: string;
+  STRIPE_SECRET_KEY?: string;
   SITE_URL?: string;
 }
 
-// slug → { priceId, depositPriceId?, membersOnly }
-// Mirror of trip frontmatter stripePriceId; filled once products exist (see README Phase 4).
-const TRIP_PRICES: Record<string, { price?: string; deposit?: string; membersOnly?: boolean }> = {
-  'ikigai-experience': { price: '' },
-  '10-days-on-board': { price: '' },
-  'one-month': { price: '', membersOnly: true },
-  'pacific-crossing': { price: '', membersOnly: true },
-  'crew-exchange': { membersOnly: true },
+const CATALOG: Record<string, { cents: number; name: string }> = {
+  // packages (mirror trip frontmatter `price`, EUR)
+  'ikigai-experience': { cents: 30000, name: 'Ikigai Experience' },
+  '10-days-on-board': { cents: 300000, name: '10 Days on Board' },
+  // add-ons (mirror src/data/addons.ts)
+  'addon:transfer': { cents: 15000, name: 'Transfer Panama City ↔ boat (return)' },
+  'addon:freediving': { cents: 9000, name: 'Freediving discovery course' },
+  'addon:aida1': { cents: 29000, name: 'AIDA 1 freediving certification' },
+  'addon:aida2': { cents: 39000, name: 'AIDA 2 freediving certification' },
 };
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
   try {
-    const { tripSlug, quantity = 1, locale = 'en', deposit = false } = await request.json<any>();
-    const trip = TRIP_PRICES[tripSlug];
-    if (!trip) return json({ error: 'Unknown trip' }, 400);
-    if (trip.membersOnly) return json({ error: 'Members only — use request access' }, 403);
-
-    const priceId = deposit ? trip.deposit : trip.price;
-    if (!priceId) return json({ error: 'Price not configured yet' }, 503);
+    const body = await request.json<any>();
+    const items: { sku: string; quantity: number }[] = Array.isArray(body?.items) ? body.items : [];
+    const locale = typeof body?.locale === 'string' ? body.locale : 'en';
+    if (!items.length) return json({ error: 'empty_cart' }, 400);
+    if (!env.STRIPE_SECRET_KEY) return json({ error: 'not_configured' }, 503);
 
     const origin = env.SITE_URL ?? new URL(request.url).origin;
     const prefix = locale === 'en' ? '' : `/${locale}`;
     const params = new URLSearchParams();
     params.set('mode', 'payment');
-    params.set('line_items[0][price]', priceId);
-    params.set('line_items[0][quantity]', String(Math.max(1, Math.min(12, Number(quantity)))));
+
+    let li = 0;
+    for (const it of items) {
+      const cat = CATALOG[it?.sku];
+      if (!cat) continue; // unknown SKU — ignore
+      const qty = Math.max(1, Math.min(12, Number(it.quantity) || 1));
+      params.set(`line_items[${li}][price_data][currency]`, 'eur');
+      params.set(`line_items[${li}][price_data][unit_amount]`, String(cat.cents));
+      params.set(`line_items[${li}][price_data][product_data][name]`, cat.name);
+      params.set(`line_items[${li}][quantity]`, String(qty));
+      li++;
+    }
+    if (li === 0) return json({ error: 'no_valid_items' }, 400);
+
     params.set('customer_creation', 'always');
     params.set('billing_address_collection', 'required');
     params.set('success_url', `${origin}${prefix}/booking/thanks/?session_id={CHECKOUT_SESSION_ID}`);
-    params.set('cancel_url', `${origin}${prefix}/trips/${tripSlug}/`);
-    params.set('metadata[tripSlug]', tripSlug);
+    params.set('cancel_url', `${origin}${prefix}/trips/`);
     params.set('metadata[locale]', locale);
 
     const res = await fetch('https://api.stripe.com/v1/checkout/sessions', {
@@ -51,16 +67,13 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       body: params,
     });
     const session = await res.json<any>();
-    if (!res.ok) return json({ error: session.error?.message ?? 'Stripe error' }, 502);
+    if (!res.ok) return json({ error: session.error?.message ?? 'stripe_error' }, 502);
     return json({ url: session.url });
   } catch (e: any) {
-    return json({ error: e.message ?? 'Bad request' }, 400);
+    return json({ error: e?.message ?? 'bad_request' }, 400);
   }
 };
 
 function json(body: unknown, status = 200) {
-  return new Response(JSON.stringify(body), {
-    status,
-    headers: { 'Content-Type': 'application/json' },
-  });
+  return new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json' } });
 }

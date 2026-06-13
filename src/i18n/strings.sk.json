@@ -138,5 +138,15 @@
   "ikigai.mission": "Poslanie",
   "ikigai.missionBody": "Podpora udržateľného cestovného ruchu a zdravého životného štýlu, ktorý uspokojuje naše základné potreby a prispieva k skutočnému pocitu pohody.",
   "ikigai.profession": "Profesia",
-  "ikigai.professionBody": "Ako profesionálni kapitáni a inštruktori zdieľame námornú kultúru dobrodružstva a pohody a ponúkame kurzy plachtenia, freedivingu, rybolovu, potápania, kitesurfingu a jogy."
+  "ikigai.professionBody": "Ako profesionálni kapitáni a inštruktori zdieľame námornú kultúru dobrodružstva a pohody a ponúkame kurzy plachtenia, freedivingu, rybolovu, potápania, kitesurfingu a jogy.",
+  "cart.title": "Tvoj košík",
+  "cart.empty": "Košík je prázdny.",
+  "cart.total": "Spolu",
+  "cart.checkout": "Pokladňa",
+  "cart.add": "Pridať do košíka",
+  "cart.added": "V košíku",
+  "cart.remove": "Odstrániť",
+  "cart.extras": "Pridať extra",
+  "cart.indicative": "orientačná cena",
+  "cart.note": "Platby sú členské príspevky nášmu ASD."
 }
