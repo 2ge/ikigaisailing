@@ -1,13 +1,13 @@
 ---
-title: 'Jógový pobyt v San Blas, Panama'
+title: Jóga na katamaráne v San Blas v Paname
 description: >-
-  Jógový pobyt s plachtením v malej skupine v San Blase v Paname – každodenné
-  cvičenie na palube katamaránu Catana 47 zakotveného medzi ostrovmi Guna Yala.
-seoTitle: 'Jógový pobyt v San Blase, Panama | Ikigai Sailing'
+  Cvičte jógu na palube katamaránu Catana 47 v oblasti San Blas v Paname –
+  každodenné cvičenia na prednej palube, zakotvení medzi ostrovmi Guna Yala.
+seoTitle: 'Jóga na katamaráne v San Blas, Panama | Ikigai Sailing'
 metaDescription: >-
-  Každodenná joga a dychové cvičenia na palube katamaránu Catana 47 v oblasti
-  San Blas v Paname. Malá skupina, teplá karibská voda, pokojná plavba medzi
-  ostrovmi Guna Yala – rezervácia na kajutu.
+  Každodenná joga a dychové cvičenia na palube katamaránu Catana 47 v San Blas v
+  Paname. Malá skupina, teplá karibská voda, pokojná plavba medzi ostrovmi Guna
+  Yala – rezervácia na kajutu.
 locale: sk
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 gallery:
@@ -15,12 +15,12 @@ gallery:
   - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg
   - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg
 lead: >-
-  Jógový pobyt v San Blase v Paname nie je hotel s výhľadom na more. Je to
-  katamarán Catana 47 zakotvený medzi ostrovmi Guna, vaša podložka na prednej
-  palube pri prvých lúčoch slnka, voda už má 28 °C. Žiadny rozvrh. Žiadne wifi,
-  ktoré by vás ťahalo za rukáv. Len dych, soľ a ďalší ostrov.
+  Cvičenie jogy v San Blase v Paname nie je pobyt v hoteli s výhľadom na more.
+  Je to katamarán Catana 47 zakotvený medzi ostrovmi Guna, vaša podložka na
+  prednej palube pri prvých lúčoch slnka a voda, ktorá má už 28 °C. Žiaden pevný
+  program. Žiadne wifi, ktoré vás ťahá za rukáv. Len dych, soľ a ďalší ostrov.
 faq:
-  - q: Koľko stojí jógový pobyt v San Blase?
+  - q: Koľko stojí jóga v San Blas?
     a: >-
       Rezervácia sa uskutočňuje na jednotlivé chaty a uvedená suma predstavuje
       členský príspevok do našej neziskovej organizácie ASD – nejde o poplatok
@@ -34,25 +34,25 @@ faq:
       nie o akrobatické pozície.
   - q: Kedy je sezóna v San Blase?
     a: >-
-      V San Blas kotvíme od decembra 2025 do júna 2026. Potom loď odpláva a
-      rovnaký systém prenájmu kajút sa prenesie aj do ďalšej destinácie.
+      V San Blas kotvíme od decembra 2025 do júna 2026. Potom loď vypláva ďalej
+      a rovnaký systém prenájmu kajút sa prenesie aj do ďalšej destinácie.
   - q: Ako sa dostanem na katamarán?
     a: >-
       Z Panama City sa ide terénnym vozidlom cez hrebeň Guna Yala a potom
       nasleduje krátka plavba na člne panga až k miestu, kde kotví loď Ikigai.
       Celý transfer zaistíme – stačí nám poslať čas vášho príchodu.
 translated: deepl
-sourceHash: 6ccc03f9dbc2675d
+sourceHash: a5aa3a28a5c286ef
 needsReview: true
 ---
 
-## Ako naozaj vyzerá jógový pobyt na katamaráne
+## Ako to naozaj vyzerá s cvičením jogy na palube
 
-Bývate na palube **Ikigai**, našej **Catany 47**. Deň začína jógou a dychovými cvičeniami na prednej palube – a loď je dôvodom, prečo to funguje. Katamarán leží rovno. Dva trupy, žiadny náklon, široká trampolína, ktorá vás nevyhodí z pozície bojovníka zakaždým, keď prejde vlna. Skúste rovnaký tok na jednotrupovej lodi a polovicu času strávite vyvažovaním. Po cvičení ste vo vode: plávate, potápate sa alebo nerobíte vôbec nič. Deň sa prispôsobuje svetlu a vetru, nie rozvrhu v kúpeľoch.
+Žijete na palube **Ikigai**, našej **Catany 47**. Deň začína jógou a dychovými cvičeniami na prednej palube – a loď je dôvodom, prečo to funguje. Katamarán leží rovno. Dva trupy, žiadny náklon, široká trampolína, ktorá vás nevyhodí z pozície bojovníka zakaždým, keď prejde vlna. Skúste rovnaký postup na jednotrupovej lodi a polovicu času strávite vyvažovaním. Po cvičení ste vo vode: plávate, potápate sa alebo nerobíte vôbec nič. Deň sa prispôsobuje svetlu a vetru, nie rozvrhu v kúpeľoch.
 
-## Čo je zahrnuté v jogovom pobyte v San Blas
+## Čo je zahrnuté na palube
 
-Rezervujete si jedno lôžko v kajute – nemusíte dávať dokopy skupinu ani zapĺňať celú loď. Tento týždeň vám ponúka posteľ na palube lode Catana 47, každé ráno jogu a dychové cvičenia, každé jedlo pripravené na palube z čerstvo ulovených rýb a plodov ostrovov, vybavenie na šnorchlovanie a freediving a pomalú plavbu medzi kotviskami v San Blas s posádkou, ktorá má certifikáty RYA Yachtmaster a AIDA / Apnea Total. To, čo platíte, je **členský príspevok pre Ikigai Sailing ASD**, neziskovú organizáciu uznávanú CONI a pridruženú k MSP Italia – nie komerčný poplatok. To je jediný dôvod, prečo týždeň strávený u nás stojí zlomok ceny plavby cez agentúru: vaše peniaze pokrývajú zážitok a prevádzku lode, nie províziu sprostredkovateľa.
+Rezervujete si jedno lôžko v kajute – nemusíte dávať dokopy skupinu, ani zapĺňať celú loď. Tento týždeň vám ponúka posteľ na palube lode Catana 47, každé ráno jogu a dychové cvičenia, každé jedlo pripravené na palube z čerstvo ulovených rýb a plodov ostrovov, vybavenie na šnorchlovanie a freediving a pomalú plavbu medzi kotviskami San Blas s posádkou, ktorá má certifikáty RYA Yachtmaster a AIDA / Apnea Total. To, čo platíte, je **členský príspevok pre Ikigai Sailing ASD**, neziskovú organizáciu uznanú CONI a pridruženú k MSP Italia – nie komerčný poplatok. To je jediný dôvod, prečo týždeň strávený u nás stojí zlomok ceny plavby cez agentúru: vaše peniaze pokrývajú zážitok a prevádzku lode, nie províziu sprostredkovateľa.
 
 ## Prečo práve tu a nie na Bali alebo v Chorvátsku
 

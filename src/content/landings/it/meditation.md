@@ -1,10 +1,10 @@
 ---
-title: Ritiro di meditazione alle Isole San Blas
+title: Meditazione a bordo nelle Isole San Blas
 description: >-
-  Un ritiro di meditazione e respirazione in piccoli gruppi nelle isole San
-  Blas, a Panama — a bordo di un catamarano Catana 47 all'ancora a Guna Yala,
-  senza rete e senza orari.
-seoTitle: Ritiro di meditazione alle Isole San Blas | Ikigai Sailing
+  Meditazione ed esercizi di respirazione a bordo di un catamarano Catana 47
+  nelle isole San Blas, a Panama: fa parte della vita quotidiana all’ancora a
+  Guna Yala, senza segnale e senza orari.
+seoTitle: Meditazione a bordo nelle Isole San Blas | Ikigai Sailing
 metaDescription: >-
   Meditazione ed esercizi di respirazione a bordo di un catamarano Catana 47
   nelle isole San Blas, a Panama. Niente Wi-Fi, niente itinerario: si resta
@@ -16,13 +16,13 @@ gallery:
   - ~/assets/activities/meditation/meditazione2-copia-2.webp
   - ~/assets/activities/project/meditazione1.jpg
 lead: >-
-  Un ritiro di meditazione alle Isole San Blas ti libera da tutte quelle cose da
-  cui di solito cerchi di fuggire quando mediti. Qui non c'è campo, non ci sono
-  orari, né il trambusto della città. Solo un Catana 47 all'ancora, l'acqua che
-  si estende a perdita d'occhio e quel tipo di quiete che la maggior parte dei
-  ritiri può solo promettere. Ti siedi, respiri, e le isole fanno il resto.
+  Meditare alle Isole San Blas ti libera da tutto ciò da cui di solito cerchi di
+  fuggire quando mediti. Qui non c'è campo, non ci sono orari, né il trambusto
+  della città. Solo un Catana 47 all'ancora, l'acqua che si estende a perdita
+  d'occhio e quel tipo di quiete che la maggior parte dei posti può solo
+  promettere. Ti siedi, respiri, e le isole fanno il resto.
 faq:
-  - q: Quanto costa il ritiro di meditazione a San Blas?
+  - q: Quanto costa la meditazione a San Blas?
     a: >-
       La prenotazione si effettua per la cabina e quello che paghi è un
       contributo associativo alla nostra ASD senza scopo di lucro, non una
@@ -40,24 +40,24 @@ faq:
     a: >-
       Praticamente nessuna. A San Blas non ci sono ripetitori degni di questo
       nome, ed è proprio questo il punto. Dopo poche ore dal primo giorno, la
-      voglia di prendere il telefono svanisce, ed è proprio in quel momento che
-      il ritiro inizia davvero.
+      voglia di prendere il telefono svanisce, ed è proprio allora che, di
+      solito, inizia il vero divertimento.
   - q: Quando è la stagione di San Blas?
     a: >-
       Siamo all'ancora a San Blas da dicembre 2025 a giugno 2026. Dopodiché la
       barca salperà di nuovo, e la stessa formula "per cabina" la seguirà
       ovunque Ikigai si dirigerà.
 translated: deepl
-sourceHash: a4e549f3fe91af7f
+sourceHash: 461059198f73157c
 ---
 
-## Come si vive un ritiro di meditazione all’ancora
+## Come ci si sente a meditare all’ancora
 
-Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**, ancorato nelle lagune di Guna Yala. Non c'è una sala di meditazione né un gong. Le sessioni mattutine si svolgono sul ponte di prua — un catamarano rimane stabile, quindi non devi stare tutto il tempo a contrastarne l'inclinazione — e la colonna sonora è il vento tra le sartie e l'acqua che batte contro gli scafi. Tra una seduta e l'altra nuoti, galleggi, osservi una fregata che sfrutta le correnti termiche. La giornata non ha un programma che la vincoli, il che risulta essere la cosa più rara che un ritiro possa offrire.
+Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**, ancorato nelle lagune di Guna Yala. Non c'è una sala di meditazione né un gong. Le sessioni mattutine si svolgono sul ponte di prua — un catamarano rimane stabile, quindi non devi stare tutto il tempo a contrastarne l'inclinazione — e la colonna sonora è il vento tra le sartie e l'acqua che lambisce gli scafi. Tra una seduta e l'altra nuoti, galleggi, osservi una fregata che sfrutta le correnti termiche. La giornata non ha un programma che la vincoli, il che si rivela essere la cosa più rara che un ritiro possa offrire.
 
 ## Cosa è incluso nel ritiro di meditazione a San Blas
 
-Prenoti una cuccetta, in cabina — non devi portare un gruppo, né riempire l’intera barca. La settimana ti offre un letto a bordo di un Catana 47, sessioni mattutine e esercizi di respirazione guidati, ogni pasto cucinato a bordo con pesce appena pescato e prodotti delle isole, attrezzatura per lo snorkeling e l'apnea, e una navigazione tranquilla tra gli ancoraggi con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è un **contributo associativo a Ikigai Sailing ASD**, un'associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. Ecco perché una settimana qui costa una frazione di una crociera con un'agenzia: i tuoi soldi servono a gestire la barca e l'esperienza, non a pagare la commissione di un intermediario.
+Prenoti una cuccetta, vicino alla cabina: non devi portare un gruppo, né riempire l’intera barca. La settimana ti offre un letto a bordo di una Catana 47, sessioni mattutine e esercizi di respirazione guidati, ogni pasto cucinato a bordo con pesce appena pescato e prodotti delle isole, attrezzatura per lo snorkeling e l'apnea, e una navigazione tranquilla tra gli ancoraggi con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è un **contributo associativo a Ikigai Sailing ASD**, un'associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. Ecco perché una settimana qui costa una frazione di una crociera con un'agenzia: i tuoi soldi servono a gestire la barca e l'esperienza, non a pagare la commissione di un intermediario.
 
 ## Perché le isole fanno metà del lavoro
 
