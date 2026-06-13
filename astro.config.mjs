@@ -14,6 +14,14 @@ export default defineConfig({
   trailingSlash: 'always',
   // inline the (single) CSS bundle to remove the render-blocking stylesheet request
   build: { inlineStylesheets: 'always' },
+  // Instagram media is served from these CDNs; allow astro:assets to fetch +
+  // optimize them at build time (→ local AVIF/WebP, no client-side IG script).
+  image: {
+    remotePatterns: [
+      { protocol: 'https', hostname: '**.cdninstagram.com' },
+      { protocol: 'https', hostname: '**.fbcdn.net' },
+    ],
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'it', 'es', 'fr', 'sk'],

@@ -9,9 +9,9 @@ on:
     branches: [main]
   pull_request:
   schedule:
-    # Weekly rebuild (Mon 06:00 UTC) so the live Google rating + reviews (and
-    # Trustpilot, if the plan ever exposes it) refresh without a content change.
-    - cron: '0 6 * * 1'
+    # Rebuild every 6h so the build-time feeds refresh without a content change:
+    # the live Google rating + reviews, and the latest Instagram posts/reels.
+    - cron: '0 */6 * * *'
 
 concurrency:
   group: deploy-${{ github.ref }}
@@ -41,6 +41,9 @@ jobs:
           GOOGLE_PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}
           # Translates new Google reviews into the site locales (cached by text hash).
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          # Instagram feed (build-time). Absent → build keeps the last committed posts.
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
 
       - name: Deploy to Cloudflare Pages
         id: deploy

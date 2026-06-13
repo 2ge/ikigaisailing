@@ -1,0 +1,47 @@
+---
+/**
+ * Latest-from-Instagram grid. Renders the build-time cache written by
+ * scripts/fetch-instagram.ts as static, optimized cards (no client-side IG
+ * embed script, no cookies). Empty cache (no token yet) → a clean "follow us"
+ * band, so the section is useful even before the feed is wired.
+ */
+import { Image } from 'astro:assets';
+import SectionHeading from './SectionHeading.astro';
+import { useTranslations, type Locale } from '../i18n/ui';
+import feed from '../data/instagram.json';
+
+const { locale } = Astro.props as { locale: Locale };
+const t = useTranslations(locale);
+
+type Item = { id: string; caption: string; permalink: string; mediaType: string; isReel: boolean; image: string; timestamp: string };
+const items = (feed.items ?? []) as Item[];
+const profileUrl = `https://www.instagram.com/${feed.handle}/`;
+---
+<section class="bg-ocean-950 py-20 text-sand-50">
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <div class="flex flex-wrap items-end justify-between gap-4">
+      <SectionHeading eyebrow={t('home.instagramEyebrow')} title={t('home.instagramTitle')} light />
+      <a href={profileUrl} target="_blank" rel="noopener" class="coords text-ocean-300 transition hover:text-sand-50">@{feed.handle} →</a>
+    </div>
+
+    {items.length > 0 ? (
+      <div class="mt-12 grid grid-cols-2 gap-3 sm:grid-cols-3">
+        {items.map((it) => (
+          <a href={it.permalink} target="_blank" rel="noopener" aria-label={it.caption || 'Instagram post'} class="group relative block aspect-square overflow-hidden rounded-xl bg-ocean-900 ring-1 ring-sand-50/10">
+            <Image src={it.image} alt={it.caption || 'Instagram post'} inferSize width={600} class="h-full w-full object-cover transition duration-700 group-hover:scale-105" />
+            {it.isReel && (
+              <span class="absolute right-2 top-2 rounded-full bg-ocean-950/65 px-2 py-0.5 text-xs font-semibold backdrop-blur">▶ Reel</span>
+            )}
+            <span class="pointer-events-none absolute inset-0 bg-gradient-to-t from-ocean-950/70 to-transparent opacity-0 transition duration-300 group-hover:opacity-100"></span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="mt-8 max-w-xl text-lg text-sand-100/80">{t('home.instagramEmpty')}</p>
+    )}
+
+    <div class="mt-10">
+      <a href={profileUrl} target="_blank" rel="noopener" class="inline-block rounded-full bg-coral-500 px-7 py-3 font-semibold text-white transition hover:bg-coral-400">{t('home.instagramFollow')}</a>
+    </div>
+  </div>
+</section>

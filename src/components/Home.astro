@@ -5,6 +5,7 @@ import DestinationFlags from './DestinationFlags.astro';
 import TripCard from './TripCard.astro';
 import ActivityCard from './ActivityCard.astro';
 import TestimonialRail from './TestimonialRail.astro';
+import InstagramFeed from './InstagramFeed.astro';
 import MapEmbed from './MapEmbed.astro';
 import WhatsAppButton from './WhatsAppButton.astro';
 import { useTranslations, localizePath, type Locale } from '../i18n/ui';
@@ -133,6 +134,9 @@ const pillars = [
     <div class="mt-12"><TestimonialRail testimonials={testimonials} locale={locale} /></div>
   </div>
 </section>
+
+{/* INSTAGRAM */}
+<InstagramFeed locale={locale} />
 
 {/* CTA */}
 <section class="bg-coral-500 py-20 text-center text-sand-50">
