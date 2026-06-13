@@ -9,6 +9,11 @@ import { getCollection } from 'astro:content';
 import { SEO_TARGETS } from '../../data/seoKeywords';
 import { scoreSeo } from '../../lib/seoScore';
 import { locales } from '../../i18n/ui';
+import gsc from '../../data/gsc-ranks.json';
+
+const gscQueries = gsc.queries as any[];
+const striking = gscQueries.filter((q) => q.position >= 4 && q.position <= 20).sort((a, b) => b.impressions - a.impressions).slice(0, 12);
+const top3 = gscQueries.filter((q) => q.position < 4).length;
 
 const cols: Record<string, any[]> = {
   activities: await getCollection('activities'),
@@ -69,6 +74,25 @@ const fixesFor = (pl: any) => pl.missing ? ['no content file for this locale']
         <a href="/admin/seo/san-blas/" class="rounded-full border border-emerald-500/40 px-3 py-1.5 text-emerald-300 transition hover:bg-emerald-500/10">San Blas keywords →</a>
         <a href="/admin/seo/global/" class="rounded-full border border-emerald-500/40 px-3 py-1.5 text-emerald-300 transition hover:bg-emerald-500/10">Global keywords →</a>
       </div>
+      <section class="mb-5 rounded-xl border border-emerald-500/20 bg-emerald-500/[0.03] p-4">
+        <div class="flex flex-wrap items-baseline justify-between gap-2">
+          <h2 class="font-mono text-[0.7rem] uppercase tracking-[0.2em] text-emerald-400/80">What you rank for now · live GSC ({gsc.generatedAt})</h2>
+          <span class="font-mono text-[0.65rem] text-slate-500">{gscQueries.length} queries · {top3} in top 3 · 28-day</span>
+        </div>
+        <p class="mt-1 text-xs text-slate-400">Striking distance (positions 4–20) — closest to page-1 wins if strengthened. None are commercial booking terms yet → that's the whole opportunity.</p>
+        <div class="mt-3 space-y-1">
+          {striking.map((q) => (
+            <div class="flex items-center justify-between gap-3 border-b border-white/5 py-1 text-sm">
+              <span class="min-w-0 truncate text-slate-300">{q.query}</span>
+              <span class="flex shrink-0 gap-3 font-mono text-[0.7rem]">
+                <span class="text-slate-500">imp {q.impressions}</span>
+                <span class={q.position <= 10 ? 'text-emerald-300' : 'text-amber-300'}>#{q.position}</span>
+              </span>
+            </div>
+          ))}
+        </div>
+      </section>
+
       <p class="mb-5 rounded-lg border border-white/10 bg-white/[0.02] p-3 text-xs leading-relaxed text-slate-400">
         Score = keyword coverage in title/meta/H1/body (token-based) + length & depth hygiene. Sorted worst-first.
         EN is usually strong; IT/ES/FR/SK lag where the keyword is only a literal translation of the EN one rather
