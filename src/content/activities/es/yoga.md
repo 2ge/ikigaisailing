@@ -3,6 +3,11 @@ title: Retiro de yoga
 summary: >-
   Con el mar de fondo y el sonido de las olas, tu retiro de yoga se convierte en
   una experiencia transformadora. Cada sesión está pensada para...
+seoTitle: Retiro de yoga y vela en Panamá | Ikigai Sailing
+metaDescription: >-
+  Yoga matutino y ejercicios de respiración a bordo de un Catana 47 en San Blas,
+  Panamá: una cubierta estable, aguas cálidas y un ritmo de navegación pausado.
+  Un retiro de bienestar, con reserva por camarote.
 locale: es
 category: wellness
 image: ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg
@@ -20,7 +25,7 @@ facts:
   - label: Ubicación
     value: A bordo o en playas de ensueño
 translated: deepl
-sourceHash: ac6ca519f6832d4e
+sourceHash: c34dafc6b6363b65
 ---
 
 ## Redescubre tu equilibrio

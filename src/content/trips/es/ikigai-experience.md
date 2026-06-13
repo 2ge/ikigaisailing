@@ -4,6 +4,11 @@ description: >-
   Diez días a bordo del Ikigai en San Blas: una experiencia llena de vida
   auténtica, esencial y regeneradora: buceo libre, yoga, navegación tranquila y
   prácticas transformadoras con nuestros instructores multidisciplinares.
+seoTitle: Experiencia Ikigai — Retiro en catamarán en San Blas
+metaDescription: >-
+  Diez días a bordo del Ikigai en San Blas, Panamá: buceo libre, yoga,
+  navegación tranquila y prácticas transformadoras. Desde 300 EUR como cuota de
+  socio de la ASD.
 locale: es
 price: 300
 currency: EUR
@@ -25,7 +30,7 @@ gallery:
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 translated: deepl
-sourceHash: b8400332256a6c72
+sourceHash: 3c8a7d5cf0e97354
 ---
 
 ## Introducción
@@ -39,7 +44,7 @@ Cada día comienza con una sesión guiada que puede incluir:
 -   Técnicas de respiración consciente
 -   Secuencias de yoga dinámicas o restaurativas
 -   Meditación sentada o en movimiento
--   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo) _Todas las sesiones se adaptan a la energía del grupo y al tiempo._\_\_
+-   Sesiones físicas rotativas (entrenamiento Tabata con el peso corporal o nociones básicas de boxeo) _Todas las sesiones se adaptan a la energía del grupo y al tiempo._\_\_
 
 **Por la tarde:** Termina el día con actividades centradas en **la introspección, la relajación y la regeneración**, como:
 
@@ -57,11 +62,11 @@ La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el ma
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin compromiso.
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
 
 ## Nota importante
 
-El programa puede sufrir modificaciones en función de:
+El programa puede modificarse en función de:
 
 -   Las condiciones meteorológicas y del mar
 -   Factores logísticos
@@ -103,7 +108,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 -   20:00: Cena
 -   21:00: Música en directo y karaoke opcionales en tierra
 
-### Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida
+### Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y vibrantes arrecifes de coral
 
 -   06:30–08:00: Rutina matutina
 -   08:30: Desayuno
@@ -114,7 +119,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 -   19:00: Teoría del buceo libre (respiración, compensación, seguridad)
 -   20:30: Cena y observación de la vida marina bajo las luces del barco
 
-### Día 4 – Cayos Holandeses Occidentales Práctica de buceo libre y conexión profunda
+### Día 4 – West Dutch Cays Práctica de buceo libre y conexión profunda
 
 -   06:30–07:30: Respiración y estiramientos para el buceo libre
 -   07:30: Desayuno ligero
@@ -166,7 +171,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 -   18:30: Rutina nocturna opcional
 -   20:00: Cena
 
-### Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta
+### Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -180,7 +185,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 
 -   Por la mañana: Desayuno tranquilo
 -   12:00: Navegamos de vuelta a Banedup
--   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
+-   16:00: Tiempo libre: voleibol, snorkel, entrenamiento vespertino
 -   19:00: Cena
 -   20:30: Ceremonia de clausura y resumen en vídeo
 

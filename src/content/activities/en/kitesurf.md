@@ -1,6 +1,8 @@
 ---
 title: "KiteSurf"
 summary: "Kitesurfing is much more than a sport: it is a true celebration of freedom, energy, and a deep connection with nature."
+seoTitle: "San Blas Kitesurfing by Catamaran | Ikigai"
+metaDescription: "Kitesurf the flat, empty lagoons of San Blas from our Catana 47 — gear and boards aboard, steady Caribbean trade winds, and a launch straight off the boat."
 locale: "en"
 category: "watersports"
 image: "~/assets/activities/project/kitesurf.jpg"

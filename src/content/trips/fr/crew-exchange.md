@@ -3,8 +3,13 @@ title: Échange / Hébergement payant
 description: >-
   Rejoins l'équipe d'Ikigai à San Blas : viens faire du bénévolat ou échange tes
   compétences professionnelles contre une place à bord de notre Catana 47 — vis
-  pleinement la voile, la plongée en apnée et la vie en mer en tant que
-  véritable acteur.
+  pleinement la voile, la plongée en apnée et la vie en mer en tant qu'acteur à
+  part entière.
+seoTitle: Échange d'équipage et hébergement rémunéré | Ikigai
+metaDescription: >-
+  Rejoins l'équipe Ikigai à San Blas : viens faire du bénévolat ou échange tes
+  compétences professionnelles contre une place à bord de notre Catana 47. Vivez
+  pleinement la voile, la plongée en apnée et la vie en mer.
 locale: fr
 currency: EUR
 duration: flexible
@@ -13,16 +18,16 @@ membersOnly: false
 heroImage: ~/assets/trips/crew-exchange/skipper-copia.webp
 order: 5
 translated: deepl
-sourceHash: c2b4017f9bbba155
+sourceHash: 965656f1ff12f3eb
 ---
 
 Ikigai Sailing, c'est un projet de vie, un tour du monde par étapes qui mêle navigation, exploration, développement personnel et immersion dans la nature.
 
 ## Rejoins l'équipage d'Ikigai
 
-À bord de _l’Ikigai_, un catamaran de performance Catana 47 de 14 mètres, on ne se contente pas de proposer des expériences uniques de voile, de plongée en apnée, de kitesurf et de vie en mer : on construit une communauté.
+À bord de _l'Ikigai_, un catamaran de performance Catana 47 de 14 mètres, on ne se contente pas de proposer des expériences uniques de voile, de plongée en apnée, de kitesurf et de vie en mer : on construit une communauté.
 
-Si tu te sens appelé par l'océan et que tu veux te lancer un défi, il y a deux façons de rejoindre notre équipage :
+Si tu te sens attiré par l'océan et que tu veux te lancer un défi, il y a deux façons de rejoindre notre équipage :
 
 ## Bénévoles
 
@@ -30,7 +35,7 @@ Tu veux apprendre, t'épanouir et acquérir une expérience pratique à bord ?
 
 Nous recherchons des personnes motivées qui souhaitent découvrir le monde de la voile et les disciplines que nous pratiquons : voile, plongée en apnée, kitesurf, apnée et gestion de la vie à bord.
 
--   Tu consacreras environ 2 à 3 heures par jour à des activités de soutien (gestion du bateau, petites tâches, assistance à l'équipage).
+-   Tu consacreras environ 2 à 3 heures par jour à des activités de soutien (gestion du bateau, petites tâches, aide à l'équipage).
 -   En contrepartie, tu bénéficieras de l'hébergement gratuit et auras l'occasion de vivre la mer en tant que véritable acteur.
 -   Tu partageras les dépenses communes avec nous tous en contribuant à la caisse de bord (_cassa di bordo_).
 

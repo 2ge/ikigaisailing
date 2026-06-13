@@ -1,6 +1,8 @@
 ---
 title: "Ikigai Experience"
 description: "Ten days aboard Ikigai in San Blas — a concentrate of authentic, essential and regenerating life: freediving, yoga, slow sailing and transformative practices with our multidisciplinary instructors."
+seoTitle: "Ikigai Experience — San Blas Catamaran Retreat"
+metaDescription: "Ten days aboard Ikigai in San Blas, Panama — freediving, yoga, slow sailing and transformative practices. From 300 EUR as an ASD member contribution."
 locale: "en"
 price: 300
 currency: "EUR"

@@ -3,6 +3,11 @@ title: Potápanie
 summary: >-
   Pri potápaní je každý ponor cestou cez žiarivé farby, podmorský život a
   tajomstvá potopených vrakov. Ponorte sa do hlbín...
+seoTitle: 'Potápanie a lov pod vodou, San Blas | Ikigai'
+metaDescription: >-
+  Ponorte sa a lovte harpunom na útesoch v San Blase v Paname z našej lode
+  Catana 47 – čaká vás pestrý podmorský život, trvalo udržateľný lov a ponory s
+  inštruktorom v krištáľovo čistej karibskej vode.
 locale: sk
 category: watersports
 image: ~/assets/activities/project/scuba-diving.jpg
@@ -27,7 +32,7 @@ facts:
   - label: Ponúkané certifikáty
     value: Kurzy PADI a SSI na požiadanie
 translated: deepl
-sourceHash: 22fa3188337318ca
+sourceHash: da6f89dc76d19918
 needsReview: true
 ---
 

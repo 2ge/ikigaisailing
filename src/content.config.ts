@@ -19,6 +19,9 @@ const pages = defineCollection({
     z.object({
       title: z.string(),
       description: z.string(),
+      /** SEO overrides — keyword-tuned <title>/meta that leave the visible H1 editorial. */
+      seoTitle: z.string().optional(),
+      metaDescription: z.string().optional(),
       locale: z.enum(LOCALES),
       heroImage: image().optional(),
       gallery: z.array(image()).default([]),
@@ -58,6 +61,9 @@ const trips = defineCollection({
     z.object({
       title: z.string(),
       description: z.string(),
+      /** SEO overrides — keyword-tuned <title>/meta that leave the visible H1 editorial. */
+      seoTitle: z.string().optional(),
+      metaDescription: z.string().optional(),
       locale: z.enum(LOCALES),
       price: z.number().nullable().default(null),
       currency: z.string().default('EUR'),
@@ -85,6 +91,9 @@ const activities = defineCollection({
     z.object({
       title: z.string(),
       summary: z.string(),
+      /** SEO overrides — keyword-tuned <title>/meta that leave the visible H1 editorial. */
+      seoTitle: z.string().optional(),
+      metaDescription: z.string().optional(),
       locale: z.enum(LOCALES),
       category: z.string().default('wellness'),
       image: image().optional(),

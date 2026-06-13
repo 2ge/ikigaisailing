@@ -38,9 +38,9 @@ const FORMALITY: Partial<Record<Loc, deepl.Formality>> = {
 };
 // frontmatter string fields to translate, per collection
 const FM_FIELDS: Record<string, string[]> = {
-  pages: ['title', 'description', 'lead', 'aheadTitle', 'ahead'],
-  trips: ['title', 'description', 'priceNote', 'season'],
-  activities: ['title', 'summary'],
+  pages: ['title', 'description', 'seoTitle', 'metaDescription', 'lead', 'aheadTitle', 'ahead'],
+  trips: ['title', 'description', 'seoTitle', 'metaDescription', 'priceNote', 'season'],
+  activities: ['title', 'summary', 'seoTitle', 'metaDescription'],
   blog: ['title', 'description'],
 };
 

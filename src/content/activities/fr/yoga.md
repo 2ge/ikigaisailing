@@ -3,6 +3,11 @@ title: Retraite de yoga
 summary: >-
   Avec la mer en toile de fond et le bruit des vagues, ta retraite de yoga
   devient une expérience transformatrice. Chaque séance est conçue pour...
+seoTitle: Retraite de yoga et de voile au Panama | Ikigai Sailing
+metaDescription: >-
+  Séance de yoga et d'exercices de respiration le matin à bord d'un Catana 47 à
+  San Blas, au Panama : un pont stable, une eau chaude et un rythme de
+  navigation tranquille. Une retraite bien-être, à réserver par cabine.
 locale: fr
 category: wellness
 image: ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg
@@ -20,7 +25,7 @@ facts:
   - label: Lieu
     value: À bord ou sur des plages à couper le souffle
 translated: deepl
-sourceHash: ac6ca519f6832d4e
+sourceHash: c34dafc6b6363b65
 ---
 
 ## Retrouve ton équilibre

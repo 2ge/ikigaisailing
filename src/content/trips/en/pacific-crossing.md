@@ -1,6 +1,8 @@
 ---
 title: "Ocean Pacific Crossing"
 description: "Pacific Crossing, Join us on a once-in-a-lifetime adventure across the Pacific Ocean! 4,000 nautical miles from Panama to the Marquesas Islands"
+seoTitle: "Pacific Crossing Crew: Panama to Polynesia | Ikigai"
+metaDescription: "Join our 2027 Pacific crossing as crew — about 4,000 nautical miles from Panama to the Marquesas aboard a Catana 47, guided by a RYA Yachtmaster skipper."
 locale: "en"
 price: 2000
 currency: "EUR"

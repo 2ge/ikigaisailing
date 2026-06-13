@@ -1,6 +1,8 @@
 ---
 title: "Meditation"
 summary: "Meditation with Ikigai Sailing is a unique experience, where the tranquility of the sea amplifies the benefits of the practice."
+seoTitle: "Meditation Retreat in the San Blas Islands | Ikigai"
+metaDescription: "Daily meditation and breathwork at anchor in the San Blas islands, Panama. Slow mornings, open water and quiet anchorages aboard our Catana 47 catamaran."
 locale: "en"
 category: "wellness"
 image: "~/assets/activities/project/meditazione1.jpg"

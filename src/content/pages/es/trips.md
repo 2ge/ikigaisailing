@@ -1,8 +1,13 @@
 ---
-title: Opciones de embarque
+title: Opciones de alojamiento
 description: >-
   Formas de subir a bordo del Catana 47 Ikigai en San Blas: una semana, diez
   días, un mes, la travesía por el Pacífico o un intercambio de tripulación.
+seoTitle: 'Alquiler de catamaranes en San Blas, por camarote | Ikigai'
+metaDescription: >-
+  Opciones para subir a bordo de nuestro Catana 47 en San Blas: una semana, diez
+  días, un mes o la travesía del Pacífico. Reservas por camarote, directamente
+  con la tripulación.
 locale: es
 heroImage: ~/assets/activities/project/meditazione1.jpg
 gallery:
@@ -14,7 +19,7 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
 translated: deepl
-sourceHash: b1f61ca1c124ddfb
+sourceHash: 9c153c725059bfd7
 ---
 
 ### Beneficios que aumentan con el tiempo
@@ -29,7 +34,7 @@ Vivir inmerso en el mar y la naturaleza es mucho más que unas vacaciones: es un
 
 **DISPONIBLE SOLO PARA LA SEMANA DE NAVIDAD Y AÑO NUEVO**
 
--   **Renovación mental:** desconecta de las preocupaciones diarias y experimenta una primera sensación de paz interior.
+-   **Renovación mental:** desconectar de las preocupaciones diarias y experimentar una primera sensación de paz interior.
 -   **Recuperación de energía:** mejora de la calidad del sueño gracias a los ritmos naturales y al aire fresco.
 -   **Reducción del estrés:** la respiración consciente y el contacto con el azul del mar calman la mente y el sistema nervioso.
 -   **Vitalidad física:** el movimiento natural mejora la circulación y reduce la tensión muscular.
@@ -42,7 +47,7 @@ Vivir inmerso en el mar y la naturaleza es mucho más que unas vacaciones: es un
 
 ### Diez días: el momento perfecto para encontrarte a ti mismo
 
-Una experiencia inmersiva entre las islas vírgenes de Guna Yala, donde la vida se ralentiza y se vuelve esencial. Navegarás por aguas cristalinas e islas desiertas, durmiendo arrullado por el mar, practicando yoga, buceo libre y meditación, y nutriéndote con comida fresca y auténtica. Diez días para redescubrir tu ritmo natural, respirar profundamente y reconectar contigo mismo.
+Una experiencia inmersiva entre las islas vírgenes de Guna Yala, donde la vida se ralentiza y se vuelve esencial. Navegarás por aguas cristalinas y entre islas desiertas, durmiendo arrullado por el mar, practicando yoga, buceo libre y meditación, y nutriéndote con comida fresca y auténtica. Diez días para redescubrir tu ritmo natural, respirar profundamente y reconectar contigo mismo.
 
 [Reserva](/es/embarques/10-days-on-board/)
 
@@ -52,7 +57,7 @@ Una experiencia inmersiva entre las islas vírgenes de Guna Yala, donde la vida 
 
 **Más que un retiro: es un regreso a tu propio ritmo**
 
-Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu invitación a bajar el ritmo, reconectar con tu respiración, tu cuerpo y tu verdad. Explorarás ejercicios de respiración diarios, buceo libre, prácticas de movimiento, escritura de diario y círculos grupales significativos, todo ello basado en la filosofía del Ikigai, el concepto japonés que significa «razón de ser». Cada isla es un capítulo. Cada ola, un recordatorio. Esta es tu pausa sagrada: un reinicio para tu sistema nervioso, un renacer del propósito y la alegría.
+Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu invitación a reducir el ritmo, reconectarte con tu respiración, tu cuerpo y tu verdad. Explorarás ejercicios de respiración diarios, buceo libre, prácticas de movimiento, escritura de diario y círculos grupales significativos, todo ello basado en la filosofía del Ikigai, el concepto japonés que significa «razón de ser». Cada isla es un capítulo. Cada ola, un recordatorio. Esta es tu pausa sagrada: un reinicio para tu sistema nervioso, un renacer del propósito y la alegría.
 
 🌀 Solo ven tal y como eres. 🌺 Deja que esto vuelva a ser tu respiración. Deja que esto sea tu comienzo.
 
@@ -60,7 +65,7 @@ Esta experiencia de 10 días navegando por las aguas turquesas de Panamá es tu 
 
 ### Un mes: vive el mar como tu hogar, el tiempo como tu maestro
 
-Un mes a bordo para hacer una pausa de verdad, soltar los ritmos impuestos y reconectar con tu esencia. Esta experiencia está pensada para quienes ya han conocido el mundo del Ikigai y desean sumergirse en un tiempo lento, profundo y regenerador. No eres un invitado: eres parte de la tripulación, de la vida, del intercambio. Navegarás entre prácticas, naturaleza y compartir, experimentando el mar no como un telón de fondo, sino como un hogar y un espejo.
+Un mes a bordo para hacer una pausa de verdad, soltar los ritmos impuestos y reconectar con tu esencia. Esta experiencia está diseñada para quienes ya han conocido el mundo del Ikigai y desean sumergirse en un tiempo lento, profundo y regenerador. No eres un invitado: eres parte de la tripulación, de la vida, del intercambio. Navegarás entre prácticas, naturaleza y compartir, experimentando el mar no como un telón de fondo, sino como un hogar y un espejo.
 
 [Descubre más](/es/embarques/one-month/)
 

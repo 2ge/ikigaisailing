@@ -1,6 +1,8 @@
 ---
 title: "Exchange / Paid Boarding"
 description: "Join the Ikigai crew in San Blas: volunteer or trade professional skills for boarding aboard our Catana 47 — live sailing, freediving and ocean life as a true protagonist."
+seoTitle: "Sailing Crew Exchange & Paid Boarding | Ikigai"
+metaDescription: "Join the Ikigai crew in San Blas: volunteer or trade pro skills for boarding aboard our Catana 47. Live real sailing, freediving and ocean life first-hand."
 locale: "en"
 currency: "EUR"
 duration: "flexible"

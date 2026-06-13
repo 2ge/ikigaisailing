@@ -1,8 +1,13 @@
 ---
-title: Možnosti nalodenia
+title: Možnosti stravovania
 description: >-
-  Možnosti, ako sa pridať k posádke lode Catana 47 Ikigai v San Blase: na
-  týždeň, desať dní, mesiac, plavbu cez Tichý oceán alebo výmenu členov posádky.
+  Možnosti, ako sa nalodiť na loď Catana 47 Ikigai v San Blase: na týždeň, desať
+  dní, mesiac, plavbu cez Tichý oceán alebo výmenu posádky.
+seoTitle: 'Prenájom katamaránu v San Blas, cena za kajutu | Ikigai'
+metaDescription: >-
+  Možnosti, ako sa pridať k nám na palube lode Catana 47 v San Blase – na
+  týždeň, desať dní, mesiac alebo na plavbu cez Tichý oceán. Rezervácia na
+  kajutu priamo u posádky.
 locale: sk
 heroImage: ~/assets/activities/project/meditazione1.jpg
 gallery:
@@ -14,7 +19,7 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
 translated: deepl
-sourceHash: b1f61ca1c124ddfb
+sourceHash: 9c153c725059bfd7
 needsReview: true
 ---
 
@@ -53,7 +58,7 @@ Pohlcujúci zážitok medzi nedotknutými ostrovmi Guna Yala, kde sa život spom
 
 **Viac ako len oddych: je to návrat k vášmu vlastnému rytmu**
 
-Tento 10-dňový plavecký zážitok cez tyrkysové vody Panamy je pozvánkou na spomalenie, opätovné spojenie sa so svojím dychom, telom a pravdou. Budete objavovať každodenné dychové cvičenia, freediving, pohybové cvičenia, písanie denníka a zmysluplné skupinové kruhy – všetko zakotvené vo filozofii Ikigai, japonskom pojme, ktorý znamená „dôvod bytia“. Každý ostrov je jednou kapitolou. Každá vlna je pripomienkou. Toto je vaša posvätná pauza – reset vášho nervového systému, prebudenie zmyslu a radosti.
+Tento 10-dňový plavecký zážitok cez tyrkysové vody Panamy je pozvánkou na spomalenie, opätovné spojenie sa so svojím dychom, telom a pravdou. Budete objavovať každodenné dychové cvičenia, freediving, pohybové cvičenia, písanie denníka a zmysluplné skupinové kruhy – všetko zakotvené vo filozofii Ikigai, japonskom pojme, ktorý znamená „dôvod bytia“. Každý ostrov je jednou kapitolou. Každá vlna je pripomienkou. Toto je vaša posvätná pauza – reset pre váš nervový systém, prebudenie zmyslu a radosti.
 
 🌀 Príďte takí, akí ste. 🌺 Nech je toto opäť váš dych. Nech je toto váš začiatok.
 
@@ -61,13 +66,13 @@ Tento 10-dňový plavecký zážitok cez tyrkysové vody Panamy je pozvánkou na
 
 ### Jeden mesiac – Zažite more ako domov, čas ako svojho učiteľa
 
-Mesiac na palube, aby ste si naozaj oddýchli, zbavili sa vnucovaných rytmov a znovu sa spojili so svojou podstatou. Tento zážitok je určený pre tých, ktorí už poznajú svet Ikigai a chcú sa ponoriť do pomalého, hlbokého a regenerujúceho času. Nie ste hosťom: ste súčasťou posádky, života, výmeny. Budete sa pohybovať medzi cvičeniami, prírodou a zdieľaním, pričom more nebudete vnímať ako kulisu, ale ako domov a zrkadlo.
+Mesiac na palube, aby ste si naozaj oddýchli, zbavili sa vnucených rytmov a znovu sa spojili so svojou podstatou. Tento zážitok je určený pre tých, ktorí už poznajú svet Ikigai a chcú sa ponoriť do pomalého, hlbokého a regenerujúceho času. Nie ste hosťom: ste súčasťou posádky, života, výmeny. Budete sa pohybovať medzi cvičeniami, prírodou a zdieľaním, pričom more nebudete vnímať ako kulisu, ale ako domov a zrkadlo.
 
 [Zistite viac](/sk/plavby/one-month/)
 
 ### Preplavba Tichým oceánom – Veľká plavba
 
-Viac ako 30 dní plavby z Panamy na Markézy. Vzácny a transformatívny zážitok, kde sa čas rozširuje a oceán sa stáva domovom. Nie je to dovolenka, je to prechodový rituál: zdieľanie, zmeny na palube, hviezdna obloha, hlboké ticho a živá sila Tichého oceánu. Ak cítite volanie, pripravte sa na skok.
+Viac ako 30 dní plavby z Panamy na Markézy. Vzácny a transformatívny zážitok, kde sa čas rozširuje a oceán sa stáva domovom. Nie je to dovolenka, je to prechodový rituál: zdieľanie, zmeny na palube, hviezdnatá obloha, hlboké ticho a živá sila Tichého oceánu. Ak cítite volanie, pripravte sa na skok.
 
 [Rezervovať](/sk/plavby/pacific-crossing/)
 

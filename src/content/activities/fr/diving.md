@@ -3,6 +3,11 @@ title: Plongée
 summary: >-
   En plongée, chaque immersion est un voyage à travers des couleurs éclatantes,
   la vie marine et les mystères des fonds marins. Plonge dans les profondeurs...
+seoTitle: 'Plongée sous-marine et chasse sous-marine, San Blas | Ikigai'
+metaDescription: >-
+  Viens plonger et pratiquer la pêche sous-marine sur les récifs de San Blas, au
+  Panama, à bord de notre Catana 47 : une faune marine haute en couleur, une
+  pêche durable et des plongées guidées dans les eaux cristallines des Caraïbes.
 locale: fr
 category: watersports
 image: ~/assets/activities/project/scuba-diving.jpg
@@ -27,7 +32,7 @@ facts:
   - label: Certifications proposées
     value: Certifications PADI et SSI disponibles sur demande
 translated: deepl
-sourceHash: 22fa3188337318ca
+sourceHash: da6f89dc76d19918
 ---
 
 ## Découvre le monde sous-marin

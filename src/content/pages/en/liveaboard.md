@@ -1,6 +1,8 @@
 ---
 title: "Life Aboard"
 description: "Curiosities, tips and the milestones of living full-time aboard a sailing catamaran with Ikigai Sailing — life at sea, away from land."
+seoTitle: "Living Aboard a Catamaran in the Caribbean | Ikigai"
+metaDescription: "What full-time life on a sailing catamaran is really like — watermaking, anchorages, remote work and slow travel aboard Ikigai, a Catana 47 in the Caribbean."
 locale: "en"
 oldUrls:
   - "/liveaboard/"

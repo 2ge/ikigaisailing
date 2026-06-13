@@ -24,7 +24,7 @@ const members = rest.filter((tr) => tr.data.membersOnly);
 const fd = featured.data;
 const featuredHref = localizePath(`/trips/${slugOf(featured)}/`, locale);
 ---
-<PageLayout title={`${t('nav.trips')} — Ikigai Sailing`} description={intro?.data.description ?? 'Boarding options aboard the Catana 47 Ikigai.'} path="/trips/">
+<PageLayout title={intro?.data.seoTitle ?? `${t('nav.trips')} — Ikigai Sailing`} description={intro?.data.metaDescription ?? intro?.data.description ?? 'Boarding options aboard the Catana 47 Ikigai.'} path="/trips/">
   <PageHero eyebrow={t('home.tripsEyebrow')} title={intro?.data.title ?? t('nav.trips')} lead={intro?.data.description} />
 
   <!-- Flagship featured voyage -->

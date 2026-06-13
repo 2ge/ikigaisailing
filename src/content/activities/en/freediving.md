@@ -1,6 +1,8 @@
 ---
 title: "FreeDiving"
 summary: "Freediving is not just a sport—it can be a true path to self-discovery, a chance to pause, breathe, and listen to yourself."
+seoTitle: "Freediving Charter in San Blas, Panama | Ikigai"
+metaDescription: "Train freediving aboard our Catana 47 in San Blas, Panama with AIDA and Apnea Total certified skippers. Book a cabin direct with the crew in warm, clear water."
 locale: "en"
 category: "watersports"
 image: "~/assets/activities/project/Apnea.jpg"

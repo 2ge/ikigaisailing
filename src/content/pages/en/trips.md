@@ -1,6 +1,8 @@
 ---
 title: "Boarding Options"
 description: "Ways to come aboard the Catana 47 Ikigai in San Blas: a week, ten days, a month, the Pacific crossing, or a crew exchange."
+seoTitle: "San Blas Catamaran Charter, Per Cabin | Ikigai"
+metaDescription: "Ways to come aboard our Catana 47 in San Blas — a week, ten days, a month, or the Pacific crossing. Per-cabin booking, direct with the crew."
 locale: "en"
 oldUrls:
   - "/formule-di-imbarco-new/"

@@ -1,8 +1,13 @@
 ---
 title: Plavba cez Tichý oceán
 description: >-
-  Plavba cez Tichý oceán – pridajte sa k nám na jedinečnom dobrodružstve cez
+  Plavba cez Tichý oceán – pridajte sa k nám na jedinečné dobrodružstvo cez
   Tichý oceán! 4 000 námorných míľ z Panamy na Markézy
+seoTitle: 'Posádka Pacific Crossing: Z Panamy do Polynézie | Ikigai'
+metaDescription: >-
+  Pridajte sa k nám ako člen posádky na plavbe cez Tichý oceán v roku 2027 –
+  čaká nás približne 4 000 námorných míľ z Panamy na Markézy na palube lode
+  Catana 47 pod vedením kapitána s certifikátom RYA Yachtmaster.
 locale: sk
 price: 2000
 currency: EUR
@@ -15,7 +20,7 @@ gallery:
     ~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp
 order: 4
 translated: deepl
-sourceHash: fd5d67cbf7e17e3d
+sourceHash: edc0d4d36db5f24d
 needsReview: true
 ---
 
@@ -29,7 +34,7 @@ needsReview: true
 
 ## Popis
 
-\*\*Veľké prekročenie Tichého oceánu _Z Panamy na Markézy – marec 2027_ \_ \_ Vzácny, intenzívny a neopakovateľný zážitok. Vydať sa na plavbu cez oceán je niečo, čo presahuje rámec samotného plachtenia. Je to skok do neznáma, prejav dôvery. Je to opätovné spojenie s rytmom vetra, noci a vášho vnútorného sveta.
+\*\*Veľké prekročenie Tichého oceánu _Z Panamy na Markézy – marec 2027_ \_ \_ Vzácny, intenzívny a neopakovateľný zážitok. Vyraziť na plavbu cez oceán je niečo, čo presahuje rámec samotného plachtenia. Je to skok do neznáma, prejav dôvery. Je to opätovné spojenie s rytmom vetra, noci a vášho vnútorného sveta.
 
 V marci 2027 _loď_ _Ikigai_ opustí pobrežie Panamy, aby preplávala Tichý oceán. Epická cesta trvajúca viac ako 30 dní plavby cez jednu z najodľahlejších a najnedotknutejších oblastí na planéte.
 
@@ -45,14 +50,14 @@ Nepotrebujete pokročilé plavecké zručnosti – stačí prispôsobivosť, sch
 
 \*\*Chcete s nami preplávať Tichý oceán? [Vyplňte formulár, aby ste boli informovaní](/sk/kontakt/) a dostávali všetky technické, ekonomické a logistické podrobnosti, keď sa bude blížiť odchod. Miesta budú veľmi obmedzené. Výber sa uskutoční v roku 2026. Ale zámer začína už teraz.
 
-**„Tí, ktorí videli otvorené more, sa už nikdy nevrátia takí istí.“**
+**„Tí, ktorí videli otvorené more, sa nikdy nevrátia takí istí.“**
 
 ## Príspevok a zahrnuté služby
 
 **V cene / Nie je v cene ČO JE V CENE**
 
 -   Kapitán s certifikátom RYA Yacht Master a skúsenosťami na mori
--   Ubytovanie na celú dobu v zdieľanej dvojposteľovej kajute na palube _lode Ikigai_, Catana 47 (14 m), oceánskeho výpravného katamaránu určeného na plavbu na dlhé vzdialenosti, vybaveného:
+-   Ubytovanie na celú dobu v zdieľanej dvojposteľovej kajute na palube _lode Ikigai_, Catana 47 (14 m), oceánskeho výpravného katamaránu určeného na dlhé plavby, vybaveného:
 -   Dvojitým elektronickým prístrojovým vybavením
 -   Autonómnym energetickým systémom (solárne panely, generátor, hydrogenerátor, invertor)
 -   Dvojité kormidelné stanovištia a bezpečnostné systémy
@@ -68,7 +73,7 @@ Nepotrebujete pokročilé plavecké zručnosti – stačí prispôsobivosť, sch
 -   Základné náhradné diely pre bežnú údržbu počas plavby
 -   Rybárske vybavenie
 -   Úvodná bezpečnostná inštruktáž a školenie o živote na palube a plavbe
--   Praktická pomoc s colnými a logistickými postupmi v prístavoch, kde loď zastavuje
+-   Praktická pomoc s colnými a logistickými postupmi v prístavoch zastávok
 
 **ČO NIE JE ZAHRNUTÉ**
 
@@ -83,13 +88,13 @@ Nepotrebujete pokročilé plavecké zručnosti – stačí prispôsobivosť, sch
 -   Potraviny (počiatočný nákup a akékoľvek doplnenie zásob)
 -   Nafta a benzín
 -   Poplatky za odchod z Panamy a vstup do Francúzskej Polynézie (alebo na iné medziležiace ostrovy)
--   Prechod Panamským prieplavom (mýto, obsluha lán, prenájom lán/odrazníkov, prípadné poplatky agentúre)
+-   Prechod Panamským prieplavom (mýto, obsluha lode, prenájom lán/odrazníkov, prípadné poplatky agentúre)
 -   Poplatky za kotvenie alebo vstup do morských parkov (Galápagos, Gambier, Tuamotu atď.)
 -   Prípadné poplatky za kotvenie v prístave
 -   Predplatné na komunikáciu/počasie: Iridium GO! / Starlink Ocean, PredictWind, kredit na satelitný telefón
--   Miestne SIM karty v medzipristáviach
+-   Miestne SIM karty v medzipristávacích prístavoch
 -   Víza a povolenia pre každého člena posádky
 -   Prípadné náklady na repatriáciu alebo lety v prípade predčasného vylodenia
--   Preprava na breh za účelom nákupu zásob alebo vybavovania administratívnych formalít
+-   Preprava na breh za účelom nákupu zásob alebo vybavovania administratívnych záležitostí
 
 Dodatočná pitná voda (kanistre/doplnenie v prípade problémov s odsolovačom)

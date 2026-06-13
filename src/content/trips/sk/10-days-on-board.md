@@ -3,6 +3,11 @@ title: 10 dní na palube lode Ikigai
 description: >-
   Počas 10 dní vás prevedieme účinnými a transformatívnymi cvičeniami. Tento
   pobyt je jedinečný vďaka našim inštruktorom z rôznych odborov
+seoTitle: '10-dňová plavba na katamaráne, San Blas, Panama | Ikigai'
+metaDescription: >-
+  Desať dní na palube našej lode Catana 47 v súostroví San Blas v Paname – voľné
+  potápanie, jóga, pokojná plavba a kotvenie pri ostrovoch pod vedením našej
+  posádky. Rezervujte si kajutu priamo u nás.
 locale: sk
 price: 3000
 currency: EUR
@@ -21,7 +26,7 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: 3c86d008cd4ed33b
+sourceHash: decd6adecdd997ae
 needsReview: true
 ---
 
@@ -109,11 +114,11 @@ Program sa môže upraviť na základe:
 -   19:00: Teória voľného potápania (dýchanie, vyrovnávanie tlaku, bezpečnosť)
 -   20:30: Večera a pozorovanie morského života pri svetle lodných reflektorov
 
-### Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké spojenie
+### Deň 4 – West Dutch Cays Trénovanie freedivingu a hlboké prepojenie
 
 -   06:30–07:30: Dýchanie a strečing pre freediving
 -   07:30: Ľahké raňajky
--   08:30: Opakovanie teórie a techniky
+-   08:30: Prehľad teórie a techniky
 -   10:00–12:30: Praktická lekcia freedivingu
 -   13:00: Obed
 -   15:00–17:00: Voľný čas — šnorchlovanie, rybolov, kajak, oddych
@@ -127,7 +132,7 @@ Program sa môže upraviť na základe:
 -   09:30: Plavba do lagúny
 -   11:00: Prehliadka ostrovov na SUP-e alebo kajaku
 -   13:00: Obed
--   15:00: Voľný čas / stretnutie s miestnymi obyvateľmi
+-   15:00: Voľný čas / stretnutie s miestnymi
 -   17:30: Jóga pri západe slnka alebo kardio/bojové umenia
 -   19:30: Grilovanie na pláži a táborák s rodinami Guna
 

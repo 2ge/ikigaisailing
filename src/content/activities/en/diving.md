@@ -1,6 +1,8 @@
 ---
 title: "Diving"
 summary: "With diving, every immersion is a journey through vibrant colors, marine life, and sunken mysteries. Descend into the depths..."
+seoTitle: "Scuba Diving & Spearfishing, San Blas | Ikigai"
+metaDescription: "Dive and spearfish the reefs of San Blas, Panama from our Catana 47 — vivid marine life, sustainable catch and guided descents in clear Caribbean water."
 locale: "en"
 category: "watersports"
 image: "~/assets/activities/project/scuba-diving.jpg"

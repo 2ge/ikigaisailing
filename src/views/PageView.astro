@@ -25,7 +25,7 @@ const crumb = breadcrumbs(site, locale, [
 ]);
 ---
 
-<PageLayout title={d.title} description={d.description} path={`/${slug}/`} availableLocales={availableLocales}>
+<PageLayout title={d.seoTitle ?? d.title} description={d.metaDescription ?? d.description} path={`/${slug}/`} availableLocales={availableLocales}>
   <JsonLd slot="head" schema={crumb} />
 
   {d.heroImage ? (

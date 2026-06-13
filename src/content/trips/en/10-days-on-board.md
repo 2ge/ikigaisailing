@@ -1,6 +1,8 @@
 ---
 title: "10 days on board Ikigai"
 description: "In 10 days, we will guide you through powerful and transformative practices. This retreat is unique thanks to our multidisciplinary instructors"
+seoTitle: "10-Day Catamaran Cruise, San Blas Panama | Ikigai"
+metaDescription: "Ten days aboard our Catana 47 in San Blas, Panama — freediving, yoga, slow sailing and island anchorages, guided by our crew. Book a cabin direct."
 locale: "en"
 price: 3000
 currency: "EUR"

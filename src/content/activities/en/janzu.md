@@ -1,6 +1,8 @@
 ---
 title: "Janzu"
 summary: "Janzu is an experience of deep relaxation and connection with the aquatic element. Gentle and fluid movements, help you release stress"
+seoTitle: "Janzu Water Therapy Retreat, San Blas | Ikigai"
+metaDescription: "Janzu aquatic bodywork in the warm, calm water of San Blas, Panama — one-on-one sessions from our Catana 47. A regenerative water-healing retreat aboard Ikigai."
 locale: "en"
 category: "wellness"
 image: "~/assets/activities/janzu/IMG_3296-1.avif"
