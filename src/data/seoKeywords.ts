@@ -103,7 +103,7 @@ export const KEYWORDS: Keyword[] = [
   } },
 
   // ═══════════════ SAN BLAS — geo cluster under /panama/san-blas/ ═══════════════
-  { id: 'sanblas-pillar', set: 'san-blas', build: '/panama/san-blas/', loc: {
+  { id: 'sanblas-pillar', set: 'san-blas', page: { collection: 'landings', slug: 'pillar' }, loc: {
     en: { primary: 'san blas catamaran charter', vol: 210, kd: 'Low', spokes: ['san blas catamaran cruise', 'catamaran tours san blas', 'san blas catamaran rental', 'per cabin catamaran san blas', 'san blas sailing trip'] },
     it: { primary: 'catamarano san blas', spokes: ['tour catamarano san blas', 'crociera catamarano san blas'] },
     es: { primary: 'catamaran san blas', spokes: ['tour catamaran san blas', 'crucero catamaran san blas'] },
@@ -154,7 +154,7 @@ export const KEYWORDS: Keyword[] = [
 
 // ─── derived helpers — consumers read from these, never duplicate keywords ───
 export const pathOf = (p: NonNullable<Keyword['page']>) =>
-  p.collection === 'landings' ? `/panama/san-blas/${p.slug}/`
+  p.collection === 'landings' ? (p.slug === 'pillar' ? '/panama/san-blas/' : `/panama/san-blas/${p.slug}/`)
   : p.collection === 'pages' ? `/${p.slug}/`
   : `/${p.collection}/${p.slug}/`;
 

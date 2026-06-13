@@ -14,6 +14,7 @@ export async function getStaticPaths() {
   const localesBySlug = new Map<string, Set<Loc>>();
   for (const e of all) {
     const slug = slugOf(e);
+    if (slug === 'pillar') continue; // the pillar is the /panama/san-blas/ index route
     (localesBySlug.get(slug) ?? localesBySlug.set(slug, new Set()).get(slug)!).add(localeOf(e) as Loc);
   }
   const out: { params: { locale: string | undefined; activity: string }; props: { locale: Loc; activity: string } }[] = [];
