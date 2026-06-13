@@ -5,7 +5,7 @@ summary: >-
   devient une expérience transformatrice. Chaque séance est conçue pour...
 locale: fr
 category: wellness
-image: ~/assets/activities/project/yoga-ikigai.jpg
+image: ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg
 gallery:
   - ~/assets/activities/yoga/yoga-ikigai-v.jpg
   - ~/assets/activities/yoga/yoga-ikigai3.jpg

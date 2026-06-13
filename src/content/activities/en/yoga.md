@@ -3,7 +3,7 @@ title: "Yoga Retreat"
 summary: "With the sea as a backdrop and the sound of the waves, your yoga retreat becomes a transformative practice. Each session is designed to..."
 locale: "en"
 category: "wellness"
-image: "~/assets/activities/project/yoga-ikigai.jpg"
+image: "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg"
 gallery:
   - "~/assets/activities/yoga/yoga-ikigai-v.jpg"
   - "~/assets/activities/yoga/yoga-ikigai3.jpg"

@@ -3,7 +3,7 @@ title: "Ritiro Yoga in Barca a vela"
 summary: "Ritiro Yoga in Barca a vela: Trova il tuo equilibrio con il mare come sfondo. Le nostre sessioni di yoga sono adatte a ogni livello"
 locale: "it"
 category: "wellness"
-image: "~/assets/activities/project/yoga-ikigai.jpg"
+image: "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg"
 gallery:
   - "~/assets/activities/yoga/yoga-ikigai-v.jpg"
   - "~/assets/activities/yoga/yoga-ikigai3.jpg"
