@@ -76,7 +76,9 @@ const tier = (s: number) => s >= 120 ? { c: 'text-emerald-300 border-emerald-500
                 <span class="flex items-center gap-2 font-mono text-[0.7rem]">
                   <span class="text-slate-300">{r.vol ? `${r.vol}/mo` : '—'}</span>
                   <span class={`whitespace-nowrap ${kdTone(r.kd)}`} title={`difficulty: ${r.kd}`}>{(r.kd||'').replace(/\s*\(0\)/,'')}</span>
-                  {g
+                  {r.build
+                    ? <span class="rounded border border-sky-500/40 px-1.5 py-0.5 text-sky-300" title={`page to build: ${r.build}`}>⚒ build</span>
+                    : g
                     ? <span class={`rounded border px-1.5 py-0.5 ${g.position<=10?'border-emerald-500/40 text-emerald-300':g.position<=20?'border-amber-500/40 text-amber-300':'border-white/15 text-slate-400'}`} title={`GSC: ${g.impressions} impressions, ${g.clicks} clicks (28d)`}>#{g.position}</span>
                     : <span class="rounded border border-rose-500/30 px-1.5 py-0.5 text-rose-400/80" title="no GSC impressions in 28d">n/r</span>}
                   <span class={`w-12 rounded border px-1.5 py-0.5 text-center ${tg.c}`}>{tg.t}·{r.score}</span>
