@@ -12,48 +12,51 @@ metaDescription: >-
 locale: it
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 lead: >-
-  Un ritiro yoga a San Blas, a Panama, significa svegliarsi all'ancora tra le
-  isole di Guna Yala, stendere il tappetino sul ponte di un catamarano Catana 47
-  e lasciarsi trasportare dalla pratica mattutina mentre il sole fa capolino tra
-  le palme: acqua calda, niente folla e nessun programma se non quello del mare.
+  Un ritiro yoga a San Blas, in Panama, non è un hotel con vista sul mare. È un
+  catamarano Catana 47 all’ancora tra le isole Guna, con il tuo tappetino sul
+  ponte di prua alle prime luci dell’alba e l’acqua che segna già i 28 °C.
+  Nessun orario da rispettare. Nessun wifi che ti tira per la manica. Solo
+  respiro, salsedine e l'isola successiva.
 faq:
   - q: Quanto costa il ritiro yoga a San Blas?
     a: >-
-      La prenotazione va effettuata per cabina e l'importo è un contributo
-      associativo alla nostra ASD senza scopo di lucro, non una tariffa
-      commerciale — il che lo mantiene ben al di sotto dei prezzi delle agenzie
-      di noleggio. Per le tariffe e la disponibilità della stagione in corso,
-      consulta la pagina dedicata alla stagione o scrivici su WhatsApp.
+      La prenotazione si effettua per cabina e l'importo corrisponde a un
+      contributo associativo alla nostra ASD senza scopo di lucro — non a una
+      tariffa di noleggio. Ecco perché il prezzo è ben al di sotto di quello
+      delle agenzie. Per le tariffe stagionali e le date disponibili, dai
+      un'occhiata alla pagina dedicata alla stagione o scrivici su WhatsApp.
   - q: Devo avere esperienza di yoga?
     a: >-
-      No. Le sessioni sono delicate e adatte a ogni livello: l'attenzione è
-      rivolta al respiro, alla mobilità e al ricongiungimento con il proprio
-      corpo in mare, non alle posizioni avanzate.
+      No. La pratica è delicata e si adatta al tuo livello. L'importante è il
+      respiro e il ricongiungersi con il proprio corpo in mezzo al mare, non le
+      posizioni contorte.
   - q: Quando è la stagione di San Blas?
     a: >-
-      Navighiamo a San Blas durante la stagione tranquilla, più o meno fino a
-      marzo. Al di fuori di quel periodo, la stessa routine ci accompagna con la
-      barca verso le altre nostre destinazioni.
+      Restiamo a San Blas durante i mesi più tranquilli, più o meno fino a
+      marzo. Dopodiché la stessa squadra salpa con la barca verso la prossima
+      destinazione.
   - q: Come si raggiunge il catamarano?
     a: >-
-      Da Panama City il trasferimento si effettua in fuoristrada attraverso le
-      montagne di Guna Yala, seguito da un breve tragitto in barca fino al punto
-      in cui è ormeggiata l'Ikigai. Ci occupiamo noi di organizzare l'intero
-      trasferimento: basta che ci comunichi l'orario di arrivo.
+      Da Panama City si parte in fuoristrada attraverso la catena montuosa di
+      Guna Yala, poi un breve tragitto in panga fino al punto in cui è ancorata
+      l'Ikigai. Ci occupiamo noi di organizzare tutto il trasferimento: basta
+      che ci comunichi l'orario di arrivo.
 translated: deepl
-sourceHash: 370a689948a9c36e
+sourceHash: fb84af288ae94aa1
 ---
 
-## Com'è un ritiro yoga su un catamarano?
+## Com'è davvero un ritiro yoga su un catamarano
 
-Vivi a bordo **dell'Ikigai**, il nostro **catamarano Catana 47**, ancorato nelle lagune piatte e turchesi di **San Blas (Guna Yala), a Panama**. Ogni mattina inizia con yoga e esercizi di respirazione sull'ampio trampolino e sul ponte: i due scafi del catamarano creano una piattaforma molto più stabile rispetto a un monoscafo, quindi gli esercizi di equilibrio ti fanno sentire davvero ben saldo. La pratica è seguita da nuoto, apnea o semplicemente dal lasciarsi trasportare dall'acqua a 28 °C. Non c'è traffico, nessun wifi a distrarti e nessun itinerario fisso: solo il ritmo della marea e l'isola successiva.
+Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**. La giornata inizia con yoga e esercizi di respirazione sul ponte di prua — ed è proprio la barca a renderlo possibile. Un catamarano rimane stabile. Due scafi, nessuna inclinazione, un ampio trampolino che non ti fa perdere l'equilibrio nella posizione del guerriero ogni volta che passa una scia. Prova la stessa sequenza su un monoscafo e passerai metà del tempo a cercare di mantenere l'equilibrio. Dopo la pratica ti tuffi in acqua: nuotando, facendo apnea o semplicemente rilassandoti. La giornata si snoda seguendo la luce e il vento, non l'agenda di una spa.
 
-## Cosa è incluso nel ritiro yoga a San Blas?
+## Cosa è incluso nel ritiro yoga a San Blas
 
-L'esperienza si svolge per cabina a bordo di un Catana 47 (non è necessario un gruppo che occupi l'intera barca): una cuccetta singola in una cabina condivisa, yoga e esercizi di respirazione ogni mattina, tutti i pasti cucinati a bordo con pesce fresco e prodotti locali, attrezzatura per lo snorkeling e l'apnea, e navigazione tranquilla tra le isole di San Blas con il nostro equipaggio certificato. I tuoi skipper sono qualificati RYA Yachtmaster e certificati AIDA / Apnea Total come apneisti, quindi le giornate uniscono la pratica in acqua in sicurezza alla vera arte della navigazione. Il prezzo è un **contributo associativo a Ikigai Sailing ASD** — un'organizzazione no-profit riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa di noleggio commerciale, ed è per questo che una settimana qui costa una frazione di una crociera con agenzia.
+Prenoti una cuccetta, per cabina: nessun gruppo da formare, nessuna barca da riempire. La settimana ti offre un letto a bordo di un Catana 47, yoga e respirazione ogni mattina, tutti i pasti cucinati a bordo con pesce appena pescato e prodotti delle isole, attrezzatura per lo snorkeling e l'apnea, e una navigazione tranquilla tra gli ancoraggi di San Blas con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è una **quota associativa a Ikigai Sailing ASD**, un'associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. Ecco perché una settimana qui costa una frazione di una crociera con un'agenzia: i tuoi soldi coprono l'esperienza e il funzionamento della barca, non la commissione di un intermediario.
 
-## A chi è rivolto?
+## Perché qui, e non a Bali o in Croazia
 
-A chiunque voglia scambiare il rumore della terraferma con un ritmo più lento e salato: velisti alle prime armi, yogi esperti, viaggiatori solitari e coppie. Il gruppo rimane piccolo, così la pratica rimane personale.
+Le famose rotte di yoga-vela sono il Mediterraneo e il Sud-Est asiatico. Prenotate al completo, affollate, pensate per le foto. San Blas è l'esatto contrario: un territorio autonomo dei Guna dove è vietata la costruzione di edifici in cemento, le lagune rimangono calme e calde tutto l'anno e nella maggior parte dei giorni non vedrai nessun'altra barca a noleggio in acqua. Meno gente. Mare più caldo. Un posto che appartiene ancora a se stesso.
 
-Questo è il capitolo San Blas della nostra pratica annuale: dai un'occhiata alla pagina **dedicata ai ritiri di yoga in barca a vela** in tutto il mondo per scoprire come si svolge il viaggio in barca, oppure vai direttamente alle date della stagione e al contributo.
+## Chi sale a bordo
+
+Principianti e praticanti con vent'anni di esperienza. Viaggiatori solitari, coppie, alcune persone più vicine al burnout di quanto direbbero ad alta voce. Manteniamo il gruppo piccolo di proposito: pratica che si può sentire, non una classe di trenta persone stipate su un pontile.

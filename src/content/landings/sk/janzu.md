@@ -4,7 +4,7 @@ description: >-
   Vodná masáž Janzu v San Blase v Paname – individuálne vodné terapeutické
   sedenia v teplých a pokojných vodách Karibiku na palube katamaránu Catana 47 v
   Guna Yala.
-seoTitle: 'Vodná terapia Janzu v San Blase, Panama | Ikigai'
+seoTitle: 'Vodná terapia Janzu v San Blas, Panama | Ikigai'
 metaDescription: >-
   Vyskúšajte vodnú masáž Janzu v teplej, pokojnej vode v San Blase v Paname.
   Individuálne liečebné sedenia vo vode na palube katamaránu Catana 47 –
@@ -12,47 +12,52 @@ metaDescription: >-
 locale: sk
 heroImage: ~/assets/activities/janzu/Janzu-terapia3-1024x575.avif
 lead: >-
-  Janzu v San Blase v Paname je vodná masáž v ideálnom prostredí: terapeut vás
-  jemne kolíše a unáša v teplej, takmer nehybnej karibskej vode, až kým sa dych
-  nezpomalí a telo sa úplne uvoľní – a to všetko v rámci individuálnej procedúry
-  v pokojnej atmosfére zakotvenej lode Catana 47.
+  Janzu v San Blase v Paname je vodná masáž v prostredí, ktoré na to skutočne
+  potrebuje: v teplej, pokojnej a tichej vode. Terapeut vás nechá plávať,
+  podoprie vám hlavu a pohybuje s vami v pomalých oblúkoch, až kým sa váš dych
+  nezpomalí a vaše telo sa prestane brániť. Individuálne, na zadnej časti lode
+  Catana 47, obklopený palmami zo všetkých strán.
 faq:
   - q: Čo je Janzu?
     a: >-
-      Janzu (tiež známe ako vodná masáž alebo vodná terapia) je jemná technika,
-      pri ktorej vás terapeut nechá plávať, kolíše vás a pohybuje s vami v
-      teplej vode, čím uvoľňuje fyzické a emocionálne napätie a navodzuje hlbokú
-      relaxáciu – je to akási pohybová meditácia v mori.
+      Janzu – vodná telová terapia, príbuzná metódy Watsu – spočíva v tom, že
+      jedna osoba pláva a pomaly pohybuje druhou osobou v teplej vode. Uvoľňuje
+      napätie, ktoré si telo nevšimnute držia, a ponorí vás do hlbokého
+      odpočinku. Je to skôr pohybová meditácia než liečebná procedúra.
   - q: Musím vedieť plávať?
     a: >-
-      Nie. Máte na sebe plávacie pomôcky a po celý čas vás niečo drží; mnohí
-      ľudia majú zavreté oči a jednoducho dýchajú. Je to vhodné pre tých, ktorí
-      nevedia plávať, aj pre hostí, ktorí sa vo vode cítia nesvoji.
+      Nie. Máte na sebe plávacie pomôcky a počas celého kurzu vás podporujeme.
+      Ľudia, ktorí nevedia plávať, a tí, ktorí sú vo vode nervózni, si zvyčajne
+      zvyknú najrýchlejšie.
   - q: Prečo práve San Blas pre Janzu?
     a: >-
-      Lagúny San Blas sú teplé (okolo 28 °C), plytké a takmer bez vln – práve
-      takéto výnimočné podmienky Janzu potrebuje. Z katamaránu zakotvíme presne
-      tam, kde je voda najpokojnejšia.
+      Na Janzu potrebujete teplo, pokoj a ticho – a lagúny San Blas vám ponúkajú
+      všetky tri naraz: teplotu okolo 28 °C, plytčinu a väčšinu dní ani náznak
+      zvuku motora. Zakotvíme tam, kde je voda najpokojnejšia, a vstúpime do
+      nej.
   - q: Ako si môžem rezervovať termín?
     a: >-
-      Janzu je súčasťou programu pobytu na lodi Ikigai v San Blase. Napíšte nám
-      na WhatsApp alebo si pozrite stránku so sezónnym programom; váš príspevok
-      je členským príspevkom do nášho neziskového združenia ASD.
+      Janzu je neoddeliteľnou súčasťou života na palube lode Ikigai v San Blase.
+      Napíšte nám na WhatsApp alebo si pozrite stránku so sezónnym programom;
+      cena predstavuje členský príspevok do nášho neziskového združenia ASD, nie
+      účet za wellness služby.
 translated: deepl
-sourceHash: 5569cfd16a70e3cb
+sourceHash: 42704ac5009e47cf
 needsReview: true
 ---
 
-## Čo je vodná terapia Janzu?
+## Čo je Janzu a čo nie je
 
-**Janzu** — forma **vodnej telesnej terapie** príbuzná Watsu — je individuálna prax, pri ktorej vás vyškolený terapeut nesie a pomaly pohybuje v teplej vode. Telo, bez záťaže a podoprené, začína uvoľňovať napätie, ktoré bežne drží; dych sa prehlbuje, nervový systém sa upokojuje a mnohí ľudia to opisujú ako najhlbší odpočinok, aký kedy zažili. Je to skôr pohybová meditácia ako liečba. Luca sa naučil techniku prvého stupňa priamo v tradícii práce Juana Villatora Garzu a poskytuje sedenia na palube **Ikigai**, nášho **katamaránu Catana 47**.
+Janzu – **vodná telová terapia**, príbuzná Watsu – je technika, pri ktorej jedna osoba pohybuje druhou v teplej vode. Plávate, pričom ste po celý čas podopieraní, zvyčajne so zatvorenými očami. Napätie, ktoré telo držalo celé roky, sa začína uvoľňovať; nervový systém spomalí. Ľudia sa vynárajú na hladinu a hovoria, že je to najhlbší odpočinok, aký si pamätajú. Nie je to masáž. Nie je to lekcia plávania. Luca sa naučil prvý stupeň v rámci tradície práce Juana Villatora Garzu a poskytuje sedenia z **Ikigai**, našej **lode Catana 47**.
 
-## Prečo je San Blas ideálnym miestom pre túto techniku
+## Prečo voda v San Blas rozhoduje o úspechu alebo neúspechu
 
-Janzu potrebuje teplú, pokojnú a tichú vodu – a **San Blas (Guna Yala) v Paname** má presne to: chránené lagúny s teplotou okolo 28 °C, plytké pieskové lavice a takmer žiadny lodný pohyb ani hluk. Z katamaránu jednoducho zakotvíme tam, kde je voda najpokojnejšia, a vstúpime do vody. Sedenie sa tu odohráva s horizontom palmových ostrovov vo všetkých smeroch a ničím, čo by ho rušilo – podmienky, ktoré bazén ani rušná pláž nemôžu ponúknuť. Váš príspevok je **členským príspevkom do Ikigai Sailing ASD**, neziskovej organizácie uznanej CONI, nie komerčným poplatkom za kúpele; Janzu je začlenené do širšieho rytmu meditácie, dychových cvičení a freedivingu na palube.
+Janzu potrebuje tri veci naraz: teplo, pokoj a ticho. Bazén vám poskytne teplo a pokoj, ale hučí filtry a ozveny sa odrážajú od dlaždíc. Pláž je málokedy pokojná. San Blas vám ponúka všetky tri veci naraz – lagúny s teplotou okolo 28 °C, plytké pieskové lavice a väčšinu dní ani jediný motor v dosahu sluchu. Zakotvíme tam, kde je voda najpokojnejšia, a vstúpime do vody po schodíkoch. To, čo platíte, je **členský príspevok do Ikigai Sailing ASD**, neziskovej organizácie uznanej CONI, nie cena za kúpeľné služby – a Janzu je súčasťou širšieho denného rytmu dychových cvičení, meditácie a freedivingu, nikdy nie ako dodatočná služba. Prostredie urobí polovicu práce ešte skôr, ako sa vás dotknú ruky terapeuta.
 
-## Súčasť širšej praxe
+## Nemusíte plávať
 
-Janzu tu zriedka stojí osamote – dopĺňa rannú jogu, dychové cvičenia a freediving, ktoré všetky trénujú rovnaký pokojný vzťah k vode a dychu.
+Máte na sebe plávacie pomôcky. Od začiatku do konca vás niekto drží. Ľudia, ktorí sa najrýchlejšie uvoľnia, sú zvyčajne tí, ktorí prichádzajú s obavami z vody – akonáhle pocítia, že ich nikto nepustí. A nikto ich nepustí.
 
-Toto je kapitola San Blas – pozrite si našu stránku **o** celosvetových **vodných retreatoch zameraných na prácu s telom**, aby ste zistili, ako sa tento program šíri, alebo si skontrolujte termíny a príspevky na túto sezónu.
+## Súčasť niečoho väčšieho
+
+Janzu tu zriedka stojí osamote. Prebieha spolu s rannou jógou, dychovými cvičeniami a freedivingom – všetky tieto aktivity učia rovnaký pokojný vzťah k vode a dychu, len z rôznych uhlov pohľadu.

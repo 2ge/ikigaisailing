@@ -12,49 +12,51 @@ metaDescription: >-
 locale: es
 heroImage: ~/assets/activities/janzu/Janzu-terapia3-1024x575.avif
 lead: >-
-  El Janzu en San Blas, Panamá, es una terapia corporal acuática en su entorno
-  ideal: un terapeuta te acuna y te guía a través de las cálidas y casi
-  inmóviles aguas del Caribe hasta que la respiración se calma y el cuerpo se
-  relaja, todo ello en una sesión individual desde la tranquilidad de un Catana
-  47 fondeado.
+  El Janzu en San Blas, Panamá, es una terapia corporal acuática en el entorno
+  ideal: aguas cálidas, tranquilas y silenciosas. El terapeuta te hace flotar,
+  te sostiene la cabeza y te mueve con lentos movimientos circulares hasta que
+  tu respiración se calma y tu cuerpo deja de resistirse. Una sesión individual,
+  en la popa de una Catana 47, rodeado de islas de palmeras por todos lados.
 faq:
   - q: ¿Qué es el Janzu?
     a: >-
-      El Janzu (también conocido como «trabajo corporal acuático» o «terapia
-      acuática») es una práctica suave en la que un terapeuta te hace flotar, te
-      acuna y te mueve en agua templada, liberando la tensión física y emocional
-      e induciendo una relajación profunda: una especie de meditación en
-      movimiento en el mar.
+      El Janzu —una técnica de trabajo corporal acuático, similar al watsu—
+      consiste en que una persona flota y mueve lentamente a otra a través del
+      agua templada. Alivia la tensión que el cuerpo acumula sin que te des
+      cuenta y te sumerge en un descanso profundo. Se parece más a una
+      meditación en movimiento que a un tratamiento.
   - q: ¿Tengo que saber nadar?
     a: >-
-      No. Llevas un chaleco y estás totalmente sujeto en todo momento; mucha
-      gente mantiene los ojos cerrados y se limita a respirar. Es ideal para
-      quienes no saben nadar y para los que se ponen nerviosos en el agua.
+      No. Llevas flotadores y te ayudan durante toda la sesión. Los que no saben
+      nadar y los que se ponen nerviosos en el agua suelen adaptarse más rápido.
   - q: ¿Por qué San Blas para Janzu?
     a: >-
-      Las lagunas de San Blas son cálidas (alrededor de 28 °C), poco profundas y
-      casi en calma: las condiciones ideales que necesita el Janzu. Desde el
-      catamarán echamos el ancla justo donde el agua está más tranquila.
+      Janzu le gusta el calor, la calma y la tranquilidad, y las lagunas de San
+      Blas te ofrecen las tres cosas a la vez: unos 28 °C, aguas poco profundas
+      y, la mayoría de los días, ni un solo motor a la vista. Echamos el ancla
+      donde el agua está más tranquila y nos metemos en el agua.
   - q: ¿Cómo reservo una sesión?
     a: >-
-      El Janzu se ofrece como parte de la vida a bordo del Ikigai en San Blas.
-      Escríbenos por WhatsApp o consulta la página de la temporada; tu
-      aportación es una cuota de socio para nuestra asociación sin ánimo de
-      lucro.
+      Janzu forma parte de la vida a bordo del Ikigai en San Blas. Escríbenos
+      por WhatsApp o echa un vistazo a la página de la temporada; el coste es
+      una cuota de socio para nuestra asociación sin ánimo de lucro, no una
+      factura de spa.
 translated: deepl
-sourceHash: 5569cfd16a70e3cb
+sourceHash: 42704ac5009e47cf
 ---
 
-## ¿Qué es la terapia acuática Janzu?
+## Qué es el Janzu y qué no es
 
-**Janzu** —una forma de **trabajo corporal acuático** relacionada con el Watsu— es una práctica individual en la que un terapeuta cualificado te hace flotar y te mueve lentamente por el agua caliente. El cuerpo, ingrávido y sostenido, empieza a liberar la tensión que suele acumular; la respiración se hace más profunda, el sistema nervioso se calma y muchas personas lo describen como el descanso más profundo que jamás han sentido. Es más una meditación en movimiento que un tratamiento. Luca aprendió la técnica de primer nivel directamente en la línea de trabajo de Juan Villatoro Garza, y ofrece sesiones a bordo del **Ikigai**, nuestro **catamarán Catana 47**.
+Janzu —**una técnica de trabajo corporal acuático**, prima del Watsu— consiste en que una persona mueva a otra a través del agua templada. Flotas, sostenido en todo momento, normalmente con los ojos cerrados. La tensión que el cuerpo ha estado acumulando durante años empieza a liberarse; el sistema nervioso baja una marcha. La gente sale a la superficie diciendo que es el descanso más profundo que recuerdan. No es un masaje. No es una clase de natación. Luca aprendió el primer nivel dentro del linaje del trabajo de Juan Villatoro Garza, y da sesiones desde **el Ikigai**, nuestro **Catana 47**.
 
-## Por qué San Blas es el lugar perfecto para ello
+## Por qué el agua en San Blas lo hace o lo echa a perder
 
-El Janzu necesita aguas cálidas, tranquilas y en calma, y **San Blas (Guna Yala), en Panamá,** tiene exactamente eso: lagunas protegidas a unos 28 °C, bancos de arena poco profundos y casi ningún tráfico ni ruido de barcos. Desde el catamarán, simplemente echamos el ancla donde el agua está más tranquila y nos metemos en ella. Una sesión aquí se desarrolla con horizontes de islas de palmeras en todas direcciones y sin nada que la interrumpa, unas condiciones que ni una piscina ni una playa concurrida pueden ofrecer. Tu contribución es una **cuota de socio de Ikigai Sailing ASD**, una organización sin ánimo de lucro reconocida por el CONI, no una tarifa de spa comercial; Janzu se integra en el ritmo más amplio de la meditación, los ejercicios de respiración y el buceo libre a bordo.
+El Janzu necesita tres cosas a la vez: calor, calma y silencio. Una piscina te da calor y calma, pero luego zumba con los filtros y los ecos rebotan en los azulejos. Una playa rara vez está en calma. San Blas te ofrece las tres cosas a la vez: lagunas a unos 28 °C, bancos de arena poco profundos y, la mayoría de los días, ni un solo motor a la vista. Fondeamos donde el agua está más tranquila y entramos por las escaleras. Lo que pagas es una **cuota de socio de Ikigai Sailing ASD**, una organización sin ánimo de lucro reconocida por el CONI, no el precio de un spa —y Janzu se integra en el ritmo más amplio del día de ejercicios de respiración, meditación y buceo libre, nunca como un extra añadido a última hora. El entorno ya hace la mitad del trabajo antes de que las manos del terapeuta te toquen.
 
-## Parte de una práctica más amplia
+## No necesitas saber nadar
 
-El Janzu rara vez se practica solo aquí: se combina con yoga matutino, ejercicios de respiración y buceo libre, actividades que entrenan la misma relación serena con el agua y la respiración.
+Llevas flotadores. Te sujetan de principio a fin. Las personas que se relajan más rápido suelen ser las que llegan nerviosas por el agua, una vez que sienten que no se les va a dejar caer. No se les va a dejar caer.
 
-Esta es la edición de San Blas: echa un vistazo a nuestra página **de retiros acuáticos de trabajo corporal** por todo el mundo para ver dónde se celebra, o consulta las fechas de la temporada y la cuota.
+## Parte de algo más grande
+
+El Janzu rara vez se practica solo aquí. Se combina con el yoga matutino, los ejercicios de respiración y el buceo libre, todos ellos enseñando la misma relación tranquila con el agua y la respiración, desde diferentes ángulos.

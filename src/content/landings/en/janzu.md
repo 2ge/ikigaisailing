@@ -5,28 +5,30 @@ seoTitle: "Janzu Water Therapy in San Blas, Panama | Ikigai"
 metaDescription: "Experience Janzu aquatic bodywork in the warm, still water of San Blas, Panama. One-on-one water-healing sessions from a Catana 47 catamaran — a regenerative therapy aboard."
 locale: "en"
 heroImage: "~/assets/activities/janzu/Janzu-terapia3-1024x575.avif"
-lead: "Janzu in San Blas, Panama is aquatic bodywork in its ideal setting: a practitioner cradles and moves you through warm, near-still Caribbean water until breath slows and the body lets go — given one-on-one from the calm of a Catana 47 at anchor."
+lead: "Janzu in San Blas, Panama is aquatic bodywork in the one setting it actually needs: warm, still, silent water. A practitioner floats you, cradles your head, moves you in slow arcs until your breath drops and your body stops holding on. One-on-one, off the back of a Catana 47, palm islands on every side."
 faq:
   - q: "What is Janzu?"
-    a: "Janzu (also called aquatic bodywork or water therapy) is a gentle practice where a practitioner floats, cradles and moves you through warm water, releasing physical and emotional tension and inducing deep relaxation — a kind of moving meditation in the sea."
+    a: "Janzu — aquatic bodywork, a cousin of Watsu — is one person floating and slowly moving another through warm water. It releases the tension the body grips without noticing and drops you into deep rest. Closer to a moving meditation than a treatment."
   - q: "Do I need to be able to swim?"
-    a: "No. You wear floats and are fully supported the whole time; many people keep their eyes closed and simply breathe. It suits non-swimmers and nervous-in-water guests well."
+    a: "No. You wear floats and you're supported the whole session. Non-swimmers and people who get nervous in water usually settle the fastest."
   - q: "Why San Blas for Janzu?"
-    a: "The San Blas lagoons are warm (around 28 °C), shallow and almost still — the rare conditions Janzu actually needs. From the catamaran we anchor exactly where the water is calmest."
+    a: "Janzu needs warm, calm, quiet — and the San Blas lagoons hand you all three at once: about 28 °C, shallow, and most days not an engine within earshot. We anchor where the water's stillest and step in."
   - q: "How do I book a session?"
-    a: "Janzu is offered as part of life aboard Ikigai in San Blas. Tell us on WhatsApp or see the season page; your contribution is a member contribution to our non-profit ASD."
+    a: "Janzu is part of life aboard Ikigai in San Blas. Tell us on WhatsApp or check the season page; the cost is a member contribution to our non-profit ASD, not a spa bill."
 ---
 
-## What is Janzu water therapy?
+## What Janzu is, and what it isn't
 
-**Janzu** — a form of **aquatic bodywork** related to Watsu — is a one-on-one practice in which a trained practitioner floats and slowly moves you through warm water. The body, weightless and supported, begins to release tension it normally holds; breath deepens, the nervous system settles, and many people describe it as the deepest rest they've ever felt. It is less a treatment than a moving meditation. Luca learned the first-level technique directly in the lineage of Juan Villatoro Garza's work, and gives sessions aboard **Ikigai**, our **Catana 47 catamaran**.
+Janzu — **aquatic bodywork**, a cousin of Watsu — is one person moving another through warm water. You float, supported the whole time, eyes usually shut. Tension the body has been gripping for years starts to let go; the nervous system drops a gear. People surface saying it's the deepest rest they can remember. It's not a massage. It's not a swim lesson. Luca learned the first level inside the lineage of Juan Villatoro Garza's work, and gives sessions from **Ikigai**, our **Catana 47**.
 
-## Why San Blas is the perfect place for it
+## Why the water in San Blas makes or breaks it
 
-Janzu needs warm, calm, quiet water — and **San Blas (Guna Yala), Panama** has exactly that: protected lagoons around 28 °C, shallow sandbanks, and almost no boat traffic or noise. From the catamaran we simply anchor where the water is stillest and step in. A session here happens with palm-island horizons in every direction and nothing to interrupt it — conditions a pool or a busy beach can't offer. Your contribution is a **member contribution to Ikigai Sailing ASD**, a CONI-recognised non-profit, not a commercial spa fee; Janzu is woven into the wider rhythm of meditation, breathwork and freediving aboard.
+Janzu needs three things at once: warm, calm, quiet. A pool gives you warm and calm, then hums with filters and bounces echoes off tile. A beach is rarely still. San Blas hands you all three together — lagoons around 28 °C, shallow sandbanks, and most days not a single engine within earshot. We anchor where the water's flattest and walk in off the steps. What you pay is a **member contribution to Ikigai Sailing ASD**, a CONI-recognised non-profit, not a spa price — and Janzu sits inside the day's wider rhythm of breathwork, meditation and freediving, never as a bolted-on extra. The setting does half the work before the practitioner's hands touch you.
 
-## Part of a wider practice
+## You don't need to swim
 
-Janzu rarely stands alone here — it sits alongside morning yoga, breathwork and freediving, all of which train the same calm relationship with water and breath.
+You wear floats. You're held start to finish. The people who let go fastest are usually the ones who arrive nervous about water — once they feel that they won't be dropped. They won't be.
 
-This is the San Blas chapter — see our worldwide **aquatic bodywork retreat** page for how it travels, or check the season's dates and contribution.
+## Part of something larger
+
+Janzu rarely stands alone here. It runs alongside morning yoga, breathwork, and freediving — all of them teaching the same calm relationship with water and breath, from different angles.
