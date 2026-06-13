@@ -1,0 +1,169 @@
+---
+/**
+ * /admin — private control room (Basic-Auth gated by functions/admin/_middleware.ts).
+ * Standalone shell on purpose: NO BaseLayout (avoids LocaleRedirect/hreflang/analytics
+ * and keeps it out of the public i18n surface). noindex + excluded from sitemap/robots.
+ * Extend the `seoPortfolio` / `links` / status arrays below to add more goodies.
+ */
+import '../../styles/global.css';
+
+const updated = '2026-06-13';
+
+const infra = [
+  { label: 'Production', value: 'ikigaisailing.com', href: 'https://ikigaisailing.com/', note: 'Cloudflare Pages · deploys on merge to main' },
+  { label: 'Staging', value: 'ikigai.2pu.net', href: 'https://ikigai.2pu.net/', note: 'same Pages deployment' },
+  { label: 'Dev preview', value: 'dev-ikigai.2pu.net', href: 'https://dev-ikigai.2pu.net/', note: 'live working tree · hot-reload · unpublished' },
+  { label: 'Booking', value: 'PayPal · SANDBOX', href: null, note: '/api/paypal live in test mode — flip to live creds + PAYPAL_ENV=live to go real' },
+];
+
+// SEO keyword portfolio — San Blas leads with freediving / yoga / Janzu / meditation
+// (kitesurf + scuba + spearfishing are world-voyage only, per Guna Yala rules).
+const seoPortfolio = [
+  { lang: 'English',  primary: 'catamaran san blas · yoga freediving',         status: 'live',        note: 'titles+meta shipped (PR #34)' },
+  { lang: 'Italian',  primary: 'catamarano apnea · yoga san blas',             status: 'in progress', note: 'matrix from Drive PDF' },
+  { lang: 'Spanish',  primary: 'retiro apnea yoga · san blas',                 status: 'in progress', note: 'matrix from Drive PDF' },
+  { lang: 'French',   primary: 'retraite yoga apnée catamaran san blas',       status: 'in progress', note: 'matrix from Drive PDF' },
+  { lang: 'Slovak',   primary: 'jóga a freediving katamarán san blas',         status: 'in progress', note: 'KD ~0 — easy page-1' },
+];
+
+const links = [
+  { label: 'GitHub · Pull Requests', href: 'https://github.com/2ge/ikigaisailing/pulls?q=is%3Apr' },
+  { label: 'GitHub · Actions (deploys)', href: 'https://github.com/2ge/ikigaisailing/actions' },
+  { label: 'Cloudflare Pages dashboard', href: 'https://dash.cloudflare.com/?to=/:account/pages/view/ikigai-sailing' },
+  { label: 'Drive · Analisi attività SEO', href: 'https://drive.google.com/drive/folders/1wYKrWKTJax404E8jN8E3F0TW0OqEqZkw' },
+  { label: 'WhatsApp business line', href: 'https://wa.me/393313292629' },
+];
+
+const statusColor: Record<string, string> = {
+  live: 'text-emerald-400 border-emerald-500/40 bg-emerald-500/10',
+  'in progress': 'text-amber-300 border-amber-500/40 bg-amber-500/10',
+  todo: 'text-slate-400 border-slate-500/40 bg-slate-500/10',
+};
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>Ikigai · Control Room</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style is:global>
+      :root { color-scheme: dark; }
+      body { background: #060a0b; }
+      .glow { text-shadow: 0 0 12px rgba(16,185,129,.45); }
+      .card { background: linear-gradient(180deg, rgba(255,255,255,.035), rgba(255,255,255,.01)); }
+    </style>
+  </head>
+  <body class="min-h-screen font-sans text-slate-200 antialiased selection:bg-emerald-500/30">
+    <div class="pointer-events-none fixed inset-0 -z-10 opacity-[0.07]"
+         style="background-image:radial-gradient(circle at 1px 1px, #34d399 1px, transparent 0);background-size:22px 22px"></div>
+
+    <main class="mx-auto max-w-5xl px-5 py-10">
+      <header class="mb-10 flex flex-wrap items-end justify-between gap-4 border-b border-emerald-500/20 pb-6">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-[0.3em] text-emerald-400/80">private · neo</p>
+          <h1 class="mt-1 font-mono text-3xl font-semibold text-emerald-300 glow">Ikigai · Control Room</h1>
+          <p class="mt-2 text-sm text-slate-400">Not for public eyes. Updated {updated}.</p>
+        </div>
+        <a href="https://dev-ikigai.2pu.net/" class="rounded-full border border-emerald-500/40 px-4 py-2 font-mono text-xs text-emerald-300 transition hover:bg-emerald-500/10">open dev preview →</a>
+      </header>
+
+      <!-- infra / status -->
+      <section class="mb-10">
+        <h2 class="mb-3 font-mono text-xs uppercase tracking-[0.25em] text-slate-500">System</h2>
+        <div class="grid gap-3 sm:grid-cols-2">
+          {infra.map((i) => (
+            <div class="card rounded-xl border border-white/10 p-4">
+              <p class="font-mono text-[0.65rem] uppercase tracking-widest text-slate-500">{i.label}</p>
+              {i.href
+                ? <a href={i.href} target="_blank" rel="noopener" class="mt-1 block font-mono text-lg text-emerald-300 hover:underline">{i.value}</a>
+                : <p class="mt-1 font-mono text-lg text-amber-300">{i.value}</p>}
+              <p class="mt-1 text-xs leading-relaxed text-slate-400">{i.note}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- SEO portfolio -->
+      <section class="mb-10">
+        <h2 class="mb-3 font-mono text-xs uppercase tracking-[0.25em] text-slate-500">SEO keyword portfolio</h2>
+        <div class="card overflow-hidden rounded-xl border border-white/10">
+          <table class="w-full text-left text-sm">
+            <thead class="bg-white/[0.03] font-mono text-[0.65rem] uppercase tracking-widest text-slate-500">
+              <tr><th class="px-4 py-3">Lang</th><th class="px-4 py-3">Primary target</th><th class="px-4 py-3">Status</th></tr>
+            </thead>
+            <tbody class="divide-y divide-white/5">
+              {seoPortfolio.map((r) => (
+                <tr>
+                  <td class="px-4 py-3 font-medium text-slate-200">{r.lang}</td>
+                  <td class="px-4 py-3 font-mono text-xs text-slate-300">{r.primary}<span class="block text-[0.65rem] text-slate-500">{r.note}</span></td>
+                  <td class="px-4 py-3"><span class={`inline-block rounded-full border px-2.5 py-0.5 font-mono text-[0.65rem] ${statusColor[r.status]}`}>{r.status}</span></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- live GitHub activity -->
+      <section class="mb-10">
+        <h2 class="mb-3 font-mono text-xs uppercase tracking-[0.25em] text-slate-500">Recent activity · github</h2>
+        <div class="grid gap-4 md:grid-cols-2">
+          <div class="card rounded-xl border border-white/10 p-4">
+            <p class="mb-3 font-mono text-[0.65rem] uppercase tracking-widest text-slate-500">Pull requests</p>
+            <ol id="prs" class="space-y-2 text-sm text-slate-400"><li class="animate-pulse text-slate-600">loading…</li></ol>
+          </div>
+          <div class="card rounded-xl border border-white/10 p-4">
+            <p class="mb-3 font-mono text-[0.65rem] uppercase tracking-widest text-slate-500">Commits → main</p>
+            <ol id="commits" class="space-y-2 text-sm text-slate-400"><li class="animate-pulse text-slate-600">loading…</li></ol>
+          </div>
+        </div>
+      </section>
+
+      <!-- quick links -->
+      <section class="mb-12">
+        <h2 class="mb-3 font-mono text-xs uppercase tracking-[0.25em] text-slate-500">Quick links</h2>
+        <div class="flex flex-wrap gap-2">
+          {links.map((l) => (
+            <a href={l.href} target="_blank" rel="noopener"
+               class="rounded-lg border border-white/10 bg-white/[0.02] px-3 py-2 font-mono text-xs text-slate-300 transition hover:border-emerald-500/40 hover:text-emerald-300">{l.label} ↗</a>
+          ))}
+        </div>
+      </section>
+
+      <footer class="border-t border-white/5 pt-5 font-mono text-[0.65rem] text-slate-600">
+        Ikigai Sailing ASD · control room · access logged at the edge · there is no spoon.
+      </footer>
+    </main>
+
+    <script is:inline>
+      const REPO = '2ge/ikigaisailing';
+      const ago = (d) => {
+        const s = (Date.now() - new Date(d).getTime()) / 1000;
+        const u = [['d',86400],['h',3600],['m',60]];
+        for (const [k, v] of u) if (s >= v) return Math.floor(s / v) + k + ' ago';
+        return 'just now';
+      };
+      const esc = (s) => (s || '').replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+      async function load(path, el, render) {
+        try {
+          const r = await fetch('https://api.github.com/repos/' + REPO + path, { headers: { Accept: 'application/vnd.github+json' } });
+          if (!r.ok) throw new Error(r.status);
+          const rows = (await r.json()).map(render).join('');
+          document.getElementById(el).innerHTML = rows || '<li class="text-slate-600">none</li>';
+        } catch (e) {
+          document.getElementById(el).innerHTML = '<li class="text-slate-600">unavailable (' + e.message + ')</li>';
+        }
+      }
+      load('/pulls?state=all&per_page=8&sort=updated&direction=desc', 'prs', (p) =>
+        '<li><a class="text-emerald-400/90 hover:underline" href="' + p.html_url + '" target="_blank" rel="noopener">#' + p.number + '</a> ' +
+        '<span class="text-slate-300">' + esc(p.title) + '</span> ' +
+        '<span class="text-[0.65rem] text-slate-600">· ' + (p.merged_at ? 'merged' : p.state) + ' · ' + ago(p.updated_at) + '</span></li>');
+      load('/commits?per_page=8', 'commits', (c) =>
+        '<li><span class="font-mono text-[0.65rem] text-slate-600">' + c.sha.slice(0, 7) + '</span> ' +
+        '<span class="text-slate-300">' + esc((c.commit.message || '').split('\n')[0]).slice(0, 72) + '</span> ' +
+        '<span class="text-[0.65rem] text-slate-600">· ' + ago(c.commit.author.date) + '</span></li>');
+    </script>
+  </body>
+</html>
