@@ -1,0 +1,97 @@
+---
+/**
+ * /admin/stats — live page inspector. Basic-Auth gated (functions/admin/_middleware.ts).
+ * Opening this page flips localStorage.ikigai_debug='1', which wakes the inert DebugBeacon
+ * on every site page (same hostname). Browse the site in another tab → this panel updates
+ * with that page's SEO + performance diagnostics, synced via BroadcastChannel. No backend.
+ */
+import '../../styles/global.css';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>Ikigai · Live Inspector</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style is:global>:root{color-scheme:dark} body{background:#060a0b}</style>
+  </head>
+  <body class="min-h-screen font-sans text-slate-200 antialiased">
+    <main class="mx-auto max-w-3xl px-5 py-8">
+      <header class="mb-5 flex items-center justify-between border-b border-emerald-500/20 pb-4">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-[0.3em] text-emerald-400/80">/admin · live inspector</p>
+          <h1 class="mt-1 font-mono text-2xl font-semibold text-emerald-300">Page X-ray</h1>
+        </div>
+        <div class="flex items-center gap-3">
+          <span id="dot" class="inline-flex items-center gap-2 font-mono text-xs text-amber-300"><span class="h-2 w-2 rounded-full bg-amber-400"></span>waiting</span>
+          <a href="/admin/" class="font-mono text-xs text-slate-400 hover:text-emerald-300">← admin</a>
+        </div>
+      </header>
+
+      <p class="mb-5 rounded-lg border border-white/10 bg-white/[0.02] p-3 text-sm text-slate-400">
+        Debug mode <b class="text-emerald-300">ON</b> for this browser. Open the site in another tab
+        <b>on the same hostname</b> (e.g. this one) and browse — stats appear here live.
+        <button id="off" class="ml-2 rounded border border-white/15 px-2 py-0.5 font-mono text-xs text-slate-300 hover:border-amber-500/50">turn off</button>
+      </p>
+
+      <div id="panel" class="text-slate-500">No page yet. Go browse. 🛰️</div>
+    </main>
+
+    <script is:inline>
+      try { localStorage.setItem('ikigai_debug', '1'); } catch {}
+      const panel = document.getElementById('panel');
+      const dot = document.getElementById('dot');
+      document.getElementById('off').onclick = () => { try { localStorage.removeItem('ikigai_debug'); } catch {} dot.innerHTML = '<span class="h-2 w-2 rounded-full bg-slate-500"></span>off'; };
+
+      const esc = (s) => (s || '').replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+      const ms = (n) => n ? Math.round(n) + 'ms' : '—';
+      const judge = (ok, warn) => ok ? 'text-emerald-400' : (warn ? 'text-amber-300' : 'text-rose-400');
+      function row(label, value, cls = 'text-slate-200', hint = '') {
+        return `<div class="flex items-baseline justify-between gap-4 border-b border-white/5 py-2">
+          <span class="font-mono text-[0.7rem] uppercase tracking-wider text-slate-500">${label}</span>
+          <span class="text-right text-sm ${cls}">${value}${hint ? `<span class="ml-2 font-mono text-[0.65rem] text-slate-600">${hint}</span>` : ''}</span></div>`;
+      }
+      function card(title, body) {
+        return `<section class="mb-5 rounded-xl border border-white/10 bg-white/[0.02] p-4">
+          <h2 class="mb-2 font-mono text-[0.7rem] uppercase tracking-[0.2em] text-emerald-400/70">${title}</h2>${body}</section>`;
+      }
+
+      function render(d) {
+        dot.innerHTML = '<span class="h-2 w-2 rounded-full bg-emerald-400"></span>live · ' + new Date(d.t).toLocaleTimeString();
+        const tl = d.title.length, dl = d.desc.length, h1n = d.h1.length;
+        const seo = card('SEO',
+          row('path', `<span class="font-mono">${esc(d.path)}</span>`, 'text-emerald-300') +
+          row('title', esc(d.title), judge(tl >= 15 && tl <= 60, tl <= 65), tl + ' ch') +
+          row('meta description', esc(d.desc) || '— none —', judge(dl >= 120 && dl <= 160, dl > 0), dl + ' ch') +
+          row('H1', h1n === 1 ? esc(d.h1[0]) : (h1n + ' H1s'), judge(h1n === 1, false), h1n === 1 ? '' : '⚠') +
+          row('H2 count', d.h2, 'text-slate-200') +
+          row('canonical', d.canonical ? '✓' : '— missing —', judge(!!d.canonical, false)) +
+          row('robots', d.robots || 'index (default)', d.robots.includes('noindex') ? 'text-amber-300' : 'text-slate-200') +
+          row('hreflang alts', d.hreflang, judge(d.hreflang >= 5, d.hreflang > 0)) +
+          row('lang', d.lang, 'text-slate-200'));
+        const content = card('Content & links',
+          row('words', d.words, judge(d.words >= 300, d.words >= 120)) +
+          row('links', `${d.internal} internal · ${d.external} external`, 'text-slate-200') +
+          row('images', `${d.images}${d.noalt ? ` · ${d.noalt} missing alt` : ''}`, judge(d.noalt === 0, false)) +
+          row('og:image', d.ogImage ? '✓' : '— none —', judge(!!d.ogImage, false)));
+        const perf = card('Performance',
+          row('LCP', ms(d.lcp), judge(d.lcp && d.lcp < 2500, d.lcp && d.lcp < 4000)) +
+          row('TTFB', ms(d.ttfb), judge(d.ttfb < 800, d.ttfb < 1800)) +
+          row('DOMContentLoaded', ms(d.dcl), 'text-slate-200') +
+          row('load', ms(d.load), 'text-slate-200') +
+          row('transfer', d.transfer ? (d.transfer / 1024).toFixed(0) + ' KB' : '—', 'text-slate-200'));
+        panel.className = '';
+        panel.innerHTML = seo + content + perf;
+      }
+
+      try {
+        const ch = new BroadcastChannel('ikigai_debug');
+        ch.onmessage = (e) => render(e.data);
+      } catch {
+        panel.innerHTML = 'BroadcastChannel unavailable in this browser.';
+      }
+    </script>
+  </body>
+</html>

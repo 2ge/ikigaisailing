@@ -1,0 +1,58 @@
+---
+/**
+ * Inert on the public site. Activates ONLY when localStorage.ikigai_debug === '1'
+ * (set when you open /admin/stats). When active, it broadcasts this page's SEO +
+ * performance diagnostics to the /admin/stats tab over a same-origin BroadcastChannel.
+ * No network calls, no cost, zero effect for normal visitors. Re-runs on View-Transition
+ * navigations (astro:page-load). Both tabs must share the same hostname.
+ */
+---
+<script is:inline>
+  (() => {
+    if (typeof BroadcastChannel === 'undefined') return;
+    const active = () => { try { return localStorage.getItem('ikigai_debug') === '1'; } catch { return false; } };
+    let ch = null, lcp = 0;
+    const chan = () => (ch ||= new BroadcastChannel('ikigai_debug'));
+
+    function collect() {
+      const q = (s) => document.querySelector(s);
+      const links = [...document.querySelectorAll('a[href]')];
+      const host = location.host;
+      const internal = links.filter((a) => { try { return new URL(a.href, location.href).host === host; } catch { return false; } }).length;
+      const imgs = [...document.querySelectorAll('img')];
+      const nav = performance.getEntriesByType('navigation')[0] || {};
+      const text = (document.body?.innerText || '').trim();
+      return {
+        t: Date.now(),
+        path: location.pathname,
+        lang: document.documentElement.lang,
+        title: document.title,
+        desc: q('meta[name="description"]')?.content || '',
+        canonical: q('link[rel="canonical"]')?.href || '',
+        robots: q('meta[name="robots"]')?.content || '',
+        ogImage: q('meta[property="og:image"]')?.content || '',
+        h1: [...document.querySelectorAll('h1')].map((h) => h.textContent.trim()),
+        h2: document.querySelectorAll('h2').length,
+        words: text ? text.split(/\s+/).length : 0,
+        links: links.length, internal, external: links.length - internal,
+        images: imgs.length, noalt: imgs.filter((i) => !i.getAttribute('alt')).length,
+        lcp, ttfb: Math.round(nav.responseStart || 0),
+        dcl: Math.round(nav.domContentLoadedEventEnd || 0),
+        load: Math.round(nav.loadEventEnd || 0),
+        transfer: nav.transferSize || 0,
+        hreflang: document.querySelectorAll('link[rel="alternate"][hreflang]').length,
+      };
+    }
+    const send = () => { if (active()) try { chan().postMessage(collect()); } catch {} };
+
+    try {
+      new PerformanceObserver((l) => { const e = l.getEntries(); lcp = Math.round(e[e.length - 1].startTime); send(); })
+        .observe({ type: 'largest-contentful-paint', buffered: true });
+    } catch {}
+
+    const boot = () => { if (!active()) return; send(); setTimeout(send, 1500); };
+    document.addEventListener('astro:page-load', () => { lcp = 0; boot(); });
+    if (document.readyState !== 'loading') boot();
+    else document.addEventListener('DOMContentLoaded', boot);
+  })();
+</script>
