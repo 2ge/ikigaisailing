@@ -13,6 +13,9 @@
     "translate": "tsx scripts/translate.ts",
     "prebuild": "tsx scripts/check-routes.ts && tsx scripts/gen-google-reviews.ts && tsx scripts/gen-trustpilot.ts && tsx scripts/gen-knowledge.ts && tsx scripts/gen-redirects.ts && tsx scripts/gen-llms.ts",
     "concierge:report": "tsx scripts/concierge-report.ts",
+    "img:index": "tsx scripts/imgindex/imgindex.ts index",
+    "img:query": "tsx scripts/imgindex/imgindex.ts query",
+    "img:stats": "tsx scripts/imgindex/imgindex.ts stats",
     "test": "playwright test"
   },
   "dependencies": {
