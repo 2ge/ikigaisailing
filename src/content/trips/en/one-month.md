@@ -9,7 +9,7 @@ currency: "EUR"
 duration: "1 month"
 location: "San Blas, Panama"
 membersOnly: true
-heroImage: "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+heroImage: "~/assets/trips/10-days-on-board/IMG_3237.webp"
 order: 3
 oldUrls:
   - "/prodotto/one-month/"

@@ -9,7 +9,7 @@ currency: "EUR"
 duration: "flexible"
 location: "San Blas, Panama"
 membersOnly: false
-heroImage: "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+heroImage: "~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp"
 gallery:
   - "~/assets/trips/ikigai-experience/IMG_0937-scaled.jpg"
   - "~/assets/trips/ikigai-experience/catana-47-e1737790771595.jpg"
