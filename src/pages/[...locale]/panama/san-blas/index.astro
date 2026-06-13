@@ -1,0 +1,15 @@
+---
+/** /panama/san-blas/ pillar route (+ locale prefix). Content: landings/<locale>/pillar.md. */
+import { getCollection } from 'astro:content';
+import { LOCALES, type Loc } from '../../../../i18n/segments';
+import { slugOf, localeOf } from '../../../../lib/content';
+import PillarView from '../../../../views/PillarView.astro';
+
+export async function getStaticPaths() {
+  const have = new Set((await getCollection('landings')).filter((e) => slugOf(e) === 'pillar').map((e) => localeOf(e) as Loc));
+  const locs = have.has('en') ? [...LOCALES] : [...have];
+  return locs.map((locale) => ({ params: { locale: locale === 'en' ? undefined : locale }, props: { locale } }));
+}
+const { locale } = Astro.props;
+---
+<PillarView locale={locale} />
