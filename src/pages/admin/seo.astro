@@ -1,0 +1,111 @@
+---
+/**
+ * /admin/seo — the SEO optimisation matrix. Basic-Auth gated. Build-time: every targeted
+ * page (src/data/seoTargets.ts) is scored against its per-locale keyword across all 5
+ * locales, with the specific fixes. Standalone shell (no public i18n surface).
+ */
+import '../../styles/global.css';
+import { getCollection } from 'astro:content';
+import { SEO_TARGETS } from '../../data/seoTargets';
+import { scoreSeo } from '../../lib/seoScore';
+import { locales } from '../../i18n/ui';
+
+const cols: Record<string, any[]> = {
+  activities: await getCollection('activities'),
+  trips: await getCollection('trips'),
+  pages: await getCollection('pages'),
+};
+const strip = (md: string) => (md || '')
+  .replace(/```[\s\S]*?```/g, ' ').replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+  .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/<[^>]+>/g, ' ').replace(/[#>*_`~|-]/g, ' ');
+
+const rows = SEO_TARGETS.map((tgt) => {
+  const list = cols[tgt.collection] || [];
+  const perLocale = locales.map((loc) => {
+    const e = list.find((x) => x.id === `${loc}/${tgt.slug}`);
+    const kw = (tgt.kw as any)[loc] ?? tgt.kw.en;
+    if (!e) return { loc, kw, score: 0, checks: [] as any[], missing: true };
+    const d = e.data;
+    const title = d.seoTitle ?? (tgt.collection === 'activities' ? `${d.title} — Ikigai Sailing` : d.title);
+    const meta = d.metaDescription ?? d.description ?? d.summary ?? '';
+    return { loc, kw, missing: false, ...scoreSeo({ title, meta, h1: d.title, body: strip(e.body || '') }, kw) };
+  });
+  const avg = Math.round(perLocale.reduce((s, x) => s + x.score, 0) / perLocale.length);
+  return { tgt, perLocale, avg };
+}).sort((a, b) => a.avg - b.avg);
+
+const overall = Math.round(rows.reduce((s, r) => s + r.avg, 0) / rows.length);
+const tone = (n: number) => n >= 80 ? 'text-emerald-400 border-emerald-500/40 bg-emerald-500/10'
+  : n >= 60 ? 'text-amber-300 border-amber-500/40 bg-amber-500/10' : 'text-rose-400 border-rose-500/40 bg-rose-500/10';
+const fixesFor = (pl: any) => pl.missing ? ['no content file for this locale']
+  : pl.checks.filter((c: any) => !c.ok).slice(0, 4).map((c: any) => `${c.label} — ${c.tip}`);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>Ikigai · SEO Matrix</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style is:global>:root{color-scheme:dark} body{background:#060a0b}</style>
+  </head>
+  <body class="min-h-screen font-sans text-slate-200 antialiased">
+    <main class="mx-auto max-w-4xl px-5 py-8">
+      <header class="mb-6 flex flex-wrap items-end justify-between gap-3 border-b border-emerald-500/20 pb-4">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-[0.3em] text-emerald-400/80">/admin · seo matrix</p>
+          <h1 class="mt-1 font-mono text-2xl font-semibold text-emerald-300">Keyword optimisation</h1>
+          <p class="mt-1 text-sm text-slate-400">{rows.length} pages × {locales.length} locales · scored at build</p>
+        </div>
+        <div class="text-right">
+          <div class={`inline-block rounded-xl border px-4 py-2 font-mono text-2xl ${tone(overall)}`}>{overall}%</div>
+          <p class="mt-1 font-mono text-[0.65rem] uppercase tracking-widest text-slate-500">site average</p>
+          <a href="/admin/" class="mt-2 block font-mono text-xs text-slate-400 hover:text-emerald-300">← admin</a>
+        </div>
+      </header>
+
+      <p class="mb-5 rounded-lg border border-white/10 bg-white/[0.02] p-3 text-xs leading-relaxed text-slate-400">
+        Score = keyword coverage in title/meta/H1/body (token-based) + length & depth hygiene. Sorted worst-first.
+        EN is usually strong; IT/ES/FR/SK lag where the keyword is only a literal translation of the EN one rather
+        than the locale's real search term — those are the rollout targets.
+      </p>
+
+      <div class="space-y-3">
+        {rows.map((r) => (
+          <details class="card rounded-xl border border-white/10 bg-white/[0.02] open:bg-white/[0.04]">
+            <summary class="flex cursor-pointer flex-wrap items-center justify-between gap-3 px-4 py-3">
+              <div class="min-w-0">
+                <span class="font-mono text-sm text-emerald-300">{r.tgt.path}</span>
+                <span class="ml-2 font-mono text-xs text-slate-500">“{r.tgt.kw.en}”</span>
+              </div>
+              <div class="flex items-center gap-1.5">
+                {r.perLocale.map((pl) => (
+                  <span class={`w-12 rounded border px-1.5 py-0.5 text-center font-mono text-[0.7rem] ${tone(pl.score)}`}
+                    title={`${pl.loc}: ${pl.kw}`}>{pl.loc} {pl.score}</span>
+                ))}
+              </div>
+            </summary>
+            <div class="space-y-2 border-t border-white/5 px-4 py-3">
+              {r.perLocale.map((pl) => (
+                <div class="text-sm">
+                  <span class={`font-mono text-xs ${tone(pl.score).split(' ')[0]}`}>{pl.loc.toUpperCase()} · {pl.score}%</span>
+                  <span class="ml-2 font-mono text-[0.7rem] text-slate-500">target: {pl.kw}</span>
+                  {fixesFor(pl).length > 0 && (
+                    <ul class="ml-4 mt-1 list-disc text-xs text-slate-400">
+                      {fixesFor(pl).map((f: string) => <li>{f}</li>)}
+                    </ul>
+                  )}
+                </div>
+              ))}
+            </div>
+          </details>
+        ))}
+      </div>
+
+      <footer class="mt-8 border-t border-white/5 pt-4 font-mono text-[0.65rem] text-slate-600">
+        targets: src/data/seoTargets.ts · scorer: src/lib/seoScore.ts · rebuilds every deploy
+      </footer>
+    </main>
+  </body>
+</html>
