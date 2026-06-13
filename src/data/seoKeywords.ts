@@ -46,12 +46,15 @@ export const KEYWORDS: Keyword[] = [
     fr: { primary: "croisière apnée", spokes: ['voilier et apnée', "stage apnée en bateau"] },
     sk: { primary: 'freediving plavba', spokes: ['apnea na lodi'] },
   } },
+  // Janzu — we ALREADY rank for this niche (GSC: janzu #9.9/344, "janzu near me" #10.4,
+  // "what is janzu" #10.4, "janzu water therapy" #20.9, IT "terapia janzu" #11.5). Keep it as
+  // the primary and stack adjacent terms as spokes — double down on a winning, low-comp asset.
   { id: 'janzu-ww', set: 'global', page: { collection: 'activities', slug: 'janzu' }, loc: {
-    en: { primary: 'aquatic bodywork retreat', vol: 110, kd: 'Low', spokes: ['watsu retreat', 'water healing retreat', 'janzu retreat', 'aquatic bodywork training', 'aquatic therapy retreat'] },
-    it: { primary: 'ritiro watsu', spokes: ['terapia acquatica ritiro', 'bodywork acquatico'] },
-    es: { primary: 'retiro watsu', spokes: ['terapia acuatica retiro', 'bodywork acuatico'] },
-    fr: { primary: 'retraite watsu', spokes: ['thérapie aquatique retraite'] },
-    sk: { primary: 'watsu retreat', spokes: ['vodna terapia retreat'] },
+    en: { primary: 'janzu water therapy retreat', vol: 390, kd: 'Extremely Low', spokes: ['janzu water therapy', 'what is janzu', 'janzu near me', 'water healing retreat', 'aquatic bodywork retreat', 'watsu retreat'] },
+    it: { primary: 'terapia janzu', vol: 70, kd: 'Extremely Low', spokes: ['cos\'è il janzu', 'terapia acquatica watsu', 'guarigione con l\'acqua', 'ritiro janzu'] },
+    es: { primary: 'terapia janzu', vol: 90, kd: 'Low', spokes: ['que es janzu', 'terapia acuatica watsu', 'sanacion con agua', 'retiro janzu'] },
+    fr: { primary: 'thérapie janzu', kd: 'Extremely Low', spokes: ['qu\'est-ce que le janzu', 'watsu thérapie aquatique', 'guérison par l\'eau'] },
+    sk: { primary: 'janzu terapia', kd: 'Extremely Low (0)', spokes: ['watsu terapia', 'watsu slovensko', 'liecenie vodou'] },
   } },
   { id: 'meditation-ww', set: 'global', page: { collection: 'activities', slug: 'meditation' }, loc: {
     en: { primary: 'mindfulness sailing retreat', vol: 90, kd: 'Low', spokes: ['breathwork retreat', 'digital detox sailing', 'mindful sailing', 'meditation sailing retreat', 'wellness retreat catamaran'] },
