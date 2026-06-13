@@ -53,12 +53,15 @@ export function contentFiles(collection?: string): ContentFile[] {
 
 /** Built HTML pages with their site-relative URL path (e.g. "/it/trips/x/"). */
 export function builtPages(): { file: string; url: string; html: string }[] {
-  return walk(DIST, 'index.html').map((file) => {
-    let url = '/' + relative(DIST, file).replace(/index\.html$/, '');
-    url = url.replace(/\/+$/, '/'); // ensure trailing slash, collapse
-    if (url === '/') url = '/';
-    return { file, url, html: readFileSync(file, 'utf8') };
-  });
+  return walk(DIST, 'index.html')
+    .map((file) => {
+      let url = '/' + relative(DIST, file).replace(/index\.html$/, '');
+      url = url.replace(/\/+$/, '/'); // ensure trailing slash, collapse
+      if (url === '/') url = '/';
+      return { file, url, html: readFileSync(file, 'utf8') };
+    })
+    // /admin is a private, Basic-Auth-gated tool — exempt from public-page SEO asserts.
+    .filter((p) => !p.url.startsWith('/admin'));
 }
 
 /** Extract every <script type="application/ld+json"> block, parsed. */
