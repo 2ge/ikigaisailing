@@ -3,6 +3,11 @@ title: Traversée de l'Océan Pacifique
 description: >-
   Traversée du Pacifique : rejoins-nous pour une aventure unique à travers
   l'océan Pacifique ! 4 000 milles marins, du Panama aux îles Marquises
+seoTitle: 'L''équipage de la traversée du Pacifique : du Panama à la Polynésie | Ikigai'
+metaDescription: >-
+  Rejoins-nous en tant que membre d'équipage pour notre traversée du Pacifique
+  en 2027 — environ 4 000 milles marins du Panama aux Marquises à bord d'un
+  Catana 47, sous la houlette d'un skipper titulaire du brevet RYA Yachtmaster.
 locale: fr
 price: 2000
 currency: EUR
@@ -15,7 +20,7 @@ gallery:
     ~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp
 order: 4
 translated: deepl
-sourceHash: fd5d67cbf7e17e3d
+sourceHash: edc0d4d36db5f24d
 ---
 
 ![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -42,7 +47,7 @@ Tu n’as pas besoin de compétences avancées en voile — juste de la capacit�
 
 \*\*Pourquoi le faire ? Pour ressentir véritablement ce que signifie le temps, lorsqu’il n’est plus dicté par les notifications mais par les vagues. Pour contempler le ciel nocturne sans lumière artificielle et trouver ta véritable direction. Pour faire partie de quelque chose de plus grand, de plus réel. Pour vivre l’essence de l’océan — et découvrir la tienne.
 
-\*\*Tu veux traverser le Pacifique avec nous ? [Remplis le formulaire pour rester informé](/fr/contact/) et recevoir tous les détails techniques, financiers et logistiques à l’approche du départ. Les places seront très limitées. La sélection aura lieu en 2026. Mais l’intention commence dès maintenant.
+\*\*Tu veux traverser le Pacifique avec nous ? [Remplis le formulaire pour rester informé](/fr/contact/) et recevoir tous les détails techniques, économiques et logistiques à l’approche du départ. Les places seront très limitées. La sélection aura lieu en 2026. Mais l’intention commence dès maintenant.
 
 **« Ceux qui ont vu la haute mer ne reviennent jamais les mêmes. »**
 
@@ -50,7 +55,7 @@ Tu n’as pas besoin de compétences avancées en voile — juste de la capacit�
 
 **Inclus / Non inclus CE QUI EST INCLUS**
 
--   Un skipper certifié RYA Yacht Master ayant une expérience de la navigation en haute mer
+-   Un skipper certifié RYA Yacht Master ayant une expérience de la navigation en mer
 -   Hébergement pour toute la durée du voyage dans une cabine double partagée à bord de _l’Ikigai_, un Catana 47 (14 m), un catamaran d’expédition océanique conçu pour la navigation au long cours, équipé de :
 -   Double instrumentation électronique
 -   Système d'énergie autonome (panneaux solaires, générateur, hydrogénérateur, onduleur)
@@ -81,12 +86,12 @@ Tu n’as pas besoin de compétences avancées en voile — juste de la capacit�
 
 -   Provisions (achats initiaux et réapprovisionnements)
 -   Gazole et essence
--   Frais de formalités pour le départ du Panama et l'entrée en Polynésie française (ou sur d'autres îles intermédiaires)
+-   Frais de dédouanement pour le départ du Panama et l'entrée en Polynésie française (ou sur d'autres îles intermédiaires)
 -   Traversée du canal de Panama (péage, manutentionnaires, location de cordages/défenses, éventuels frais d'agence)
 -   Frais d'ancrage ou de parcs marins (Galápagos, Gambier, Tuamotu, etc.)
 -   Frais d'amarrage éventuels en marina
--   Abonnements de communication/météo : Iridium GO! / Starlink Ocean, PredictWind, crédits de téléphone satellite
--   Cartes SIM locales dans les ports intermédiaires
+-   Abonnements communication/météo : Iridium GO! / Starlink Ocean, PredictWind, crédits de téléphone satellite
+-   Cartes SIM locales dans les ports d'escale
 -   Visas et permis pour chaque membre d'équipage
 -   Frais de rapatriement ou vols éventuels en cas de débarquement anticipé
 -   Transferts à terre pour les approvisionnements ou les démarches administratives

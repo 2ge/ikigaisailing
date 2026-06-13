@@ -4,6 +4,11 @@ description: >-
   Travesía por el Pacífico: ¡Acompáñanos en una aventura única en la vida a
   través del océano Pacífico! 4.000 millas náuticas desde Panamá hasta las islas
   Marquesas
+seoTitle: 'Tripulación de la travesía del Pacífico: de Panamá a la Polinesia | Ikigai'
+metaDescription: >-
+  Únete a nuestra travesía por el Pacífico de 2027 como tripulante: unas 4000
+  millas náuticas desde Panamá hasta las Marquesas a bordo de un Catana 47,
+  capitaneado por un patrón con título de RYA Yachtmaster.
 locale: es
 price: 2000
 currency: EUR
@@ -16,7 +21,7 @@ gallery:
     ~/assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp
 order: 4
 translated: deepl
-sourceHash: fd5d67cbf7e17e3d
+sourceHash: edc0d4d36db5f24d
 ---
 
 ![Pacific Crossing - Image 2](../../../assets/trips/pacific-crossing/Pacific-crossing-Google-Earth-02-12-2025_08_04_PM.webp)
@@ -33,7 +38,7 @@ sourceHash: fd5d67cbf7e17e3d
 
 En marzo de 2027, _el Ikigai_ zarpará desde las costas de Panamá para cruzar el océano Pacífico. Un viaje épico de más de 30 días de navegación, a través de una de las zonas más remotas y vírgenes del planeta.
 
-\*\*El itinerario **Salida**: finales de febrero de 2027 – Archipiélago de Guna Yala (Panamá) Tras meses en las islas de San Blas, zarparemos hacia el suroeste. Las primeras 1.000 millas nos llevarán a las Galápagos, a las que llegaremos tras unos 10 días en mar abierto. Serán días de viento, olas, luz de luna y silencio. Días de transformación.
+\*\*El itinerario **Salida**: finales de febrero de 2027 – Archipiélago de Guna Yala (Panamá) Tras pasar meses en las islas de San Blas, zarparemos hacia el suroeste. Las primeras 1.000 millas nos llevarán a las Galápagos, a las que llegaremos tras unos 10 días en mar abierto. Serán días de viento, olas, luz de luna y silencio. Días de transformación.
 
 Una breve parada entre las islas volcánicas para tocar tierra, reabastecernos y prepararnos para el gran salto: La travesía de 3.000 millas hasta las Islas Marquesas, en el corazón de la Polinesia Francesa. Unos 20 días de navegación sin parar, donde el océano se convierte en hogar, horizonte y maestro.
 
@@ -41,7 +46,7 @@ Una breve parada entre las islas volcánicas para tocar tierra, reabastecernos y
 
 No necesitas conocimientos avanzados de navegación, solo capacidad de adaptación, saber escuchar y ganas de transformarte.
 
-\*\*¿Por qué hacerlo? Para sentir de verdad lo que significa el tiempo, cuando ya no lo rigen las notificaciones, sino las olas. Para contemplar el cielo nocturno sin luces artificiales y encontrar tu verdadero rumbo. Para formar parte de algo más grande, algo real. Para vivir la esencia del océano... y descubrir la tuya propia.
+\*\*¿Por qué hacerlo? Para sentir de verdad lo que significa el tiempo, cuando ya no lo rigen las notificaciones, sino las olas. Para contemplar el cielo nocturno sin luz artificial y encontrar tu verdadero rumbo. Para formar parte de algo más grande, algo real. Para vivir la esencia del océano... y descubrir la tuya propia.
 
 \*\*¿Quieres cruzar el Pacífico con nosotros? [Rellena el formulario para mantenerte al día](/es/contacto/) y recibir todos los detalles técnicos, económicos y logísticos a medida que se acerque la salida. Las plazas serán muy limitadas. La selección tendrá lugar en 2026. Pero la intención empieza ahora.
 
@@ -57,7 +62,7 @@ No necesitas conocimientos avanzados de navegación, solo capacidad de adaptaci�
 -   Sistema de energía autónomo (paneles solares, generador, hidrogenerador, inversor)
 -   Dos puestos de mando y sistemas de seguridad
 -   Desalinizador para la producción de agua dulce
--   Velas de repuesto y equipo completo de recambio
+-   Velas de repuesto y equipo de recambio completo
 -   Embarcación auxiliar con motor fueraborda para desembarcos y traslados a tierra
 -   Uso del equipo a bordo (kayak, SUP, equipo de snorkel, etc.) antes y después de la travesía
 -   Participación gratuita en clases de yoga a bordo y en tierra
@@ -78,7 +83,7 @@ No necesitas conocimientos avanzados de navegación, solo capacidad de adaptaci�
 -   Comidas y bebidas consumidas en tierra
 -   Cualquier cosa que no se mencione en «Qué está incluido»
 
-**FONDO COMÚN A BORDO (gasto adicional a presupuestar)**
+**FONDO COMÚN A BORDO (gasto extra a tener en cuenta)**
 
 -   Provisiones (compra inicial y cualquier reposición)
 -   Gasóleo y gasolina

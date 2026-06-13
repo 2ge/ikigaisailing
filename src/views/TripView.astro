@@ -34,7 +34,7 @@ const schemas = [
 ];
 ---
 
-<PageLayout title={d.title} description={d.description} path={`/trips/${slug}/`} ogType="article" conciergeContext="trip" availableLocales={availableLocales}>
+<PageLayout title={d.seoTitle ?? d.title} description={d.metaDescription ?? d.description} path={`/trips/${slug}/`} ogType="article" conciergeContext="trip" availableLocales={availableLocales}>
   <Fragment slot="head">
     {schemas.map((s) => <JsonLd schema={s} />)}
   </Fragment>

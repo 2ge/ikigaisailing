@@ -4,6 +4,11 @@ description: >-
   Durante 10 días, te guiaremos a través de prácticas poderosas y
   transformadoras. Este retiro es único gracias a nuestros instructores
   multidisciplinares
+seoTitle: 'Crucero de 10 días en catamarán, San Blas (Panamá) | Ikigai'
+metaDescription: >-
+  Diez días a bordo de nuestro Catana 47 en San Blas, Panamá: buceo libre, yoga,
+  navegación tranquila y fondeaderos en las islas, con la ayuda de nuestra
+  tripulación. Reserva un camarote directamente.
 locale: es
 price: 3000
 currency: EUR
@@ -22,7 +27,7 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: 3c86d008cd4ed33b
+sourceHash: decd6adecdd997ae
 ---
 
 ## Introducción
@@ -44,7 +49,7 @@ Cada día comienza con una sesión guiada que puede incluir:
 -   Meditación
 -   Compartir en silencio o en círculo _(dependiendo del grupo y la ubicación)_\_\_
 
-**Tiempo libre:** Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. **No hay nada que hacer más que ser.**
+**Tiempo libre:** Los descansos entre actividades se dejan intencionadamente abiertos —para descansar, leer, nadar, disfrutar del silencio o vivir momentos espontáneos. **No hay nada que hacer más que estar.**
 
 ## La vida a bordo y la comida
 
@@ -54,7 +59,7 @@ La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el ma
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu comunitario, sin compromiso.
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin compromiso.
 
 ## Nota importante
 
@@ -72,7 +77,7 @@ El programa puede sufrir modificaciones en función de:
 
 -   Traslado privado desde el aeropuerto
 -   Noche en **el Casco Viejo**, barrio declarado Patrimonio de la Humanidad por la UNESCO
--   Paseo nocturno por callejuelas coloniales, animadas terrazas, música y gastronomía local
+-   Paseo nocturno por callejuelas coloniales, terrazas animadas, música y gastronomía local
 
 ### Día 1 – Bienvenido a Banedup. Lo más destacado:
 
@@ -102,7 +107,7 @@ El programa puede sufrir modificaciones en función de:
 
 -   06:30–08:00: Rutina matutina
 -   08:30: Desayuno
--   10:00: Navegación hacia los Cayos Holandeses Occidentales
+-   10:00: Navegación hacia los Cayos Holandeses Oeste
 -   12:00–14:00: Snorkel
 -   14:00: Almuerzo
 -   17:30: Rutina vespertina
@@ -113,7 +118,7 @@ El programa puede sufrir modificaciones en función de:
 
 -   06:30–07:30: Respiración y estiramientos para el buceo libre
 -   07:30: Desayuno ligero
--   08:30: Repaso de teoría y técnica
+-   08:30: Repaso de la teoría y técnica
 -   10:00–12:30: Sesión práctica de buceo libre
 -   13:00: Almuerzo
 -   15:00–17:00: Tiempo libre — snorkel, pesca, kayak, descanso
@@ -141,7 +146,7 @@ El programa puede sufrir modificaciones en función de:
 -   17:00: Isla de las Tortugas – yoga, descanso, Tabata
 -   19:30: Cena barbacoa bajo las estrellas
 
-### Día 7 – Dutch Cays / Green Island: cocos, artesanía, snorkel y noche de cine
+### Día 7 – Dutch Cays / Green Island Cocos, artesanía, snorkel y noche de cine
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -161,7 +166,7 @@ El programa puede sufrir modificaciones en función de:
 -   18:30: Rutina nocturna opcional
 -   20:00: Cena
 
-### Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración
+### Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -175,9 +180,9 @@ El programa puede sufrir modificaciones en función de:
 
 -   Por la mañana: Desayuno tranquilo
 -   12:00: Navegamos de vuelta a Banedup
--   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
+-   16:00: Tiempo libre: voleibol, snorkel, entrenamiento vespertino
 -   19:00: Cena
--   20:30: Ceremonia de clausura y resumen en vídeo
+-   20:30: Ceremonia de clausura y vídeo resumen
 
 ### Día 11 – Regreso
 

@@ -3,23 +3,28 @@ title: 'Katamarán Ikigai – komfort, výkon a dobrodružstvo'
 description: >-
   Objavte katamarán Ikigai Sailing: dokonalé spojenie komfortu a výkonu pre
   nezabudnuteľné dobrodružstvá na mori.
+seoTitle: Katamarán Catana 47 — Naša loď | Ikigai Sailing
+metaDescription: >-
+  Predstavujeme vám Ikigai, náš katamarán Catana 47: rýchlu a stabilnú loď na
+  otvorené more, ktorá ponúka priestor na voľné potápanie, kitesurfing a
+  potápačskú výstroj, cvičenie jogy na palube a palubný odsolovač vody.
 locale: sk
-heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
+heroImage: ~/assets/pages/catana-47/drive/mg9774.jpg
 gallery:
-  - "~/assets/pages/catana-47/drive/img460.jpg"
-  - "~/assets/pages/catana-47/drive/shot7DC.jpg"
-  - "~/assets/pages/catana-47/drive/coperta.jpg"
-  - "~/assets/pages/catana-47/drive/trampolino.jpg"
-  - "~/assets/pages/catana-47/drive/pozzetto.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-120.jpg"
-  - "~/assets/pages/catana-47/drive/dinette.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-121.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-124.jpg"
-  - "~/assets/pages/catana-47/drive/timone.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-122.jpg"
-  - "~/assets/pages/catana-47/drive/shot16B.jpg"
+  - ~/assets/pages/catana-47/drive/img460.jpg
+  - ~/assets/pages/catana-47/drive/shot7DC.jpg
+  - ~/assets/pages/catana-47/drive/coperta.jpg
+  - ~/assets/pages/catana-47/drive/trampolino.jpg
+  - ~/assets/pages/catana-47/drive/pozzetto.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-120.jpg
+  - ~/assets/pages/catana-47/drive/dinette.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-121.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-124.jpg
+  - ~/assets/pages/catana-47/drive/timone.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-122.jpg
+  - ~/assets/pages/catana-47/drive/shot16B.jpg
 translated: deepl
-sourceHash: 77ba25e7dfa4b095
+sourceHash: 7afb5c82b515b50b
 needsReview: true
 ---
 
@@ -34,13 +39,13 @@ _Catana 47_ je navrhnutá tak, aby ste si mohli užívať pohodlie a priestor be
 -   **Štvrtá kajuta** prerobená na veľkú kúpeľňu s panoramatickou sprchou pre dvoch
 -   **2 elektrické toalety**, po jednej na každom trupe
 
-Na prove sa nachádza **kajuta** **posádky**, **úložný priestor** **na plachty** a špeciálna **kajuta** na športové vybavenie. Na zadnej časti lode sa **veľký stôl v kokpite** dá sklopiť a vytvoriť tak ďalšiu priestrannú manželskú posteľ.
+Na prove sa nachádza **kajuta** **pre posádku**, **úložný priestor** **na plachty** a špeciálna **kajuta** na športové vybavenie. Na zadnej časti lode sa **veľký stôl v kokpite** dá sklopiť a vytvoriť tak ďalšiu priestrannú manželskú posteľ.
 
 ## Kuchynka
 
 Keďže sme nadšenci dobrého jedla – a bývalí profesionálni reštauratéri – kuchyňa zohráva na palube ústrednú úlohu. Je vybavená:
 
--   **Pekárňou na chlieb** – pretože čerstvý chlieb každý deň je na nezaplatenie
+-   **Pekárničkou na chlieb** – pretože čerstvý chlieb každý deň je na nezaplatenie
 -   **Gril Magma XL** – hviezda nespočetných grilovačiek, najmä po úspešnom rybárskom výlete
 -   **4-horákovým sporákom**, nerezovou plynovou rúrou, chladničkou, mrazničkou, umývačkou riadu, strojom na výrobu čerstvých cestovín, mixérom a ďalším vybavením
 -   **Automatický kávovar** s integrovaným mlynčekom
@@ -73,7 +78,7 @@ Na palube nájdete tiež:
 
 Novinky v roku 2017:
 
--   **Hlavná plachta** — 86 m² Hydranet 483/433, 5 latiek, 3 body na zrážanie, s indikátormi; kladky Harken T32 s guľôčkovými ložiskami; lazy bag (novinka 2021)
+-   **Hlavná plachta** — 86 m² Hydranet 483/433, 5 latiek, 3 body na zúženie, s indikátormi; vozíky Harken T32 s guľôčkovými ložiskami; lazy bag (novinka 2021)
 -   **Genoa** — 53 m² trojradialný strih z materiálu Hydranet 433, UV ochranný pás
 -   **Gennaker** — 130 m² na rolovacom ráhne, modrá tkanina Stormlite, protitorzný kábel, UV pásik
 -   **Code 0** — 81 m² na rolovacom ráhne, laminovaný uhlík-aramid, protitorzný kábel, tkanina CZ60/30 s UV ochranou

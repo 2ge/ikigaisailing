@@ -3,6 +3,11 @@ title: Kitesurfing
 summary: >-
   Kitesurfing je oveľa viac než len šport: je to skutočná oslava slobody,
   energie a hlbokého spojenia s prírodou.
+seoTitle: Kitesurfing v San Blas na katamaráne | Ikigai
+metaDescription: >-
+  Vyskúšajte kitesurfing na pokojných, prázdnych lagúnach v San Blase z paluby
+  našej lode Catana 47 – výstroj a dosky sú pripravené na palube, fúka stabilný
+  karibský pasát a na vodu sa dostanete priamo z lode.
 locale: sk
 category: watersports
 image: ~/assets/activities/project/kitesurf.jpg
@@ -30,11 +35,11 @@ facts:
   - label: Dĺžka relácie
     value: 1–3 hodiny
   - label: Miesto
-    value: Najlepšie pláže s neustálym a bezpečným vetrom
+    value: Najlepšie pláže s pravidelným a bezpečným vetrom
   - label: Vybavenie
     value: Na palube je možné si prenajať vybavenie
 translated: deepl
-sourceHash: 6ee0bf6861e5a5a9
+sourceHash: b0d1e19322ed2f1a
 needsReview: true
 ---
 
@@ -52,7 +57,7 @@ Prečo to vyskúšať s Ikigai
 
 Pridajte sa k nám a naučte sa alebo zdokonaľte kitesurfing v rajskom prostredí, vždy v bezpečí a s nádychom dobrodružstva.
 
--   **Exkluzívny prístup:** Dostanete sa na najkrajšie miesta s najlepším vetrom, ďaleko od davov, v nedotknutej prírode. Vypustíte kite priamo z katamaránu a preskúmate miesta, ktoré sú z pevniny nedostupné.
+-   **Exkluzívny prístup:** Dostaňte sa na najkrajšie miesta s najlepším vetrom, ďaleko od davov, v nedotknutej prírode. Spustite kite priamo z katamaránu a preskúmajte miesta, ktoré sú z pevniny nedostupné.
 -   **Optimalizovaná bezpečnosť:** Naša špecializovaná loďka zabezpečuje neustálu podporu a včasné zásahy, čím vám zaručuje úplný pokoj pri surfovaní.
 -   **Sloboda a flexibilita:** Vyberte si, kedy a kde budete surfovať. Na palube Ikigai sledujeme najlepšie poveternostné a veterné podmienky, aby sme vám ponúkli neporovnateľný zážitok z kitesurfingu.
 -   **Relax a pohodlie:** Keď potrebujete prestávku, vráťte sa na palubu a oddýchnite si. Náš plávajúci domov ponúka chvíle čistej relaxácie a pohody pre telo i myseľ.

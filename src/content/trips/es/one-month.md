@@ -2,8 +2,13 @@
 title: Un mes a bordo
 description: >-
   Vive como un auténtico marinero durante un mes a bordo del Ikigai (con la
-  opción de dividirlo en dos etapas de dos semanas cada una). Sumérgete de lleno
-  en la vida a bordo, ...
+  opción de dividirlo en dos embarques de dos semanas cada uno). Sumérgete de
+  lleno en la vida a bordo, ...
+seoTitle: Un mes viviendo a bordo de un catamarán | Ikigai
+metaDescription: >-
+  Vive como un marinero durante un mes a bordo del Ikigai en San Blas: 2000 EUR
+  como cuota de socio de nuestra ASD, que puedes pagar en dos tramos de dos
+  semanas si lo prefieres. Por camarote.
 locale: es
 price: 2000
 currency: EUR
@@ -13,7 +18,7 @@ membersOnly: true
 heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 order: 3
 translated: deepl
-sourceHash: 455095488b5a62ca
+sourceHash: c6ccc773b6063783
 ---
 
 2.000,00 €
@@ -26,7 +31,7 @@ Es una oportunidad reservada a los miembros que ya han probado la filosofía de 
 
 ### 1 mes a bordo: vive el mar como tu hogar, el tiempo como tu aliado
 
-La experiencia de un mes a bordo está pensada para quienes sienten la llamada de hacer una pausa, escuchar y reinventarse. Un descanso regenerador de la Matrix.
+La experiencia de un mes a bordo está pensada para quienes sienten la necesidad de hacer una pausa, escuchar y reinventarse. Un descanso regenerador lejos de la rutina.
 
 Es una oportunidad **reservada para los miembros** que ya han probado el estilo de vida Ikigai y se sienten preparados para sumergirse más plenamente y de forma continua en esta dimensión hecha de naturaleza, sencillez, compartir y transformación.
 
@@ -55,7 +60,7 @@ Creemos que todo el mundo debería tener la oportunidad de explorar su Ikigai. P
 ## Durante el mes
 
 -   Los momentos compartidos se alternan con el tiempo libre personal.
--   Las actividades (buceo libre, Janzu, yoga, vela, kitesurf\*, meditación, etc.) se funden con el ritmo del grupo y de la naturaleza.
+-   Las actividades (buceo libre, Janzu, yoga, navegación, kite\*, meditación, etc.) se mezclan con el ritmo del grupo y de la naturaleza.
 -   Se valoran las habilidades personales de cada participante, ya sea cocinar, documentar el viaje, tocar música o contar historias.
 
 ## Requisitos básicos
@@ -67,7 +72,7 @@ Creemos que todo el mundo debería tener la oportunidad de explorar su Ikigai. P
 
 ### Compartir con experiencias más cortas
 
-Durante tu mes en el Ikigai, habrá momentos en los que recibiremos a nuevos participantes para experiencias más cortas de 7 a 10 días. En esos periodos, la atención de la tripulación se centrará naturalmente en llevar a cabo el **programa estructurado para estos invitados. Siempre serás bienvenido a unirte a todas las actividades diarias** —yoga matutino, sesiones de buceo libre y Janzu, meditaciones, navegación y momentos compartidos— de forma libre y sin coste adicional.
+Durante tu mes en el Ikigai, habrá momentos en los que recibiremos a nuevos participantes para experiencias más cortas de entre 7 y 10 días. En esos periodos, la atención de la tripulación se centrará naturalmente en llevar a cabo el **programa estructurado para estos invitados. Siempre serás bienvenido a unirte a todas las actividades diarias** —yoga matutino, sesiones de buceo libre y Janzu, meditaciones, navegación y momentos compartidos— de forma libre y sin coste adicional.
 
 Solo te pido **flexibilidad y adaptabilidad**, sabiendo que en esos días se dará prioridad operativa al formato semanal, con su propio calendario y objetivos.
 
@@ -75,13 +80,13 @@ Sin embargo, **esta dinámica también puede resultarte muy enriquecedora**: te 
 
 ## Logística
 
-Tu viaje comenzará muy probablemente con tu llegada al Aeropuerto Internacional de Tocumen (PTY) en la ciudad de Panamá, con vuelos de llegada programados generalmente para la tarde o la noche.
+Tu viaje probablemente comenzará con tu llegada al Aeropuerto Internacional de Tocumen (PTY) en la ciudad de Panamá, con vuelos de llegada generalmente programados para la tarde o la noche.
 
-Por este motivo, será necesario pasar al menos una noche en la capital. Es la oportunidad perfecta para explorar la ciudad y, quizás, pasear por las encantadoras calles del Casco Viejo, el barrio histórico declarado Patrimonio de la Humanidad por la UNESCO.
+Por este motivo, será necesario pasar al menos una noche en la capital. Es la oportunidad perfecta para explorar la ciudad y, tal vez, pasear por las encantadoras calles del Casco Viejo, el barrio histórico declarado Patrimonio de la Humanidad por la UNESCO.
 
 🕔 Al día siguiente, temprano por la mañana, un jeep 4×4 privado te recogerá directamente en tu hotel y te llevará hacia la costa caribeña. Desde allí, tras aproximadamente 2,5 horas de viaje a través de los bosques de Guna Yala, una embarcación local te llevará a Ikigai, donde llegarás alrededor de las 10:30 a. m.
 
-Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: una embarcación local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
+Al final de tu estancia, el día de la salida, seguirás la misma ruta a la inversa: un barco local te recogerá al amanecer directamente en Ikigai y te llevará de vuelta al continente, donde un jeep te trasladará al aeropuerto a tiempo para tu vuelo de regreso.
 
 ✈️ Todo el viaje lo organizamos nosotros en colaboración con socios locales de confianza, lo que garantiza una experiencia logística fluida y segura desde el principio hasta el final de tu estancia.
 
@@ -110,4 +115,4 @@ Nota: A bordo podemos acoger a un número limitado de personas, de 2 a un máxim
 -   Seguro de viaje (recomendado)
 -   Comidas y bebidas consumidas en tierra
 -   Cualquier cosa que no se mencione en «Qué incluye»
--   Fondo común a bordo (provisiones, gasóleo, tasas de acceso a islas privadas específicas, etc.) Estimado en unos 20-25 USD al día
+-   Fondo común a bordo (provisiones, gasóleo, tasas de acceso a islas privadas específicas, etc.) Se calcula en unos 20-25 USD al día

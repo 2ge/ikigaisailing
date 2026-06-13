@@ -1,6 +1,8 @@
 ---
 title: "The Ikigai Catamaran – Comfort, Performance & Adventure"
 description: "Discover the Ikigai Sailing catamaran: a perfect blend of comfort and performance for unforgettable ocean adventures."
+seoTitle: "Catana 47 Catamaran — Our Boat | Ikigai Sailing"
+metaDescription: "Meet Ikigai, our Catana 47 catamaran: a fast, stable bluewater platform with room for freediving, kite and dive gear, yoga on deck, and a watermaker aboard."
 locale: "en"
 oldUrls:
   - "/catana-47/"

@@ -3,6 +3,11 @@ title: Janzu
 summary: >-
   El Janzu es una experiencia de relajación profunda y conexión con el elemento
   acuático. Sus movimientos suaves y fluidos te ayudan a liberar el estrés
+seoTitle: 'Retiro de terapia acuática Janzu, San Blas | Ikigai'
+metaDescription: >-
+  Tratamientos acuáticos Janzu en las cálidas y tranquilas aguas de San Blas,
+  Panamá: sesiones individuales a bordo de nuestro Catana 47. Un retiro
+  regenerador de sanación acuática a bordo del Ikigai.
 locale: es
 category: wellness
 image: ~/assets/activities/janzu/IMG_3296-1.avif
@@ -24,7 +29,7 @@ facts:
   - label: Profesores
     value: Formado en las técnicas de Janzu y Wata
 translated: deepl
-sourceHash: 3dfbca7d2b8042b2
+sourceHash: 20f8c1740ca8c98f
 ---
 
 ## El poder terapéutico del agua

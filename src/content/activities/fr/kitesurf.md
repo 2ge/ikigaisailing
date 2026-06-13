@@ -3,6 +3,11 @@ title: Kitesurf
 summary: >-
   Le kitesurf, c'est bien plus qu'un simple sport : c'est une véritable
   célébration de la liberté, de l'énergie et d'un lien profond avec la nature.
+seoTitle: Kitesurf à San Blas en catamaran | Ikigai
+metaDescription: >-
+  Viens faire du kitesurf dans les lagons calmes et déserts de San Blas à bord
+  de notre Catana 47 : matériel et planches à bord, alizés caribéens réguliers
+  et mise à l'eau directement depuis le bateau.
 locale: fr
 category: watersports
 image: ~/assets/activities/project/kitesurf.jpg
@@ -34,7 +39,7 @@ facts:
   - label: Équipement
     value: Location de matériel disponible à bord
 translated: deepl
-sourceHash: 6ee0bf6861e5a5a9
+sourceHash: b0d1e19322ed2f1a
 ---
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)

@@ -3,6 +3,11 @@ title: Meditación
 summary: >-
   La meditación con Ikigai Sailing es una experiencia única, en la que la
   tranquilidad del mar potencia los beneficios de la práctica.
+seoTitle: Retiro de meditación en las Islas San Blas | Ikigai
+metaDescription: >-
+  Meditación diaria y ejercicios de respiración mientras estamos fondeados en
+  las islas de San Blas, Panamá. Mañanas tranquilas, mar abierto y fondeaderos
+  apacibles a bordo de nuestro catamarán Catana 47.
 locale: es
 category: wellness
 image: ~/assets/activities/project/meditazione1.jpg
@@ -22,7 +27,7 @@ facts:
   - label: Ventajas
     value: 'Mayor conciencia, relajación y equilibrio emocional'
 translated: deepl
-sourceHash: 3c36169ffca90427
+sourceHash: bf97505c72d22634
 ---
 
 ## Redescubre la paz interior

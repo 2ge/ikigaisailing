@@ -33,8 +33,8 @@ const crumb = breadcrumbs(site, locale, [
 ---
 
 <PageLayout
-  title={page?.data.title ?? 'Season 2025/26 — San Blas'}
-  description={page?.data.description ?? 'The 2025/26 San Blas season aboard Ikigai.'}
+  title={page?.data.seoTitle ?? page?.data.title ?? 'Season 2025/26 — San Blas'}
+  description={page?.data.metaDescription ?? page?.data.description ?? 'The 2025/26 San Blas season aboard Ikigai.'}
   path="/season-2025-26/"
   conciergeContext="season"
 >

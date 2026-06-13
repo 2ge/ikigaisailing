@@ -4,6 +4,11 @@ description: >-
   Vis comme un vrai marin pendant un mois à bord de l'Ikigai (avec la
   possibilité de fractionner ton séjour en deux embarquements de deux semaines
   chacun). Plonge-toi pleinement dans la vie à bord, ...
+seoTitle: Un mois à bord d'un catamaran | Ikigai
+metaDescription: >-
+  Vivez comme un marin pendant un mois à bord de l'Ikigai à San Blas — 2 000 EUR
+  à titre de cotisation à notre ASD, payable en deux versements de deux semaines
+  chacun si tu préfères. Par cabine.
 locale: fr
 price: 2000
 currency: EUR
@@ -13,7 +18,7 @@ membersOnly: true
 heroImage: ~/assets/trips/acconto/20221220_125124-scaled.jpg
 order: 3
 translated: deepl
-sourceHash: 455095488b5a62ca
+sourceHash: c6ccc773b6063783
 ---
 
 2 000,00 €
@@ -40,7 +45,7 @@ Cette expérience s’adresse à ceux qui souhaitent **s**’**éloigner des ryt
 
 **Partager la vie à bord**
 
-À bord, tu n’es pas un invité : **tu fais partie de l’équipage**. Tu participeras à la vie quotidienne, tu exploreras les disciplines que nous pratiquons (plongée en apnée, yoga, méditation, voile, Janzu) et, si tu le souhaites, **tu partageras tes passions, tes compétences et ta créativité**. C’est un véritable échange, où chacun s’enrichit mutuellement et où le voyage devient le reflet d’une croissance commune.
+À bord, tu n’es pas un invité : **tu fais partie de l’équipage**. Tu participeras à la vie quotidienne, tu exploreras les disciplines que nous pratiquons (apnée, yoga, méditation, voile, Janzu) et, si tu le souhaites, **tu partageras tes passions, tes compétences et ta créativité**. C’est un véritable échange, où chacun s’enrichit mutuellement et où le voyage devient le reflet d’une croissance commune.
 
 **Le temps dont tu as besoin**
 
@@ -50,7 +55,7 @@ Les courts séjours, surtout s’ils sont précédés de longs voyages ou de pé
 
 Nous pensons que tout le monde devrait avoir la chance d’explorer son Ikigai. C’est pourquoi **la contribution demandée est bien inférieure aux prix du marché,** en accord avec notre mission de diffusion du bien-être et de la conscience à travers la vie en mer.
 
-**Places limitées Seules 2 ou 3 places par mois** sont disponibles pour ce type d’embarquement. Nous voulons que chaque personne à bord dispose de l’espace, du temps et de la qualité de connexion nécessaires pour faire de l’expérience Ikigai un moment authentique et transformateur.
+**Places limitées Seules 2 ou 3 places par mois** sont disponibles pour ce type d’embarquement. Nous voulons que chaque personne à bord dispose de l’espace, du temps et de la qualité de connexion qui font de l’expérience Ikigai quelque chose d’authentique et de transformateur.
 
 ## Au cours du mois
 
@@ -58,9 +63,9 @@ Nous pensons que tout le monde devrait avoir la chance d’explorer son Ikigai. 
 -   Les activités (apnée, Janzu, yoga, voile, kitesurf\*, méditation, etc.) s’harmonisent avec le rythme du groupe et de la nature.
 -   Les compétences personnelles de chaque participant sont mises à l’honneur, qu’il s’agisse de cuisine, de documentation du voyage, de musique ou de narration.
 
-## Exigences de base
+## Exigences essentielles
 
--   Une attitude positive et de l'initiative pour relever les petits et grands défis qui peuvent se présenter à bord.
+-   Une attitude positive et de l’initiative pour relever les petits et grands défis qui peuvent se présenter à bord.
 -   Autonomie dans la gestion de ton temps libre, en s’adaptant au rythme de l’équipage.
 -   Ordre et propreté, tant dans les espaces personnels que communs, en signe de respect envers toi-même et les autres.
 -   Gentillesse et respect mutuel comme fondement de la vie en communauté : la vie à bord fonctionne quand tout le monde contribue à une atmosphère sereine et collaborative.
@@ -69,7 +74,7 @@ Nous pensons que tout le monde devrait avoir la chance d’explorer son Ikigai. 
 
 Au cours de ton mois à bord de l'Ikigai, il y aura des moments où nous accueillerons de nouveaux participants pour des expériences plus courtes de 7 à 10 jours. Pendant ces périodes, l’attention de l’équipage se concentrera naturellement sur la gestion du **programme structuré prévu pour ces invités. Tu seras toujours le bienvenu pour participer à toutes les activités quotidiennes** — yoga matinal, séances de plongée en apnée et de Janzu, méditations, navigation et moments de partage — librement et sans frais supplémentaires.
 
-Je te demande simplement de faire preuve de **flexibilité et d’adaptabilité**, sachant que pendant ces journées, la priorité opérationnelle sera donnée au format hebdomadaire, avec son propre calendrier et ses propres objectifs.
+Je te demande simplement de faire preuve de **flexibilité et d’adaptabilité**, sachant que pendant ces jours-là, la priorité opérationnelle sera donnée au format hebdomadaire, avec son propre calendrier et ses propres objectifs.
 
 Pourtant, **cette dynamique peut être profondément enrichissante pour toi aussi** : elle te permettra d’observer l’expérience Ikigai sous sa forme la plus intense, de rencontrer et de t’intégrer à de nouveaux compagnons de voyage, et — si tu le souhaites — **de contribuer activement au voyage**, en devenant une partie vivante du projet.
 
@@ -97,7 +102,7 @@ Remarque : à bord, nous pouvons accueillir un nombre limité de 2 à 3 embarque
 -   Instructeur de plongée en apnée (**AIDA & Apnea Total**), instructeur de kitesurf (**IKO**) et professeur de yoga (**Yoga Alliance**)
 -   1 mois à bord dans une cabine double partagée sur l'Ikigai, un catamaran Catana 47
 -   Accès à la cuisine et à son équipement
--   Utilisation du matériel à bord (kayak, SUP, équipement de plongée libre, etc.)
+-   Utilisation du matériel à bord (kayak, SUP, équipement de plongée avec tuba, etc.)
 -   Participation gratuite aux cours de yoga
 -   Réductions sur les cours de plongée en apnée et de kitesurf\*
 -   Frais d'immigration

@@ -1,9 +1,14 @@
 ---
 title: 10 jours à bord de l'Ikigai
 description: >-
-  Pendant 10 jours, on t'accompagnera à travers des pratiques puissantes et
+  Pendant 10 jours, on va te guider à travers des pratiques puissantes et
   transformatrices. Cette retraite est unique grâce à nos animateurs issus de
   différentes disciplines
+seoTitle: 'Croisière de 10 jours en catamaran, San Blas, Panama | Ikigai'
+metaDescription: >-
+  Dix jours à bord de notre Catana 47 à San Blas, au Panama : plongée en apnée,
+  yoga, navigation tranquille et mouillages sur les îles, sous la houlette de
+  notre équipage. Réserve une cabine directement.
 locale: fr
 price: 3000
 currency: EUR
@@ -22,12 +27,12 @@ gallery:
   - ~/assets/trips/10-days-on-board/IMG_3911.webp
 order: 2
 translated: deepl
-sourceHash: 3c86d008cd4ed33b
+sourceHash: decd6adecdd997ae
 ---
 
 ## Introduction
 
-Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
+Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. On t’invite à sortir de ta zone de confort, à tenter de nouvelles expériences et à renforcer ta discipline, tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
 
 ## Programme quotidien Matin (env. 1h30)
 
@@ -122,7 +127,7 @@ Le programme peut être modifié en fonction :
 
 ### Jour 5 – Lagune de Dutch Cays Aventures dans la lagune, yoga et soirée feu de camp
 
--   06h30 : Routine du matin
+-   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
 -   09h30 : Navigation vers le lagon
 -   11h00 : Balade d'île en île en SUP ou en kayak
@@ -165,7 +170,7 @@ Le programme peut être modifié en fonction :
 
 -   06h30 : Routine matinale
 -   08h30 : Petit-déjeuner
--   09h30 : Navigation vers Coco Bandero
+-   09h30 : Départ pour Coco Bandero
 -   12h00 : Déjeuner sur la plage
 -   13h00–17h00 : Baignade avec les requins (facultatif), plongée avec tuba, hamacs
 -   17h00 : Routine du soir
@@ -181,4 +186,4 @@ Le programme peut être modifié en fonction :
 
 ### Jour 11 – Retour
 
-Un bateau Guna viendra te chercher et te ramènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍
+Un bateau Guna viendra te chercher et t'emmènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍

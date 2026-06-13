@@ -1,8 +1,13 @@
 ---
-title: Options d'embarquement
+title: Options d'hébergement
 description: >-
   Comment embarquer sur le Catana 47 Ikigai à San Blas : une semaine, dix jours,
   un mois, la traversée du Pacifique ou un échange d'équipage.
+seoTitle: 'Location de catamaran à San Blas, par cabine | Ikigai'
+metaDescription: >-
+  Différentes formules pour embarquer à bord de notre Catana 47 à San Blas : une
+  semaine, dix jours, un mois ou la traversée du Pacifique. Réservation par
+  cabine, directement auprès de l'équipage.
 locale: fr
 heroImage: ~/assets/activities/project/meditazione1.jpg
 gallery:
@@ -14,14 +19,14 @@ gallery:
   - ~/assets/trips/10-days-on-board/lucabrano5.avif
   - ~/assets/trips/acconto/attraversata-atlantica.webp
 translated: deepl
-sourceHash: b1f61ca1c124ddfb
+sourceHash: 9c153c725059bfd7
 ---
 
 ### Des bienfaits qui s'amplifient avec le temps
 
 Bien-être physique et mental en harmonie avec la nature
 
-Vivre en immersion dans la mer et la nature, c’est bien plus que des vacances : c’est une transformation. Le contact direct avec les éléments naturels ne fait pas que rajeunir le corps, il renouvelle aussi l’esprit et l’âme. Plus tu passeras de temps à vivre en harmonie avec la nature et la mer, plus les bienfaits pour ton corps, ton esprit et ton âme seront profonds et durables.
+Vivre en immersion dans la mer et la nature, c’est bien plus que des vacances : c’est une transformation. Le contact direct avec les éléments naturels ne fait pas que rajeunir le corps, il renouvelle aussi l’esprit et l’âme. Plus tu passes de temps à vivre en harmonie avec la nature et la mer, plus les bienfaits pour ton corps, ton esprit et ton âme seront profonds et durables.
 
 01
 
@@ -29,7 +34,7 @@ Vivre en immersion dans la mer et la nature, c’est bien plus que des vacances 
 
 **DISPONIBLE UNIQUEMENT POUR LA SEMAINE DE NOËL ET DU NOUVEL AN**
 
--   **Reconnexion mentale :** déconnecte-toi des soucis quotidiens et fais l'expérience d'un premier sentiment de paix intérieure.
+-   **Reconnexion mentale :** se déconnecter des soucis quotidiens et ressentir un premier sentiment de paix intérieure.
 -   **Récupération d'énergie :** amélioration de la qualité du sommeil grâce aux rythmes naturels et à l'air frais.
 -   **Réduction du stress :** la respiration consciente et le contact avec la mer bleue apaisent l'esprit et le système nerveux.
 -   **Vitalité physique :** les mouvements naturels améliorent la circulation et réduisent les tensions musculaires.

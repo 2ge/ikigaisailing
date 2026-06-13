@@ -1,6 +1,8 @@
 ---
 title: "Yoga Retreat"
 summary: "With the sea as a backdrop and the sound of the waves, your yoga retreat becomes a transformative practice. Each session is designed to..."
+seoTitle: "Yoga Sailing Retreat in Panama | Ikigai Sailing"
+metaDescription: "Morning yoga and breathwork aboard a Catana 47 in San Blas, Panama — a stable deck, warm water and a slow sailing rhythm. A wellness retreat, booked per cabin."
 locale: "en"
 category: "wellness"
 image: "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg"

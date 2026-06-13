@@ -3,23 +3,28 @@ title: 'El catamarán Ikigai: comodidad, rendimiento y aventura'
 description: >-
   Descubre el catamarán Ikigai Sailing: una combinación perfecta de comodidad y
   rendimiento para vivir aventuras inolvidables en el mar.
+seoTitle: Catamarán Catana 47 — Nuestro barco | Ikigai Sailing
+metaDescription: >-
+  Te presentamos al Ikigai, nuestro catamarán Catana 47: una embarcación rápida
+  y estable para alta mar con espacio para el equipo de buceo libre, kitesurf y
+  submarinismo, para hacer yoga en cubierta y con un desalinizador a bordo.
 locale: es
-heroImage: ~/assets/pages/catana-47/8W2A0251-scaled.jpg
+heroImage: ~/assets/pages/catana-47/drive/mg9774.jpg
 gallery:
-  - "~/assets/pages/catana-47/drive/img460.jpg"
-  - "~/assets/pages/catana-47/drive/shot7DC.jpg"
-  - "~/assets/pages/catana-47/drive/coperta.jpg"
-  - "~/assets/pages/catana-47/drive/trampolino.jpg"
-  - "~/assets/pages/catana-47/drive/pozzetto.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-120.jpg"
-  - "~/assets/pages/catana-47/drive/dinette.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-121.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-124.jpg"
-  - "~/assets/pages/catana-47/drive/timone.jpg"
-  - "~/assets/pages/catana-47/drive/IKIGAI-122.jpg"
-  - "~/assets/pages/catana-47/drive/shot16B.jpg"
+  - ~/assets/pages/catana-47/drive/img460.jpg
+  - ~/assets/pages/catana-47/drive/shot7DC.jpg
+  - ~/assets/pages/catana-47/drive/coperta.jpg
+  - ~/assets/pages/catana-47/drive/trampolino.jpg
+  - ~/assets/pages/catana-47/drive/pozzetto.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-120.jpg
+  - ~/assets/pages/catana-47/drive/dinette.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-121.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-124.jpg
+  - ~/assets/pages/catana-47/drive/timone.jpg
+  - ~/assets/pages/catana-47/drive/IKIGAI-122.jpg
+  - ~/assets/pages/catana-47/drive/shot16B.jpg
 translated: deepl
-sourceHash: 77ba25e7dfa4b095
+sourceHash: 7afb5c82b515b50b
 ---
 
 _El Catana 47_ está diseñado para disfrutar de la comodidad y el espacio sin renunciar a la emoción de la navegación y del mar. Es un catamarán de alto rendimiento capaz de mantener altas velocidades en travesías largas y de desplazarse con facilidad incluso con vientos flojos, mientras que sus amplios interiores garantizan el confort en cualquier condición meteorológica. Tiene capacidad para 6 o 7 personas en 4 camarotes.
@@ -29,7 +34,7 @@ _El Catana 47_ está diseñado para disfrutar de la comodidad y el espacio sin r
 ## Camarotes y distribución
 
 -   **2 camarotes dobles** — configurables con dos camas individuales o una cama doble grande
--   **1 camarote** con cama de matrimonio
+-   **1 camarote** con cama doble
 -   **Una cuarta cabina** convertida en un amplio cuarto de baño con ducha panorámica para dos
 -   **2 inodoros eléctricos**, uno en cada casco
 
@@ -54,7 +59,7 @@ En cuanto a la energía, somos totalmente autosuficientes:
 -   **Baterías de litio de 600 Ah**
 -   **Generador diésel de 5 kW**
 
-También llevamos **2 potabilizadoras** que producen **150 l/h**, además de una **lavadora**.
+También llevamos **dos potabilizadoras** que producen **150 l/h**, además de una **lavadora**.
 
 ## Equipo deportivo
 
@@ -82,7 +87,7 @@ Novedades de 2017:
 
 Raymarine, nuevo en 2017:
 
--   **Plotter Axiom 9** (2020), Multi i70, VHF RA60, 2× indicadores de viento i60, 1× Multi i70, 11× consolas de piloto automático p70
+-   **Plotter Axiom 9** (2020), Multi i70, VHF RA60, 2× pantalla de viento i60, 1× Multi i70, 11× p70 consola de piloto automático
 -   **Piloto automático principal**: Raymarine ACU 400 con cilindro hidráulico L&S
 -   **Piloto automático de emergencia**: Raymarine con cilindro hidráulico L&S
 -   **Radar Quantum** y transceptor **AIS 650 Clase B**

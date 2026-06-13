@@ -1,6 +1,8 @@
 ---
 title: "One month aboard"
 description: "Live like a true sailor for a month aboard Ikigai (with the option to split into two two-week embarkations). Engage fully in life on board, ..."
+seoTitle: "One Month Living Aboard a Catamaran | Ikigai"
+metaDescription: "Live like a sailor for a month aboard Ikigai in San Blas — 2,000 EUR as a member contribution to our ASD, split into two two-week legs if you prefer. Per cabin."
 locale: "en"
 price: 2000
 currency: "EUR"
