@@ -1,0 +1,29 @@
+---
+/**
+ * Geo landing route: /panama/san-blas/<activity>/ (+ /es|it|fr|sk/ prefix). Place-name
+ * segments stay identical across locales (only the locale prefix changes), so no localized
+ * segment registry needed. Content from the `landings` collection (slug = activity).
+ */
+import { getCollection } from 'astro:content';
+import { LOCALES, type Loc } from '../../../../i18n/segments';
+import { slugOf, localeOf } from '../../../../lib/content';
+import LandingView from '../../../../views/LandingView.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('landings');
+  const localesBySlug = new Map<string, Set<Loc>>();
+  for (const e of all) {
+    const slug = slugOf(e);
+    (localesBySlug.get(slug) ?? localesBySlug.set(slug, new Set()).get(slug)!).add(localeOf(e) as Loc);
+  }
+  const out: { params: { locale: string | undefined; activity: string }; props: { locale: Loc; activity: string } }[] = [];
+  for (const [slug, have] of localesBySlug) {
+    const locs = have.has('en') ? [...LOCALES] : [...have];
+    for (const locale of locs) out.push({ params: { locale: locale === 'en' ? undefined : locale, activity: slug }, props: { locale, activity: slug } });
+  }
+  return out;
+}
+
+const { locale, activity } = Astro.props;
+---
+<LandingView activity={activity} locale={locale} />

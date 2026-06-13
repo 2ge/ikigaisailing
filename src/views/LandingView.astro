@@ -1,0 +1,78 @@
+---
+/**
+ * Geo landing page (e.g. /panama/san-blas/<activity>/). Targets a regional keyword,
+ * links up to the evergreen worldwide activity page + the booking. GEO-structured content.
+ */
+import { Image } from 'astro:assets';
+import PageLayout from '../layouts/PageLayout.astro';
+import Prose from '../components/Prose.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import Gallery from '../components/Gallery.astro';
+import JsonLd from '../components/jsonld/JsonLd.astro';
+import { useTranslations, localizePath, type Locale } from '../i18n/ui';
+import { WHATSAPP_URL } from '../i18n/nav';
+import { entryForLocale, availableLocalesFor } from '../lib/content';
+import { breadcrumbs, faqPage } from '../lib/schema';
+
+const { activity, locale } = Astro.props as { activity: string; locale: Locale };
+const t = useTranslations(locale);
+const entry = await entryForLocale('landings', activity, locale);
+if (!entry) return Astro.redirect('/404/');
+const availableLocales = await availableLocalesFor('landings', activity);
+const d = entry.data;
+const path = `/panama/san-blas/${activity}/`;
+const site = Astro.site!.origin;
+
+const schemas = [
+  breadcrumbs(site, locale, [
+    { name: 'Ikigai Sailing', path: '/' },
+    { name: 'San Blas', path: '/panama/san-blas/' },
+    { name: d.title, path },
+  ]),
+  ...(d.faq.length ? [faqPage(d.faq)] : []),
+];
+const contactHref = localizePath(`/contact/?topic=${encodeURIComponent(d.title)}`, locale);
+const activityHref = localizePath(`/activities/${activity}/`, locale);
+const seasonHref = localizePath('/season-2025-26/', locale);
+---
+<PageLayout title={d.seoTitle ?? d.title} description={d.metaDescription ?? d.description} path={path} ogType="article" conciergeContext="activity" availableLocales={availableLocales}>
+  <Fragment slot="head">{schemas.map((s) => <JsonLd schema={s} />)}</Fragment>
+
+  <header class="relative isolate overflow-hidden bg-ocean-950">
+    {d.heroImage && (
+      <Image src={d.heroImage} alt={d.title} width={1800} height={1000} widths={[640, 1024, 1800]} sizes="100vw" priority class="absolute inset-0 -z-10 h-full w-full object-cover opacity-55" />
+    )}
+    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-ocean-950 via-ocean-950/55 to-transparent"></div>
+    <div class="mx-auto flex min-h-[58vh] max-w-5xl flex-col justify-end px-4 py-16 sm:px-6">
+      <p class="coords text-ocean-300">San Blas · Guna Yala · Panama</p>
+      <h1 class="mt-3 max-w-3xl font-display text-4xl leading-tight text-sand-50 sm:text-6xl">{d.title}</h1>
+      {d.lead && <p class="mt-4 max-w-2xl text-lg text-sand-100/90">{d.lead}</p>}
+    </div>
+  </header>
+
+  <div class="mx-auto grid max-w-5xl gap-12 px-4 py-14 sm:px-6 lg:grid-cols-[1fr_20rem]">
+    <article>
+      <Prose entry={entry} />
+      {d.faq.length > 0 && (
+        <section class="mt-12">
+          <h2 class="font-display text-2xl text-ocean-950">{t('trip.faq')}</h2>
+          <FaqAccordion faq={d.faq} />
+        </section>
+      )}
+      {d.gallery.length > 0 && <section class="mt-12"><Gallery images={d.gallery} alt={d.title} /></section>}
+    </article>
+
+    <aside class="lg:sticky lg:top-20 lg:self-start">
+      <div class="rounded-2xl bg-sand-100 p-6 ring-1 ring-ocean-950/5">
+        <p class="font-display text-xl text-ocean-950">{t('contact.title')}</p>
+        <a href={seasonHref} class="mt-4 block rounded-full bg-coral-500 px-5 py-3 text-center font-semibold text-white transition hover:bg-coral-400">{t('cta.book')}</a>
+        <a href={WHATSAPP_URL} target="_blank" rel="noopener" class="mt-2 block rounded-full border border-ocean-300 px-5 py-3 text-center font-semibold text-ocean-700 transition hover:bg-ocean-100">{t('cta.whatsapp')}</a>
+        <div class="mt-5 border-t border-ocean-950/10 pt-4 text-sm">
+          <p class="coords mb-2 text-ocean-600">{t('home.activitiesEyebrow')}</p>
+          <a href={activityHref} class="block text-ocean-700 underline underline-offset-2 hover:text-ocean-900">{t('cta.readMore')} →</a>
+        </div>
+        <p class="mt-4 text-xs leading-relaxed text-ink-soft">{t('footer.nonprofit')}</p>
+      </div>
+    </aside>
+  </div>
+</PageLayout>
