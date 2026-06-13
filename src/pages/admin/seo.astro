@@ -1,12 +1,12 @@
 ---
 /**
  * /admin/seo — the SEO optimisation matrix. Basic-Auth gated. Build-time: every targeted
- * page (src/data/seoTargets.ts) is scored against its per-locale keyword across all 5
+ * page (src/data/seoKeywords.ts) is scored against its per-locale keyword across all 5
  * locales, with the specific fixes. Standalone shell (no public i18n surface).
  */
 import '../../styles/global.css';
 import { getCollection } from 'astro:content';
-import { SEO_TARGETS } from '../../data/seoTargets';
+import { SEO_TARGETS } from '../../data/seoKeywords';
 import { scoreSeo } from '../../lib/seoScore';
 import { locales } from '../../i18n/ui';
 
@@ -108,7 +108,7 @@ const fixesFor = (pl: any) => pl.missing ? ['no content file for this locale']
       </div>
 
       <footer class="mt-8 border-t border-white/5 pt-4 font-mono text-[0.65rem] text-slate-600">
-        targets: src/data/seoTargets.ts · scorer: src/lib/seoScore.ts · rebuilds every deploy
+        targets: src/data/seoKeywords.ts · scorer: src/lib/seoScore.ts · rebuilds every deploy
       </footer>
     </main>
   </body>
