@@ -151,5 +151,9 @@
   "cart.note": "I pagamenti sono quote associative alla nostra ASD.",
   "trips.invitation": "Solo su invito.",
   "trips.invitationLead": "Questi viaggi più lunghi sono riservati ai soci dell'ASD che conoscono già la barca e l'equipaggio. Sali a bordo una volta, poi naviga più lontano con noi.",
-  "booking.waiver": "Scarica e firma la liberatoria (PDF)"
+  "booking.waiver": "Scarica e firma la liberatoria (PDF)",
+  "home.instagramEyebrow": "Segui",
+  "home.instagramTitle": "Ultime novità da Instagram",
+  "home.instagramFollow": "Segui @ikigaisailing_asd",
+  "home.instagramEmpty": "Pubblichiamo direttamente dalla barca: le foto e i reel più recenti, in diretta da San Blas. Seguici su Instagram."
 }

@@ -151,5 +151,9 @@
   "cart.note": "Les paiements sont des cotisations de membre à notre ASD.",
   "trips.invitation": "Sur invitation uniquement.",
   "trips.invitationLead": "Ces croisières plus longues sont réservées aux membres de l'ASD qui connaissent déjà le bateau et l'équipage. Viens faire un tour à bord, puis pars naviguer plus loin avec nous.",
-  "booking.waiver": "Télécharge et signe la décharge de responsabilité (PDF)"
+  "booking.waiver": "Télécharge et signe la décharge de responsabilité (PDF)",
+  "home.instagramEyebrow": "Suis-nous",
+  "home.instagramTitle": "Les dernières nouvelles d'Instagram",
+  "home.instagramFollow": "Suis @ikigaisailing_asd",
+  "home.instagramEmpty": "On poste depuis le bateau : les dernières photos et vidéos, en direct de San Blas. Suis-nous sur Instagram."
 }

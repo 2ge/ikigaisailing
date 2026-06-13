@@ -17,3 +17,9 @@ PUBLIC_TURNSTILE_SITEKEY=
 # Google Places API (live reviews on /reviews/) — set these in Cloudflare Pages too
 GOOGLE_MAPS_API_KEY=
 GOOGLE_PLACE_ID=
+
+# Instagram feed (build-time, posts + reels on the home page). See docs/INSTAGRAM-SETUP.md.
+# Long-lived Page/IG access token + the Instagram Business account id. Also set as
+# GitHub repo secrets so CI builds (and the scheduled rebuild) fetch fresh posts.
+IG_ACCESS_TOKEN=
+IG_USER_ID=
