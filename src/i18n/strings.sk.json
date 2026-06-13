@@ -148,5 +148,7 @@
   "cart.remove": "Odstrániť",
   "cart.extras": "Pridať extra",
   "cart.indicative": "orientačná cena",
-  "cart.note": "Platby sú členské príspevky nášmu ASD."
+  "cart.note": "Platby sú členské príspevky nášmu ASD.",
+  "trips.invitation": "Iba na pozvánku.",
+  "trips.invitationLead": "Tieto dlhšie plavby sú určené členom ASD, ktorí už poznajú loď aj posádku. Príďte sa raz pozrieť na palubu a potom s nami vyplávajte ďalej."
 }

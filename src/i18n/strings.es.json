@@ -148,5 +148,7 @@
   "cart.remove": "Quitar",
   "cart.extras": "Añadir extras",
   "cart.indicative": "precio indicativo",
-  "cart.note": "Los pagos son cuotas de socio de nuestra ASD."
+  "cart.note": "Los pagos son cuotas de socio de nuestra ASD.",
+  "trips.invitation": "Solo con invitación.",
+  "trips.invitationLead": "Estos viajes más largos están reservados para los socios de ASD que ya conocen el barco y a la tripulación. Sube a bordo una vez y luego navega más lejos con nosotros."
 }

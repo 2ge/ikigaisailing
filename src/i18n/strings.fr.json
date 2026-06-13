@@ -148,5 +148,7 @@
   "cart.remove": "Retirer",
   "cart.extras": "Ajouter des extras",
   "cart.indicative": "prix indicatif",
-  "cart.note": "Les paiements sont des cotisations de membre à notre ASD."
+  "cart.note": "Les paiements sont des cotisations de membre à notre ASD.",
+  "trips.invitation": "Sur invitation uniquement.",
+  "trips.invitationLead": "Ces croisières plus longues sont réservées aux membres de l'ASD qui connaissent déjà le bateau et l'équipage. Viens faire un tour à bord, puis pars naviguer plus loin avec nous."
 }

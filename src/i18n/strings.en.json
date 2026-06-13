@@ -148,5 +148,7 @@
   "cart.remove": "Remove",
   "cart.extras": "Add extras",
   "cart.indicative": "indicative price",
-  "cart.note": "Payments are member contributions to our ASD."
+  "cart.note": "Payments are member contributions to our ASD.",
+  "trips.invitation": "By invitation only.",
+  "trips.invitationLead": "These longer voyages are reserved for ASD members who already know the boat and crew. Come aboard once, then sail further with us."
 }
