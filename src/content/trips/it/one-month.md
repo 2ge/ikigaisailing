@@ -7,7 +7,7 @@ currency: "EUR"
 duration: "1 month"
 location: "San Blas, Panama"
 membersOnly: true
-heroImage: "~/assets/trips/10-days-on-board/IMG_3237.webp"
+heroImage: "~/assets/trips/10-days-on-board/Take-a-Break-from-Life.webp"
 order: 3
 oldUrls:
   - "/it/prodotto/un-mese/"
