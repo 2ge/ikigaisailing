@@ -130,7 +130,7 @@ export const KEYWORDS: Keyword[] = [
     it: { primary: 'ritiro terapia acqua janzu panama', vol: 40, kd: 'Extremely Low' }, es: { primary: 'retiro terapia acuatica janzu panama', vol: 60, kd: 'Extremely Low' },
     fr: { primary: 'retraite therapie aquatique janzu panama', vol: 50, kd: 'Extremely Low' }, sk: { primary: 'janzu vodna terapia retreat panama', vol: 15, kd: 'Extremely Low (0)' },
   } },
-  { id: 'sanblas-meditation', set: 'san-blas', build: '/panama/san-blas/meditation/', loc: {
+  { id: 'sanblas-meditation', set: 'san-blas', page: { collection: 'landings', slug: 'meditation' }, loc: {
     en: { primary: 'meditation retreat san blas islands', kd: 'Extremely Low', spokes: ['mindfulness retreat caribbean', 'breathwork meditation sailing panama'] },
     it: { primary: 'ritiro meditazione barca a vela panama' }, es: { primary: 'retiro meditacion islas san blas' },
     fr: { primary: 'meditation retraite san blas' }, sk: { primary: 'meditacny retreat san blas ostrovy' },

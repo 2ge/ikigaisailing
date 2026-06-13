@@ -44,9 +44,9 @@ export const PHASES: Phase[] = [
     id: 'p3', title: 'Phase 3 — Geo pages & pillars', goal: 'Region hubs + geo activity pages (near-term money); activity pages go worldwide/evergreen.',
     steps: [
       { title: '/panama/san-blas/ pillar → "san blas catamaran charter", links to geo activity pages + offers', status: 'done' },
-      { title: 'Geo activity pages /panama/san-blas/<activity> → regional keywords', status: 'now', note: 'yoga/freediving/janzu DONE (sharp voice); meditation remains' },
+      { title: 'Geo activity pages /panama/san-blas/<activity> → regional keywords', status: 'done', note: 'yoga/freediving/janzu/meditation all built (sharp voice)' },
       { title: 'Re-map seoKeywords.ts: activity pages → WORLDWIDE keywords (autocomplete-mined); geo clusters → /panama/san-blas/<x>', status: 'done', note: 'volumes are estimates pending DataForSEO' },
-      { title: 'BUILD the /panama/san-blas/<x> geo pages', status: 'now', note: '3 built (yoga, freediving, janzu) — pillar + meditation next' },
+      { title: 'BUILD the /panama/san-blas/<x> geo pages', status: 'done', note: 'pillar + yoga + freediving + janzu + meditation — all 5 live' },
       { title: '/world-voyage/ pillar for the long-term voyage keywords', status: 'todo' },
     ],
   },
