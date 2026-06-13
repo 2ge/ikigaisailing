@@ -7,7 +7,7 @@ currency: "EUR"
 duration: "10 days"
 location: "San Blas, Panama"
 membersOnly: false
-heroImage: "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+heroImage: "~/assets/trips/acconto/attraversata-atlantica.webp"
 order: 2
 oldUrls:
   - "/it/prodotto/vivere-10-giorni-a-bordo/"

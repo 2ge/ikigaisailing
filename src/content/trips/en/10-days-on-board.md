@@ -9,7 +9,7 @@ currency: "EUR"
 duration: "10 days"
 location: "San Blas, Panama"
 membersOnly: false
-heroImage: "~/assets/trips/acconto/20221220_125124-scaled.jpg"
+heroImage: "~/assets/trips/acconto/attraversata-atlantica.webp"
 gallery:
   - "~/assets/trips/10-days-on-board/IMG-20221227-WA0019.jpg.webp"
   - "~/assets/trips/10-days-on-board/ikigaisailing.jpg"
