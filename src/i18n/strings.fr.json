@@ -138,5 +138,15 @@
   "ikigai.mission": "Mission",
   "ikigai.missionBody": "Promouvoir un tourisme durable et un mode de vie sain qui réponde à nos besoins fondamentaux et favorise un véritable bien-être.",
   "ikigai.profession": "Profession",
-  "ikigai.professionBody": "En tant que skippers et moniteurs professionnels, on partage une culture maritime placée sous le signe de l'aventure et du bien-être, avec des cours de voile, d'apnée, de pêche, de plongée, de kitesurf et de yoga."
+  "ikigai.professionBody": "En tant que skippers et moniteurs professionnels, on partage une culture maritime placée sous le signe de l'aventure et du bien-être, avec des cours de voile, d'apnée, de pêche, de plongée, de kitesurf et de yoga.",
+  "cart.title": "Votre panier",
+  "cart.empty": "Votre panier est vide.",
+  "cart.total": "Total",
+  "cart.checkout": "Paiement",
+  "cart.add": "Ajouter au panier",
+  "cart.added": "Dans le panier",
+  "cart.remove": "Retirer",
+  "cart.extras": "Ajouter des extras",
+  "cart.indicative": "prix indicatif",
+  "cart.note": "Les paiements sont des cotisations de membre à notre ASD."
 }

@@ -1,0 +1,141 @@
+---
+/**
+ * Slide-in cart. Opened by the header cart button (`cart:open` event). Items are
+ * rendered client-side from localStorage; "Add extras" lists the add-on catalog.
+ * Checkout posts SKUs to /api/checkout, which re-prices server-side.
+ */
+import { ADDONS } from '../data/addons';
+import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
+import { WHATSAPP_URL } from '../i18n/nav';
+const locale = getLocaleFromUrl(Astro.url);
+const t = useTranslations(locale);
+---
+<div id="cart-drawer" class="fixed inset-0 z-[70] hidden" aria-hidden="true">
+  <div data-cart-overlay class="absolute inset-0 bg-ocean-950/40 backdrop-blur-sm"></div>
+  <aside class="absolute right-0 top-0 flex h-full w-full max-w-sm flex-col bg-sand-50 shadow-2xl">
+    <header class="flex items-center justify-between border-b border-ocean-950/10 px-5 py-4">
+      <h2 class="font-display text-xl text-ocean-950">{t('cart.title')}</h2>
+      <button data-cart-close aria-label="Close" class="rounded-full p-1.5 text-ink-soft hover:bg-ocean-100">
+        <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18" stroke-linecap="round"/></svg>
+      </button>
+    </header>
+
+    <div class="flex-1 overflow-y-auto px-5 py-4">
+      <ul data-cart-items class="space-y-3"></ul>
+      <p data-cart-empty class="hidden py-6 text-center text-sm text-ink-soft">{t('cart.empty')}</p>
+
+      <div class="mt-7">
+        <p class="coords mb-3 text-ocean-600">{t('cart.extras')}</p>
+        <ul class="space-y-2">
+          {ADDONS.map((a) => (
+            <li class="flex items-center justify-between gap-3 rounded-xl bg-sand-100 p-3">
+              <div class="min-w-0 text-sm">
+                <p class="font-medium text-ocean-950">{a.name[locale]}</p>
+                <p class="text-ink-soft">€{a.price.toLocaleString()}{a.placeholder && <em class="text-coral-500"> · {t('cart.indicative')}</em>}</p>
+              </div>
+              <button data-add-addon={a.id} data-name={a.name[locale]} data-price={a.price}
+                class="shrink-0 rounded-full border border-ocean-300 px-3 py-1.5 text-xs font-semibold text-ocean-700 transition hover:bg-ocean-100">+</button>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <footer class="border-t border-ocean-950/10 px-5 py-4">
+      <div class="flex items-baseline justify-between">
+        <span class="text-ink-soft">{t('cart.total')}</span>
+        <span data-cart-total class="font-display text-2xl text-ocean-950">€0</span>
+      </div>
+      <button data-cart-checkout class="mt-3 w-full rounded-full bg-ocean-700 px-5 py-3 font-semibold text-sand-50 transition hover:bg-ocean-600 disabled:opacity-50">{t('cart.checkout')}</button>
+      <p data-cart-msg class="mt-2 hidden text-center text-sm text-coral-600"></p>
+      <p class="mt-2 text-center text-xs leading-relaxed text-ink-soft">{t('cart.note')}</p>
+    </footer>
+  </aside>
+</div>
+
+<script define:vars={{ waUrl: WHATSAPP_URL, removeLabel: t('cart.remove') }}>
+  // hold for the bundled module below
+  window.__cartWA = waUrl;
+  window.__cartRemove = removeLabel;
+</script>
+<script>
+  import { cart } from '../scripts/cart';
+
+  const eur = (n) => '€' + n.toLocaleString();
+  const $ = (s) => document.querySelector(s);
+
+  function render() {
+    const list = $('[data-cart-items]');
+    if (!list) return;
+    const items = cart.items();
+    list.innerHTML = items.map((i) => `
+      <li class="flex items-start justify-between gap-3 rounded-xl bg-sand-100 p-3">
+        <div class="min-w-0"><p class="font-medium text-ocean-950">${i.name}</p>
+          <p class="text-sm text-ink-soft">${eur(i.price * i.qty)}${i.qty > 1 ? ' · ×' + i.qty : ''}</p></div>
+        <button data-remove="${i.sku}" class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2">${(window).__cartRemove || 'Remove'}</button>
+      </li>`).join('');
+    $('[data-cart-empty]')?.classList.toggle('hidden', items.length > 0);
+    const tot = $('[data-cart-total]'); if (tot) tot.textContent = eur(cart.total());
+    const badge = $('[data-cart-count]');
+    if (badge) { const c = cart.count(); badge.textContent = String(c); badge.classList.toggle('hidden', c === 0); }
+  }
+
+  function openDrawer() { const d = document.getElementById('cart-drawer'); d?.classList.remove('hidden'); d?.setAttribute('aria-hidden', 'false'); }
+  function closeDrawer() { const d = document.getElementById('cart-drawer'); d?.classList.add('hidden'); d?.setAttribute('aria-hidden', 'true'); }
+
+  async function checkout() {
+    const items = cart.items();
+    if (!items.length) return;
+    const btn = $('[data-cart-checkout]'); const msg = $('[data-cart-msg]');
+    btn.disabled = true;
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ items: items.map((i) => ({ sku: i.sku, quantity: i.qty })), locale: document.documentElement.lang || 'en' }),
+      });
+      const data = await res.json();
+      if (data.url) { location.href = data.url; return; }
+      throw new Error(data.error || 'unavailable');
+    } catch {
+      // Not configured yet (no Stripe key) or any error → graceful WhatsApp fallback.
+      if (msg) { msg.innerHTML = 'Online booking is being finalised — <a class="underline" href="' + ((window).__cartWA || '#') + '" target="_blank" rel="noopener">message us on WhatsApp</a>.'; msg.classList.remove('hidden'); }
+    } finally { btn.disabled = false; }
+  }
+
+  function bindHeaderButtons() {
+    document.querySelectorAll('[data-cart-button]').forEach((b) => {
+      if (b.dataset.bound) return;
+      b.dataset.bound = '1';
+      b.addEventListener('click', openDrawer);
+    });
+  }
+
+  // "Add to cart" buttons live on trip pages (outside the drawer) — delegate once.
+  if (!(window).__cartPkgBound) {
+    (window).__cartPkgBound = true;
+    document.addEventListener('click', (e) => {
+      const p = e.target.closest && e.target.closest('[data-add-package]');
+      if (!p) return;
+      cart.add({ sku: p.getAttribute('data-sku'), kind: 'package', name: p.getAttribute('data-name'), price: Number(p.getAttribute('data-price')) });
+      document.dispatchEvent(new CustomEvent('cart:open'));
+    });
+  }
+
+  function bind() {
+    bindHeaderButtons();
+    const d = document.getElementById('cart-drawer');
+    if (!d || d.dataset.bound) { render(); document.addEventListener('cart:open', openDrawer); return; }
+    d.dataset.bound = '1';
+    document.addEventListener('cart:open', openDrawer);
+    document.addEventListener('cart:change', render);
+    d.addEventListener('click', (e) => {
+      const el = e.target;
+      if (el.closest('[data-cart-close]') || el.hasAttribute('data-cart-overlay')) return closeDrawer();
+      const rm = el.closest('[data-remove]'); if (rm) return cart.remove(rm.getAttribute('data-remove'));
+      const add = el.closest('[data-add-addon]'); if (add) return cart.add({ sku: 'addon:' + add.getAttribute('data-add-addon'), kind: 'addon', name: add.getAttribute('data-name'), price: Number(add.getAttribute('data-price')) });
+      if (el.closest('[data-cart-checkout]')) return checkout();
+    });
+    render();
+  }
+  document.addEventListener('astro:page-load', bind);
+</script>

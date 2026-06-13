@@ -138,5 +138,15 @@
   "ikigai.mission": "Misión",
   "ikigai.missionBody": "Promover el turismo sostenible y un estilo de vida saludable que satisfaga nuestras necesidades básicas y fomente el verdadero bienestar.",
   "ikigai.profession": "Profesión",
-  "ikigai.professionBody": "Como patrones e instructores profesionales, compartimos una cultura marinera basada en la aventura y el bienestar, con cursos de vela, buceo libre, pesca, submarinismo, kitesurf y yoga."
+  "ikigai.professionBody": "Como patrones e instructores profesionales, compartimos una cultura marinera basada en la aventura y el bienestar, con cursos de vela, buceo libre, pesca, submarinismo, kitesurf y yoga.",
+  "cart.title": "Tu carrito",
+  "cart.empty": "Tu carrito está vacío.",
+  "cart.total": "Total",
+  "cart.checkout": "Pagar",
+  "cart.add": "Añadir al carrito",
+  "cart.added": "En el carrito",
+  "cart.remove": "Quitar",
+  "cart.extras": "Añadir extras",
+  "cart.indicative": "precio indicativo",
+  "cart.note": "Los pagos son cuotas de socio de nuestra ASD."
 }
