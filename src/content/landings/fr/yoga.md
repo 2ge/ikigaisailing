@@ -11,6 +11,10 @@ metaDescription: >-
   navigation tranquille entre les îles de Guna Yala — réservation par cabine.
 locale: fr
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
+gallery:
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/carla-yoga.webp
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg
 lead: >-
   Une retraite de yoga à San Blas, au Panama, ce n'est pas un hôtel avec vue sur
   la mer. C'est un catamaran Catana 47 ancré au milieu des îles Guna, ton tapis
@@ -32,8 +36,9 @@ faq:
       faire des figures de yoga.
   - q: C'est quand la saison de San Blas ?
     a: >-
-      On reste à San Blas pendant la saison calme, en gros jusqu'en mars. Après
-      ça, le même groupe part en bateau vers la prochaine destination.
+      On est à l'ancrage à San Blas de décembre 2025 à juin 2026. Après ça, le
+      bateau repart, et le même système de paiement par cabine nous suit jusqu'à
+      la prochaine destination.
   - q: Comment puis-je me rendre au catamaran ?
     a: >-
       Depuis Panama City, il faut prendre un 4×4 pour franchir la crête de Guna
@@ -41,7 +46,7 @@ faq:
       est à l'ancre. On s'occupe de tout organiser pour le transfert — il suffit
       de nous envoyer ton heure d'arrivée.
 translated: deepl
-sourceHash: fb84af288ae94aa1
+sourceHash: 6ccc03f9dbc2675d
 ---
 
 ## À quoi ressemble vraiment une retraite de yoga sur un catamaran
@@ -50,12 +55,12 @@ Tu vis à bord de **l'Ikigai**, notre **Catana 47**. La journée commence par du
 
 ## Ce qui est inclus dans la retraite de yoga à San Blas
 
-Tu réserves une couchette, par cabine — pas de groupe à former, pas de bateau entier à remplir. La semaine te propose un lit à bord d’un Catana 47, du yoga et des exercices de respiration tous les matins, tous les repas préparés à bord à partir de poissons fraîchement pêchés et des produits des îles, du matériel de plongée avec tuba et d’apnée, ainsi qu’une navigation tranquille entre les mouillages de San Blas avec un équipage certifié RYA Yachtmaster et AIDA / Apnea Total. Ce que tu paies, c'est une **cotisation à Ikigai Sailing ASD**, une association à but non lucratif reconnue par le CONI et affiliée à MSP Italia — ce n'est pas un tarif commercial. C'est la raison pour laquelle une semaine ici ne coûte qu'une fraction du prix d'une croisière organisée par une agence : ton argent couvre l'expérience et le fonctionnement du bateau, pas la commission d'un intermédiaire.
+Tu réserves une couchette, par cabine — pas de groupe à former, pas de bateau entier à remplir. La semaine te propose un lit à bord d’un Catana 47, du yoga et des exercices de respiration tous les matins, tous les repas préparés à bord à partir de poissons fraîchement pêchés et des produits des îles, du matériel de plongée avec tuba et d’apnée, ainsi qu’une navigation tranquille entre les mouillages de San Blas avec un équipage certifié RYA Yachtmaster et AIDA / Apnea Total. Ce que tu paies, c'est une **cotisation à Ikigai Sailing ASD**, une association à but non lucratif reconnue par le CONI et affiliée à MSP Italia — ce n'est pas un prix commercial. C'est la raison pour laquelle une semaine ici ne coûte qu'une fraction du prix d'une croisière organisée par une agence : ton argent couvre l'expérience et le fonctionnement du bateau, pas la commission d'un intermédiaire.
 
 ## Pourquoi ici, et pas à Bali ou en Croatie
 
-Les itinéraires de yoga et de voile les plus connus sont la Méditerranée et l’Asie du Sud-Est. Complètement réservés, bondés, conçus pour les photos. San Blas, c'est tout le contraire : un territoire autonome Guna où la construction en béton est interdite, où les lagons restent calmes et chauds toute l'année, et où la plupart du temps, tu ne verras pas d'autre bateau de location sur l'eau. Moins de monde. Une mer plus chaude. Un endroit qui appartient encore à lui-même.
+Les itinéraires de yoga-voile les plus connus sont la Méditerranée et l’Asie du Sud-Est. Complètement réservés, bondés, conçus pour les photos. San Blas, c'est tout le contraire : un territoire autonome Guna où la construction en béton est interdite, où les lagons restent calmes et chauds toute l'année, et où la plupart du temps, tu ne verras pas d'autre bateau de location sur l'eau. Moins de monde. Une mer plus chaude. Un endroit qui appartient encore à lui-même.
 
 ## Qui monte à bord
 
-Des débutants et des pratiquants de vingt ans d’expérience. Des voyageurs en solo, des couples, quelques personnes plus proches du burn-out qu’elles ne veulent bien l’admettre. On limite volontairement la taille du groupe — une pratique que tu peux ressentir, pas un cours de trente personnes entassées sur un ponton.
+Des débutants et des pratiquants depuis vingt ans. Des voyageurs en solo, des couples, quelques personnes plus proches du burn-out qu’elles ne veulent bien l’admettre. On limite volontairement la taille du groupe — une pratique que tu peux ressentir, pas un cours de trente personnes entassées sur un ponton.

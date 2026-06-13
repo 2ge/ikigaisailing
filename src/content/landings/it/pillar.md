@@ -34,9 +34,9 @@ faq:
       scrivici su WhatsApp.
   - q: Quando posso navigare a San Blas?
     a: >-
-      Durante la bassa stagione, più o meno fino a marzo. Al di fuori di questo
-      periodo, la barca si sposta altrove e lo stesso modello di tariffa per
-      cabina viene applicato anche lì.
+      Saremo all'ancora a San Blas da dicembre 2025 a giugno 2026, durante la
+      tranquilla stagione caraibica. Dopodiché la barca proseguirà verso il
+      Pacifico, e lo stesso modello di tariffa a cabina la seguirà.
   - q: Come ci si arriva?
     a: >-
       Un fuoristrada da Panama City attraverso la catena montuosa di Guna Yala,
@@ -44,20 +44,20 @@ faq:
       Ci occupiamo noi di organizzare l'intero trasferimento una volta
       effettuata la prenotazione.
 translated: deepl
-sourceHash: 8d0cb7cdea6890bf
+sourceHash: b83612d7a21dc093
 ---
 
 ## Cos'è in realtà un noleggio in catamarano a San Blas
 
 San Blas — **Guna Yala** sulle mappe — è un territorio indigeno autonomo composto da circa 365 isole al largo della costa caraibica di Panama. I Guna lo gestiscono da soli: niente edifici in cemento, niente resort, un limite a ciò che si può prelevare dal mare. La maggior parte delle isole sono puntini disabitati di palme e sabbia bianca. Si raggiungono in un solo modo: in barca. Noi navighiamo sull**'Ikigai**, un catamarano **Catana 47**, e lo noleggiamo **a cabina**, così non devi mettere insieme un gruppo o affittare l'intera imbarcazione.
 
-## Per cabina, non per barca: ecco perché è importante
+## Per cabina, non per barca: perché è importante
 
-I charter dell’intera imbarcazione a San Blas costano più di 18.000 € a settimana tramite le agenzie, il che significa che hai bisogno di cinque o sei amici pronti a impegnarsi e di un broker che si prende una commissione del 15-30%. La formula per cabina rompe questo schema. Prenoti una cuccetta. La settimana include un posto letto a bordo di un Catana 47, tutti i pasti cucinati a bordo con pesce fresco e prodotti delle isole, attrezzatura per lo snorkeling e l’apnea, e una navigazione tranquilla tra gli ancoraggi con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è una **quota associativa a Ikigai Sailing ASD**, un’associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. È proprio questa struttura il motivo per cui una settimana qui costa una frazione della tariffa delle agenzie.
+I charter dell’intera imbarcazione a San Blas costano più di 18.000 € a settimana tramite le agenzie, il che significa che hai bisogno di cinque o sei amici pronti a impegnarsi e di un broker che si prende una commissione del 15-30%. La formula per cabina rompe questo schema. Prenoti una cuccetta. La settimana include un posto letto a bordo di un Catana 47, tutti i pasti cucinati a bordo con pesce fresco e prodotti delle isole, attrezzatura per lo snorkeling e l’apnea, e navigazione tranquilla tra gli ancoraggi con un equipaggio in possesso delle certificazioni RYA Yachtmaster e AIDA / Apnea Total. Quello che paghi è una **quota associativa a Ikigai Sailing ASD**, un’associazione senza scopo di lucro riconosciuta dal CONI e affiliata a MSP Italia — non una tariffa commerciale. È proprio questa struttura il motivo per cui una settimana qui costa una frazione della tariffa delle agenzie.
 
 ## Cosa si fa qui
 
-Apnea in acque così limpide da vedere il fondale. Yoga su un ponte perfettamente piano. Janzu nelle lagune abbastanza calme da permetterlo. O niente: un'amaca, un libro, la prossima isola deserta. Le giornate si adattano al tempo e a ciò che il gruppo desidera, non a un itinerario fisso.
+Apnea in acque così limpide da vedere il fondale. Yoga su un ponte perfettamente piatto. Janzu nelle lagune abbastanza calme da permetterlo. O niente: un'amaca, un libro, la prossima isola deserta. Le giornate si adattano al tempo e a ciò che il gruppo desidera, non a un itinerario fisso.
 
 ## Un luogo che appartiene ancora a se stesso
 

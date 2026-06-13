@@ -10,19 +10,23 @@ metaDescription: >-
   ostrovmi Guna Yala – rezervácia na kajutu.
 locale: sk
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
+gallery:
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/carla-yoga.webp
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg
 lead: >-
   Jógový pobyt v San Blase v Paname nie je hotel s výhľadom na more. Je to
   katamarán Catana 47 zakotvený medzi ostrovmi Guna, vaša podložka na prednej
-  palube pri prvých lúčoch slnka a voda, ktorá má už 28 °C. Žiadny rozvrh.
-  Žiadne wifi, ktoré vás ťahá za rukáv. Len dych, soľ a ďalší ostrov.
+  palube pri prvých lúčoch slnka, voda už má 28 °C. Žiadny rozvrh. Žiadne wifi,
+  ktoré by vás ťahalo za rukáv. Len dych, soľ a ďalší ostrov.
 faq:
-  - q: Koľko stojí jógový pobyt v San Blas?
+  - q: Koľko stojí jógový pobyt v San Blase?
     a: >-
-      Rezervácia sa vykonáva na základe počtu chát a uvedená suma predstavuje
+      Rezervácia sa uskutočňuje na jednotlivé chaty a uvedená suma predstavuje
       členský príspevok do našej neziskovej organizácie ASD – nejde o poplatok
       za prenájom. Preto je cena výrazne nižšia ako ceny ponúkané cestovnými
       kanceláriami. Aktuálne sezónne ceny a voľné termíny nájdete na stránke
-      venovanej sezónnym cenám alebo nám napíšte cez WhatsApp.
+      venovanej sezónam alebo nám napíšte cez WhatsApp.
   - q: Potrebujem mať skúsenosti s jógou?
     a: >-
       Nie. Cvičenie je jemné a prispôsobí sa vašej aktuálnej kondícii. Ide o
@@ -30,15 +34,15 @@ faq:
       nie o akrobatické pozície.
   - q: Kedy je sezóna v San Blase?
     a: >-
-      V San Blas zostávame počas pokojných mesiacov, približne do marca. Potom
-      sa tá istá skupina vydá s loďou ďalej do ďalšej destinácie.
+      V San Blas kotvíme od decembra 2025 do júna 2026. Potom loď odpláva a
+      rovnaký systém prenájmu kajút sa prenesie aj do ďalšej destinácie.
   - q: Ako sa dostanem na katamarán?
     a: >-
       Z Panama City sa ide terénnym vozidlom cez hrebeň Guna Yala a potom
-      nasleduje krátka plavba na člne panga k miestu, kde kotví loď Ikigai. Celý
-      transfer zariadime – stačí nám poslať čas vášho príchodu.
+      nasleduje krátka plavba na člne panga až k miestu, kde kotví loď Ikigai.
+      Celý transfer zaistíme – stačí nám poslať čas vášho príchodu.
 translated: deepl
-sourceHash: fb84af288ae94aa1
+sourceHash: 6ccc03f9dbc2675d
 needsReview: true
 ---
 
@@ -48,12 +52,12 @@ Bývate na palube **Ikigai**, našej **Catany 47**. Deň začína jógou a dycho
 
 ## Čo je zahrnuté v jogovom pobyte v San Blas
 
-Rezervujete si jedno lôžko v kajute – nemusíte dávať dokopy skupinu ani obsadiť celú loď. Tento týždeň vám ponúka posteľ na palube lode Catana 47, každé ráno jogu a dychové cvičenia, každé jedlo pripravené na palube z čerstvo ulovených rýb a plodov ostrovov, vybavenie na šnorchlovanie a freediving a pomalú plavbu medzi kotviskami v San Blas s posádkou, ktorá má certifikáty RYA Yachtmaster a AIDA / Apnea Total. To, čo platíte, je **členský príspevok pre Ikigai Sailing ASD**, neziskovú organizáciu uznávanú CONI a pridruženú k MSP Italia – nie komerčný poplatok. To je jediný dôvod, prečo týždeň strávený u nás stojí zlomok ceny plavby cez agentúru: vaše peniaze pokrývajú zážitok a prevádzku lode, nie províziu sprostredkovateľa.
+Rezervujete si jedno lôžko v kajute – nemusíte dávať dokopy skupinu ani zapĺňať celú loď. Tento týždeň vám ponúka posteľ na palube lode Catana 47, každé ráno jogu a dychové cvičenia, každé jedlo pripravené na palube z čerstvo ulovených rýb a plodov ostrovov, vybavenie na šnorchlovanie a freediving a pomalú plavbu medzi kotviskami v San Blas s posádkou, ktorá má certifikáty RYA Yachtmaster a AIDA / Apnea Total. To, čo platíte, je **členský príspevok pre Ikigai Sailing ASD**, neziskovú organizáciu uznávanú CONI a pridruženú k MSP Italia – nie komerčný poplatok. To je jediný dôvod, prečo týždeň strávený u nás stojí zlomok ceny plavby cez agentúru: vaše peniaze pokrývajú zážitok a prevádzku lode, nie províziu sprostredkovateľa.
 
 ## Prečo práve tu a nie na Bali alebo v Chorvátsku
 
-Slávne trasy pre jógové plachtenie sú Stredozemné more a juhovýchodná Ázia. Vypredané, rušné, stvorené na fotky. San Blas je presný opak – autonómne územie Guna, kde sú zakázané betónové stavby, lagúny zostávajú pokojné a teplé po celý rok a väčšinu dní na vode neuvidíte žiadnu inú charterovú loď. Menej ľudí. Teplejšie more. Miesto, ktoré stále patrí samo sebe.
+Slávne trasy pre jógové plavby sú Stredozemné more a juhovýchodná Ázia. Vypredané, rušné, stvorené na fotky. San Blas je presný opak – autonómne územie Guna, kde sú zakázané betónové stavby, lagúny zostávajú pokojné a teplé po celý rok a väčšinu dní na vode neuvidíte žiadnu inú charterovú loď. Menej ľudí. Teplejšie more. Miesto, ktoré stále patrí samo sebe.
 
 ## Kto nastupuje na palubu
 
-Začiatočníci aj dvadsaťroční praktizujúci. Samotní cestovatelia, páry, pár ľudí, ktorí sú bližšie k vyhoreniu, než by nahlas priznali. Skupinu zámerne udržiavame malú – cvičenie, ktoré môžete cítiť, nie hodina s tridsiatimi ľuďmi natlačenými na pontóne.
+Začiatočníci aj dvadsaťroční praktizujúci. Samotní cestovatelia, páry, pár ľudí, ktorí sú bližšie k vyhoreniu, než by nahlas priznali. Skupinu zámerne udržiavame malú – cvičenie, ktoré môžete cítiť, nie trieda tridsiatich ľudí natlačených na pontóne.

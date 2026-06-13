@@ -4,7 +4,11 @@ description: "A small-group meditation and breathwork retreat in the San Blas is
 seoTitle: "Meditation Retreat in the San Blas Islands | Ikigai Sailing"
 metaDescription: "Meditation and breathwork aboard a Catana 47 catamaran in the San Blas islands, Panama. No wifi, no itinerary — sit at anchor in Guna Yala, book per cabin with the crew."
 locale: "en"
-heroImage: "~/assets/activities/janzu/Janzu-terapia3-1024x575.avif"
+heroImage: "~/assets/activities/meditation/meditazione4.jpg"
+gallery:
+  - "~/assets/trips/ikigai-experience/meditation-2.webp"
+  - "~/assets/activities/meditation/meditazione2-copia-2.webp"
+  - "~/assets/activities/project/meditazione1.jpg"
 lead: "A meditation retreat in the San Blas islands strips away the things you usually meditate to escape. No signal out here, no schedule, no city pressing in. Just a Catana 47 at anchor, water flat to the horizon, and the kind of quiet most retreats can only promise. You sit, you breathe, the islands do the rest."
 faq:
   - q: "What does the San Blas meditation retreat cost?"
@@ -14,7 +18,7 @@ faq:
   - q: "Is there really no wifi?"
     a: "Effectively none. San Blas has no cell towers worth the name, and that's the point. A few hours into the first day the urge to reach for your phone fades, and that's usually when the retreat actually starts."
   - q: "When is the San Blas season?"
-    a: "We're anchored in San Blas through the calm months, roughly until March. After that the same practice sails on with the boat to wherever Ikigai heads next."
+    a: "We're anchored in San Blas from December 2025 to June 2026. After that the boat sails on, and the same per-cabin practice travels with it to wherever Ikigai heads next."
 ---
 
 ## What a meditation retreat at anchor feels like

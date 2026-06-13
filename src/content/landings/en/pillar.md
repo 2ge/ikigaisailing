@@ -12,7 +12,7 @@ faq:
   - q: "What's it cost, and why is it lower than the agencies?"
     a: "It's a member contribution to Ikigai Sailing ASD, a CONI-recognised non-profit — your money runs the boat and the experience, not a broker's 15–30% cut. Agency San Blas charters start far higher. See the season page or message us on WhatsApp."
   - q: "When can I sail San Blas?"
-    a: "Through the calm season, roughly until March. Outside that the boat moves on, and the same per-cabin model travels with it."
+    a: "We're anchored in San Blas from December 2025 to June 2026 — the calm Caribbean season. After that the boat moves on toward the Pacific, and the same per-cabin model travels with it."
   - q: "How do I get there?"
     a: "A 4×4 from Panama City over the Guna Yala ridge, then a short panga to wherever Ikigai is anchored. We arrange the whole transfer once you've booked."
 ---

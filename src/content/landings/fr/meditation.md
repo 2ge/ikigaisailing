@@ -10,10 +10,14 @@ metaDescription: >-
   les îles San Blas, au Panama. Pas de Wi-Fi, pas d'itinéraire : on reste au
   mouillage à Guna Yala, réservation par cabine avec l'équipage.
 locale: fr
-heroImage: ~/assets/activities/janzu/Janzu-terapia3-1024x575.avif
+heroImage: ~/assets/activities/meditation/meditazione4.jpg
+gallery:
+  - ~/assets/trips/ikigai-experience/meditation-2.webp
+  - ~/assets/activities/meditation/meditazione2-copia-2.webp
+  - ~/assets/activities/project/meditazione1.jpg
 lead: >-
   Une retraite de méditation dans les îles San Blas te libère de tout ce que tu
-  cherches habituellement à fuir en méditant. Ici, pas de réseau, pas
+  cherches habituellement à oublier en méditant. Ici, pas de réseau, pas
   d'horaires, pas de ville qui te pèse. Juste un Catana 47 au mouillage, une mer
   d'huile à perte de vue, et ce genre de calme que la plupart des retraites ne
   font que promettre. Tu t'assois, tu respires, les îles s'occupent du reste.
@@ -21,14 +25,15 @@ faq:
   - q: Combien coûte la retraite de méditation à San Blas ?
     a: >-
       Tu réserves par chalet, et ce que tu paies correspond à une cotisation à
-      notre association à but non lucratif ASD — et non à des frais de location.
-      Cela permet de proposer des tarifs bien inférieurs à ceux des agences.
-      Pour connaître les tarifs de la saison et les dates disponibles, consulte
-      la page « Saison » ou envoie-nous un message sur WhatsApp.
+      notre association à but non lucratif ASD — ce n'est pas un prix de
+      location. Cela permet de rester bien en dessous des tarifs pratiqués par
+      les agences. Pour connaître les tarifs de la saison et les dates
+      disponibles, consulte la page « Saison » ou envoie-nous un message sur
+      WhatsApp.
   - q: Est-ce que je dois déjà pratiquer la méditation ?
     a: >-
       Non. Il n'y a pas de technique à maîtriser ni de rythme à suivre. La
-      plupart du temps, c'est l'environnement qui fait le travail : tu t'assois,
+      plupart du temps, c'est l'ambiance qui fait tout le travail : tu t'assois,
       tu respires, tu arrêtes de regarder l'heure. Des exercices de respiration
       guidés sont proposés si tu le souhaites.
   - q: Y a-t-il vraiment pas de Wi-Fi ?
@@ -39,11 +44,11 @@ faq:
       ce moment-là que la retraite commence vraiment.
   - q: C'est quand la saison de San Blas ?
     a: >-
-      On reste à l'ancre à San Blas pendant les mois calmes, en gros jusqu'en
-      mars. Après ça, le groupe continue à naviguer avec le bateau vers la
-      prochaine destination d'Ikigai.
+      On est à l'ancrage à San Blas de décembre 2025 à juin 2026. Après ça, le
+      bateau reprendra la mer, et ce système de tarification par cabine nous
+      suivra partout où l'Ikigai mettra le cap.
 translated: deepl
-sourceHash: 1763edc9d7cda727
+sourceHash: a4e549f3fe91af7f
 ---
 
 ## À quoi ressemble une retraite de méditation au mouillage
@@ -52,11 +57,11 @@ Tu vis à bord de **l'Ikigai**, notre **Catana 47**, ancré dans les lagons de G
 
 ## Ce qui est inclus dans la retraite de méditation à San Blas
 
-Tu réserves une couchette, par cabine — pas besoin d’amener un groupe, pas besoin de remplir tout le bateau. La semaine te donne droit à une couchette à bord d’un Catana 47, des séances matinales et des exercices de respiration guidés, tous les repas préparés à bord à partir de poisson fraîchement pêché et des produits des îles, du matériel de plongée avec tuba et d’apnée, ainsi qu’une navigation tranquille entre les mouillages avec un équipage titulaire des certifications RYA Yachtmaster et AIDA / Apnea Total. Ce que tu paies, c'est une **cotisation à Ikigai Sailing ASD**, une association à but non lucratif reconnue par le CONI et affiliée à MSP Italia — ce n'est pas un tarif commercial. C'est pourquoi une semaine ici coûte une fraction du prix d'une croisière en agence : ton argent sert à financer le bateau et l'expérience, pas la commission d'un courtier.
+Tu réserves une couchette, par cabine — pas besoin d’amener un groupe, pas besoin de remplir tout le bateau. La semaine te donne droit à un lit à bord d’un Catana 47, des séances matinales et des exercices de respiration guidés, tous les repas préparés à bord à partir de poisson fraîchement pêché et des produits des îles, du matériel de plongée avec tuba et d’apnée, ainsi qu’une navigation tranquille entre les mouillages avec un équipage titulaire des certifications RYA Yachtmaster et AIDA / Apnea Total. Ce que tu paies, c’est une **cotisation à Ikigai Sailing ASD**, une association à but non lucratif reconnue par le CONI et affiliée à MSP Italia — ce n’est pas un tarif commercial. C’est pourquoi une semaine ici coûte une fraction du prix d’une croisière en agence : ton argent sert à faire fonctionner le bateau et à financer l’expérience, pas à payer la commission d’un courtier.
 
 ## Pourquoi les îles font la moitié du travail
 
-La plupart des retraites de méditation doivent lutter contre ton environnement : la route à l’extérieur, le téléphone dans ta poche, le prochain rendez-vous dans ton agenda. San Blas élimine ces trois éléments. C’est un territoire autonome des Guna, sans complexes hôteliers, sans antennes-relais, sans béton. Les lagons restent calmes et chauds toute l'année, la plupart du temps tu ne verras pas d'autre bateau, et le silence n'est pas artificiel — c'est simplement ce qui reste quand le bruit n'a nulle part d'où venir. Tu n'as pas besoin de faire d'efforts pour te détendre. C'est l'endroit qui te détend.
+La plupart des retraites de méditation sont en conflit avec ton environnement : la route à l’extérieur, le téléphone dans ta poche, le prochain rendez-vous dans ton agenda. San Blas élimine ces trois éléments. C’est un territoire autonome des Guna, sans complexes hôteliers, sans antennes-relais, sans béton. Les lagons restent calmes et chauds toute l’année, la plupart du temps tu ne verras pas d’autre bateau, et le silence n’est pas artificiel — c’est simplement ce qui reste quand le bruit n’a nulle part d’où venir. Tu n’as pas besoin de faire d’efforts pour te détendre. C’est l’endroit qui te détend.
 
 ## Qui monte à bord
 
