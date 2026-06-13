@@ -148,5 +148,7 @@
   "cart.remove": "Rimuovi",
   "cart.extras": "Aggiungi extra",
   "cart.indicative": "prezzo indicativo",
-  "cart.note": "I pagamenti sono quote associative alla nostra ASD."
+  "cart.note": "I pagamenti sono quote associative alla nostra ASD.",
+  "trips.invitation": "Solo su invito.",
+  "trips.invitationLead": "Questi viaggi più lunghi sono riservati ai soci dell'ASD che conoscono già la barca e l'equipaggio. Sali a bordo una volta, poi naviga più lontano con noi."
 }
