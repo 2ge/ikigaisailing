@@ -10,6 +10,7 @@ export async function getStaticPaths() {
 }
 const { locale } = Astro.props as { locale: Locale };
 const t = useTranslations(locale);
+const waiverPdf = locale === 'it' ? '/docs/esonero-responsabilita.pdf' : '/docs/waiver-of-liability.pdf';
 ---
 <PageLayout title="Thank you — Ikigai Sailing" description="Your booking request is confirmed." path="/booking/thanks/" noindex>
   <section class="grid min-h-[70vh] place-items-center bg-ocean-950 text-center text-sand-50">
@@ -20,7 +21,10 @@ const t = useTranslations(locale);
         Your booking is received. We'll email you the next steps shortly. For anything urgent,
         message us on WhatsApp.
       </p>
-      <a href={localizePath('/', locale)} class="mt-8 inline-block rounded-full bg-coral-500 px-6 py-3 font-semibold text-sand-50 transition hover:bg-coral-400">
+      <a href={waiverPdf} target="_blank" rel="noopener" class="mt-6 block text-sm text-ocean-300 underline underline-offset-4 transition hover:text-sand-50">
+        {t('booking.waiver')} ↓
+      </a>
+      <a href={localizePath('/', locale)} class="mt-6 inline-block rounded-full bg-coral-500 px-6 py-3 font-semibold text-sand-50 transition hover:bg-coral-400">
         {t('notfound.cta')}
       </a>
     </div>
