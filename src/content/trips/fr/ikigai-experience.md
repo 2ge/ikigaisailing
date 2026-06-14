@@ -2,14 +2,15 @@
 title: Expérience Ikigai
 description: >-
   Dix jours à bord de l'Ikigai dans l'archipel de San Blas : un concentré de vie
-  authentique, essentielle et revigorante : plongée en apnée, yoga, navigation
+  authentique, essentielle et régénérante : plongée en apnée, yoga, navigation
   tranquille et pratiques transformatrices avec nos moniteurs
   multidisciplinaires.
-seoTitle: Expérience Ikigai — Retraite en catamaran à San Blas
+seoTitle: 'Ikigai Experience — Catamaran à San Blas : location par cabine'
 metaDescription: >-
-  Dix jours à bord de l'Ikigai à San Blas, au Panama : plongée en apnée, yoga,
-  navigation tranquille et pratiques de développement personnel. À partir de 300
-  EUR en tant que cotisant de l'ASD.
+  Navigue dans l'archipel de San Blas, au Panama, à bord de l'Ikigai, en
+  location de cabine — plongée en apnée, yoga, navigation tranquille et
+  pratiques de développement personnel. À partir de 300 € par nuit, en tant que
+  cotisant de l'ASD.
 locale: fr
 price: 300
 currency: EUR
@@ -30,8 +31,9 @@ gallery:
   - ~/assets/trips/ikigai-experience/meditation-2.webp
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
+perNight: true
 translated: deepl
-sourceHash: 3c8a7d5cf0e97354
+sourceHash: 9e7c926ae77181be
 ---
 
 ## Introduction
@@ -77,7 +79,7 @@ Le programme peut être modifié en fonction :
 
 ## Itinéraire jour par jour – exemple d'une expérience de 10 jours
 
-_Remarque : les activités seront adaptées et reprogrammées en fonction des jours réservés et des expériences choisies par les autres passagers à bord._
+_Remarque : les activités seront adaptées et reprogrammées en fonction des jours réservés et des expériences choisies par les autres participants à bord._
 
 ### Arrivée à Panama City
 
@@ -138,7 +140,7 @@ _Remarque : les activités seront adaptées et reprogrammées en fonction des jo
 -   09h30 : Navigation vers le lagon
 -   11h00 : Balade d'île en île en SUP ou en kayak
 -   13h00 : Déjeuner
--   15h00 : Temps libre / rencontre avec les habitants
+-   15h00 : Temps libre / rencontre avec les locaux
 -   17h30 : Yoga au coucher du soleil ou cardio/arts martiaux
 -   19h30 : Barbecue sur la plage et feu de camp avec les familles Guna
 
@@ -192,4 +194,4 @@ _Remarque : les activités seront adaptées et reprogrammées en fonction des jo
 
 ### Jour 11 – Retour
 
-Un bateau Guna viendra te chercher et te ramènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍
+Un bateau Guna viendra te chercher et t'emmènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍

@@ -4,11 +4,11 @@ description: >-
   Diez días a bordo del Ikigai en San Blas: una experiencia llena de vida
   auténtica, esencial y regeneradora: buceo libre, yoga, navegación tranquila y
   prácticas transformadoras con nuestros instructores multidisciplinares.
-seoTitle: Experiencia Ikigai — Retiro en catamarán en San Blas
+seoTitle: Experiencia Ikigai — Catamarán en San Blas por camarote
 metaDescription: >-
-  Diez días a bordo del Ikigai en San Blas, Panamá: buceo libre, yoga,
-  navegación tranquila y prácticas transformadoras. Desde 300 EUR como cuota de
-  socio de la ASD.
+  Navega por San Blas, Panamá, a bordo del Ikigai, alquilando un camarote: buceo
+  libre, yoga, navegación tranquila y prácticas transformadoras. Desde 300 € por
+  noche como cuota de socio de ASD.
 locale: es
 price: 300
 currency: EUR
@@ -29,8 +29,9 @@ gallery:
   - ~/assets/trips/ikigai-experience/meditation-2.webp
   - ~/assets/trips/ikigai-experience/paola.png
 order: 1
+perNight: true
 translated: deepl
-sourceHash: 3c8a7d5cf0e97354
+sourceHash: 9e7c926ae77181be
 ---
 
 ## Introducción
@@ -44,7 +45,7 @@ Cada día comienza con una sesión guiada que puede incluir:
 -   Técnicas de respiración consciente
 -   Secuencias de yoga dinámicas o restaurativas
 -   Meditación sentada o en movimiento
--   Sesiones físicas rotativas (entrenamiento Tabata con el peso corporal o nociones básicas de boxeo) _Todas las sesiones se adaptan a la energía del grupo y al tiempo._\_\_
+-   Sesiones físicas rotativas (entrenamiento Tabata con peso corporal o nociones básicas de boxeo) _Todas las sesiones se adaptan a la energía del grupo y al tiempo._\_\_
 
 **Por la tarde:** Termina el día con actividades centradas en **la introspección, la relajación y la regeneración**, como:
 
@@ -62,7 +63,7 @@ La comida es el centro de la vida en _el Ikigai_. Combinamos lo que nos da el ma
 -   Frutas tropicales
 -   Verduras locales
 
-Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin ninguna obligación.
+Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sashimi** y mucho más. **Compartir las comidas es algo sagrado.** Te invitamos a que te unas a la preparación, con todo el espíritu de comunidad, sin compromiso.
 
 ## Nota importante
 
@@ -101,14 +102,14 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 
 -   06:30–08:00: Rutina matutina
 -   09:00: Desayuno
--   10:00: Navegamos hacia Chichime
+-   10:00: Navegación hacia Chichime
 -   11:00–16:00: Tiempo libre — buceo con tubo, natación, juegos en la playa
 -   Almuerzo en un restaurante frente al mar
 -   17:30–19:00: Rutina de la tarde
 -   20:00: Cena
 -   21:00: Música en directo y karaoke opcionales en tierra
 
-### Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y vibrantes arrecifes de coral
+### Día 3 – Cayos Holandeses Occidentales (Cayo Holandés Oeste) Naturaleza virgen y arrecifes de coral llenos de vida
 
 -   06:30–08:00: Rutina matutina
 -   08:30: Desayuno
@@ -119,7 +120,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 -   19:00: Teoría del buceo libre (respiración, compensación, seguridad)
 -   20:30: Cena y observación de la vida marina bajo las luces del barco
 
-### Día 4 – West Dutch Cays Práctica de buceo libre y conexión profunda
+### Día 4 – Cayos del Oeste de los Países Bajos Práctica de buceo libre y conexión profunda
 
 -   06:30–07:30: Respiración y estiramientos para el buceo libre
 -   07:30: Desayuno ligero
@@ -171,7 +172,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 -   18:30: Rutina nocturna opcional
 -   20:00: Cena
 
-### Día 9 – Isla privada Coco Bandero, tiburones, noche de celebración
+### Día 9 – Isla privada Coco Bandero, tiburones, noche de fiesta
 
 -   06:30: Rutina matutina
 -   08:30: Desayuno
@@ -185,10 +186,10 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 
 -   Por la mañana: Desayuno tranquilo
 -   12:00: Navegamos de vuelta a Banedup
--   16:00: Tiempo libre: voleibol, snorkel, entrenamiento vespertino
+-   16:00: Tiempo libre: voleibol, buceo con tubo, entrenamiento vespertino
 -   19:00: Cena
--   20:30: Ceremonia de clausura y resumen en vídeo
+-   20:30: Ceremonia de clausura y vídeo resumen
 
 ### Día 11 – Regreso
 
-Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** 🌍
+Un barco de los Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** 🌍
