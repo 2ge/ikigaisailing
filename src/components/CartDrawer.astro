@@ -7,8 +7,18 @@
 import { ADDONS } from '../data/addons';
 import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
 import { WHATSAPP_URL } from '../i18n/nav';
+import { entriesForLocale, slugOf } from '../lib/content';
 const locale = getLocaleFromUrl(Astro.url);
 const t = useTranslations(locale);
+
+// Cart item names are stored in localStorage in whatever language they were added.
+// To keep the cart in sync with the current page language, ship a sku→name map for
+// THIS locale; render() prefers it over the stored name (falling back to the stored
+// name for anything unknown, e.g. a future SKU). Trips = packages, ADDONS = extras.
+const trips = await entriesForLocale('trips', locale);
+const cartNames: Record<string, string> = {};
+for (const tr of trips) cartNames[slugOf(tr)] = tr.data.title;
+for (const a of ADDONS) cartNames['addon:' + a.id] = a.name[locale];
 ---
 <div id="cart-drawer" class="fixed inset-0 z-[70] hidden" aria-hidden="true">
   <div data-cart-overlay class="absolute inset-0 bg-ocean-950/40 backdrop-blur-sm"></div>
@@ -53,11 +63,12 @@ const t = useTranslations(locale);
   </aside>
 </div>
 
-<script define:vars={{ waUrl: WHATSAPP_URL, removeLabel: t('cart.remove'), nightsLabel: t('cart.nights') }}>
+<script define:vars={{ waUrl: WHATSAPP_URL, removeLabel: t('cart.remove'), nightsLabel: t('cart.nights'), names: cartNames }}>
   // hold for the bundled module below
   window.__cartWA = waUrl;
   window.__cartRemove = removeLabel;
   window.__cartNights = nightsLabel;
+  window.__cartNames = names; // sku → name in the current page language
 </script>
 <script>
   import { cart } from '../scripts/cart';
@@ -70,12 +81,14 @@ const t = useTranslations(locale);
     if (!list) return;
     const items = cart.items();
     const nights = (window).__cartNights || 'nights';
+    const names = (window).__cartNames || {};
     const stepBtn = 'grid h-6 w-6 place-items-center rounded-full border border-ocean-300 text-base leading-none text-ocean-700 transition hover:bg-ocean-100';
     list.innerHTML = items.map((i) => {
+      const name = names[i.sku] || i.name; // localize to the current page language
       const detail = i.unit === 'night'
         ? `<div class="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1"><button data-qty-dec="${i.sku}" aria-label="−" class="${stepBtn}">−</button><span class="text-sm font-medium text-ocean-950">${i.qty} ${nights}</span><button data-qty-inc="${i.sku}" aria-label="+" class="${stepBtn}">+</button><span class="text-sm text-ink-soft">× ${eur(i.price)} = <b class="text-ocean-950">${eur(i.price * i.qty)}</b></span></div>`
         : `<p class="text-sm text-ink-soft">${eur(i.price * i.qty)}${i.qty > 1 ? ' · ×' + i.qty : ''}</p>`;
-      return `<li class="flex items-start justify-between gap-3 rounded-xl bg-sand-100 p-3"><div class="min-w-0"><p class="font-medium text-ocean-950">${i.name}</p>${detail}</div><button data-remove="${i.sku}" class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2">${(window).__cartRemove || 'Remove'}</button></li>`;
+      return `<li class="flex items-start justify-between gap-3 rounded-xl bg-sand-100 p-3"><div class="min-w-0"><p class="font-medium text-ocean-950">${name}</p>${detail}</div><button data-remove="${i.sku}" class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2">${(window).__cartRemove || 'Remove'}</button></li>`;
     }).join('');
     $('[data-cart-empty]')?.classList.toggle('hidden', items.length > 0);
     const tot = $('[data-cart-total]'); if (tot) tot.textContent = eur(cart.total());
