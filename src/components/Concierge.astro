@@ -14,7 +14,12 @@ interface Props {
   turnstileSiteKey?: string;
 }
 // Only enable Turnstile once the owner sets a real key AND the server has TURNSTILE_SECRET.
-const { context = 'generic', turnstileSiteKey = '' } = Astro.props;
+// Falls back to the same public site key the contact form uses (paired with the
+// server's TURNSTILE_SECRET), so the concierge gets a token on message 1 — otherwise
+// the server's first-message check 403s a tokenless request ("Verification failed").
+const { context = 'generic' } = Astro.props;
+const turnstileSiteKey =
+  Astro.props.turnstileSiteKey ?? import.meta.env.PUBLIC_TURNSTILE_SITEKEY ?? '0x4AAAAAADjns1PkgXd3MitS';
 const locale = getLocaleFromUrl(Astro.url);
 const t = useTranslations(locale);
 
