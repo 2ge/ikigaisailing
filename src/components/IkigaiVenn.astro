@@ -3,7 +3,11 @@
  * The classic Ikigai diagram — four overlapping circles (what we love /
  * are good at / the world needs / we can be paid for), their pairwise
  * overlaps (passion · mission · profession · vocation), and Ikigai at the
- * centre. Localised via i18n. Full diagram on sm+; a stacked legend on mobile.
+ * centre. Localised via i18n.
+ *
+ * Shown on ALL viewports. The long per-circle labels are desktop-only (they'd
+ * overlap on a phone); on mobile the colour-keyed legend cards beneath the
+ * diagram name each circle instead. Petals + centre scale down on mobile.
  */
 import { useTranslations, getLocaleFromUrl } from '../i18n/ui';
 const t = useTranslations(getLocaleFromUrl(Astro.url));
@@ -23,38 +27,24 @@ const petals = [
 ];
 ---
 
-{/* full diagram — sm and up */}
-<div class="mx-auto hidden aspect-square w-full max-w-2xl sm:block">
-  <div class="relative h-full w-full" style="mix-blend-mode: normal;">
+{/* the diagram — all viewports (circle labels desktop-only; legend names them on mobile) */}
+<div class="mx-auto aspect-square w-full max-w-md sm:max-w-2xl">
+  <div class="relative h-full w-full">
     {/* four overlapping circles (multiply so overlaps deepen) */}
     {circles.map((c) => (
       <div class:list={['absolute h-[62%] w-[62%] rounded-full mix-blend-multiply ring-1 ring-ocean-950/5', c.fill, c.cls]}></div>
     ))}
+    {/* per-circle labels — desktop only */}
     {circles.map((c) => (
-      <span class:list={['absolute z-[5] max-w-[22%] text-center text-sm font-semibold leading-tight text-ocean-950', c.lbl]}>{c.label}</span>
+      <span class:list={['absolute z-[5] hidden max-w-[22%] text-center text-sm font-semibold leading-tight text-ocean-950 sm:block', c.lbl]}>{c.label}</span>
     ))}
-    {/* petals */}
+    {/* petals — pairwise overlaps (smaller on mobile) */}
     {petals.map((p) => (
-      <span class:list={['absolute -translate-x-1/2 -translate-y-1/2 font-display text-lg text-ocean-950', p.cls]}>{p.label}</span>
+      <span class:list={['absolute z-[5] max-w-[26%] -translate-x-1/2 -translate-y-1/2 text-center font-display text-[0.7rem] leading-tight text-ocean-950 sm:max-w-none sm:text-lg', p.cls]}>{p.label}</span>
     ))}
     {/* centre */}
-    <span class="absolute left-1/2 top-1/2 z-10 grid h-20 w-20 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-coral-500 text-center text-sand-50 shadow-lg">
-      <span><span class="block font-display text-base leading-none">生き甲斐</span><span class="coords mt-0.5 block text-[0.55rem]">Ikigai</span></span>
+    <span class="absolute left-1/2 top-1/2 z-10 grid h-16 w-16 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-coral-500 text-center text-sand-50 shadow-lg sm:h-20 sm:w-20">
+      <span><span class="block font-display text-sm leading-none sm:text-base">生き甲斐</span><span class="coords mt-0.5 block text-[0.5rem] sm:text-[0.55rem]">Ikigai</span></span>
     </span>
   </div>
-</div>
-
-{/* mobile fallback — stacked cards */}
-<div class="grid gap-4 sm:hidden">
-  {[
-    { t: t('ikigai.love'), b: t('ikigai.loveBody'), bg: 'bg-coral-400/15' },
-    { t: t('ikigai.good'), b: t('ikigai.goodBody'), bg: 'bg-ocean-400/15' },
-    { t: t('ikigai.needs'), b: t('ikigai.needsBody'), bg: 'bg-sand-400/20' },
-    { t: t('ikigai.paid'), b: t('ikigai.paidBody'), bg: 'bg-ocean-700/15' },
-  ].map((c) => (
-    <div class:list={['rounded-2xl p-5 ring-1 ring-ocean-950/5', c.bg]}>
-      <h3 class="font-display text-lg text-ocean-950">{c.t}</h3>
-      <p class="mt-1.5 text-sm leading-relaxed text-ink-soft">{c.b}</p>
-    </div>
-  ))}
 </div>
