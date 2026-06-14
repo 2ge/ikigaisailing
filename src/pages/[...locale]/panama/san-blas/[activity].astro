@@ -5,7 +5,7 @@
  * segment registry needed. Content from the `landings` collection (slug = activity).
  */
 import { getCollection } from 'astro:content';
-import { LOCALES, type Loc } from '../../../../i18n/segments';
+import { LOCALES, type Loc, localizeItemSlug } from '../../../../i18n/segments';
 import { slugOf, localeOf } from '../../../../lib/content';
 import LandingView from '../../../../views/LandingView.astro';
 
@@ -20,7 +20,7 @@ export async function getStaticPaths() {
   const out: { params: { locale: string | undefined; activity: string }; props: { locale: Loc; activity: string } }[] = [];
   for (const [slug, have] of localesBySlug) {
     const locs = have.has('en') ? [...LOCALES] : [...have];
-    for (const locale of locs) out.push({ params: { locale: locale === 'en' ? undefined : locale, activity: slug }, props: { locale, activity: slug } });
+    for (const locale of locs) out.push({ params: { locale: locale === 'en' ? undefined : locale, activity: localizeItemSlug('landings', slug, locale) }, props: { locale, activity: slug } });
   }
   return out;
 }

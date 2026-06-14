@@ -1,5 +1,5 @@
 import { visit } from 'unist-util-visit';
-import { localizeSegment } from '../i18n/segments';
+import { localizeSegment, isItemRoot, localizeItemSlug } from '../i18n/segments';
 
 /**
  * Rehype plugin — localize internal links in body markdown.
@@ -19,11 +19,12 @@ function localizePath(path: string, locale: string): string {
   const m = clean.match(/^([^?#]*)([?#].*)?$/);
   const pathname = m?.[1] ?? clean;
   const tail = m?.[2] ?? '';
-  const translated = pathname
-    .split('/')
-    .map((seg) => (seg ? localizeSegment(seg, locale as any) : seg))
-    .join('/');
-  return `/${locale}${translated}` + tail;
+  const segs = pathname.split('/');
+  const out = segs.map((seg) => (seg ? localizeSegment(seg, locale as any) : seg));
+  // localize the collection ITEM slug too (mirror i18n/ui.ts localizePath)
+  if (isItemRoot(segs[1]) && segs[2]) out[2] = localizeItemSlug(segs[1], segs[2], locale as any);
+  else if (segs[1] === 'panama' && segs[2] === 'san-blas' && segs[3]) out[3] = localizeItemSlug('landings', segs[3], locale as any);
+  return `/${locale}${out.join('/')}` + tail;
 }
 
 export default function rehypeLocalizeLinks() {

@@ -84,3 +84,61 @@ export function canonicalSegment(localized: string, locale: Loc): string {
 
 /** True if `canonical` is a known section root that has item children. */
 export const SECTION_ROOTS = ['trips', 'activities', 'blog'] as const;
+
+/**
+ * Localized COLLECTION-ITEM slugs. Content files keep their canonical (English)
+ * slug; only the URL is translated. Brand/proper nouns (ikigai-experience,
+ * pacific-crossing, janzu, yoga, kitesurf) are intentionally omitted → they keep
+ * the English slug everywhere. Items not listed here pass through unchanged.
+ *   canonical English slug → per-locale localized slug.
+ * Keyed by collection. landings + activities share canonical slugs and use the
+ * same localized form so /activities/x and /panama/san-blas/x stay consistent.
+ */
+const ACTIVITY_LANDING_SLUGS: Record<string, Partial<Record<Loc, string>>> = {
+  freediving: { it: 'apnea', es: 'apnea', fr: 'apnee', sk: 'freediving' },
+  meditation: { it: 'meditazione', es: 'meditacion', fr: 'meditation', sk: 'meditacia' },
+  diving: { it: 'immersioni', es: 'buceo', fr: 'plongee', sk: 'potapanie' },
+  'sailing-training': { it: 'corso-di-vela', es: 'curso-de-vela', fr: 'cours-de-voile', sk: 'kurz-jachtingu' },
+  'functional-training': { it: 'allenamento-funzionale', es: 'entrenamiento-funcional', fr: 'entrainement-fonctionnel', sk: 'funkcny-trening' },
+  snorkelling: { it: 'snorkeling', es: 'snorkel', fr: 'snorkeling', sk: 'snorkeling' },
+  'cooking-class': { it: 'corso-di-cucina', es: 'clase-de-cocina', fr: 'cours-de-cuisine', sk: 'kurz-varenia' },
+  // janzu, yoga, kitesurf → kept (universal / brand)
+};
+export const ITEM_SLUGS: Record<string, Record<string, Partial<Record<Loc, string>>>> = {
+  activities: ACTIVITY_LANDING_SLUGS,
+  landings: ACTIVITY_LANDING_SLUGS,
+  trips: {
+    '10-days-on-board': { it: '10-giorni-a-bordo', es: '10-dias-a-bordo', fr: '10-jours-a-bord', sk: '10-dni-na-palube' },
+    'crew-exchange': { it: 'scambio-equipaggio', es: 'intercambio-tripulacion', fr: 'echange-equipage', sk: 'vymena-posadky' },
+    'one-month': { it: 'un-mese', es: 'un-mes', fr: 'un-mois', sk: 'jeden-mesiac' },
+    // ikigai-experience, pacific-crossing → kept (brand)
+  },
+  blog: {}, // migrated in a second pass
+};
+
+/** Section roots whose items are localized (canonical root name === collection). */
+const ITEM_ROOTS = new Set(['activities', 'trips', 'blog']);
+export function isItemRoot(canonicalRoot: string): boolean {
+  return ITEM_ROOTS.has(canonicalRoot);
+}
+
+/** canonical item slug → localized (or unchanged if not mapped / EN). */
+export function localizeItemSlug(collection: string, canonical: string, locale: Loc): string {
+  if (locale === DEFAULT_LOCALE) return canonical;
+  return ITEM_SLUGS[collection]?.[canonical]?.[locale] ?? canonical;
+}
+
+/** Reverse: localized item slug (in `locale`) → canonical. */
+const ITEM_REVERSE: Record<string, Record<Loc, Record<string, string>>> = {};
+for (const [collection, slugs] of Object.entries(ITEM_SLUGS)) {
+  ITEM_REVERSE[collection] = Object.fromEntries(LOCALES.map((l) => [l, {}])) as Record<Loc, Record<string, string>>;
+  for (const [canon, byLoc] of Object.entries(slugs)) {
+    for (const l of LOCALES) {
+      const loc = byLoc[l];
+      if (loc) ITEM_REVERSE[collection][l][loc] = canon;
+    }
+  }
+}
+export function canonicalItemSlug(collection: string, localized: string, locale: Loc): string {
+  return ITEM_REVERSE[collection]?.[locale]?.[localized] ?? localized;
+}
