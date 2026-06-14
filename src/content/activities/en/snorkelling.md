@@ -18,7 +18,7 @@ facts:
   - label: "Water"
     value: "Warm, clear, often shallow"
   - label: "What you'll see"
-    value: "Reefs, rays, reef sharks, fish, turtles"
+    value: "Rays, nurse sharks, lobsters, starfish, turtles, reef fish"
 ---
 ## Just slip in
 

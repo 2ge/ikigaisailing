@@ -4,7 +4,7 @@ summary: >-
   Maschera, pinne e un mare caldo in cui riesci a vedere fino al fondo. Barriere
   coralline, razze e pesci in punti di ancoraggio che nessuna escursione
   giornaliera raggiunge: niente brevetto, niente bombole, basta tuffarsi.
-seoTitle: Snorkeling da un catamarano | Ikigai Sailing
+seoTitle: Snorkeling dal catamarano | Ikigai Sailing
 metaDescription: >-
   Fai snorkeling direttamente dal catamarano Catana 47: acque calde e
   cristalline, attrezzatura a bordo, barriere coralline e fauna marina in punti
@@ -25,9 +25,11 @@ facts:
   - label: Acqua
     value: 'Caldo, limpido, spesso poco profondo'
   - label: Cosa vedrai
-    value: 'Barriere coralline, razze, squali di barriera, pesci, tartarughe'
+    value: >-
+      Raggie, squali nutrice, aragoste, stelle marine, tartarughe, pesci di
+      barriera
 translated: deepl
-sourceHash: 27fde74feeab5874
+sourceHash: b4e8691c94502915
 ---
 
 ## Basta tuffarsi
@@ -36,4 +38,4 @@ Per fare snorkeling basta una maschera, un paio di pinne e la voglia di immerger
 
 ## Barriere coralline che le escursioni giornaliere non raggiungono
 
-Dato che navighiamo con la barca a chiglia e gettiamo l'ancora dove ci pare, puoi fare snorkeling in posti che le barche da escursione giornaliera non prendono nemmeno in considerazione: formazioni coralline, strapiombi, banchi di sabbia dove scivolano le razze. La maggior parte delle volte non ci sarà nessuno con te. Galleggia su una barriera corallina tutta per te, osserva una tartaruga che bruca o uno squalo di barriera che nuota sott'acqua, poi risali a bordo per il pranzo. È il modo più semplice per entrare nel mondo sottomarino.
+Dato che navighiamo con la barca a chiglia e gettiamo l'ancora dove ci pare, puoi fare snorkeling in punti che le barche da escursione giornaliera non prendono nemmeno in considerazione: formazioni coralline, strapiombi, banchi di sabbia dove scivolano le razze. La maggior parte delle volte non ci sarà nessuno con te. Galleggia sopra una barriera corallina tutta per te, osserva una tartaruga che bruca o uno squalo di barriera che nuota sott'acqua, poi risali a bordo per il pranzo. È il modo più semplice per entrare nel mondo sottomarino.

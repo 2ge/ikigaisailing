@@ -9,8 +9,8 @@ lead: "San Blas is about the gentlest classroom a new sailor could ask for: flat
 faq:
   - q: "Do I need any experience to learn to sail here?"
     a: "None. San Blas is forgiving water — sheltered, shallow, light traffic — so it's a good place to take the helm for the first time. Experienced sailors get to go deeper: trim, weather, anchoring under pressure."
-  - q: "Is it a certified course?"
-    a: "It's hands-on training with an RYA Yachtmaster skipper, not a certificate mill — you learn by actually sailing the boat between anchorages. Tell us what you're after and we'll shape the time around it."
+  - q: "Do I get anything official for it?"
+    a: "We log your nautical miles and sign your logbook — so every passage counts as real sea miles toward a future qualification like RYA Day Skipper or Yachtmaster. It's hands-on training with an RYA Yachtmaster, not a classroom exam."
   - q: "When can I sail San Blas?"
     a: "We're anchored in San Blas from December 2025 to June 2026 — calm season, steady trades, ideal for learning. After that the boat sails on and the training travels with it."
 ---
@@ -20,4 +20,4 @@ Most people learn to sail somewhere busy and cold. San Blas is the opposite: **f
 
 ## From the helm to the anchor
 
-You'll steer, trim the sails, learn points of sail and how a catamaran behaves, then handle the part everyone actually needs: **anchoring** in a crowded turquoise bay without drama. Already sail? Go further — reading the wind on the water, short night passages, weather sense. Your teacher holds an **RYA Yachtmaster** ticket, and there's no syllabus to rush: you learn at the pace the islands set.
+You'll steer, trim the sails, learn points of sail and how a catamaran behaves, then handle the part everyone actually needs: **anchoring** in a crowded turquoise bay without drama. Already sail? Go further — reading the wind on the water, short night passages, weather sense. Your teacher holds an **RYA Yachtmaster** ticket, and we **log every nautical mile in your logbook** so the time counts toward a future qualification. There's no syllabus to rush: you learn at the pace the islands set.

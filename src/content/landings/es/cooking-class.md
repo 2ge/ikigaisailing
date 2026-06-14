@@ -14,7 +14,7 @@ locale: es
 heroImage: ~/assets/trips/10-days-on-board/IMG_3911.webp
 lead: >-
   La cocina en San Blas empieza en el agua y termina alrededor de una mesa. Por
-  la mañana pescamos, intercambiamos con los guna frutas y verduras, y lo
+  la mañana pescamos, intercambiamos con los guna frutas y verduras, y las
   convertimos en ceviche, carpaccio y comida sencilla de barco: nos ponemos
   manos a la obra, aprendemos algunos trucos y luego todos a bordo lo comemos
   juntos mientras estamos fondeados.
@@ -27,23 +27,23 @@ faq:
   - q: ¿De dónde viene la comida?
     a: >-
       El mar y las islas. Pescamos mientras navegamos y cambiamos nuestros
-      productos con las comunidades guna por frutas y verduras tropicales. Es lo
-      más fresco y local que puede haber: todo lo pescamos o lo recogemos el
-      mismo día.
+      productos por frutas y verduras tropicales con las comunidades guna. Es lo
+      más fresco y local que se puede encontrar: todo lo pescamos o lo recogemos
+      el mismo día.
   - q: ¿Está incluido en el viaje o es un extra?
     a: >-
-      Cocinar y compartir comidas es simplemente parte de la vida a bordo del
-      Ikigai en San Blas: únete cuando te apetezca. Pregúntanos por WhatsApp o
-      echa un vistazo a la página de la temporada para saber cómo funciona el
-      embarque.
+      Parte de ello —todo está incluido en el precio de tu camarote, sin
+      suplementos ni cargos adicionales—. Cocinar y compartir comidas es
+      simplemente parte de la vida a bordo del Ikigai en San Blas; únete cuando
+      te apetezca.
 translated: deepl
-sourceHash: c1b37e2a78df1118
+sourceHash: 37a2a7510093319c
 ---
 
 ## Del mar al plato
 
-En San Blas, la comida no viene servida: se pesca, se intercambia y se prepara, todos juntos. Pescamos mientras navegamos entre islas, intercambiamos con los **guna** frutas y verduras tropicales, y lo cocinamos de forma sencilla en la cocina del barco. La clase es solo una invitación a ponerte manos a la obra: aprende a filetear un pescado recién capturado, a preparar un **ceviche**, a cortar un **carpaccio** y a cocinar como se cocina en un barco: fresco, sin complicaciones y sin desperdiciar nada.
+En San Blas, la comida no viene servida: se pesca, se intercambia y se prepara, todos juntos. Pescamos mientras navegamos entre islas, intercambiamos con los **guna** frutas y verduras tropicales, y lo cocinamos de forma sencilla en la cocina del barco. La clase es simplemente una invitación a ponerte manos a la obra: los clásicos del barco —**ceviche, tartar, carpaccio, pescado a la barbacoa**— y luego, según nos apetezca, un poco **de cocina tailandesa**, un poco **de italiana** (piensa en fettuccine de langosta o risotto de pulpo), y muchos platos saludables, con verduras y frutas como protagonistas. Fresco, sin complicaciones, sin desperdiciar nada.
 
 ## Compartir una comida es sagrado
 
-Nadie está obligado a participar, pero la mayoría lo hace, porque aquí es donde se resume el día. Aprendes algunos trucos, intercambias historias junto a la tabla de cortar, y luego todos os sentáis al fondear para comer lo que habéis preparado —con el agua turquesa a pocos metros de distancia y una isla desierta frente a la proa—. Es más un pequeño ritual diario que una clase, y es una de las cosas que la gente recuerda durante más tiempo de San Blas.
+Nadie está obligado a participar, pero la mayoría lo hace, porque aquí es donde se reúne todo el día. Aprendes algunos trucos, intercambias historias junto a la tabla de cortar, y luego todos te sientas a comer lo que has preparado —con el agua turquesa a pocos metros y una isla desierta frente a la proa—. Es más un pequeño ritual diario que una clase, y es una de las cosas que la gente recuerda más tiempo de San Blas.

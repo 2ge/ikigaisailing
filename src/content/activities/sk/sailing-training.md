@@ -2,8 +2,8 @@
 title: Kurz plachtenia
 summary: >-
   Ikigai je v prvom rade plachetnica – takže sa na nej môžete skutočne naučiť
-  plávať: ruky na kormidle a na šnúrach, vnímanie vetra, stráž na skutočnej
-  plavbe po mori.
+  plávať: ruky na kormidle a na šnúrach, vnímanie vetra, strážna služba počas
+  skutočnej plavby po mori.
 seoTitle: Naučte sa plaviť na katamaráne | Ikigai Sailing
 metaDescription: >-
   Praktický výcvik plachtenia na palube lode Catana 47 pod vedením kapitána s
@@ -24,10 +24,12 @@ facts:
     value: 'Riadenie, nastavenie plachiet, kurzy, kotvenie, strážna služba'
   - label: Kapitán
     value: Certifikát RYA Yachtmaster
+  - label: Lodný denník
+    value: Nazbierané námorné míle + potvrdené na účely získania kvalifikácie
   - label: Loď
     value: Výkonný katamarán Catana 47
 translated: deepl
-sourceHash: e0d9d6c2479d956a
+sourceHash: 1bc12d0737929574
 needsReview: true
 ---
 
@@ -37,4 +39,4 @@ Väčšina toho, čo ľudia nazývajú „kurzom plachtenia“, sa odohráva za 
 
 ## Od prvého obratu po nočnú hliadku
 
-Nikdy ste nedržali v rukách navijak? Začnete so základmi – smermi plavby, správaním katamaránu, udržaním kurzu. Už viete plávať? Pôjdete hlbšie: nastavenie plachiet pre rýchlosť, navigácia podľa počasia, kotvenie v preplnenej zátoke a tichá kompetencia nočnej hliadky pod hviezdami bez svetla na míle ďaleko. Nie je tu žiadny učebný plán, ktorý by vás hnal dopredu – učíte sa tempom, ktoré udáva more, na akejkoľvek vode, ktorú práve preplávame.
+Nikdy ste sa nedotkli navijaka? Začnete so základmi – smermi plavby, správaním katamaránu, udržaním kurzu. Už plávate? Pôjdete hlbšie: nastavenie plachiet pre rýchlosť, navigácia podľa počasia, kotvenie v preplnenej zátoke a tichá kompetencia nočnej hliadky pod hviezdami bez svetla na míle ďaleko. **Zaznamenávame vaše námorné míle a podpisujeme váš lodný denník**, takže čas sa započítava do budúcej kvalifikácie – a nie je potrebné sa ponáhľať podľa osnov. Učíte sa tempom, ktoré udáva more, na akejkoľvek vode, ktorú práve preplávame.

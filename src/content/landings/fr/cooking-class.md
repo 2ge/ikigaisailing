@@ -32,18 +32,17 @@ faq:
       même.
   - q: C'est compris dans le voyage ou c'est en supplément ?
     a: >-
-      Cuisiner et partager les repas fait tout simplement partie du quotidien à
-      bord de l'Ikigai à San Blas — rejoins-nous quand tu en as envie.
-      Contacte-nous sur WhatsApp ou consulte la page « Saison » pour savoir
-      comment fonctionne l'embarquement.
+      Tout est compris dans le prix de ta cabine, sans frais supplémentaires ni
+      suppléments. Cuisiner et partager les repas fait tout simplement partie de
+      la vie à bord de l'Ikigai à San Blas ; rejoins-nous quand tu en as envie.
 translated: deepl
-sourceHash: c1b37e2a78df1118
+sourceHash: 37a2a7510093319c
 ---
 
 ## De l'eau à l'assiette
 
-À San Blas, on ne se fait pas livrer la nourriture : on la pêche, on l'échange et on la prépare tous ensemble. On pêche en naviguant d'île en île, on échange avec les **Guna** pour obtenir des fruits et légumes tropicaux, puis on cuisine tout ça simplement dans la cuisine du bateau. Ce cours est juste une invitation à mettre la main à la pâte : apprends à découper un poisson fraîchement pêché, à préparer un **ceviche**, à trancher un **carpaccio** et à cuisiner comme on le fait sur un bateau — frais, sans chichis, sans rien gaspiller.
+À San Blas, on ne se fait pas livrer la nourriture : on la pêche, on l'échange et on la prépare, tous ensemble. On pêche en naviguant d'île en île, on échange avec les **Guna** pour obtenir des fruits et légumes tropicaux, puis on les cuisine simplement dans la cuisine du bateau. Ce cours est juste une invitation à mettre la main à la pâte : les classiques du bateau — **ceviche, tartare, carpaccio, poisson au barbecue** — puis, selon l’envie du moment, un peu **de cuisine thaï**, un peu **d’italienne** (pense aux fettuccine au homard ou au risotto au poulpe), et beaucoup de plats sains, riches en légumes et en fruits. Des produits frais, sans chichis, rien ne se perd.
 
 ## Partager un repas, c'est sacré
 
-Personne n’est obligé de se joindre à nous, mais la plupart le font, car c’est là que la journée se termine. Tu apprends quelques astuces, tu échanges des anecdotes autour de la planche à découper, puis tout le monde s'assoit à l'ancre pour manger ce que tu as préparé — l'eau turquoise à quelques mètres, une île déserte à l'avant du bateau. C'est moins un cours qu'un petit rituel quotidien, et c'est l'une des choses dont les gens se souviennent le plus longtemps à propos de San Blas.
+Personne n’est obligé de se joindre à nous, mais la plupart le font, car c’est là que la journée se termine. Tu apprends quelques astuces, tu échanges des anecdotes devant la planche à découper, puis tout le monde s’assoit à l’ancre pour manger ce que tu as préparé — l’eau turquoise à quelques mètres, une île déserte au large de la proue. C’est moins un cours qu’un petit rituel quotidien, et c’est l’une des choses dont les gens se souviennent le plus longtemps à propos de San Blas.

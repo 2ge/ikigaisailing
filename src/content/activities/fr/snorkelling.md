@@ -8,8 +8,8 @@ summary: >-
 seoTitle: Plongée libre depuis un catamaran | Ikigai Sailing
 metaDescription: >-
   Fais de la plongée avec tuba directement depuis un catamaran Catana 47 : une
-  eau chaude et limpide, tout l'équipement à bord, des récifs et une faune
-  marine dans des mouillages inaccessibles aux excursions d'une journée. Aucune
+  eau chaude et limpide, tout le matériel à bord, des récifs et une faune marine
+  dans des mouillages inaccessibles aux excursions d'une journée. Aucune
   expérience requise.
 locale: fr
 category: watersports
@@ -26,15 +26,17 @@ facts:
   - label: Eau
     value: 'Chaud, limpide, souvent peu profond'
   - label: Ce que tu vas voir
-    value: 'Récifs, raies, requins de récif, poissons, tortues'
+    value: >-
+      Raies, requins-nourrices, homards, étoiles de mer, tortues, poissons de
+      récif
 translated: deepl
-sourceHash: 27fde74feeab5874
+sourceHash: b4e8691c94502915
 ---
 
 ## Il suffit de se jeter à l'eau
 
-Pour faire de la plongée avec tuba, il suffit d'un masque, d'une paire de palmes et de l'envie de mettre la tête sous l'eau. Pas de bouteille, pas de brevet, pas de cours. On s'occupe du matériel, et comme _l'Ikigai_ jette l'ancre dans des eaux claires et abritées, le récif est généralement juste à côté de la passerelle arrière : tu nages un peu et tu y es.
+Pour faire de la plongée avec tuba, il suffit d'un masque, d'une paire de palmes et de l'envie de mettre la tête sous l'eau. Pas de bouteille, pas de brevet, pas de cours. On s'occupe du matériel, et comme _l'Ikigai_ jette l'ancre dans des eaux claires et abritées, le récif se trouve généralement juste à côté de la passerelle arrière : tu nages un peu et tu y es.
 
 ## Des récifs inaccessibles aux excursions d'une journée
 
-Comme on navigue en fonction de la cabine et qu'on jette l'ancre où bon nous semble, tu plonges dans des spots que les bateaux d'excursion d'une journée ne s'embêtent jamais à visiter : têtes de corail, tombants, bancs de sable où les raies glissent. La plupart du temps, tu seras seul à en profiter. Flotte au-dessus d'un récif à l'abri des regards, observe une tortue brouter ou un requin de récif dériver en dessous, puis remonte à bord pour le déjeuner. C'est la porte d'entrée la plus simple qui soit vers le monde sous-marin.
+Comme on navigue en fonction de la cabine et qu'on jette l'ancre où bon nous semble, tu plonges dans des spots que les bateaux d'excursion d'une journée ne s'embêtent jamais à visiter : têtes de corail, tombants, bancs de sable où les raies glissent. La plupart du temps, tu seras seul à en profiter. Flotte au-dessus d'un récif désert, observe une tortue brouter ou un requin de récif dériver en dessous, puis remonte à bord pour le déjeuner. C'est la porte d'entrée la plus simple qui soit vers le monde sous-marin.

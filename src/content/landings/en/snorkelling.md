@@ -13,7 +13,9 @@ faq:
   - q: "Do I need snorkelling experience?"
     a: "No — if you can swim, you can snorkel here. The water's warm, calm and shallow, and we carry masks, snorkels and fins aboard. It's the easiest way into the underwater world."
   - q: "What will I see?"
-    a: "Coral reefs, rays, reef fish, turtles and, often, nurse sharks drifting below. San Blas reefs are largely left alone, so there's far more life than on a busy tourist reef."
+    a: "Rays, nurse sharks, lobsters tucked into the reef, starfish scattered across the sandbanks, reef fish and turtles. San Blas reefs are largely left alone, so there's far more life than on a busy tourist reef."
+  - q: "Where's the best snorkelling in San Blas?"
+    a: "Some of the best is around the outer cays — Cayos Holandeses, Cayos Limones and Cayos Coco Bandero — where the reef and the starfish sandbanks are. Because we sail, we anchor right at them and snorkel before the day-boats arrive."
   - q: "Why snorkel from a catamaran instead of a day tour?"
     a: "Because we anchor where the day-boats don't — coral heads and sandbanks off uninhabited islands. You snorkel them on your schedule, usually with the whole reef to yourself, then climb aboard for lunch."
 ---
@@ -23,4 +25,4 @@ Snorkelling in San Blas asks almost nothing of you. No tank, no certification, n
 
 ## Reefs no day-tour reaches
 
-Sailing by the cabin means we anchor where we like — coral heads, drop-offs and sandbanks off **uninhabited Guna Yala islands** the day-boats never reach. Float over a reef left alone for centuries, watch a ray glide across the sand or a nurse shark slide past below, then swim back for lunch. Most days, the only people out there are the ones you sailed in with.
+Sailing by the cabin means we anchor where we like — the outer cays the day-boats rarely reach: **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero**, and the sandbanks where starfish gather. Float over a reef left alone for centuries, watch a ray glide across the sand, a nurse shark slide past below, a lobster backed into a ledge, then swim home for lunch. Most days, the only people out there are the ones you sailed in with.

@@ -17,19 +17,21 @@ facts:
   - label: Ingrédients
     value: 'Du poisson fraîchement pêché, des fruits et légumes locaux'
   - label: Tu apprendras
-    value: 'Ceviche, carpaccio, tartare, cuisine simple de bord'
+    value: >-
+      Ceviche, tartare, carpaccio, poisson au barbecue — sans oublier des plats
+      thaïlandais, italiens et végétariens
   - label: Esprit
-    value: 'Convivial et participatif : partager un repas est un moment sacré à bord'
+    value: 'Convivial et communautaire : partager un repas est un moment sacré à bord'
   - label: Niveau
     value: Aucune expérience requise
 translated: deepl
-sourceHash: 332ded56466258cb
+sourceHash: c60234dd7195659d
 ---
 
 ## De l'eau à l'assiette
 
-À bord de _l'Ikigai_, on ne fait pas appel à un traiteur : on cuisine ensemble, avec ce que la journée nous offre. On pêche quand on peut, on échange des fruits et légumes avec les habitants du coin, et on transforme tout ça en un vrai régal dans la cuisine. Le cours de cuisine est simplement une invitation à mettre la main à la pâte : apprends à découper un poisson fraîchement pêché, à préparer un **ceviche**, à trancher un **carpaccio ou un tartare**, et à cuisiner comme on le fait sur un bateau — frais, simple, sans gaspillage.
+À bord de _l'Ikigai_, on ne fait pas appel à un traiteur : on cuisine ensemble, avec ce que la journée nous offre. On pêche quand on peut, on échange des fruits et légumes avec les locaux, et on en fait de bons petits plats dans la cuisine. On commence par les classiques du bateau — **ceviche, tartare, carpaccio, poisson au barbecue** — puis on élargit l'horizon : un peu **de cuisine thaï**, un peu **d'italienne** (fettuccine au homard, risotto au poulpe), et plein de plats sains, riches en légumes et en fruits. Frais, simple, rien n'est gaspillé.
 
 ## Partager un repas, c'est sacré
 
-Tu n’es pas obligé de participer — mais la plupart des gens le font, car c’est là que la journée se termine. Tu apprends quelques astuces, tu échanges des anecdotes autour de la planche à découper, puis tout le monde s’assoit pour manger ce que vous avez préparé ensemble, la mer à quelques mètres de là. C’est moins un cours qu’un petit rituel quotidien, et l’un des moments dont les gens se souviennent le plus longtemps.
+Tu n’es pas obligé de te joindre à nous — mais la plupart des gens le font, car c’est là que la journée se termine. Tu apprends quelques astuces, tu échanges des anecdotes devant la planche à découper, puis tout le monde s’assoit pour manger ce que vous avez préparé ensemble, la mer à quelques mètres. C’est moins un cours qu’un petit rituel quotidien, et l’un des moments dont les gens se souviennent le plus longtemps.

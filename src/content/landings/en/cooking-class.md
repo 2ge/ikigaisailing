@@ -12,11 +12,11 @@ faq:
   - q: "Where does the food come from?"
     a: "The sea and the islands. We fish as we sail, and trade with the Guna communities for tropical fruit and vegetables. It's about as fresh and local as food gets — caught or picked the same day."
   - q: "Is it part of the trip or extra?"
-    a: "Cooking and sharing meals is simply part of life aboard Ikigai in San Blas — join in when you feel like it. Ask us on WhatsApp or check the season page for how boarding works."
+    a: "Part of it — everything's included in your cabin contribution, with no add-ons or extra fees. Cooking and sharing meals is simply part of life aboard Ikigai in San Blas; join in when you feel like it."
 ---
 ## From the water to the plate
 
-In San Blas, food isn't catered — it's caught, traded and made, together. We fish as we sail between islands, trade with the **Guna** for tropical fruit and vegetables, and cook it simply in the galley. The class is just an invitation to get your hands in: learn to break down a fresh-caught fish, cure a **ceviche**, slice a **carpaccio**, and cook the way a boat cooks — fresh, unfussy, nothing wasted.
+In San Blas, food isn't catered — it's caught, traded and made, together. We fish as we sail between islands, trade with the **Guna** for tropical fruit and vegetables, and cook it simply in the galley. The class is just an invitation to get your hands in: the boat classics — **ceviche, tartare, carpaccio, fish on the BBQ** — and then wherever the mood goes, a little **Thai**, a little **Italian** (think lobster fettuccine or octopus risotto), and a lot of healthy, veg- and fruit-forward plates. Fresh, unfussy, nothing wasted.
 
 ## Sharing a meal is sacred
 

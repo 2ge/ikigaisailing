@@ -31,18 +31,18 @@ faq:
       fresco e locale di così: pescato o raccolto lo stesso giorno.
   - q: È incluso nel viaggio o è un extra?
     a: >-
-      Cucinare e condividere i pasti fa semplicemente parte della vita a bordo
-      dell'Ikigai a San Blas: unisciti a noi quando ne hai voglia. Chiedici su
-      WhatsApp o dai un'occhiata alla pagina dedicata alla stagione per sapere
-      come funziona l'imbarco.
+      In parte — tutto è compreso nel prezzo della cabina, senza costi
+      aggiuntivi o supplementi. Cucinare e condividere i pasti fa semplicemente
+      parte della vita a bordo dell'Ikigai a San Blas; unisciti a noi quando ne
+      hai voglia.
 translated: deepl
-sourceHash: c1b37e2a78df1118
+sourceHash: 37a2a7510093319c
 ---
 
 ## Dall'acqua al piatto
 
-A San Blas, il cibo non viene servito: viene pescato, scambiato e preparato, tutti insieme. Peschiamo mentre navighiamo tra le isole, scambiamo frutta e verdura tropicale con i **Guna** e cuciniamo tutto in modo semplice nella cambusa. Il corso è solo un invito a rimboccarti le maniche: impara a pulire un pesce appena pescato, a preparare un **ceviche**, a tagliare un **carpaccio** e a cucinare come si fa in barca: fresco, senza fronzoli, senza sprechi.
+A San Blas, il cibo non viene servito: viene pescato, scambiato e preparato, tutti insieme. Peschiamo mentre navighiamo tra le isole, scambiamo frutta e verdura tropicale con i **Guna** e cuciniamo tutto in modo semplice nella cambusa. Il corso è semplicemente un invito a rimboccarti le maniche: i classici da barca – **ceviche, tartare, carpaccio, pesce alla griglia** – e poi, a seconda dell’umore, un po’ **di cucina thailandese**, un po’ **di cucina italiana** (pensa alle fettuccine all’aragosta o al risotto al polpo) e tanti piatti sani, a base di frutta e verdura. Fresco, senza fronzoli, senza sprechi.
 
 ## Condividere un pasto è sacro
 
-Nessuno è obbligato a partecipare, ma la maggior parte lo fa, perché è qui che si conclude la giornata. Impari qualche trucchetto, scambi storie davanti al tagliere, poi tutti si siedono all’ancora per mangiare ciò che hai preparato — l’acqua turchese a pochi metri di distanza, un’isola deserta a prua. È meno un corso e più un piccolo rituale quotidiano, ed è una delle cose che la gente ricorda più a lungo di San Blas.
+Nessuno è obbligato a partecipare, ma la maggior parte lo fa, perché è qui che si conclude la giornata. Impari qualche trucchetto, scambi storie davanti al tagliere, poi tutti si siedono all’ancora per mangiare quello che hai preparato — l’acqua turchese a pochi metri di distanza, un’isola deserta a prua. È meno una lezione e più un piccolo rituale quotidiano, ed è una delle cose che la gente ricorda più a lungo di San Blas.
