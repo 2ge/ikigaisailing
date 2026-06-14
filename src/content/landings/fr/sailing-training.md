@@ -16,9 +16,9 @@ lead: >-
   San Blas, c'est sans doute le terrain d'apprentissage le plus accueillant
   qu'un marin débutant puisse rêver : des eaux calmes et chaudes, de courtes
   traversées entre les îles, des alizés réguliers et pratiquement aucun trafic.
-  Tu prends la barre d'un Catana 47, tu régles les voiles, tu apprends à jeter
-  l'ancre dans un lagon turquoise — tout ça grâce à un cours pratique dispensé
-  par un RYA Yachtmaster, pas à partir d'un diaporama.
+  Tu prends la barre d’un Catana 47, tu régles les voiles, tu apprends à jeter
+  l’ancre dans un lagon turquoise — tout ça grâce à un cours pratique dispensé
+  par un RYA Yachtmaster, pas à partir d’un diaporama.
 faq:
   - q: Faut-il avoir de l'expérience pour apprendre à faire de la voile ici ?
     a: >-
@@ -27,19 +27,20 @@ faq:
       la première fois. Les marins expérimentés peuvent s'essayer à des
       manœuvres plus complexes : réglage des voiles, navigation au vent,
       mouillage en situation de stress.
-  - q: Est-ce une formation certifiée ?
+  - q: Est-ce que je reçois un document officiel pour ça ?
     a: >-
-      Il s'agit d'une formation pratique dispensée par un skipper certifié RYA
-      Yachtmaster, pas d'une usine à diplômes : tu apprends en naviguant
-      réellement entre les mouillages. Dis-nous ce que tu recherches et on
-      adaptera le programme en fonction.
+      On enregistre tes milles marins et on signe ton carnet de bord — ainsi,
+      chaque sortie compte comme de véritables milles marins pour l'obtention
+      d'un futur diplôme, comme le RYA Day Skipper ou le Yachtmaster. C'est une
+      formation pratique avec un Yachtmaster de la RYA, pas un examen en salle
+      de classe.
   - q: Quand est-ce que je peux naviguer à San Blas ?
     a: >-
       On est à l'ancrage à San Blas de décembre 2025 à juin 2026 — c'est la
       saison calme, avec des alizés réguliers, l'idéal pour apprendre. Après ça,
       le bateau reprendra la mer et la formation continuera avec lui.
 translated: deepl
-sourceHash: 07b155f69115e8f9
+sourceHash: 27777ea84f41f109
 ---
 
 ## Pourquoi San Blas est un endroit idéal pour apprendre
@@ -48,4 +49,4 @@ La plupart des gens apprennent à naviguer dans des endroits animés et froids. 
 
 ## De la barre à l'ancre
 
-Tu barres, tu régles les voiles, tu apprends les points de route et le comportement d’un catamaran, puis tu maîtrises ce dont tout le monde a vraiment besoin : **jeter l’ancre** sans drame dans une baie turquoise bondée. Tu sais déjà naviguer ? Va plus loin : lire le vent sur l’eau, faire de courtes traversées de nuit, développer ton sens de la météo. Ton instructeur est titulaire d'un brevet **RYA Yachtmaster**, et il n'y a pas de programme à suivre à la hâte : tu apprends au rythme imposé par les îles.
+Tu barres, tu régles les voiles, tu apprends les points de route et le comportement d’un catamaran, puis tu maîtrises ce dont tout le monde a vraiment besoin : **jeter l’ancre** sans drame dans une baie turquoise bondée. Tu sais déjà naviguer ? Va plus loin : lire le vent sur l’eau, faire de courtes traversées de nuit, développer ton sens de la météo. Ton instructeur est titulaire d’un brevet **RYA Yachtmaster**, et nous **consignons chaque mille nautique dans ton carnet de bord** afin que ce temps compte pour une future qualification. Pas de programme à suivre à la hâte : tu apprends au rythme dicté par les îles.

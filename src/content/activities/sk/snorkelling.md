@@ -24,9 +24,9 @@ facts:
   - label: Voda
     value: 'Teplá, čistá, často plytká'
   - label: Čo uvidíte
-    value: 'Útesy, rejnoky, útesové žraloky, ryby, korytnačky'
+    value: 'Rejky, žraloky ošetrovateľské, homáre, hviezdice, korytnačky, útesové ryby'
 translated: deepl
-sourceHash: 27fde74feeab5874
+sourceHash: b4e8691c94502915
 needsReview: true
 ---
 
@@ -36,4 +36,4 @@ Na šnorchlovanie nepotrebujete nič viac ako masku, plutvy a odvahu ponoriť tv
 
 ## Útesy, kam sa nedostanú jednodňové výlety
 
-Keďže plávame na lodi a kotvíme tam, kde sa nám páči, šnorchlujete na miestach, kam sa jednodňové výlety nikdy nezaoberajú – koralové útesy, zrázy, pieskové lavice, kde plávajú raje. Väčšinu dní ich nebudete s nikým zdieľať. Plávajte nad útesom, kde ste sami, sledujte korytnačku, ako sa pasie, alebo útesového žraloka, ako sa vznáša pod vami, a potom sa vráťte na palubu na obed. Je to najjednoduchší vstup do podmorského sveta.
+Keďže plávame na lodi a kotvíme tam, kde sa nám páči, šnorchlujete na miestach, kam sa jednodňové výlety nikdy nezaoberajú – koralové hlavy, zrázy, pieskové lavice, kde sa kĺžu raje. Väčšinu dní ich nebudete s nikým zdieľať. Plávajte nad útesom, kde ste sami, sledujte korytnačku, ako sa pasie, alebo útesového žraloka, ako sa vznáša pod vami, a potom sa vráťte na palubu na obed. Je to najjednoduchší vstup do podmorského sveta.

@@ -1,9 +1,9 @@
 ---
 title: Formación en vela
 summary: >-
-  El Ikigai es, ante todo, un velero, así que podrás aprender a navegar en él:
-  con las manos en el timón y las escotas, interpretando el viento y haciendo
-  guardia en una travesía real por el mar.
+  El Ikigai es, ante todo, un velero, así que podrás aprender a navegar en él de
+  verdad: con las manos en el timón y las escotas, interpretando el viento y
+  haciendo guardia en una travesía real por el mar.
 seoTitle: Aprende a navegar en catamarán | Ikigai Sailing
 metaDescription: >-
   Formación práctica de navegación a bordo de un Catana 47 con un patrón con
@@ -23,10 +23,12 @@ facts:
     value: 'Navegación, ajuste de las velas, rumbos, fondeo, guardia'
   - label: Capitán
     value: Certificado RYA Yachtmaster
+  - label: Diario de a bordo
+    value: Millas náuticas registradas y validadas para obtener una titulación
   - label: Barco
     value: Catamarán de alto rendimiento Catana 47
 translated: deepl
-sourceHash: e0d9d6c2479d956a
+sourceHash: 1bc12d0737929574
 ---
 
 ## Aprende a navegar navegando
@@ -35,4 +37,4 @@ La mayor parte de lo que la gente llama «curso de navegación» se hace en un a
 
 ## Desde la primera virada hasta la guardia nocturna
 
-¿Nunca has tocado un cabrestante? Empezarás por lo básico: los puntos de navegación, cómo se comporta un catamarán, cómo mantener el rumbo. ¿Ya sabes navegar? Profundizarás más: trimar para ganar velocidad, trazar rutas según el tiempo, fondear en una bahía concurrida y la tranquila competencia de una guardia nocturna bajo las estrellas, sin luz en kilómetros a la redonda. No hay un programa que cumplir a toda prisa: aprendes al ritmo que marca el mar, en cualquier agua que se nos presente.
+¿Nunca has tocado un cabrestante? Empezarás por lo básico: los puntos de navegación, cómo se comporta un catamarán, cómo mantener el rumbo. ¿Ya sabes navegar? Profundizarás más: trimar para ganar velocidad, trazar rutas según el tiempo, fondear en una bahía concurrida y la tranquila competencia de una guardia nocturna bajo las estrellas, sin luz en kilómetros a la redonda. **Registramos tus millas náuticas y firmamos tu cuaderno de bitácora**, para que el tiempo cuente para una futura titulación —y no hay ningún programa que te obligue a apresurarte. Aprendes al ritmo que marca el mar, en cualquier agua que se nos presente.

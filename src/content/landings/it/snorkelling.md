@@ -9,8 +9,8 @@ seoTitle: 'Snorkeling in San Blas, Panama, da un catamarano | Ikigai'
 metaDescription: >-
   Fai snorkeling tra le barriere coralline di San Blas, a Panama, a bordo di una
   Catana 47: le acque calde e cristalline di Guna Yala, l'attrezzatura a
-  disposizione, e ancoraggi irraggiungibili dalle gite di un giorno. Non serve
-  esperienza, prenota per cabina.
+  disposizione, e ancoraggi irraggiungibili dalle escursioni giornaliere. Non
+  serve esperienza, prenota per cabina.
 locale: it
 heroImage: ~/assets/activities/diving/manta.jpg
 gallery:
@@ -30,10 +30,18 @@ faq:
       semplice per immergersi nel mondo sottomarino.
   - q: Cosa vedrò?
     a: >-
-      Barriere coralline, razze, pesci di barriera, tartarughe e, spesso, squali
-      nutrice che nuotano tranquillamente sott'acqua. Le barriere coralline di
-      San Blas sono per lo più incontaminate, quindi la vita marina è molto più
-      ricca rispetto a una barriera turistica affollata.
+      Ragni di mare, squali nutrice, aragoste nascoste tra la barriera
+      corallina, stelle marine sparse sui banchi di sabbia, pesci di barriera e
+      tartarughe. Le barriere coralline di San Blas sono per lo più
+      incontaminate, quindi la vita marina è molto più ricca rispetto a una
+      barriera turistica affollata.
+  - q: Dove si fa lo snorkeling migliore a San Blas?
+    a: >-
+      I posti migliori si trovano nei cays più esterni — Cayos Holandeses, Cayos
+      Limones e Cayos Coco Bandero — dove ci sono la barriera corallina e i
+      banchi di sabbia con le stelle marine. Dato che viaggiamo in barca a vela,
+      gettiamo l'ancora proprio lì e facciamo snorkeling prima che arrivino le
+      barche da escursione giornaliera.
   - q: >-
       Perché fare snorkeling da un catamarano invece che con un'escursione
       giornaliera?
@@ -43,13 +51,13 @@ faq:
       fare snorkeling quando vuoi, di solito con tutta la barriera corallina
       tutta per te, per poi risalire a bordo per il pranzo.
 translated: deepl
-sourceHash: 2fa9e310f078ac78
+sourceHash: 727b8d4a28ba93b1
 ---
 
 ## Basta tuffarsi
 
-Fare snorkeling a San Blas non richiede quasi nulla da parte tua. Niente bombole, niente brevetti, niente corsi: solo maschera, pinne e acqua calda in cui puoi vedere fino al fondo. Le lagune hanno una temperatura di circa **28 °C**, sono poco profonde e limpide, e dato che il catamarano getta l'ancora proprio sopra il punto migliore, la barriera corallina di solito si trova a pochi bracciate dal gradino di poppa.
+Fare snorkeling a San Blas non richiede quasi nulla da parte tua. Niente bombole, niente brevetti, niente corsi: basta una maschera, le pinne e l'acqua calda in cui si vede fino in fondo. Le lagune hanno una temperatura di circa **28 °C**, sono poco profonde e limpide, e dato che il catamarano getta l'ancora proprio sopra il punto migliore, la barriera corallina è di solito a pochi bracciate dal gradino di poppa.
 
 ## Barriere coralline irraggiungibili dalle escursioni giornaliere
 
-Navigare con la cabina significa che gettiamo l'ancora dove vogliamo: banchi di corallo, strapiombi e banchi di sabbia al largo **delle isole disabitate di Guna Yala,** dove le barche da escursione giornaliera non arrivano mai. Galleggia sopra una barriera corallina rimasta intatta per secoli, osserva una razza che scivola sulla sabbia o uno squalo nutrice che ti passa sotto, poi torna a nuoto per il pranzo. Quasi tutti i giorni, le uniche persone là fuori sono quelle con cui sei salpato.
+Navigare con la barca a vela significa che gettiamo l'ancora dove vogliamo: gli isolotti più remoti che le barche da escursione giornaliera raggiungono raramente: **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero** e i banchi di sabbia dove si radunano le stelle marine. Galleggia sopra una barriera corallina rimasta intatta per secoli, osserva una razza che scivola sulla sabbia, uno squalo nutrice che ti passa sotto, un'aragosta rintanata in una fessura, poi torna a nuoto a casa per pranzo. Quasi tutti i giorni, le uniche persone là fuori sono quelle con cui sei salpato.

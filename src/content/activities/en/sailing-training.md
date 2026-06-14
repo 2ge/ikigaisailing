@@ -17,6 +17,8 @@ facts:
     value: "Steering, sail trim, points of sail, anchoring, watch-keeping"
   - label: "Skipper"
     value: "RYA Yachtmaster certified"
+  - label: "Logbook"
+    value: "Nautical miles logged + signed toward a qualification"
   - label: "Boat"
     value: "Catana 47 performance catamaran"
 ---
@@ -26,4 +28,4 @@ Most of what people call a "sailing course" happens at a desk. Aboard *Ikigai* i
 
 ## From first tack to night watch
 
-Never touched a winch? You'll start with the basics — points of sail, how a catamaran behaves, how to hold a course. Already sail? You'll go deeper: trim for speed, weather routing, anchoring in a crowded bay, and the quiet competence of a night watch under stars with no light for miles. There's no syllabus to rush — you learn at the pace the sea sets, on whatever water we happen to be crossing.
+Never touched a winch? You'll start with the basics — points of sail, how a catamaran behaves, how to hold a course. Already sail? You'll go deeper: trim for speed, weather routing, anchoring in a crowded bay, and the quiet competence of a night watch under stars with no light for miles. We **log your nautical miles and sign your logbook**, so the time counts toward a future qualification — and there's no syllabus to rush. You learn at the pace the sea sets, on whatever water we happen to be crossing.

@@ -7,9 +7,9 @@ description: >-
   Équipement fourni à bord, aucune expérience requise.
 seoTitle: 'Plongée avec tuba à San Blas, au Panama, depuis un catamaran | Ikigai'
 metaDescription: >-
-  Fais de la plongée avec tuba dans les récifs de San Blas, au Panama, à bord
-  d'un Catana 47 : les eaux chaudes et limpides de Guna Yala, tout l'équipement
-  à bord, des mouillages inaccessibles aux excursions d'une journée. Aucune
+  Fais de la plongée libre dans les récifs de San Blas, au Panama, à bord d'un
+  Catana 47 : les eaux chaudes et limpides de Guna Yala, tout l'équipement à
+  bord, des mouillages inaccessibles aux excursions d'une journée. Aucune
   expérience requise, réserve par cabine.
 locale: fr
 heroImage: ~/assets/activities/diving/manta.jpg
@@ -31,26 +31,35 @@ faq:
       sous-marin.
   - q: Qu'est-ce que je vais voir ?
     a: >-
-      Des récifs de corail, des raies, des poissons de récif, des tortues et,
-      souvent, des requins-nourrices qui glissent dans les profondeurs. Les
-      récifs de San Blas sont pour la plupart préservés, ce qui explique qu'ils
-      abritent bien plus de vie que les récifs touristiques très fréquentés.
+      Des raies, des requins nourrices, des homards cachés dans le récif, des
+      étoiles de mer éparpillées sur les bancs de sable, des poissons de récif
+      et des tortues. Les récifs de San Blas sont en grande partie préservés, ce
+      qui explique qu'ils regorgent bien plus de vie que les récifs touristiques
+      très fréquentés.
+  - q: Où trouve-t-on les meilleurs spots de plongée avec tuba à San Blas ?
+    a: >-
+      C'est surtout autour des îlots extérieurs — les Cayos Holandeses, les
+      Cayos Limones et les Cayos Coco Bandero — qu'on trouve les plus beaux
+      endroits, là où se trouvent le récif et les bancs de sable parsemés
+      d'étoiles de mer. Comme on navigue à la voile, on jette l'ancre juste à
+      côté et on fait de la plongée avec tuba avant l'arrivée des bateaux
+      d'excursion.
   - q: >-
       Pourquoi faire de la plongée avec tuba depuis un catamaran plutôt que de
       participer à une excursion d'une journée ?
     a: >-
       Parce qu'on jette l'ancre là où les bateaux d'excursion ne vont pas : sur
-      les têtes de corail et les bancs de sable au large d'îles inhabitées. Tu
+      des têtes de corail et des bancs de sable au large d'îles inhabitées. Tu
       fais de la plongée libre quand tu veux, souvent avec tout le récif pour
       toi tout seul, puis tu remontes à bord pour le déjeuner.
 translated: deepl
-sourceHash: 2fa9e310f078ac78
+sourceHash: 727b8d4a28ba93b1
 ---
 
 ## Il suffit de se jeter à l'eau
 
-La plongée avec tuba à San Blas ne t'impose presque aucune exigence. Pas de bouteille, pas de brevet, pas de cours — juste un masque, des palmes et une eau chaude où tu peux voir jusqu'au fond. Les lagons sont à environ **28 °C**, peu profonds et limpides, et comme le catamaran jette l'ancre juste au-dessus des meilleurs spots, le récif n'est généralement qu'à quelques coups de palmes de la marche arrière.
+La plongée avec tuba à San Blas ne t'impose presque aucune contrainte. Pas de bouteille, pas de brevet, pas de cours — juste un masque, des palmes et une eau chaude où tu peux voir jusqu'au fond. Les lagons sont à environ **28 °C**, peu profonds et limpides, et comme le catamaran jette l'ancre juste au-dessus des meilleurs spots, le récif n'est généralement qu'à quelques coups de palmes de la marche arrière.
 
-## Des récifs inaccessibles aux excursions d’une journée
+## Des récifs inaccessibles aux excursions d'une journée
 
-Naviguer en cabine nous permet de jeter l'ancre où bon nous semble : têtes de corail, tombants et bancs de sable au large **des îles inhabitées de Guna Yala,** que les bateaux d'excursion d'une journée n'atteignent jamais. Flotte au-dessus d'un récif laissé à l'abandon depuis des siècles, observe une raie glisser sur le sable ou un requin nourrice passer sous tes pieds, puis nage pour revenir déjeuner. La plupart du temps, les seules personnes présentes sont celles avec qui tu as navigué.
+Naviguer en cabine nous permet de jeter l'ancre où bon nous semble — sur les cayes extérieures que les bateaux d'excursion d'une journée atteignent rarement : **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero**, et les bancs de sable où les étoiles de mer se rassemblent. Flotte au-dessus d’un récif laissé à l’abandon depuis des siècles, observe une raie glisser sur le sable, un requin nourrice passer sous tes pieds, un homard se réfugier dans une crevasse, puis nage jusqu’au bateau pour le déjeuner. La plupart du temps, les seules personnes présentes sont celles avec qui tu as pris la mer.
