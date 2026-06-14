@@ -22,6 +22,8 @@ export function initConcierge(root: HTMLElement) {
 
   const history: Msg[] = [];
   let turnstileToken: string | null = null;
+  let turnstilePromise: Promise<string | null> | null = null;
+  let resolveTurnstile: ((t: string | null) => void) | null = null;
   let busy = false;
 
   const panel = document.createElement('div');
@@ -47,7 +49,7 @@ export function initConcierge(root: HTMLElement) {
         <svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor"><path d="M2 10l16-7-7 16-2.5-6.5L2 10z"/></svg>
       </button>
     </form>
-    <div data-turnstile-holder class="hidden"></div>`;
+    <div data-turnstile-holder class="empty:hidden grid place-items-center px-3 pb-2"></div>`;
   root.appendChild(panel);
 
   const log = panel.querySelector('[data-log]') as HTMLElement;
@@ -86,6 +88,12 @@ export function initConcierge(root: HTMLElement) {
     chipsEl.style.display = 'none';
     addBubble('user', text);
     history.push({ role: 'user', content: text });
+    // The server verifies Turnstile on the FIRST user turn only. Turnstile hands us
+    // the token asynchronously (a beat after the panel opens), so wait for it before
+    // sending message 1 — otherwise we send a null token and get "Verification failed".
+    if (siteKey && !turnstileToken && history.filter((m) => m.role === 'user').length === 1) {
+      await waitForTurnstile();
+    }
     await stream();
   });
 
@@ -159,16 +167,26 @@ export function initConcierge(root: HTMLElement) {
     return h.replace(/\n/g, '<br>');
   }
 
-  // Turnstile: render invisibly on first open to get a token for message 1
+  // Turnstile: render on first open to get a token for message 1. With
+  // appearance:'interaction-only' it passes invisibly for most visitors (the
+  // holder stays empty → `empty:hidden`); a real challenge only renders its UI
+  // when Cloudflare decides one is needed.
   function ensureTurnstile() {
-    if (!siteKey || turnstileToken) return;
+    if (!siteKey || turnstileToken || turnstilePromise) return;
+    turnstilePromise = new Promise<string | null>((resolve) => (resolveTurnstile = resolve));
     const holder = panel.querySelector('[data-turnstile-holder]') as HTMLElement;
+    const settle = (tok: string | null) => {
+      turnstileToken = tok;
+      resolveTurnstile?.(tok);
+    };
     const go = () => {
       // @ts-expect-error global injected by the Turnstile script
       window.turnstile?.render(holder, {
         sitekey: siteKey,
         appearance: 'interaction-only', // only shows a challenge if one is needed
-        callback: (tok: string) => (turnstileToken = tok),
+        callback: (tok: string) => settle(tok),
+        'error-callback': () => settle(null),
+        'timeout-callback': () => settle(null),
       });
     };
     // @ts-expect-error
@@ -181,6 +199,15 @@ export function initConcierge(root: HTMLElement) {
     sc.defer = true;
     sc.onload = go;
     document.head.appendChild(sc);
+  }
+
+  // Resolve once Turnstile hands us a token, but never block the chat for long:
+  // after the grace period we send anyway (server will ask the user to retry).
+  async function waitForTurnstile(graceMs = 6000) {
+    if (turnstileToken || !siteKey) return;
+    ensureTurnstile();
+    if (!turnstilePromise) return;
+    await Promise.race([turnstilePromise, new Promise((r) => setTimeout(r, graceMs))]);
   }
 }
 
