@@ -32,4 +32,4 @@ Discover the power of meditation fully immersed in nature. Join us in integratin
 
 ## Why try it
 
-Experience a moment of authentic peace, away from the daily chaos.
+Experience a moment of authentic peace, away from the daily chaos — then take that stillness into the water with [Janzu](/activities/janzu/), aquatic bodywork that quiets the mind from another angle entirely.

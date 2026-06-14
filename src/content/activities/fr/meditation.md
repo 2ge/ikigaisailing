@@ -29,15 +29,15 @@ facts:
       Une meilleure conscience de soi, une plus grande détente et un meilleur
       équilibre émotionnel
 translated: deepl
-sourceHash: bf97505c72d22634
+sourceHash: 61a615df96fb7d3a
 ---
 
 ## Redécouvre ta paix intérieure
 
 La méditation avec Ikigai Sailing est une expérience unique, où la tranquillité de la mer amplifie les bienfaits de la pratique. Parfait pour ceux qui cherchent un moment de pause et de reconnexion.
 
-Découvre le pouvoir de la méditation en pleine nature. Rejoins-nous pour intégrer cette pratique le matin et le soir, et tu en ressentiras rapidement les multiples bienfaits.
+Découvre le pouvoir de la méditation en pleine nature. Rejoins-nous pour intégrer cette pratique le matin et le soir, et tu en ressentiras bientôt les multiples bienfaits.
 
 ## Pourquoi essayer
 
-Vivez un moment de paix authentique, loin du chaos quotidien.
+Vivez un moment de paix authentique, loin du chaos quotidien — puis emportez cette sérénité dans l'eau avec [le Janzu](/fr/activites/janzu/), un travail corporel aquatique qui apaise l'esprit sous un angle totalement différent.

@@ -27,7 +27,7 @@ facts:
   - label: Ventajas
     value: 'Mayor conciencia, relajación y equilibrio emocional'
 translated: deepl
-sourceHash: bf97505c72d22634
+sourceHash: 61a615df96fb7d3a
 ---
 
 ## Redescubre la paz interior
@@ -38,4 +38,4 @@ Descubre el poder de la meditación totalmente inmerso en la naturaleza. Únete 
 
 ## ¿Por qué probarlo?
 
-Vive un momento de auténtica paz, lejos del caos diario.
+Vive un momento de auténtica paz, lejos del caos diario; luego, lleva esa quietud al agua con [Janzu](/es/actividades/janzu/), una técnica de trabajo corporal acuático que calma la mente desde un ángulo completamente diferente.

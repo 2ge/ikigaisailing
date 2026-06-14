@@ -1,14 +1,14 @@
 ---
 title: Buceo en apnea
 summary: >-
-  El buceo libre no es solo un deporte: puede ser un auténtico camino hacia el
-  autodescubrimiento, una oportunidad para hacer una pausa, respirar y
+  El buceo en apnea no es solo un deporte: puede ser un auténtico camino hacia
+  el autodescubrimiento, una oportunidad para hacer una pausa, respirar y
   escucharte a ti mismo.
 seoTitle: 'Charter de buceo libre en San Blas, Panamá | Ikigai'
 metaDescription: >-
   Aprende buceo en apnea a bordo de nuestro Catana 47 en San Blas, Panamá, con
   patrones certificados por AIDA y Apnea Total. Reserva un camarote directamente
-  con la tripulación en aguas cálidas y cristalinas.
+  con la tripulación para disfrutar de aguas cálidas y cristalinas.
 locale: es
 category: watersports
 image: ~/assets/activities/project/Apnea.jpg
@@ -31,7 +31,7 @@ facts:
   - label: Profesores
     value: Certificado por AIDA y Apnea Total
 translated: deepl
-sourceHash: 6f0795e304b1cb11
+sourceHash: 5dd2c40c6a4c4677
 ---
 
 ## Sumérgete en el poder de la respiración
@@ -40,4 +40,4 @@ El buceo libre no es solo un deporte, puede ser un auténtico camino hacia el au
 
 ## Beneficios
 
-Descubre cómo el buceo libre fortalece el cuerpo, calma la mente y mejora la conciencia.
+Descubre cómo el buceo libre fortalece el cuerpo, calma la mente y mejora la conciencia. Esa misma relación tranquila con la respiración y el agua se traslada directamente al [Janzu](/es/actividades/janzu/), la terapia corporal acuática que practicamos a bordo.
