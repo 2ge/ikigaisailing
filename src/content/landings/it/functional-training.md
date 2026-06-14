@@ -6,27 +6,28 @@ description: >-
   una Catana 47 o su una spiaggia deserta di Guna Yala. Niente attrezzi.
 seoTitle: Allenamento funzionale Tabata a San Blas — Catamarano | Ikigai
 metaDescription: >-
-  Allenamento funzionale Tabata a San Blas, Panama, a bordo di un Catana 47 — 20
-  secondi di esercizio / 10 secondi di riposo con elastici, TRX e kettlebell,
+  Allenamento funzionale Tabata a San Blas, Panama, a bordo di una Catana 47 —
+  20 secondi di esercizio / 10 secondi di riposo con elastici, TRX e kettlebell,
   sul ponte o su una spiaggia deserta. Niente palestra, niente attrezzi.
 locale: it
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
-  Rimani in forma in paradiso senza una palestra in vista. A San Blas ci
-  alleniamo in stile Tabata sul ponte di prua o su una spiaggia deserta — 20
-  secondi di esercizio, 10 di riposo — con bande elastiche, TRX e kettlebell.
-  Venti minuti intensi, con il sale sulla pelle, e poi dritto in acqua.
+  L'allenamento funzionale a San Blas significa mantenersi in forma in paradiso
+  senza una palestra in vista. Ci alleniamo in stile Tabata sul ponte di prua o
+  su una spiaggia deserta — 20 secondi di esercizio, 10 di riposo — con bande
+  elastiche, TRX e kettlebell. Venti minuti intensi, con il sale sulla pelle,
+  per poi tuffarsi direttamente in acqua.
 faq:
   - q: Devo essere in forma per partecipare?
     a: >-
       No. Il Tabata si adatta a chiunque si alleni: i principianti assoluti
       stabiliscono da soli il proprio livello di intensità. Si tratta di 20
-      secondi di sforzo seguiti da 10 di riposo, da ripetere; ti alleni con
-      l'intensità che preferisci.
+      secondi di sforzo seguiti da 10 di riposo, da ripetere; ti alleni
+      all'intensità che preferisci.
   - q: Quali attrezzi ci sono senza palestra?
     a: >-
       Elastici di resistenza, cinghie TRX, kettlebell e il peso del tuo corpo:
-      tutto qui, ed è più che sufficiente. Niente attrezzi, niente specchi, solo
+      tutto qui, ed è più che sufficiente. Niente macchine, niente specchi, solo
       forza funzionale che ti accompagna nell'apnea e nella vela.
   - q: Dove si tengono le sessioni?
     a: >-
@@ -34,12 +35,12 @@ faq:
       di San Blas, quando l'ancoraggio lo permette. All'alba, di solito, prima
       che faccia troppo caldo.
 translated: deepl
-sourceHash: ff605c7b33cbfe73
+sourceHash: d629865d983d3410
 ---
 
-## Corpo forte, niente palestra, niente scuse
+## Corpo in forma, niente palestra, niente scuse
 
-A San Blas non ci sono palestre — e non ne sentirai la mancanza. Ci alleniamo **in stile Tabata**: 20 secondi di esercizio, 10 di riposo, otto serie, con una manciata di movimenti. Sono i venti minuti più intensi della tua giornata, e ti lasciano più in forma, non distrutto. E poi il mare è proprio lì, pronto a rinfrescarti.
+A San Blas non ci sono palestre — e non ti mancheranno. Ci alleniamo **in stile Tabata**: 20 secondi di esercizio, 10 di riposo, otto serie, con una manciata di movimenti. Sono i venti minuti più intensi della tua giornata, e ti lasciano più in forma, non distrutto. E poi il mare è proprio lì, pronto a rinfrescarti.
 
 ## Come si svolge una sessione
 
