@@ -70,6 +70,28 @@ for (const collection of ['pages', 'trips', 'activities', 'blog']) {
   }
 }
 
+// (2b) slug-localization migration — the previous live localized URL used the
+// English item slug (e.g. /it/attivita/freediving/); 301 it to the new localized
+// slug (/it/attivita/apnea/). add() skips unchanged slugs (brand/proper nouns).
+for (const loc of LOCS) {
+  if (loc === 'en') continue;
+  for (const collection of ['activities', 'trips']) {
+    const dir = join(CONTENT, collection, loc);
+    if (!existsSync(dir)) continue;
+    for (const file of readdirSync(dir).filter((f) => f.endsWith('.md'))) {
+      const slug = file.replace(/\.md$/, '');
+      add(`/${loc}/${localizeSegment(collection, loc)}/${slug}/`, localizePath(`/${collection}/${slug}/`, loc));
+    }
+  }
+  const ldir = join(CONTENT, 'landings', loc);
+  if (existsSync(ldir))
+    for (const file of readdirSync(ldir).filter((f) => f.endsWith('.md'))) {
+      const slug = file.replace(/\.md$/, '');
+      if (slug === 'pillar') continue;
+      add(`/${loc}/panama/san-blas/${slug}/`, localizePath(`/panama/san-blas/${slug}/`, loc));
+    }
+}
+
 // (3) section / retired-page redirects — keys are old URLs, values English-slug
 // localized targets that get re-localized to their current form.
 const EXTRA: Record<string, string> = {

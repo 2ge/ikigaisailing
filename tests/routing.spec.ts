@@ -201,7 +201,12 @@ test.describe('redirects', () => {
       ['/it/trips/', '/it/imbarchi/'],
       ['/sk/about/', '/sk/o-nas/'],
       ['/es/activities/', '/es/actividades/'],
-      ['/it/trips/one-month/', '/it/imbarchi/one-month/'],
+      // item slugs are localized too now → English-slug path 301s to the fully localized URL
+      ['/it/trips/one-month/', '/it/imbarchi/un-mese/'],
+      // slug-localization migration: previous live URL (localized section + EN item) → localized item
+      ['/it/attivita/freediving/', '/it/attivita/apnea/'],
+      ['/es/actividades/freediving/', '/es/actividades/apnea/'],
+      ['/it/panama/san-blas/sailing-training/', '/it/panama/san-blas/corso-di-vela/'],
     ]) {
       const row = redirects.find((r) => r.from === from);
       expect(row, `missing redirect for ${from}`).toBeTruthy();

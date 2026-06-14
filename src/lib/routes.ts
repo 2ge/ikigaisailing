@@ -4,7 +4,7 @@
  * a localized URL maps to.
  */
 import { getCollection } from 'astro:content';
-import { LOCALES, type Loc, localizeSegment } from '../i18n/segments';
+import { LOCALES, type Loc, localizeSegment, localizeItemSlug } from '../i18n/segments';
 import { slugOf, localeOf } from './content';
 
 /** pages-collection slugs rendered by a bespoke designed view. */
@@ -68,7 +68,7 @@ export async function itemStaticPaths() {
           params: {
             locale: locale === 'en' ? undefined : locale,
             section: localizeSegment(collection, locale),
-            item: slug,
+            item: localizeItemSlug(collection, slug, locale), // URL slug localized; props.slug stays canonical
           },
           props: { locale, collection, slug },
         });

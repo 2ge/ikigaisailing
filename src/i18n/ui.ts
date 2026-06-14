@@ -8,7 +8,7 @@ import it from './strings.it.json';
 import es from './strings.es.json';
 import fr from './strings.fr.json';
 import sk from './strings.sk.json';
-import { localizeSegment, canonicalSegment } from './segments';
+import { localizeSegment, canonicalSegment, isItemRoot, localizeItemSlug, canonicalItemSlug, type Loc } from './segments';
 
 export const locales = ['en', 'it', 'es', 'fr', 'sk'] as const;
 export type Locale = (typeof locales)[number];
@@ -46,10 +46,12 @@ export function localizePath(path: string, locale: Locale): string {
   const m = clean.match(/^([^?#]*)([?#].*)?$/);
   const pathname = m?.[1] ?? clean;
   const tail = m?.[2] ?? '';
-  const translated = pathname
-    .split('/')
-    .map((seg) => (seg ? localizeSegment(seg, locale) : seg))
-    .join('/');
+  const segs = pathname.split('/'); // EN-canonical input: ['', 'activities', 'freediving', '']
+  const out = segs.map((seg) => (seg ? localizeSegment(seg, locale) : seg));
+  // localize the collection ITEM slug too (not just the section root)
+  if (isItemRoot(segs[1]) && segs[2]) out[2] = localizeItemSlug(segs[1], segs[2], locale as Loc);
+  else if (segs[1] === 'panama' && segs[2] === 'san-blas' && segs[3]) out[3] = localizeItemSlug('landings', segs[3], locale as Loc);
+  const translated = out.join('/');
   const prefixed = locale === defaultLocale ? translated : `/${locale}${translated}`;
   return prefixed + tail;
 }
@@ -64,11 +66,12 @@ export function canonicalizePath(path: string, fromLocale: Locale): string {
   const m = stripped.match(/^([^?#]*)([?#].*)?$/);
   const pathname = m?.[1] ?? stripped;
   const tail = m?.[2] ?? '';
-  const canon = pathname
-    .split('/')
-    .map((seg) => (seg ? canonicalSegment(seg, fromLocale) : seg))
-    .join('/');
-  return canon + tail;
+  const segs = pathname.split('/'); // localized input: ['', 'attivita', 'apnea', '']
+  const out = segs.map((seg) => (seg ? canonicalSegment(seg, fromLocale) : seg));
+  const canonRoot = segs[1] ? canonicalSegment(segs[1], fromLocale) : '';
+  if (isItemRoot(canonRoot) && segs[2]) out[2] = canonicalItemSlug(canonRoot, segs[2], fromLocale as Loc);
+  else if (segs[1] === 'panama' && segs[2] === 'san-blas' && segs[3]) out[3] = canonicalItemSlug('landings', segs[3], fromLocale as Loc);
+  return out.join('/') + tail;
 }
 
 export function getLocaleFromUrl(url: URL): Locale {
