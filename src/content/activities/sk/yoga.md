@@ -1,13 +1,13 @@
 ---
-title: Jógový pobyt
+title: Jóga
 summary: >-
-  S morom v pozadí a šumením vĺn sa váš jógový pobyt stáva premenou prinášajúcou
-  zmenu. Každá lekcia je navrhnutá tak, aby...
-seoTitle: Jógový plachtený pobyt v Paname | Ikigai Sailing
+  S morom v pozadí a šumením vĺn sa vaše cvičenie jogy stáva premenou. Každá
+  lekcia je navrhnutá tak, aby...
+seoTitle: Jóga na katamaráne | Ikigai Sailing
 metaDescription: >-
-  Ranná joga a dychové cvičenia na palube lode Catana 47 v San Blas v Paname –
-  stabilná paluba, teplá voda a pokojný rytmus plavby. Wellness pobyt,
-  rezervovaný na kajutu.
+  Ranná joga a dychové cvičenia na palube lode Catana 47 – rovná, stabilná
+  paluba, teplá voda a pokojný rytmus plavby. Cvičenie na palube, rezervácia na
+  kajutu.
 locale: sk
 category: wellness
 image: ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-17-2.jpg
@@ -25,13 +25,13 @@ facts:
   - label: Miesto
     value: Na palube alebo na nádherných plážach
 translated: deepl
-sourceHash: c34dafc6b6363b65
+sourceHash: 4c19b7fa48f555b4
 needsReview: true
 ---
 
 ## Objavte svoju rovnováhu nanovo
 
-S morom v pozadí a šumením vĺn sa joga stáva transformujúcou praxou. Každá lekcia je navrhnutá tak, aby regenerovala telo i myseľ, a prispôsobuje sa každej úrovni skúseností.
+S morom v pozadí a šumením vĺn sa joga stáva transformujúcou praktikou. Každá lekcia je navrhnutá tak, aby regenerovala telo i myseľ, a prispôsobuje sa každej úrovni skúseností.
 
 ## Prečo to vyskúšať
 

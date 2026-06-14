@@ -3,12 +3,12 @@ title: Clase de cocina
 summary: >-
   Cocina con lo que nos ofrecen el mar y la tierra: pescado fresco de esa misma
   mañana, frutas y verduras locales. Ponte manos a la obra, aprende algunos
-  trucos de cocina de barco y luego comamos todos juntos.
+  trucos de la cocina de barco y luego comamos todos juntos.
 seoTitle: Clase de cocina a bordo de un catamarán de vela | Ikigai Sailing
 metaDescription: >-
-  Apúntate a una clase de cocina a bordo de un catamarán Catana 47: pescado
-  recién capturado, fruta y productos locales, preparados y degustados en el
-  mar. Ceviche, carpaccio, cocina sencilla a bordo.
+  Clase de cocina a bordo de un Catana 47: pescado recién capturado, productos
+  locales, ceviche y carpaccio preparados y compartidos en el mar. Cocina
+  sencilla a bordo.
 locale: es
 category: food
 image: ~/assets/trips/10-days-on-board/IMG_3911.webp
@@ -25,12 +25,12 @@ facts:
   - label: Nivel
     value: No se necesita experiencia
 translated: deepl
-sourceHash: c60234dd7195659d
+sourceHash: a19a7da7cb6045e7
 ---
 
 ## Del mar al plato
 
-A bordo _del Ikigai_, la comida no viene preparada: la hacemos juntos con lo que nos ofrece el día. Pescamos cuando podemos, compramos fruta y verdura a los locales y la convertimos en algo delicioso en la cocina. Empieza con los clásicos del barco —**ceviche, tartar, carpaccio, pescado a la barbacoa**— y luego amplía el abanico: un poco **de cocina tailandesa**, un poco **de italiana** (fettuccine con langosta, risotto de pulpo) y mucha cocina saludable, con verduras y frutas como protagonistas. Fresco, sencillo, sin desperdiciar nada.
+A bordo _del Ikigai_, la comida no viene preparada: la hacemos juntos con lo que nos ofrece el día. Pescamos cuando podemos, compramos fruta y verdura a los locales y la convertimos en algo delicioso en la cocina. Empieza con los clásicos del barco —**ceviche, tartar, carpaccio, pescado a la barbacoa**— y luego amplía el abanico: un poco **de cocina tailandesa**, un poco **de italiana** (fettuccine de langosta, risotto de pulpo) y mucha cocina saludable, con verduras y frutas como protagonistas. Fresco, sencillo, sin desperdiciar nada.
 
 ## Compartir una comida es sagrado
 

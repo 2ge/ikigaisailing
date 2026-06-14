@@ -6,9 +6,9 @@ summary: >-
   necesidad de título ni botella, solo tienes que zambullirte.
 seoTitle: Snorkel desde un catamarán | Ikigai Sailing
 metaDescription: >-
-  Haz snorkel directamente desde un catamarán Catana 47: aguas cálidas y
-  cristalinas, equipo a bordo, arrecifes y vida marina en fondeaderos a los que
-  no llegan las excursiones de un día. No se necesita experiencia.
+  Haz snorkel directamente desde un Catana 47: aguas cálidas y cristalinas, el
+  equipo a bordo y arrecifes en fondeaderos a los que no llegan las excursiones
+  de un día. No hace falta tener título; reserva por camarote.
 locale: es
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -28,13 +28,13 @@ facts:
       Rayas, tiburones nodriza, langostas, estrellas de mar, tortugas, peces de
       arrecife
 translated: deepl
-sourceHash: b4e8691c94502915
+sourceHash: bfe8e27061d6d3ee
 ---
 
 ## Solo tienes que meterte en el agua
 
-Para hacer snorkel solo necesitas una máscara, un par de aletas y ganas de meter la cara en el agua. Sin botella, sin certificación, sin curso. Nosotros llevamos el equipo, y como _el Ikigai_ fondea en aguas cristalinas y protegidas, el arrecife suele estar justo al salir de la popa: nadas un poco y ya estás allí.
+Para hacer snorkel solo necesitas una máscara, unas aletas y ganas de meter la cara en el agua. Sin botella, sin certificación, sin curso. Nosotros llevamos el equipo, y como _el Ikigai_ fondea en aguas cristalinas y protegidas, el arrecife suele estar justo al salir por la puerta trasera: nadas un poco y ya estás allí.
 
 ## Arrecifes a los que no llegan las excursiones de un día
 
-Como navegamos con el velero y fondeamos donde nos apetece, buceas en lugares a los que los barcos de excursión de un día nunca se molestan en ir: formaciones de coral, acantilados submarinos, bancos de arena por donde se deslizan las rayas. La mayoría de los días no tendrás a nadie más allí. Flota sobre un arrecife en soledad, observa cómo una tortuga se alimenta o cómo un tiburón de arrecife se desliza por debajo, y luego vuelve a subir a bordo para almorzar. Es la puerta de entrada más fácil que hay al mundo submarino.
+Como navegamos con el barco y fondeamos donde nos apetece, buceas en lugares a los que los barcos de excursión de un día nunca se molestan en ir: formaciones de coral, acantilados submarinos, bancos de arena por donde se deslizan las rayas. La mayoría de los días no tendrás a nadie más allí. Flota sobre un arrecife en soledad, observa cómo una tortuga pasta o cómo un tiburón de arrecife se desliza por debajo, y luego vuelve a subir a bordo para almorzar. Es la puerta de entrada más fácil que hay al mundo submarino.

@@ -6,23 +6,22 @@ description: >-
   Yachtmaster, e naviga lungo percorsi reali tra un ancoraggio e l'altro.
 seoTitle: 'Impara ad andare in barca a vela a San Blas, Panama — Catamarano | Ikigai'
 metaDescription: >-
-  Impara a navigare a San Blas, in Panama, a bordo di una Catana 47 con uno
-  skipper RYA Yachtmaster. Timone, regolazione delle vele e ancoraggio nelle
-  tranquille acque di Guna Yala: esperienza pratica, per cabina.
+  Impara a navigare a San Blas, in Panama, a bordo di una Catana 47 con un
+  istruttore RYA Yachtmaster: timone, assetto e ancoraggio nelle tranquille
+  acque di Guna Yala. Corso pratico, a cabina.
 locale: it
 heroImage: ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 lead: >-
-  Impara a navigare a San Blas e avrai l'aula più tranquilla che un marinaio
-  alle prime armi possa desiderare: acque calme e calde, brevi tragitti tra le
-  isole, alisei costanti e traffico quasi inesistente. Prenderai il timone di
-  una Catana 47, regolerai le vele, imparerai ad ancorare in una laguna turchese
-  — il tutto con lezioni pratiche tenute da un RYA Yachtmaster, non da una
-  presentazione.
+  Impara a navigare a San Blas e avrai l'aula più tranquilla che un principiante
+  possa desiderare: acque calme e calde, brevi tragitti tra le isole, alisei
+  costanti e traffico quasi inesistente. Prenderai il timone di una Catana 47,
+  regolerai le vele, imparerai ad ancorare in una laguna turchese — il tutto con
+  lezioni pratiche tenute da un RYA Yachtmaster, non da una presentazione.
 faq:
   - q: Mi serve un po' di esperienza per imparare ad andare in barca a vela qui?
     a: >-
       Nessuna. Le acque di San Blas sono tranquille — riparate, poco profonde,
-      con poco traffico — quindi è un ottimo posto per mettersi al timone per la
+      con poco traffico — quindi è un ottimo posto per provare a timonare per la
       prima volta. I velisti esperti possono cimentarsi in manovre più
       complesse: assetto, navigazione di bolina, ancoraggio in condizioni
       difficili.
@@ -39,7 +38,7 @@ faq:
       tranquilla, alisei costanti, l'ideale per imparare. Dopodiché la barca
       salperà e il corso proseguirà con noi.
 translated: deepl
-sourceHash: b337380bcb86c266
+sourceHash: ec780caf985e408f
 ---
 
 ## Perché San Blas è il posto ideale per imparare
@@ -48,4 +47,4 @@ La maggior parte delle persone impara a navigare in luoghi affollati e freddi. S
 
 ## Dal timone all'ancora
 
-Ti occuperai di governare la barca, regolare le vele, imparare i punti di bolina e come si comporta un catamarano, per poi affrontare la parte di cui tutti hanno davvero bisogno: **gettare l'ancora** in una baia turchese affollata senza drammi. Sai già navigare? Vai oltre: leggere il vento sull'acqua, brevi traversate notturne, senso del tempo. Il tuo istruttore possiede un brevetto **RYA Yachtmaster** e **registriamo ogni miglio nautico nel tuo diario di bordo**, così il tempo trascorso qui conta ai fini di una futura qualifica. Non c'è un programma da seguire in fretta: impari al ritmo dettato dalle isole.
+Ti occuperai di governare, regolare le vele, imparare i punti di bolina e come si comporta un catamarano, per poi affrontare la parte di cui tutti hanno davvero bisogno: **gettare l'ancora** in una baia turchese affollata senza drammi. Sai già navigare? Vai oltre: leggere il vento sull'acqua, brevi traversate notturne, intuito meteorologico. Il tuo istruttore possiede un brevetto **RYA Yachtmaster** e **registriamo ogni miglio nautico nel tuo diario di bordo**, così il tempo trascorso qui conta ai fini di una futura qualifica. Non c'è un programma da seguire in fretta: impari al ritmo dettato dalle isole.

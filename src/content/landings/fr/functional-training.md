@@ -9,8 +9,8 @@ seoTitle: Entraînement fonctionnel Tabata à San Blas — Catamaran | Ikigai
 metaDescription: >-
   Entraînement fonctionnel de type Tabata à San Blas, au Panama, à bord d'un
   Catana 47 — 20 secondes d'effort / 10 secondes de repos avec des bandes
-  élastiques, du TRX et des kettlebells, sur le pont ou sur une plage déserte.
-  Pas de salle de sport, pas de machines.
+  élastiques, du TRX et des kettlebells, sur le pont ou à la plage. Pas de salle
+  de sport.
 locale: fr
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
@@ -22,23 +22,23 @@ lead: >-
 faq:
   - q: Faut-il être en bonne forme physique pour s'inscrire ?
     a: >-
-      Non. La méthode Tabata s'adapte à chacun : les débutants absolus
-      choisissent eux-mêmes leur intensité. Ça consiste en 20 secondes d'effort
-      suivies de 10 secondes de repos, et ainsi de suite ; tu te donnes à fond
-      autant que tu le souhaites.
+      Non. La méthode Tabata s'adapte à chaque pratiquant : les débutants
+      absolus choisissent eux-mêmes leur intensité. Ça consiste en 20 secondes
+      d'effort suivies de 10 secondes de repos, et ainsi de suite ; tu te donnes
+      à fond autant que tu le souhaites.
   - q: Quels sont les équipements disponibles sans salle de sport ?
     a: >-
       Des bandes de résistance, des sangles TRX, des kettlebells et le poids de
-      ton propre corps : c'est tout, et ça suffit amplement. Pas de machines,
-      pas de miroirs, juste une force fonctionnelle qui te servira en apnée et
-      en voile.
+      ton propre corps : c'est tout, et c'est largement suffisant. Pas de
+      machines, pas de miroirs, juste une force fonctionnelle qui te servira en
+      apnée et en voile.
   - q: Où ont lieu les séances ?
     a: >-
       Sur le pont avant du catamaran, ou à terre sur une plage déserte de San
       Blas quand le mouillage s'y prête. Au lever du soleil, en général, avant
       que la journée ne devienne trop chaude.
 translated: deepl
-sourceHash: d629865d983d3410
+sourceHash: 904dc67236e030cc
 ---
 
 ## Un corps en forme, sans salle de sport, sans excuses
@@ -47,4 +47,4 @@ Il n'y a pas de salles de sport à San Blas — et ça ne te manquera pas. On s'
 
 ## À quoi ressemble une séance
 
-On s'installe sur le pont avant ou on débarque sur une plage déserte avec **des bandes de résistance, des TRX et des kettlebells** — squats, développés, rameurs, portés, renforcement du tronc, adaptés à ceux qui sont présents. Ça développe le genre de force utile qui s'avère payante dès que tu tires sur une drisse ou que tu plonges en apnée d'un seul souffle. Pas d’abonnement, pas de machines, juste toi, le matériel et les îles.
+On s'installe sur le pont avant ou on débarque sur une plage déserte avec **des bandes de résistance, des TRX et des kettlebells** — squats, développés, rameurs, portés, renforcement du tronc, adaptés à tous les participants. Ça développe le genre de force utile qui s'avère payante dès que tu tires sur une drisse ou que tu plonges en apnée d'un seul souffle. Pas d’abonnement, pas de machines, juste toi, le matériel et les îles.

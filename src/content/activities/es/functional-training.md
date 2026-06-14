@@ -6,9 +6,9 @@ summary: >-
   pesas rusas y tu propio peso corporal. Sin máquinas, sin gimnasio.
 seoTitle: Entrenamiento funcional Tabata en un catamarán | Ikigai Sailing
 metaDescription: >-
-  Entrenamiento funcional con poco material a bordo de un Catana 47: intervalos
-  Tabata (20 s de ejercicio / 10 s de descanso) con bandas elásticas, TRX y
-  pesas rusas. Un cuerpo fuerte en el mar, sin necesidad de gimnasio.
+  Entrenamiento funcional Tabata a bordo de un Catana 47: 20 segundos de
+  ejercicio y 10 de descanso con bandas elásticas, TRX y pesas rusas. Un cuerpo
+  fuerte en el mar, sin gimnasio ni máquinas.
 locale: es
 category: fitness
 image: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
@@ -25,7 +25,7 @@ facts:
       Se adapta a cualquier nivel físico — los principiantes totales son
       bienvenidos
 translated: deepl
-sourceHash: f3b8d04ff97d0f39
+sourceHash: 85eaf39b9b5157b0
 ---
 
 ## Un cuerpo fuerte sin necesidad de ir al gimnasio
@@ -34,4 +34,4 @@ No necesitas un montón de máquinas para mantenerte fuerte en el mar: solo nece
 
 ## Cómo es una sesión
 
-Nos colocamos en la cubierta de proa o bajamos a una playa desierta con **bandas de resistencia, correas TRX y pesas rusas**, y hacemos sentadillas, press, remo, transporte de peso y ejercicios para el tronco, adaptados a quien esté entrenando esa mañana. Veinte minutos después has terminado, con la piel salada, listo para el agua. Sin espejos, sin máquinas, sin cuota de socio: solo fuerza funcional que se traslada directamente al buceo libre, la navegación y el resto de la vida a bordo.
+Nos colocamos en la cubierta de proa o bajamos a una playa desierta con **bandas de resistencia, correas TRX y pesas rusas**, y hacemos sentadillas, press, remo, transporte de peso y ejercicios para el tronco, adaptados a quien esté entrenando esa mañana. Veinte minutos después has terminado, con la piel salada, listo para el agua. Sin espejos, sin máquinas, sin cuota de socio: solo fuerza funcional que se traslada directamente al buceo libre, a la navegación y al resto de la vida a bordo.

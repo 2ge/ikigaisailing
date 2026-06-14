@@ -1,24 +1,44 @@
 ---
-title: "Freediving in San Blas, Panama"
-description: "Freediving catamaran charter in San Blas, Panama — train apnea with AIDA & Apnea Total certified skippers aboard a Catana 47, in the warm, clear water of Guna Yala."
-seoTitle: "Freediving in San Blas, Panama — Catamaran | Ikigai"
-metaDescription: "Train freediving in San Blas, Panama aboard our Catana 47 catamaran. AIDA & Apnea Total certified skippers, calm clear Caribbean water, per-cabin booking direct with the crew."
-locale: "en"
-heroImage: "~/assets/activities/freediving/apnea2.jpg"
+title: 'Freediving in San Blas, Panama'
+description: >-
+  Freediving catamaran charter in San Blas, Panama — train apnea with AIDA &
+  Apnea Total certified skippers aboard a Catana 47, in the warm, clear water of
+  Guna Yala.
+seoTitle: 'Freediving in San Blas, Panama — Catamaran | Ikigai'
+metaDescription: >-
+  Freediving in San Blas, Panama aboard a Catana 47 — AIDA & Apnea Total
+  certified skippers, calm clear Guna Yala water, per-cabin booking with the
+  crew.
+locale: en
+heroImage: ~/assets/activities/freediving/apnea2.jpg
 gallery:
-  - "~/assets/activities/freediving/apnea1.jpg"
-  - "~/assets/activities/freediving/apnea4.jpg"
-  - "~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg"
-lead: "Freediving in San Blas, Panama means stepping off the back of a Catana 47 into water you can see the bottom of, warm enough to dive in boardshorts, with a coach who's AIDA and Apnea Total certified running your safety. Reefs, sandbanks, a lot of blue. And almost nobody else doing it here."
+  - ~/assets/activities/freediving/apnea1.jpg
+  - ~/assets/activities/freediving/apnea4.jpg
+  - ~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg
+lead: >-
+  Freediving in San Blas, Panama means stepping off the back of a Catana 47 into
+  water you can see the bottom of, warm enough to dive in boardshorts, with a
+  coach who's AIDA and Apnea Total certified running your safety. Reefs,
+  sandbanks, a lot of blue. And almost nobody else doing it here.
 faq:
-  - q: "Do I need freediving experience?"
-    a: "No. We coach people who've never held their breath past a few seconds, and we've got the certs to push experienced apneists deeper. Every dive runs on a proper one-up-one-down buddy system."
-  - q: "Are the instructors actually certified?"
-    a: "Yes — AIDA and Apnea Total. The same skippers are RYA Yachtmaster sailors, so the seamanship is real too. This isn't a guide pointing at fish."
-  - q: "Why freedive from a catamaran instead of a day boat?"
-    a: "You reach reefs no day tour bothers with, dive on your schedule in the conditions you want, and rest between dives instead of riding back to a marina."
-  - q: "What does it cost?"
-    a: "By the cabin, as a member contribution to our non-profit ASD — not an agency fee. See the season page for rates, or message us on WhatsApp."
+  - q: Do I need freediving experience?
+    a: >-
+      No. We coach people who've never held their breath past a few seconds, and
+      we've got the certs to push experienced apneists deeper. Every dive runs
+      on a proper one-up-one-down buddy system.
+  - q: Are the instructors actually certified?
+    a: >-
+      Yes — AIDA and Apnea Total. The same skippers are RYA Yachtmaster sailors,
+      so the seamanship is real too. This isn't a guide pointing at fish.
+  - q: Why freedive from a catamaran instead of a day boat?
+    a: >-
+      You reach reefs no day tour bothers with, dive on your schedule in the
+      conditions you want, and rest between dives instead of riding back to a
+      marina.
+  - q: What does it cost?
+    a: >-
+      By the cabin, as a member contribution to our non-profit ASD — not an
+      agency fee. See the season page for rates, or message us on WhatsApp.
 ---
 
 ## Why San Blas is built for apnea

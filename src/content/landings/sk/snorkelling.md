@@ -7,9 +7,9 @@ description: >-
   skúsenosti nie sú potrebné.
 seoTitle: Šnorchlovanie v San Blase v Paname z katamaránu | Ikigai
 metaDescription: >-
-  Šnorchlujte na útesoch v San Blase v Paname z lode Catana 47 – teplá,
+  Šnorchlujte na útesoch v San Blase v Paname z lode Catana 47 – teplá a
   priezračná voda v oblasti Guna Yala, výstroj na palube, kotviská, kam sa bežné
-  jednodňové výlety nedostanú. Skúsenosti nie sú potrebné, rezervujte si kajutu.
+  jednodňové výlety nedostanú. Skúsenosti nie sú potrebné.
 locale: sk
 heroImage: ~/assets/activities/diving/manta.jpg
 gallery:
@@ -48,13 +48,13 @@ faq:
       vlastného plánu zaplávať so šnorchlom, zvyčajne máte celý útes len pre
       seba, a potom sa vrátiť na palubu na obed.
 translated: deepl
-sourceHash: 727b8d4a28ba93b1
+sourceHash: 2018affbf5b0d216
 needsReview: true
 ---
 
 ## Stačí sa len ponoriť
 
-Šnorchlovanie v San Blase od vás nevyžaduje takmer nič. Žiadna fľaša, žiadny certifikát, žiadny kurz – maska, plutvy a teplá voda, v ktorej vidíte až na dno. Teplota vody v lagúnach sa pohybuje okolo **28 °C**, sú plytké a priezračné, a keďže katamarán kotví priamo nad tým najlepším miestom, útes je zvyčajne len pár temp od zadného schodíka.
+Šnorchlovanie v San Blase od vás nevyžaduje takmer nič. Žiadna fľaša, žiadny certifikát, žiadny kurz – maska, plutvy a teplá voda, v ktorej vidíte až na dno. Teplota vody v lagúnach sa pohybuje okolo **28 °C**, sú plytké a číre, a keďže katamarán kotví priamo nad tým najlepším miestom, útes je zvyčajne len pár temp od zadného schodíka.
 
 ## Útesy, kam sa nedostanú jednodňové výlety
 

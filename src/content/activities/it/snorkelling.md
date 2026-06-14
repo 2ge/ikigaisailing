@@ -4,12 +4,12 @@ summary: >-
   Maschera, pinne e un mare caldo in cui riesci a vedere fino al fondo. Barriere
   coralline, razze e pesci in punti di ancoraggio che nessuna escursione
   giornaliera raggiunge: niente brevetto, niente bombole, basta tuffarsi.
-seoTitle: Snorkeling dal catamarano | Ikigai Sailing
+seoTitle: Snorkeling da un catamarano | Ikigai Sailing
 metaDescription: >-
-  Fai snorkeling direttamente dal catamarano Catana 47: acque calde e
-  cristalline, attrezzatura a bordo, barriere coralline e fauna marina in punti
-  di ancoraggio che nessuna escursione giornaliera riesce a raggiungere. Non
-  serve alcuna esperienza.
+  Fai snorkeling direttamente dal Catana 47: acqua calda e cristallina,
+  attrezzatura a bordo e barriere coralline in punti di ancoraggio che nessuna
+  escursione giornaliera raggiunge. Non serve alcun brevetto, prenota per
+  cabina.
 locale: it
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -29,13 +29,13 @@ facts:
       Raggie, squali nutrice, aragoste, stelle marine, tartarughe, pesci di
       barriera
 translated: deepl
-sourceHash: b4e8691c94502915
+sourceHash: bfe8e27061d6d3ee
 ---
 
 ## Basta tuffarsi
 
-Per fare snorkeling basta una maschera, un paio di pinne e la voglia di immergere il viso nell'acqua. Niente bombole, niente brevetti, niente corsi. L'attrezzatura la portiamo noi e, dato che _Ikigai_ getta l'ancora in acque limpide e riparate, la barriera corallina di solito è proprio a due passi dalla poppa: nuoti un po' e ci sei.
+Per fare snorkeling basta una maschera, un paio di pinne e la voglia di immergere il viso nell'acqua. Niente bombole, niente brevetti, niente corsi. L'attrezzatura la portiamo noi e, dato che _Ikigai_ getta l'ancora in acque limpide e riparate, la barriera corallina di solito è proprio a due passi dalla poppa: nuota un po' e ci sei.
 
 ## Barriere coralline che le escursioni giornaliere non raggiungono
 
-Dato che navighiamo con la barca a chiglia e gettiamo l'ancora dove ci pare, puoi fare snorkeling in punti che le barche da escursione giornaliera non prendono nemmeno in considerazione: formazioni coralline, strapiombi, banchi di sabbia dove scivolano le razze. La maggior parte delle volte non ci sarà nessuno con te. Galleggia sopra una barriera corallina tutta per te, osserva una tartaruga che bruca o uno squalo di barriera che nuota sott'acqua, poi risali a bordo per il pranzo. È il modo più semplice per entrare nel mondo sottomarino.
+Dato che navighiamo con la barca a chiglia e gettiamo l'ancora dove ci pare, puoi fare snorkeling in punti che le barche da escursione giornaliera non si preoccupano nemmeno di raggiungere: formazioni coralline, strapiombi, banchi di sabbia dove le razze scivolano via. La maggior parte delle volte non ci sarà nessuno con te. Galleggia sopra una barriera corallina tutta per te, osserva una tartaruga che bruca o uno squalo di barriera che nuota sott'acqua, poi risali a bordo per il pranzo. È il modo più semplice per entrare nel mondo sottomarino.

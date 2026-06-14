@@ -3,12 +3,12 @@ title: Kurz varenia
 summary: >-
   Varíme z toho, čo nám dáva more a zem – z rýb ulovených toho rána, z miestneho
   ovocia a zeleniny. Zapojte sa, naučte sa pár trikov z lodnej kuchyne a potom
-  si všetci spoločne pochutíme na jedle.
+  si všetci spoločne pochutnáme.
 seoTitle: Kurz varenia na palube plachetného katamaránu | Ikigai Sailing
 metaDescription: >-
-  Zapíšte sa na kurz varenia na palube katamaránu Catana 47 – čerstvo ulovené
-  ryby, miestne ovocie a zelenina, ktoré si spoločne pripravíte a vychutnáte
-  priamo na mori. Ceviche, carpaccio, jednoduché jedlá z lodnej kuchyne.
+  Kuchársky kurz na palube lode Catana 47 – čerstvo ulovené ryby, miestne
+  suroviny, ceviche a carpaccio, ktoré si spoločne pripravíme a vychutnáme na
+  mori. Jednoduché varenie v lodnej kuchyni.
 locale: sk
 category: food
 image: ~/assets/trips/10-days-on-board/IMG_3911.webp
@@ -25,7 +25,7 @@ facts:
   - label: Úroveň
     value: Skúsenosti nie sú potrebné
 translated: deepl
-sourceHash: c60234dd7195659d
+sourceHash: a19a7da7cb6045e7
 needsReview: true
 ---
 

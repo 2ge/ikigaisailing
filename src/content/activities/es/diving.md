@@ -3,11 +3,11 @@ title: Buceo
 summary: >-
   En el buceo, cada inmersión es un viaje a través de colores vibrantes, vida
   marina y misterios sumergidos. Sumérgete en las profundidades...
-seoTitle: 'Buceo y pesca submarina, San Blas | Ikigai'
+seoTitle: Liveaboard de buceo en catamarán | Ikigai
 metaDescription: >-
-  Bucea y practica la pesca submarina en los arrecifes de San Blas, Panamá, a
-  bordo de nuestro Catana 47: una vida marina llena de colorido, capturas
-  sostenibles y inmersiones guiadas en las cristalinas aguas del Caribe.
+  Bucea y practica la pesca submarina desde un catamarán Catana 47: disfruta de
+  una vida marina llena de colorido y de inmersiones guiadas en aguas
+  cristalinas y cálidas. Pesca sostenible, reserva por camarote.
 locale: es
 category: watersports
 image: ~/assets/activities/project/scuba-diving.jpg
@@ -32,7 +32,7 @@ facts:
   - label: Certificaciones que ofrecemos
     value: Cursos PADI y SSI disponibles bajo petición
 translated: deepl
-sourceHash: da6f89dc76d19918
+sourceHash: a0ff0984842bbce3
 ---
 
 ## Explora el mundo submarino

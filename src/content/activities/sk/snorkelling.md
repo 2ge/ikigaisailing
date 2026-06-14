@@ -6,9 +6,9 @@ summary: >-
   fľaše, stačí sa len ponoriť.
 seoTitle: Šnorchlovanie z katamaránu | Ikigai Sailing
 metaDescription: >-
-  Šnorchlujte priamo z katamaránu Catana 47 – teplá, priezračná voda, výstroj na
-  palube, útesy a morské živočíchy v kotviskách, kam sa bežné jednodňové výlety
-  nedostanú. Skúsenosti nie sú potrebné.
+  Šnorchlujte priamo z lode Catana 47 – teplá, priezračná voda, výstroj na
+  palube a útesy v kotviskách, kam sa žiadna jednodňová výletná loď nedostane.
+  Nie je potrebný žiadny certifikát, rezervujte si kajutu.
 locale: sk
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -26,7 +26,7 @@ facts:
   - label: Čo uvidíte
     value: 'Rejky, žraloky ošetrovateľské, homáre, hviezdice, korytnačky, útesové ryby'
 translated: deepl
-sourceHash: b4e8691c94502915
+sourceHash: bfe8e27061d6d3ee
 needsReview: true
 ---
 
@@ -36,4 +36,4 @@ Na šnorchlovanie nepotrebujete nič viac ako masku, plutvy a odvahu ponoriť tv
 
 ## Útesy, kam sa nedostanú jednodňové výlety
 
-Keďže plávame na lodi a kotvíme tam, kde sa nám páči, šnorchlujete na miestach, kam sa jednodňové výlety nikdy nezaoberajú – koralové hlavy, zrázy, pieskové lavice, kde sa kĺžu raje. Väčšinu dní ich nebudete s nikým zdieľať. Plávajte nad útesom, kde ste sami, sledujte korytnačku, ako sa pasie, alebo útesového žraloka, ako sa vznáša pod vami, a potom sa vráťte na palubu na obed. Je to najjednoduchší vstup do podmorského sveta.
+Keďže plávame na kajute a kotvíme tam, kde sa nám páči, šnorchlujete na miestach, kam sa jednodňové výlety nikdy nezaoberajú – koralové hlavy, zrázy, pieskové lavice, kde sa kĺžu raje. Väčšinu dní ich nebudete s nikým zdieľať. Plávajte nad útesom, kde ste sami, sledujte korytnačku, ako sa pasie, alebo útesového žraloka, ako sa vznáša pod vami, a potom sa vráťte na palubu na obed. Je to najjednoduchší vstup do podmorského sveta.

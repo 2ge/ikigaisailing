@@ -6,9 +6,9 @@ summary: >-
   quelques astuces de cuisine de bord, puis tout le monde mange ensemble.
 seoTitle: Cours de cuisine à bord d'un catamaran à voile | Ikigai Sailing
 metaDescription: >-
-  Participe à un cours de cuisine à bord d'un catamaran Catana 47 : du poisson
-  fraîchement pêché, des fruits et des produits locaux, préparés et dégustés en
-  mer. Ceviche, carpaccio, cuisine simple à bord.
+  Cours de cuisine à bord d'un Catana 47 — poisson fraîchement pêché, produits
+  locaux, ceviche et carpaccio préparés et dégustés en mer. Cuisine simple à
+  bord.
 locale: fr
 category: food
 image: ~/assets/trips/10-days-on-board/IMG_3911.webp
@@ -21,16 +21,16 @@ facts:
       Ceviche, tartare, carpaccio, poisson au barbecue — sans oublier des plats
       thaïlandais, italiens et végétariens
   - label: Esprit
-    value: 'Convivial et communautaire : partager un repas est un moment sacré à bord'
+    value: 'Convivial et participatif : partager un repas est un moment sacré à bord'
   - label: Niveau
     value: Aucune expérience requise
 translated: deepl
-sourceHash: c60234dd7195659d
+sourceHash: a19a7da7cb6045e7
 ---
 
 ## De l'eau à l'assiette
 
-À bord de _l'Ikigai_, on ne fait pas appel à un traiteur : on cuisine ensemble, avec ce que la journée nous offre. On pêche quand on peut, on échange des fruits et légumes avec les locaux, et on en fait de bons petits plats dans la cuisine. On commence par les classiques du bateau — **ceviche, tartare, carpaccio, poisson au barbecue** — puis on élargit l'horizon : un peu **de cuisine thaï**, un peu **d'italienne** (fettuccine au homard, risotto au poulpe), et plein de plats sains, riches en légumes et en fruits. Frais, simple, rien n'est gaspillé.
+À bord de _l'Ikigai_, on ne fait pas appel à un traiteur : on cuisine ensemble, avec ce que la journée nous offre. On pêche quand on peut, on échange des fruits et légumes avec les habitants du coin, et on en fait de bons petits plats dans la cuisine. On commence par les classiques du bateau — **ceviche, tartare, carpaccio, poisson au barbecue** — puis on élargit l'horizon : un peu **de cuisine thaï**, un peu **d'italienne** (fettuccine au homard, risotto au poulpe), et plein de plats sains, riches en légumes et en fruits. Frais, simple, rien n'est gaspillé.
 
 ## Partager un repas, c'est sacré
 

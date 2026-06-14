@@ -6,9 +6,9 @@ summary: >-
   et te plongent dans un repos profond.
 seoTitle: Thérapie aquatique Janzu sur un catamaran | Ikigai Sailing
 metaDescription: >-
-  Séance de Janzu à bord d'un Catana 47 — séances individuelles de bien-être
-  aquatique dans une eau chaude et calme. Libère-toi de tes tensions et plonge
-  dans un repos profond, en compagnie d'un praticien formé par Sol Naciente.
+  Séance de Janzu à bord d'un Catana 47 — une séance de bien-être aquatique en
+  tête-à-tête dans une eau chaude et calme. Libère-toi de tes tensions et plonge
+  dans un repos profond. Formé par Sol Naciente.
 locale: fr
 category: wellness
 image: ~/assets/activities/janzu/IMG_3296-1.avif
@@ -34,12 +34,12 @@ facts:
   - label: Praticien
     value: 'Formé au Janzu et au Wata, enseignés par Luca de Sol Naciente'
 translated: deepl
-sourceHash: 7b5072a38d1812d7
+sourceHash: 8fbf2f0b4dadad50
 ---
 
 ## Qu'est-ce que le Janzu ?
 
-Le Janzu est **un travail corporel aquatique** — une pratique en tête-à-tête où un praticien te fait flotter dans de l'eau chaude et fait bouger ton corps en mouvements lents et fluides jusqu'à ce que ta respiration ralentisse, que tes muscles se relâchent et que ton esprit s'apaise. C'est un proche cousin du **Watsu** et du **Wata**, à mi-chemin entre le travail corporel, la méditation et la thérapie. Le Janzu est originaire d’Inde, a été développé au Mexique par **Juan Villatoro Garza**, puis transmis à [Richard Dionne — Sol Naciente](https://www.facebook.com/sol.naciente.5815/), auprès duquel Luca a appris les techniques de premier niveau. C’est l’eau qui fait le travail ici : soutenu et en apesanteur, le corps libère les tensions qu’il retient sans même s’en rendre compte.
+Le Janzu est **un travail corporel aquatique** — une pratique en tête-à-tête où un praticien te fait flotter dans de l'eau chaude et fait bouger ton corps par des mouvements lents et fluides jusqu'à ce que ta respiration ralentisse, que tes muscles se relâchent et que ton esprit s'apaise. C'est un proche cousin du **Watsu** et du **Wata**, à mi-chemin entre le travail corporel, la méditation et la thérapie. Le Janzu est originaire d’Inde, a été développé au Mexique par **Juan Villatoro Garza**, puis transmis à [Richard Dionne — Sol Naciente](https://www.facebook.com/sol.naciente.5815/), auprès duquel Luca a appris les techniques de premier niveau. C’est l’eau qui fait le travail ici : soutenu et en apesanteur, le corps libère les tensions qu’il retient sans même s’en rendre compte.
 
 ## À quoi ressemble une séance de Janzu
 
@@ -47,4 +47,4 @@ Tu portes des bouées et tu es soutenu tout au long de la séance — **il n’e
 
 ## À qui s'adresse le Janzu ?
 
-À toute personne en proie au stress, à la tension ou au chagrin ; à toute personne curieuse de savoir ce que le corps recèle et comment l'eau peut le libérer ; à toute personne qui souhaite simplement profiter du repos le plus profond qu'elle ait connu depuis longtemps. Comme il ne te demande rien d'autre que de te laisser porter, le Janzu vient à ta rencontre là où tu en es — que tu sois novice ou pratiquant chevronné. Il s’intègre naturellement au reste de la vie à bord : [la plongée en apnée](/fr/activites/freediving/) enseigne la même relation sereine avec la respiration et l’eau, et [la méditation](/fr/activites/meditation/) la même quiétude, sous un autre angle.
+À toute personne en proie au stress, à la tension ou au chagrin ; à toute personne curieuse de savoir ce que renferme le corps et comment l’eau peut le libérer ; à toute personne qui souhaite simplement profiter du repos le plus profond qu’elle ait connu depuis longtemps. Comme le Janzu ne te demande rien d’autre que de te laisser porter, il vient à ta rencontre exactement là où tu en es — que tu sois novice ou pratiquant chevronné. Il s’intègre naturellement au reste de la vie à bord : [la plongée en apnée](/fr/activites/apnee/) enseigne la même relation sereine avec la respiration et l’eau, et [la méditation](/fr/activites/meditation/) la même quiétude, sous un autre angle.

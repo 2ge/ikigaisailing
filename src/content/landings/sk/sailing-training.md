@@ -2,19 +2,20 @@
 title: Naučte sa plávať na plachetnici v San Blas v Paname
 description: >-
   Praktický výcvik plachtenia v San Blase v Paname – vezmite kormidlo lode
-  Catana 47 do rúk v pokojných vodách súostrovia Guna Yala pod vedením kapitána
-  s certifikátom RYA Yachtmaster a preplávajte skutočné trasy medzi kotviskami.
+  Catana 47 do rúk a plavte sa v pokojných vodách súostrovia Guna Yala pod
+  vedením kapitána s certifikátom RYA Yachtmaster, pričom budete prekonávať
+  skutočné úseky medzi kotviskami.
 seoTitle: Naučte sa plávať na plachetnici v San Blase v Paname — Katamarán | Ikigai
 metaDescription: >-
-  Naučte sa plávať na plachetnici v San Blase v Paname na palube lode Catana 47
-  pod vedením kapitána s certifikátom RYA Yachtmaster. Riadenie lode,
-  nastavovanie plachiet a kotvenie v pokojných vodách Guna Yala – praktické
-  cvičenia, za každú kajutu.
+  Naučte sa plaviť v San Blase v Paname na lodi Catana 47 pod vedením
+  inštruktora s certifikátom RYA Yachtmaster – ovládanie kormidla, vyvažovanie
+  plachiet a kotvenie v pokojných vodách Guna Yala. Praktický výcvik, cena za
+  kajutu.
 locale: sk
 heroImage: ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
 lead: >-
   Naučte sa plávať na plachetnici v San Blase a získate tú najideálnejšiu
-  „učebňu“, akú si začínajúci námorník môže priať: pokojnú, teplú vodu, krátke
+  učebňu, akú si začínajúci námorník môže želať: pokojnú, teplú vodu, krátke
   plavby medzi ostrovmi, stabilné pasáty a takmer žiadnu premávku. Zaujmete
   miesto za kormidlom lode Catana 47, nastavíte plachty, naučíte sa kotviť v
   tyrkysovej lagúne – a to všetko pod praktickým vedením inštruktora RYA
@@ -22,10 +23,10 @@ lead: >-
 faq:
   - q: 'Potrebujem nejaké skúsenosti, aby som sa tu naučil plávať na lodi?'
     a: >-
-      Žiadne. Vody v San Blase sú mierne – chránené, plytké, s malým množstvom
-      lodnej premávky –, takže je to ideálne miesto na prvú skúsenosť s
-      kormidlom. Skúsení námorníci si môžu vyskúšať náročnejšie úlohy:
-      vyvažovanie plachiet, plavbu proti vetru, kotvenie pod tlakom.
+      Žiadne. Vody v San Blase sú šetrné – chránené, plytké, s malým premávkou
+      –, takže je to ideálne miesto na prvú skúsenosť s kormidlom. Skúsení
+      námorníci si môžu vyskúšať náročnejšie úlohy: vyvažovanie plachiet, plavbu
+      proti vetru, kotvenie pod tlakom.
   - q: Dostanem za to nejaký oficiálny doklad?
     a: >-
       Zaznamenávame vaše námorné míle a podpisujeme váš lodný denník – takže
@@ -33,19 +34,19 @@ faq:
       kvalifikácie, ako je napríklad RYA Day Skipper alebo Yachtmaster. Ide o
       praktický výcvik pod vedením inštruktora RYA Yachtmaster, nie o skúšku v
       učebni.
-  - q: Kedy môžem plaviť sa po súostroví San Blas?
+  - q: Kedy môžem plaviť po súostroví San Blas?
     a: >-
       Od decembra 2025 do júna 2026 kotvíme v San Blase – pokojná sezóna,
-      stabilné pasáty, ideálne podmienky na výcvik. Potom loď vypláva ďalej a
+      stabilné pasáty, ideálne podmienky na výučbu. Potom loď vypláva ďalej a
       výcvik pokračuje spolu s ňou.
 translated: deepl
-sourceHash: b337380bcb86c266
+sourceHash: ec780caf985e408f
 needsReview: true
 ---
 
 ## Prečo je San Blas ideálnym miestom na výučbu
 
-Väčšina ľudí sa učí plávať na lodi niekde, kde je rušno a chladno. San Blas je presný opak: **pokojné, teplé a chránené vody**, krátke plavby medzi ostrovmi, spoľahlivé pasáty a takmer žiadne iné lode na obzore. Chyby tu nie sú na škodu, čo je presne to, čo potrebujete, keď sa prvýkrát posadíte za kormidlo. Plavíte sa na lodi **Catana 47** – stabilnej, odpúšťajúcej, s dostatkom priestoru na pohyb – cez lagúny Guna Yala a učíte sa praxou.
+Väčšina ľudí sa učí plávať na lodi niekde, kde je rušno a chladno. San Blas je presný opak: **pokojné, teplé a chránené vody**, krátke plavby medzi ostrovmi, spoľahlivé pasáty a takmer žiadne iné lode na obzore. Chyby tu nie sú drahé, čo je presne to, čo potrebujete, keď sa prvýkrát posadíte za kormidlo. Plavíte sa na lodi **Catana 47** – stabilnej, odpúšťajúcej, s dostatkom priestoru na pohyb – cez lagúny Guna Yala a učíte sa praxou.
 
 ## Od kormidla po kotvu
 

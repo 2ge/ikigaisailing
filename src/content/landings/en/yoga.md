@@ -1,24 +1,44 @@
 ---
-title: "Yoga on a Catamaran in San Blas, Panama"
-description: "Practice yoga aboard a Catana 47 catamaran in San Blas, Panama — daily sessions on the foredeck, anchored among the Guna Yala islands."
-seoTitle: "Yoga on a Catamaran in San Blas, Panama | Ikigai Sailing"
-metaDescription: "Daily yoga and breathwork aboard a Catana 47 catamaran in San Blas, Panama. Small group, warm Caribbean water, slow sailing between Guna Yala islands — book per cabin."
-locale: "en"
-heroImage: "~/assets/pages/home/IKIGAI-130-1.jpg"
+title: 'Yoga on a Catamaran in San Blas, Panama'
+description: >-
+  Practice yoga aboard a Catana 47 catamaran in San Blas, Panama — daily
+  sessions on the foredeck, anchored among the Guna Yala islands.
+seoTitle: 'Yoga on a Catamaran in San Blas, Panama | Ikigai Sailing'
+metaDescription: >-
+  Daily yoga aboard a Catana 47 in San Blas, Panama — practise on the foredeck
+  at anchor among the Guna Yala islands. Small group, booked per cabin.
+locale: en
+heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 gallery:
-  - "~/assets/activities/ritiro-yoga-in-barca-a-vela/carla-yoga.webp"
-  - "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg"
-  - "~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg"
-lead: "Practising yoga in San Blas, Panama isn't a hotel with a sea view. It's a Catana 47 catamaran at anchor among the Guna islands, your mat on the foredeck at first light, the water already 28 °C. No fixed programme. No wifi tugging at your sleeve. Just breath, salt, and the next island over."
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/carla-yoga.webp
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-16.jpg
+  - ~/assets/activities/ritiro-yoga-in-barca-a-vela/IKIGAI-69-4.jpg
+lead: >-
+  Practising yoga in San Blas, Panama isn't a hotel with a sea view. It's a
+  Catana 47 catamaran at anchor among the Guna islands, your mat on the foredeck
+  at first light, the water already 28 °C. No fixed programme. No wifi tugging
+  at your sleeve. Just breath, salt, and the next island over.
 faq:
-  - q: "How much does yoga in San Blas cost?"
-    a: "You book by the cabin, and the amount is a member contribution to our non-profit ASD — not a charter fee. That's why it lands well under agency prices. For the season's rates and open dates, check the season page or message us on WhatsApp."
-  - q: "Do I need yoga experience?"
-    a: "No. Practice is gentle and meets you where you are. The point is breath and reconnecting with your body at sea, not pretzel postures."
-  - q: "When is the San Blas season?"
-    a: "We're anchored in San Blas from December 2025 to June 2026. After that the boat sails on, and the same per-cabin practice travels with it to the next destination."
-  - q: "How do I reach the catamaran?"
-    a: "From Panama City it's a 4×4 over the Guna Yala ridge, then a short panga ride to wherever Ikigai is anchored. We set up the whole transfer — just send us your arrival time."
+  - q: How much does yoga in San Blas cost?
+    a: >-
+      You book by the cabin, and the amount is a member contribution to our
+      non-profit ASD — not a charter fee. That's why it lands well under agency
+      prices. For the season's rates and open dates, check the season page or
+      message us on WhatsApp.
+  - q: Do I need yoga experience?
+    a: >-
+      No. Practice is gentle and meets you where you are. The point is breath
+      and reconnecting with your body at sea, not pretzel postures.
+  - q: When is the San Blas season?
+    a: >-
+      We're anchored in San Blas from December 2025 to June 2026. After that the
+      boat sails on, and the same per-cabin practice travels with it to the next
+      destination.
+  - q: How do I reach the catamaran?
+    a: >-
+      From Panama City it's a 4×4 over the Guna Yala ridge, then a short panga
+      ride to wherever Ikigai is anchored. We set up the whole transfer — just
+      send us your arrival time.
 ---
 
 ## What practising yoga aboard is really like

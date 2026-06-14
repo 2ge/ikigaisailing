@@ -8,9 +8,9 @@ description: >-
 seoTitle: 'Snorkeling in San Blas, Panama, da un catamarano | Ikigai'
 metaDescription: >-
   Fai snorkeling tra le barriere coralline di San Blas, a Panama, a bordo di una
-  Catana 47: le acque calde e cristalline di Guna Yala, l'attrezzatura a
-  disposizione, e ancoraggi irraggiungibili dalle escursioni giornaliere. Non
-  serve esperienza, prenota per cabina.
+  Catana 47: le acque calde e cristalline di Guna Yala, l'attrezzatura a bordo e
+  ancoraggi irraggiungibili dalle escursioni giornaliere. Non serve alcuna
+  esperienza.
 locale: it
 heroImage: ~/assets/activities/diving/manta.jpg
 gallery:
@@ -34,7 +34,7 @@ faq:
       corallina, stelle marine sparse sui banchi di sabbia, pesci di barriera e
       tartarughe. Le barriere coralline di San Blas sono per lo più
       incontaminate, quindi la vita marina è molto più ricca rispetto a una
-      barriera turistica affollata.
+      barriera corallina affollata di turisti.
   - q: Dove si fa lo snorkeling migliore a San Blas?
     a: >-
       I posti migliori si trovano nei cays più esterni — Cayos Holandeses, Cayos
@@ -51,12 +51,12 @@ faq:
       fare snorkeling quando vuoi, di solito con tutta la barriera corallina
       tutta per te, per poi risalire a bordo per il pranzo.
 translated: deepl
-sourceHash: 727b8d4a28ba93b1
+sourceHash: 2018affbf5b0d216
 ---
 
 ## Basta tuffarsi
 
-Fare snorkeling a San Blas non richiede quasi nulla da parte tua. Niente bombole, niente brevetti, niente corsi: basta una maschera, le pinne e l'acqua calda in cui si vede fino in fondo. Le lagune hanno una temperatura di circa **28 °C**, sono poco profonde e limpide, e dato che il catamarano getta l'ancora proprio sopra il punto migliore, la barriera corallina è di solito a pochi bracciate dal gradino di poppa.
+Fare snorkeling a San Blas non richiede quasi nulla da parte tua. Niente bombole, niente brevetti, niente corsi: basta una maschera, delle pinne e acqua calda in cui puoi vedere fino al fondo. Le lagune hanno una temperatura di circa **28 °C**, sono poco profonde e limpide, e dato che il catamarano getta l'ancora proprio sopra i punti migliori, la barriera corallina di solito si trova a pochi bracciate dal gradino di poppa.
 
 ## Barriere coralline irraggiungibili dalle escursioni giornaliere
 

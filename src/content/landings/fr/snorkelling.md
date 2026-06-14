@@ -8,9 +8,9 @@ description: >-
 seoTitle: 'Plongée avec tuba à San Blas, au Panama, depuis un catamaran | Ikigai'
 metaDescription: >-
   Fais de la plongée libre dans les récifs de San Blas, au Panama, à bord d'un
-  Catana 47 : les eaux chaudes et limpides de Guna Yala, tout l'équipement à
-  bord, des mouillages inaccessibles aux excursions d'une journée. Aucune
-  expérience requise, réserve par cabine.
+  Catana 47 : les eaux chaudes et cristallines de Guna Yala, tout l'équipement à
+  bord, et des mouillages inaccessibles aux excursions d'une journée. Aucune
+  expérience requise.
 locale: fr
 heroImage: ~/assets/activities/diving/manta.jpg
 gallery:
@@ -42,24 +42,24 @@ faq:
       Cayos Limones et les Cayos Coco Bandero — qu'on trouve les plus beaux
       endroits, là où se trouvent le récif et les bancs de sable parsemés
       d'étoiles de mer. Comme on navigue à la voile, on jette l'ancre juste à
-      côté et on fait de la plongée avec tuba avant l'arrivée des bateaux
-      d'excursion.
+      côté et on fait de la plongée libre avant que les bateaux d'excursion
+      n'arrivent.
   - q: >-
       Pourquoi faire de la plongée avec tuba depuis un catamaran plutôt que de
       participer à une excursion d'une journée ?
     a: >-
       Parce qu'on jette l'ancre là où les bateaux d'excursion ne vont pas : sur
-      des têtes de corail et des bancs de sable au large d'îles inhabitées. Tu
+      les têtes de corail et les bancs de sable au large d'îles inhabitées. Tu
       fais de la plongée libre quand tu veux, souvent avec tout le récif pour
       toi tout seul, puis tu remontes à bord pour le déjeuner.
 translated: deepl
-sourceHash: 727b8d4a28ba93b1
+sourceHash: 2018affbf5b0d216
 ---
 
 ## Il suffit de se jeter à l'eau
 
-La plongée avec tuba à San Blas ne t'impose presque aucune contrainte. Pas de bouteille, pas de brevet, pas de cours — juste un masque, des palmes et une eau chaude où tu peux voir jusqu'au fond. Les lagons sont à environ **28 °C**, peu profonds et limpides, et comme le catamaran jette l'ancre juste au-dessus des meilleurs spots, le récif n'est généralement qu'à quelques coups de palmes de la marche arrière.
+La plongée avec tuba à San Blas ne t'impose presque aucune exigence. Pas de bouteille, pas de brevet, pas de cours — juste un masque, des palmes et une eau chaude où tu peux voir jusqu'au fond. Les lagons sont à environ **28 °C**, peu profonds et limpides, et comme le catamaran jette l'ancre juste au-dessus des meilleurs spots, le récif n'est généralement qu'à quelques coups de palmes de la marche arrière.
 
-## Des récifs inaccessibles aux excursions d'une journée
+## Des récifs inaccessibles aux excursions d’une journée
 
-Naviguer en cabine nous permet de jeter l'ancre où bon nous semble — sur les cayes extérieures que les bateaux d'excursion d'une journée atteignent rarement : **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero**, et les bancs de sable où les étoiles de mer se rassemblent. Flotte au-dessus d’un récif laissé à l’abandon depuis des siècles, observe une raie glisser sur le sable, un requin nourrice passer sous tes pieds, un homard se réfugier dans une crevasse, puis nage jusqu’au bateau pour le déjeuner. La plupart du temps, les seules personnes présentes sont celles avec qui tu as pris la mer.
+Naviguer en cabine nous permet de jeter l'ancre où bon nous semble — sur les cayes extérieures que les bateaux d'excursion d'une journée atteignent rarement : **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero**, et les bancs de sable où les étoiles de mer se rassemblent. Flotte au-dessus d’un récif laissé à l’abandon depuis des siècles, observe une raie glisser sur le sable, un requin nourrice passer en dessous, un homard se réfugier dans une cavité, puis nage jusqu’au bateau pour le déjeuner. La plupart du temps, les seules personnes présentes sont celles avec qui tu as navigué.

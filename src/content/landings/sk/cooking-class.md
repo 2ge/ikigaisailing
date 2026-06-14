@@ -6,16 +6,16 @@ description: >-
   konzumácia ceviche a carpaccia na kotvisku v Guna Yala.
 seoTitle: 'Kurz varenia v San Blas, Panama — Katamarán | Ikigai'
 metaDescription: >-
-  Zúčastnite sa kurzu varenia na palube katamaránu v San Blase v Paname –
-  čerstvo ulovené ryby, tropické ovocie od kmeňa Guna, ceviche a carpaccio,
-  ktoré si spoločne pripravíte a vychutnáte priamo na mori. Cena za kajutu.
+  Kuchársky kurz na palube katamaránu v San Blase v Paname – čerstvo ulovené
+  ryby, tropické ovocie, ceviche a carpaccio, ktoré si spoločne pripravíte a
+  vychutnáte na kotvisku. Cena za kajutu.
 locale: sk
 heroImage: ~/assets/trips/10-days-on-board/IMG_3911.webp
 lead: >-
   Varenie v San Blas začína vo vode a končí pri jednom stole. Ráno lovíme ryby,
   s Guna vymeníme za ovocie a zeleninu a pripravíme z nich ceviche, carpaccio a
-  jednoduché jedlá na palube – zapojíme sa všetci, naučíme sa pár trikov a potom
-  to všetci na palube spoločne zjeme, keď kotvíme.
+  jednoduché jedlá z lodnej kuchyne – zapojíme sa všetci, naučíme sa pár trikov
+  a potom to všetci na palube spoločne zjeme, keď kotvíme.
 faq:
   - q: Potrebujem skúsenosti s varením?
     a: >-
@@ -25,9 +25,8 @@ faq:
   - q: Odkiaľ pochádza jedlo?
     a: >-
       More a ostrovy. Počas plavby lovíme ryby a s komunitami Guna vymieňame
-      úlovky za tropické ovocie a zeleninu. Čerstvejšie a miestnejšie jedlo si
-      už ani predstaviť nemožno – všetko je ulovené alebo nazbierané v ten istý
-      deň.
+      úlovky za tropické ovocie a zeleninu. Čerstvejšie a miestnejšie jedlo už
+      ani nemôže byť – všetko je ulovené alebo nazbierané v ten istý deň.
   - q: Je to súčasťou zájazdu alebo je to za príplatok?
     a: >-
       Časť z toho – všetko je zahrnuté v cene za kajutu, bez akýchkoľvek
@@ -35,7 +34,7 @@ faq:
       jednoducho súčasťou života na palube lode Ikigai v San Blase; pridajte sa,
       keď budete mať chuť.
 translated: deepl
-sourceHash: 37a2a7510093319c
+sourceHash: b44b470fca1433d2
 needsReview: true
 ---
 

@@ -2,7 +2,7 @@
 title: "Snorkelling"
 summary: "Mask, fins and a warm sea you can see straight to the bottom of. Reefs, rays and fish on anchorages no day-tour reaches — no certification, no tank, just slip in."
 seoTitle: "Snorkelling from a Catamaran | Ikigai Sailing"
-metaDescription: "Snorkel straight off a Catana 47 catamaran — warm, clear water, gear aboard, reefs and marine life at anchorages no day-tour reaches. No experience needed."
+metaDescription: "Snorkel straight off a Catana 47 — warm, clear water, gear aboard, and reefs at anchorages no day-tour reaches. No certification needed, book per cabin."
 locale: "en"
 category: "watersports"
 image: "~/assets/activities/diving/manta.jpg"

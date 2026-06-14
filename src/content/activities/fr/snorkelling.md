@@ -7,10 +7,10 @@ summary: >-
   plonger.
 seoTitle: Plongée libre depuis un catamaran | Ikigai Sailing
 metaDescription: >-
-  Fais de la plongée avec tuba directement depuis un catamaran Catana 47 : une
-  eau chaude et limpide, tout le matériel à bord, des récifs et une faune marine
-  dans des mouillages inaccessibles aux excursions d'une journée. Aucune
-  expérience requise.
+  Fais de la plongée avec tuba directement depuis un Catana 47 : une eau chaude
+  et limpide, tout l'équipement à bord, et des récifs dans des mouillages
+  inaccessibles aux excursions d'une journée. Aucun brevet requis, réservation
+  par cabine.
 locale: fr
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -30,12 +30,12 @@ facts:
       Raies, requins-nourrices, homards, étoiles de mer, tortues, poissons de
       récif
 translated: deepl
-sourceHash: b4e8691c94502915
+sourceHash: bfe8e27061d6d3ee
 ---
 
 ## Il suffit de se jeter à l'eau
 
-Pour faire de la plongée avec tuba, il suffit d'un masque, d'une paire de palmes et de l'envie de mettre la tête sous l'eau. Pas de bouteille, pas de brevet, pas de cours. On s'occupe du matériel, et comme _l'Ikigai_ jette l'ancre dans des eaux claires et abritées, le récif se trouve généralement juste à côté de la passerelle arrière : tu nages un peu et tu y es.
+Pour faire de la plongée avec tuba, il suffit d'un masque, d'une paire de palmes et de l'envie de plonger la tête dans l'eau. Pas de bouteille, pas de certification, pas de cours. On s'occupe de l'équipement, et comme _l'Ikigai_ jette l'ancre dans des eaux claires et abritées, le récif se trouve généralement juste à côté de la passerelle arrière : tu nages un peu et tu y es.
 
 ## Des récifs inaccessibles aux excursions d'une journée
 

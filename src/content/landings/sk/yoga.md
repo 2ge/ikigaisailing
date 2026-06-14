@@ -2,12 +2,12 @@
 title: Jóga na katamaráne v San Blas v Paname
 description: >-
   Cvičte jógu na palube katamaránu Catana 47 v oblasti San Blas v Paname –
-  každodenné cvičenia na prednej palube, zakotvení medzi ostrovmi Guna Yala.
+  každodenné lekcie na prednej palube, zakotvení medzi ostrovmi Guna Yala.
 seoTitle: 'Jóga na katamaráne v San Blas, Panama | Ikigai Sailing'
 metaDescription: >-
-  Každodenná joga a dychové cvičenia na palube katamaránu Catana 47 v San Blas v
-  Paname. Malá skupina, teplá karibská voda, pokojná plavba medzi ostrovmi Guna
-  Yala – rezervácia na kajutu.
+  Každodenná joga na palube lode Catana 47 v San Blase v Paname – cvičte na
+  prednej palube pri kotvení medzi ostrovmi Guna Yala. Malá skupina, rezervácia
+  na kajutu.
 locale: sk
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 gallery:
@@ -25,8 +25,8 @@ faq:
       Rezervácia sa uskutočňuje na jednotlivé chaty a uvedená suma predstavuje
       členský príspevok do našej neziskovej organizácie ASD – nejde o poplatok
       za prenájom. Preto je cena výrazne nižšia ako ceny ponúkané cestovnými
-      kanceláriami. Aktuálne sezónne ceny a voľné termíny nájdete na stránke
-      venovanej sezónam alebo nám napíšte cez WhatsApp.
+      kanceláriami. Aktuálne ceny a voľné termíny nájdete na stránke venovanej
+      sezónnym cenám alebo nám napíšte cez WhatsApp.
   - q: Potrebujem mať skúsenosti s jógou?
     a: >-
       Nie. Cvičenie je jemné a prispôsobí sa vašej aktuálnej kondícii. Ide o
@@ -34,21 +34,21 @@ faq:
       nie o akrobatické pozície.
   - q: Kedy je sezóna v San Blase?
     a: >-
-      V San Blas kotvíme od decembra 2025 do júna 2026. Potom loď vypláva ďalej
-      a rovnaký systém prenájmu kajút sa prenesie aj do ďalšej destinácie.
+      V San Blas kotvíme od decembra 2025 do júna 2026. Potom loď odpláva a
+      rovnaký systém prenájmu kajút sa prenesie aj do ďalšej destinácie.
   - q: Ako sa dostanem na katamarán?
     a: >-
       Z Panama City sa ide terénnym vozidlom cez hrebeň Guna Yala a potom
       nasleduje krátka plavba na člne panga až k miestu, kde kotví loď Ikigai.
       Celý transfer zaistíme – stačí nám poslať čas vášho príchodu.
 translated: deepl
-sourceHash: a5aa3a28a5c286ef
+sourceHash: 182de71f2ced384a
 needsReview: true
 ---
 
 ## Ako to naozaj vyzerá s cvičením jogy na palube
 
-Žijete na palube **Ikigai**, našej **Catany 47**. Deň začína jógou a dychovými cvičeniami na prednej palube – a loď je dôvodom, prečo to funguje. Katamarán leží rovno. Dva trupy, žiadny náklon, široká trampolína, ktorá vás nevyhodí z pozície bojovníka zakaždým, keď prejde vlna. Skúste rovnaký postup na jednotrupovej lodi a polovicu času strávite vyvažovaním. Po cvičení ste vo vode: plávate, potápate sa alebo nerobíte vôbec nič. Deň sa prispôsobuje svetlu a vetru, nie rozvrhu v kúpeľoch.
+Žijete na palube **Ikigai**, našej **Catany 47**. Deň začína jógou a dychovými cvičeniami na prednej palube – a loď je dôvodom, prečo to funguje. Katamarán leží rovno. Dva trupy, žiadny náklon, široká trampolína, ktorá vás nevyhodí z pozície bojovníka zakaždým, keď prejde vlna. Skúste rovnaký tok na jednotrupovej lodi a polovicu času strávite vyvažovaním. Po cvičení ste vo vode: plávate, potápate sa alebo nerobíte vôbec nič. Deň sa prispôsobuje svetlu a vetru, nie rozvrhu v kúpeľoch.
 
 ## Čo je zahrnuté na palube
 
@@ -56,8 +56,8 @@ Rezervujete si jedno lôžko v kajute – nemusíte dávať dokopy skupinu, ani 
 
 ## Prečo práve tu a nie na Bali alebo v Chorvátsku
 
-Slávne trasy pre jógové plavby sú Stredozemné more a juhovýchodná Ázia. Vypredané, rušné, stvorené na fotky. San Blas je presný opak – autonómne územie Guna, kde sú zakázané betónové stavby, lagúny zostávajú pokojné a teplé po celý rok a väčšinu dní na vode neuvidíte žiadnu inú charterovú loď. Menej ľudí. Teplejšie more. Miesto, ktoré stále patrí samo sebe.
+Slávne trasy pre jógové plachtenie sú Stredozemné more a juhovýchodná Ázia. Vypredané, rušné, stvorené na fotky. San Blas je presný opak – autonómne územie Guna, kde sú zakázané betónové stavby, lagúny zostávajú pokojné a teplé po celý rok a väčšinu dní na vode neuvidíte žiadnu inú charterovú loď. Menej ľudí. Teplejšie more. Miesto, ktoré stále patrí samo sebe.
 
 ## Kto nastupuje na palubu
 
-Začiatočníci aj dvadsaťroční praktizujúci. Samotní cestovatelia, páry, pár ľudí, ktorí sú bližšie k vyhoreniu, než by nahlas priznali. Skupinu zámerne udržiavame malú – cvičenie, ktoré môžete cítiť, nie trieda tridsiatich ľudí natlačených na pontóne.
+Začiatočníci aj dvadsaťroční praktizujúci. Samotní cestovatelia, páry, pár ľudí, ktorí sú bližšie k vyhoreniu, než by nahlas priznali. Skupinu zámerne udržiavame malú – cvičenie, ktoré môžete cítiť, nie hodina s tridsiatimi ľuďmi natlačenými na pontóne.
