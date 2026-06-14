@@ -14,18 +14,18 @@ metaDescription: >-
 locale: fr
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
-  Reste en forme au paradis, sans aucune salle de sport à l'horizon. À San Blas,
-  on s'entraîne à la manière Tabata sur le pont avant ou sur une plage déserte —
-  20 secondes d'effort, 10 de repos — avec des bandes de résistance, du TRX et
-  des kettlebells. Vingt bonnes minutes, le sel sur la peau, puis directement à
-  l'eau.
+  S'entraîner de manière fonctionnelle à San Blas, c'est rester en forme au
+  paradis sans aucune salle de sport à l'horizon. On s'entraîne à la manière
+  Tabata sur le pont avant ou sur une plage déserte — 20 secondes d'effort, 10
+  de repos — avec des bandes de résistance, du TRX et des kettlebells. Vingt
+  bonnes minutes, le sel sur la peau, puis directement à l'eau.
 faq:
   - q: Faut-il être en bonne forme physique pour s'inscrire ?
     a: >-
-      Non. La méthode Tabata s'adapte à chaque pratiquant : les débutants
-      absolus choisissent eux-mêmes leur intensité. Ça consiste en 20 secondes
-      d'effort suivies de 10 secondes de repos, et ainsi de suite ; tu te donnes
-      à fond autant que tu le souhaites.
+      Non. La méthode Tabata s'adapte à chacun : les débutants absolus
+      choisissent eux-mêmes leur intensité. Ça consiste en 20 secondes d'effort
+      suivies de 10 secondes de repos, et ainsi de suite ; tu te donnes à fond
+      autant que tu le souhaites.
   - q: Quels sont les équipements disponibles sans salle de sport ?
     a: >-
       Des bandes de résistance, des sangles TRX, des kettlebells et le poids de
@@ -38,7 +38,7 @@ faq:
       Blas quand le mouillage s'y prête. Au lever du soleil, en général, avant
       que la journée ne devienne trop chaude.
 translated: deepl
-sourceHash: ff605c7b33cbfe73
+sourceHash: d629865d983d3410
 ---
 
 ## Un corps en forme, sans salle de sport, sans excuses
@@ -47,4 +47,4 @@ Il n'y a pas de salles de sport à San Blas — et ça ne te manquera pas. On s'
 
 ## À quoi ressemble une séance
 
-On s'installe sur le pont avant ou on débarque sur une plage déserte avec **des bandes de résistance, des TRX et des kettlebells** — squats, développés, rameurs, portés, renforcement du tronc, adaptés à tous les participants. Ça développe le genre de force utile qui s'avère précieuse dès que tu tires sur une drisse ou que tu plonges en apnée d'un seul souffle. Pas d’abonnement, pas de machines, juste toi, le matériel et les îles.
+On s'installe sur le pont avant ou on débarque sur une plage déserte avec **des bandes de résistance, des TRX et des kettlebells** — squats, développés, rameurs, portés, renforcement du tronc, adaptés à ceux qui sont présents. Ça développe le genre de force utile qui s'avère payante dès que tu tires sur une drisse ou que tu plonges en apnée d'un seul souffle. Pas d’abonnement, pas de machines, juste toi, le matériel et les îles.

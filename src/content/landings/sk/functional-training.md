@@ -2,8 +2,9 @@
 title: 'Funkčný tréning v San Blas, Panama'
 description: >-
   Funkčný tréning metódou Tabata v San Blase v Paname — 20-sekundové intervaly
-  cvičenia a 10-sekundové prestávky s gumičkami, TRX a kettlebellmi na palube
-  lode Catana 47 alebo na opustenej pláži v Guna Yala. Žiadne stroje.
+  cvičenia a 10-sekundové prestávky s použitím posilňovacích pásov, TRX a
+  kettlebellov na palube lode Catana 47 alebo na opustenej pláži v Guna Yala.
+  Bez posilňovacích strojov.
 seoTitle: Funkčný tréning Tabata v San Blas — Katamarán | Ikigai
 metaDescription: >-
   Funkčný tréning metódou Tabata v San Blase v Paname na palube lode Catana 47 –
@@ -12,10 +13,11 @@ metaDescription: >-
 locale: sk
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
-  Zostaňte vo forme aj v raji, kde nie je v dohľade žiadna posilňovňa. V San
-  Blase cvičíme v štýle Tabata na prednej palube alebo na opustenej pláži – 20
-  sekúnd cvičenia, 10 sekúnd oddychu – s odporovými páskami, TRX a kettlebellmi.
-  Dvadsať poriadnych minút, soľ na koži a potom rovno do vody.
+  Funkčný tréning v San Blase znamená zostať v kondícii v raji, kde nie je ani
+  stopa po posilňovni. Trénujeme štýlom Tabata na prednej palube alebo na
+  opustenej pláži – 20 sekúnd cvičenia, 10 sekúnd oddychu – s odporovými pásmi,
+  TRX a kettlebellmi. Dvadsať poriadnych minút, soľ na koži a potom rovno do
+  vody.
 faq:
   - q: 'Musím byť v dobrej fyzickej kondícii, aby som sa mohol prihlásiť?'
     a: >-
@@ -29,17 +31,17 @@ faq:
       sila, ktorá sa zúročí pri freedivingu a plachtení.
   - q: Kde sa stretnutia konajú?
     a: >-
-      Na prednej palube katamaránu alebo na brehu na opustenej pláži v San Blas,
-      ak to kotvisko dovolí. Zvyčajne pri východe slnka, ešte predtým, ako sa
-      deň poriadne rozohreje.
+      Na prednej palube katamaránu alebo na brehu na opustenej pláži v San
+      Blase, ak to kotvisko dovolí. Zvyčajne pri východe slnka, ešte predtým,
+      ako sa otepľuje.
 translated: deepl
-sourceHash: ff605c7b33cbfe73
+sourceHash: d629865d983d3410
 needsReview: true
 ---
 
 ## Silné telo, žiadna posilňovňa, žiadne výhovorky
 
-V San Blase nie sú žiadne posilňovne – a ani vám nebudú chýbať. Cvičíme **štýlom Tabata**: 20 sekúnd cvičenia, 10 sekúnd odpočinku, osem kôl, niekoľko pohybov. Je to tých najúprimnejších dvadsať minút vášho dňa a zanechá vás to sviežejších, nie zničených. A potom je tu more, v ktorom sa môžete ochladiť.
+V San Blase nie sú žiadne posilňovne – a ani vám nebudú chýbať. Cvičíme **štýlom Tabata**: 20 sekúnd cvičenia, 10 sekúnd odpočinku, osem kôl, niekoľko pohybov. Je to tých najúprimnejších dvadsať minút vášho dňa a budete sa po nich cítiť sviežejší, nie zničení. A potom je tu more, v ktorom sa môžete osviežiť.
 
 ## Ako vyzerá tréning
 

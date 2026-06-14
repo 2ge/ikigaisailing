@@ -12,17 +12,17 @@ metaDescription: >-
 locale: es
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
-  Mantente en forma en el paraíso sin un gimnasio a la vista. En San Blas
-  entrenamos al estilo Tabata en la cubierta de proa o en una playa desierta —20
-  segundos de ejercicio, 10 de descanso— con bandas elásticas, TRX y pesas
-  rusas. Veinte minutos intensos, con la sal en la piel, y luego directamente al
-  agua.
+  El entrenamiento funcional en San Blas significa mantenerse en forma en el
+  paraíso sin un gimnasio a la vista. Entrenamos al estilo Tabata en la cubierta
+  de proa o en una playa desierta —20 segundos de ejercicio, 10 de descanso— con
+  bandas elásticas, TRX y pesas rusas. Veinte minutos intensos, con la sal en la
+  piel, y luego directamente al agua.
 faq:
   - q: ¿Tengo que estar en forma para apuntarme?
     a: >-
       No. El método Tabata se adapta a quien lo practique: los principiantes
       totales pueden elegir su propia intensidad. Son 20 segundos de esfuerzo y
-      10 de descanso, y así sucesivamente; tú decides la intensidad que quieres.
+      10 de descanso, y así sucesivamente; tú decides la intensidad que quieras.
   - q: ¿Qué equipo hay si no hay gimnasio?
     a: >-
       Bandas elásticas, correas TRX, pesas rusas y tu propio peso corporal: eso
@@ -34,7 +34,7 @@ faq:
       desierta de San Blas cuando el fondeadero lo permite. Al amanecer,
       normalmente, antes de que empiece a hacer calor.
 translated: deepl
-sourceHash: ff605c7b33cbfe73
+sourceHash: d629865d983d3410
 ---
 
 ## Un cuerpo fuerte, sin gimnasio, sin excusas
@@ -43,4 +43,4 @@ En San Blas no hay gimnasios, y no los echarás de menos. Entrenamos **al estilo
 
 ## Cómo es una sesión
 
-Nos colocamos en la cubierta de proa o desembarcamos en una playa desierta con **bandas de resistencia, TRX y pesas rusas**: sentadillas, press, remo, transporte de peso, trabajo del core, adaptado a quien haya venido. Desarrolla el tipo de fuerza útil que da sus frutos en el momento en que tiras de una driza o te zambulles de cabeza con una sola respiración. Sin cuotas, sin máquinas, solo tú, el equipo y las islas.
+Nos colocamos en la cubierta de proa o desembarcamos en una playa desierta con **bandas de resistencia, TRX y pesas rusas**: sentadillas, press, remo, transporte, abdominales, adaptados a quien haya venido. Desarrolla el tipo de fuerza útil que da sus frutos en el momento en que tiras de una driza o te zambulles de cabeza con una sola respiración. Sin cuotas, sin máquinas, solo tú, el equipo y las islas.

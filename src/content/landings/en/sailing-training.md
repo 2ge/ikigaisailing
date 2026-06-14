@@ -5,7 +5,7 @@ seoTitle: "Learn to Sail in San Blas, Panama — Catamaran | Ikigai"
 metaDescription: "Learn to sail in San Blas, Panama aboard a Catana 47 with an RYA Yachtmaster skipper. Helm, sail trim and anchoring in calm Guna Yala water — hands-on, per cabin."
 locale: "en"
 heroImage: "~/assets/trips/pacific-crossing/IMG_3015-2.jpg"
-lead: "San Blas is about the gentlest classroom a new sailor could ask for: flat, warm water, short hops between islands, steady trade winds and almost no traffic. You take the helm of a Catana 47, trim the sails, learn to anchor in a turquoise lagoon — taught hands-on by an RYA Yachtmaster, not from a slideshow."
+lead: "Learn to sail in San Blas and you get the gentlest classroom a new sailor could ask for: flat, warm water, short hops between islands, steady trade winds and almost no traffic. You take the helm of a Catana 47, trim the sails, learn to anchor in a turquoise lagoon — taught hands-on by an RYA Yachtmaster, not from a slideshow."
 faq:
   - q: "Do I need any experience to learn to sail here?"
     a: "None. San Blas is forgiving water — sheltered, shallow, light traffic — so it's a good place to take the helm for the first time. Experienced sailors get to go deeper: trim, weather, anchoring under pressure."

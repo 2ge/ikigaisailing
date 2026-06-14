@@ -5,7 +5,7 @@ seoTitle: "Functional Tabata Training in San Blas — Catamaran | Ikigai"
 metaDescription: "Functional Tabata training in San Blas, Panama aboard a Catana 47 — 20s on / 10s off with bands, TRX and kettlebells, on deck or a deserted beach. No gym, no machines."
 locale: "en"
 heroImage: "~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg"
-lead: "Stay strong in paradise without a gym in sight. In San Blas we train Tabata-style on the foredeck or a deserted beach — 20 seconds on, 10 off — with resistance bands, TRX and kettlebells. Twenty honest minutes, salt on your skin, then straight into the water."
+lead: "Functional training in San Blas means staying strong in paradise without a gym in sight. We train Tabata-style on the foredeck or a deserted beach — 20 seconds on, 10 off — with resistance bands, TRX and kettlebells. Twenty honest minutes, salt on your skin, then straight into the water."
 faq:
   - q: "Do I need to be fit to join?"
     a: "No. Tabata scales to whoever's training — total beginners set their own intensity. It's 20 seconds of effort, 10 of rest, repeated; you go as hard as you want."
