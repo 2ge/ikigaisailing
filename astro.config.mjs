@@ -3,6 +3,8 @@ import { defineConfig } from 'astro/config';
 import { fileURLToPath } from 'node:url';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
+import { unified } from '@astrojs/markdown-remark';
+import rehypeLocalizeLinks from './src/lib/rehype-localize-links.ts';
 
 
 const src = fileURLToPath(new URL('./src', import.meta.url));
@@ -14,6 +16,10 @@ export default defineConfig({
   trailingSlash: 'always',
   // inline the (single) CSS bundle to remove the render-blocking stylesheet request
   build: { inlineStylesheets: 'always' },
+  // Body-copy internal links are written EN-canonical; this localizes them per
+  // content file's locale (/it/ page → /it/… links). See src/lib/rehype-localize-links.ts.
+  // Uses the supported unified() processor (keeps Astro's GFM/smartypants/highlighting defaults).
+  markdown: { processor: unified({ rehypePlugins: [rehypeLocalizeLinks] }) },
   // Instagram media is served from these CDNs; allow astro:assets to fetch +
   // optimize them at build time (→ local AVIF/WebP, no client-side IG script).
   image: {

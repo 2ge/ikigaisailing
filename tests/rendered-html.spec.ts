@@ -79,3 +79,22 @@ test('content pages expose all five hreflang alternates', () => {
     }
   }
 });
+
+test('non-EN pages localize internal links in body content (no EN-canonical links)', () => {
+  // Body-copy links are written EN-canonical and localized at build by the rehype
+  // plugin (src/lib/rehype-localize-links.ts). On an /it/ page a link to a known
+  // localizable section root must be /it/… — never the bare EN path. Scoped to
+  // <main> so the language switcher / hreflang (which legitimately reference EN)
+  // don't false-positive.
+  const ROOTS =
+    'activities|trips|blog|about|story|route|benefits|reviews|contact|ikigai|catana-47|liveaboard|faq|terms|privacy|cookies|panama|season-2025-26';
+  const re = new RegExp(`href="/(${ROOTS})[/"]`, 'g');
+  const offenders: string[] = [];
+  for (const p of pages) {
+    if (!/^\/(it|es|fr|sk)\//.test(p.url)) continue;
+    const main = p.html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)?.[1] ?? '';
+    const hits = main.match(re);
+    if (hits) offenders.push(`${p.url}: ${[...new Set(hits)].join(', ')}`);
+  }
+  expect(offenders, `un-localized EN-canonical links in content body:\n${offenders.join('\n')}`).toEqual([]);
+});
