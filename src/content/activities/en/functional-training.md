@@ -1,8 +1,8 @@
 ---
 title: "Functional Training"
 summary: "Short, intense Tabata workouts on deck or the beach — 20 seconds on, 10 seconds off — with bands, TRX, kettlebells and your own bodyweight. No machines, no gym."
-seoTitle: "Functional Tabata Training on a Catamaran in San Blas | Ikigai"
-metaDescription: "Equipment-light functional training aboard a Catana 47 in San Blas, Panama — Tabata intervals (20s on / 10s off) with resistance bands, TRX and kettlebells. Per cabin."
+seoTitle: "Functional Tabata Training on a Catamaran | Ikigai Sailing"
+metaDescription: "Equipment-light functional training aboard a Catana 47 — Tabata intervals (20s on / 10s off) with resistance bands, TRX and kettlebells. Strong body at sea, no gym."
 locale: "en"
 category: "fitness"
 image: "~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg"
@@ -13,7 +13,7 @@ facts:
   - label: "Kit"
     value: "Resistance bands, TRX, kettlebells, bodyweight"
   - label: "Where"
-    value: "On deck or on a deserted beach"
+    value: "On deck or on a beach"
   - label: "Level"
     value: "Scales to any fitness — total beginners welcome"
 ---
