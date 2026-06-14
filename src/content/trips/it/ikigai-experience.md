@@ -1,30 +1,33 @@
 ---
-title: "Ikigai experience"
-description: "Vivere 10 Giorni a bordo di Ikigai - Un concentrato di vita autentica, essenziale e rigenerante."
-locale: "it"
+title: Ikigai experience
+description: >-
+  Vivere 10 Giorni a bordo di Ikigai - Un concentrato di vita autentica,
+  essenziale e rigenerante.
+locale: it
 price: 300
-currency: "EUR"
-duration: "flexible"
-location: "San Blas, Panama"
+currency: EUR
+duration: flexible
+location: 'San Blas, Panama'
 membersOnly: false
-heroImage: "~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp"
+heroImage: ~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp
 gallery:
-  - "~/assets/trips/ikigai-experience/IMG_0937-scaled.jpg"
-  - "~/assets/trips/ikigai-experience/catana-47-e1737790771595.jpg"
-  - "~/assets/trips/ikigai-experience/2f1afa20-5de7-48d6-a476-a3971f558173.webp"
-  - "~/assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp"
-  - "~/assets/trips/ikigai-experience/GH014735_1679677560764.webp"
-  - "~/assets/trips/ikigai-experience/IMG_1280_Original.webp"
-  - "~/assets/trips/ikigai-experience/Screenshot-2025-06-12-alle-19.32.24.webp"
-  - "~/assets/trips/ikigai-experience/Snapshot-15-04-2025-16_13.webp"
-  - "~/assets/trips/ikigai-experience/Snapshot-30-08-2024-08_12.webp"
-  - "~/assets/trips/ikigai-experience/Untitled-design.webp"
-  - "~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp"
-  - "~/assets/trips/ikigai-experience/meditation-2.webp"
-  - "~/assets/trips/ikigai-experience/paola.png"
+  - ~/assets/trips/ikigai-experience/IMG_0937-scaled.jpg
+  - ~/assets/trips/ikigai-experience/catana-47-e1737790771595.jpg
+  - ~/assets/trips/ikigai-experience/2f1afa20-5de7-48d6-a476-a3971f558173.webp
+  - ~/assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp
+  - ~/assets/trips/ikigai-experience/GH014735_1679677560764.webp
+  - ~/assets/trips/ikigai-experience/IMG_1280_Original.webp
+  - ~/assets/trips/ikigai-experience/Screenshot-2025-06-12-alle-19.32.24.webp
+  - ~/assets/trips/ikigai-experience/Snapshot-15-04-2025-16_13.webp
+  - ~/assets/trips/ikigai-experience/Snapshot-30-08-2024-08_12.webp
+  - ~/assets/trips/ikigai-experience/Untitled-design.webp
+  - ~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp
+  - ~/assets/trips/ikigai-experience/meditation-2.webp
+  - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 oldUrls:
-  - "/it/prodotto/ikigai-experience/"
+  - /it/prodotto/ikigai-experience/
+perNight: true
 ---
 
 ![Breath catamaran Holiday](../../../assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp)

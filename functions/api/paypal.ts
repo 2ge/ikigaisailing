@@ -19,7 +19,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     for (const it of items) {
       const c = CATALOG[it?.sku];
       if (!c) continue; // unknown SKU — ignore
-      const q = Math.max(1, Math.min(12, Number(it.quantity) || 1));
+      const q = Math.max(1, Math.min(31, Number(it.quantity) || 1));
       total += c.cents * q;
       pp.push({ name: c.name.slice(0, 127), quantity: String(q), unit_amount: { currency_code: 'EUR', value: (c.cents / 100).toFixed(2) } });
     }

@@ -70,6 +70,8 @@ const trips = defineCollection({
       price: z.number().nullable().default(null),
       currency: z.string().default('EUR'),
       priceNote: z.string().optional(), // e.g. "per week", "per month", "deposit 30%"
+      /** Price is per night → show "/ night" and let the cart set how many nights. */
+      perNight: z.boolean().default(false),
       duration: z.string(),
       season: z.string().optional(),
       location: z.string(),

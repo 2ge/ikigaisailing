@@ -1,31 +1,39 @@
 ---
-title: "Ikigai Experience"
-description: "Ten days aboard Ikigai in San Blas — a concentrate of authentic, essential and regenerating life: freediving, yoga, slow sailing and transformative practices with our multidisciplinary instructors."
-seoTitle: "Ikigai Experience — San Blas Catamaran Retreat"
-metaDescription: "Ten days aboard Ikigai in San Blas, Panama — freediving, yoga, slow sailing and transformative practices. From 300 EUR as an ASD member contribution."
-locale: "en"
+title: Ikigai Experience
+description: >-
+  Ten days aboard Ikigai in San Blas — a concentrate of authentic, essential and
+  regenerating life: freediving, yoga, slow sailing and transformative practices
+  with our multidisciplinary instructors.
+seoTitle: Ikigai Experience — San Blas Catamaran by the Cabin
+metaDescription: >-
+  Sail San Blas, Panama aboard Ikigai by the cabin — freediving, yoga, slow
+  sailing and transformative practices. From €300 per night as an ASD member
+  contribution.
+locale: en
 price: 300
-currency: "EUR"
-duration: "flexible"
-location: "San Blas, Panama"
+currency: EUR
+duration: flexible
+location: 'San Blas, Panama'
 membersOnly: false
-heroImage: "~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp"
+heroImage: ~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp
 gallery:
-  - "~/assets/trips/ikigai-experience/IMG_0937-scaled.jpg"
-  - "~/assets/trips/ikigai-experience/catana-47-e1737790771595.jpg"
-  - "~/assets/trips/ikigai-experience/2f1afa20-5de7-48d6-a476-a3971f558173.webp"
-  - "~/assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp"
-  - "~/assets/trips/ikigai-experience/IMG_1280_Original.webp"
-  - "~/assets/trips/ikigai-experience/Screenshot-2025-06-12-alle-19.32.24.webp"
-  - "~/assets/trips/ikigai-experience/Snapshot-15-04-2025-16_13.webp"
-  - "~/assets/trips/ikigai-experience/Snapshot-30-08-2024-08_12.webp"
-  - "~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp"
-  - "~/assets/trips/ikigai-experience/meditation-2.webp"
-  - "~/assets/trips/ikigai-experience/paola.png"
+  - ~/assets/trips/ikigai-experience/IMG_0937-scaled.jpg
+  - ~/assets/trips/ikigai-experience/catana-47-e1737790771595.jpg
+  - ~/assets/trips/ikigai-experience/2f1afa20-5de7-48d6-a476-a3971f558173.webp
+  - ~/assets/trips/ikigai-experience/Fotogramma-21-07-2025-01-22-37.webp
+  - ~/assets/trips/ikigai-experience/IMG_1280_Original.webp
+  - ~/assets/trips/ikigai-experience/Screenshot-2025-06-12-alle-19.32.24.webp
+  - ~/assets/trips/ikigai-experience/Snapshot-15-04-2025-16_13.webp
+  - ~/assets/trips/ikigai-experience/Snapshot-30-08-2024-08_12.webp
+  - ~/assets/trips/ikigai-experience/ikigai_1600x900_highquality.webp
+  - ~/assets/trips/ikigai-experience/meditation-2.webp
+  - ~/assets/trips/ikigai-experience/paola.png
 order: 1
 oldUrls:
-  - "/prodotto/ikigai-experience-2/"
+  - /prodotto/ikigai-experience-2/
+perNight: true
 ---
+
 ## Introduction
 
 Every proposed activity is **highly recommended** , but never mandatory. The invitation is to step out of your comfort zone, try new experiences, and strengthen your discipline — while also listening deeply to your body and its needs. This experience is designed to help you explore the balance between **commitment and listening** , between **discipline and freedom**. No expectations, no performance — just the opportunity to reconnect with yourself, others, and the natural rhythm of life.

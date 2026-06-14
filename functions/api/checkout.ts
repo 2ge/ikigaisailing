@@ -44,7 +44,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     for (const it of items) {
       const cat = CATALOG[it?.sku];
       if (!cat) continue; // unknown SKU — ignore
-      const qty = Math.max(1, Math.min(12, Number(it.quantity) || 1));
+      const qty = Math.max(1, Math.min(31, Number(it.quantity) || 1));
       params.set(`line_items[${li}][price_data][currency]`, 'eur');
       params.set(`line_items[${li}][price_data][unit_amount]`, String(cat.cents));
       params.set(`line_items[${li}][price_data][product_data][name]`, cat.name);

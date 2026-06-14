@@ -155,5 +155,7 @@
   "home.instagramEyebrow": "Suis-nous",
   "home.instagramTitle": "Les dernières nouvelles d'Instagram",
   "home.instagramFollow": "Suis @ikigaisailing_asd",
-  "home.instagramEmpty": "On poste depuis le bateau : les dernières photos et vidéos, en direct de San Blas. Suis-nous sur Instagram."
+  "home.instagramEmpty": "On poste depuis le bateau : les dernières photos et vidéos, en direct de San Blas. Suis-nous sur Instagram.",
+  "trip.perNight": "par nuit",
+  "cart.nights": "nuits"
 }

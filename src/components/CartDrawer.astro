@@ -53,10 +53,11 @@ const t = useTranslations(locale);
   </aside>
 </div>
 
-<script define:vars={{ waUrl: WHATSAPP_URL, removeLabel: t('cart.remove') }}>
+<script define:vars={{ waUrl: WHATSAPP_URL, removeLabel: t('cart.remove'), nightsLabel: t('cart.nights') }}>
   // hold for the bundled module below
   window.__cartWA = waUrl;
   window.__cartRemove = removeLabel;
+  window.__cartNights = nightsLabel;
 </script>
 <script>
   import { cart } from '../scripts/cart';
@@ -68,12 +69,14 @@ const t = useTranslations(locale);
     const list = $('[data-cart-items]');
     if (!list) return;
     const items = cart.items();
-    list.innerHTML = items.map((i) => `
-      <li class="flex items-start justify-between gap-3 rounded-xl bg-sand-100 p-3">
-        <div class="min-w-0"><p class="font-medium text-ocean-950">${i.name}</p>
-          <p class="text-sm text-ink-soft">${eur(i.price * i.qty)}${i.qty > 1 ? ' · ×' + i.qty : ''}</p></div>
-        <button data-remove="${i.sku}" class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2">${(window).__cartRemove || 'Remove'}</button>
-      </li>`).join('');
+    const nights = (window).__cartNights || 'nights';
+    const stepBtn = 'grid h-6 w-6 place-items-center rounded-full border border-ocean-300 text-base leading-none text-ocean-700 transition hover:bg-ocean-100';
+    list.innerHTML = items.map((i) => {
+      const detail = i.unit === 'night'
+        ? `<div class="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1"><button data-qty-dec="${i.sku}" aria-label="−" class="${stepBtn}">−</button><span class="text-sm font-medium text-ocean-950">${i.qty} ${nights}</span><button data-qty-inc="${i.sku}" aria-label="+" class="${stepBtn}">+</button><span class="text-sm text-ink-soft">× ${eur(i.price)} = <b class="text-ocean-950">${eur(i.price * i.qty)}</b></span></div>`
+        : `<p class="text-sm text-ink-soft">${eur(i.price * i.qty)}${i.qty > 1 ? ' · ×' + i.qty : ''}</p>`;
+      return `<li class="flex items-start justify-between gap-3 rounded-xl bg-sand-100 p-3"><div class="min-w-0"><p class="font-medium text-ocean-950">${i.name}</p>${detail}</div><button data-remove="${i.sku}" class="shrink-0 text-xs font-medium text-ocean-600 underline underline-offset-2">${(window).__cartRemove || 'Remove'}</button></li>`;
+    }).join('');
     $('[data-cart-empty]')?.classList.toggle('hidden', items.length > 0);
     const tot = $('[data-cart-total]'); if (tot) tot.textContent = eur(cart.total());
     const badge = $('[data-cart-count]');
@@ -116,7 +119,8 @@ const t = useTranslations(locale);
     document.addEventListener('click', (e) => {
       const p = e.target.closest && e.target.closest('[data-add-package]');
       if (!p) return;
-      cart.add({ sku: p.getAttribute('data-sku'), kind: 'package', name: p.getAttribute('data-name'), price: Number(p.getAttribute('data-price')) });
+      const unit = p.getAttribute('data-unit') || undefined;
+      cart.add({ sku: p.getAttribute('data-sku'), kind: 'package', name: p.getAttribute('data-name'), price: Number(p.getAttribute('data-price')), unit }, unit === 'night' ? 7 : 1);
       document.dispatchEvent(new CustomEvent('cart:open'));
     });
   }
@@ -132,6 +136,8 @@ const t = useTranslations(locale);
       const el = e.target;
       if (el.closest('[data-cart-close]') || el.hasAttribute('data-cart-overlay')) return closeDrawer();
       const rm = el.closest('[data-remove]'); if (rm) return cart.remove(rm.getAttribute('data-remove'));
+      const dec = el.closest('[data-qty-dec]'); if (dec) { const s = dec.getAttribute('data-qty-dec'); const it = cart.items().find((i) => i.sku === s); if (it) cart.setQty(s, it.qty - 1); return; }
+      const inc = el.closest('[data-qty-inc]'); if (inc) { const s = inc.getAttribute('data-qty-inc'); const it = cart.items().find((i) => i.sku === s); if (it) cart.setQty(s, Math.min(31, it.qty + 1)); return; }
       const add = el.closest('[data-add-addon]'); if (add) return cart.add({ sku: 'addon:' + add.getAttribute('data-add-addon'), kind: 'addon', name: add.getAttribute('data-name'), price: Number(add.getAttribute('data-price')) });
       if (el.closest('[data-cart-checkout]')) return checkout();
     });
