@@ -12,7 +12,7 @@
   "nav.faq": "Často kladené otázky",
   "nav.boat": "Catana 47",
   "nav.trips": "Možnosti nalodenia",
-  "nav.season": "Sezóna 2025/26",
+  "nav.season": "San Blas",
   "nav.activities": "Aktivity",
   "nav.liveaboard": "Liveaboard",
   "nav.blog": "Blog",
@@ -156,6 +156,6 @@
   "home.instagramTitle": "Najnovšie z Instagramu",
   "home.instagramFollow": "Sledujte @ikigaisailing_asd",
   "home.instagramEmpty": "Pripravujeme príspevky priamo z lode – najnovšie fotky a videá, priamo zo San Blasu. Sledujte nás na Instagrame.",
-  "trip.perNight": "za noc",
-  "cart.nights": "noci"
+  "trip.perNight": "za deň",
+  "cart.nights": "dní"
 }
