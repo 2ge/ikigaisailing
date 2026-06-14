@@ -1,14 +1,14 @@
 ---
 title: Janzu
 summary: >-
-  Le Janzu est une expérience de relaxation profonde et de connexion avec
-  l'élément aquatique. Des mouvements doux et fluides t'aident à évacuer le
-  stress
-seoTitle: 'Retraite de thérapie aquatique Janzu, San Blas | Ikigai'
+  Le Janzu est une pratique corporelle aquatique : des mouvements doux et
+  fluides dans l'eau chaude qui libèrent les tensions physiques et émotionnelles
+  et te plongent dans un repos profond.
+seoTitle: Thérapie aquatique Janzu sur un catamaran | Ikigai Sailing
 metaDescription: >-
-  Séances de Janzu, une thérapie aquatique, dans les eaux chaudes et calmes de
-  San Blas, au Panama — séances individuelles à bord de notre Catana 47. Une
-  retraite régénérante axée sur la guérison par l'eau à bord de l'Ikigai.
+  Séance de Janzu à bord d'un Catana 47 — séances individuelles de bien-être
+  aquatique dans une eau chaude et calme. Libère-toi de tes tensions et plonge
+  dans un repos profond, en compagnie d'un praticien formé par Sol Naciente.
 locale: fr
 category: wellness
 image: ~/assets/activities/janzu/IMG_3296-1.avif
@@ -20,23 +20,31 @@ gallery:
 order: 4
 facts:
   - label: Durée
-    value: Séances individuelles d'une heure
-  - label: Lieu
+    value: Séances individuelles d'environ une heure
+  - label: Où
     value: Des lagons paisibles et des piscines naturelles
-  - label: Avantages
+  - label: Idéal pour
     value: >-
-      Détente, gestion du stress, connexion intérieure, travail sur les
-      traumatismes et les blocages émotionnels
-  - label: Formateurs
-    value: Formé aux techniques Janzu et Wata
+      Relaxation profonde, gestion du stress, libération émotionnelle, travail
+      sur les traumatismes
+  - label: Natation
+    value: >-
+      Ce n'est pas nécessaire — tu es en suspension et soutenu tout au long du
+      processus
+  - label: Praticien
+    value: 'Formé au Janzu et au Wata, enseignés par Luca de Sol Naciente'
 translated: deepl
-sourceHash: 20f8c1740ca8c98f
+sourceHash: 7b5072a38d1812d7
 ---
 
-## Le pouvoir thérapeutique de l'eau
+## Qu'est-ce que le Janzu ?
 
-Le Janzu n’est pas seulement une pratique de libération émotionnelle, mais repose aussi sur des principes de conscience corporelle et de connexion avec la nature, ce qui en fait une forme de méditation et une expérience spirituelle tant pour la personne qui reçoit le soin que pour le thérapeute. Le Janzu est une forme de thérapie aquatique originaire d’Inde et développée au Mexique par Juan Villatoro Garza, qui l’a transmise à [Richard Dionne (Sol Naciente)](https://www.facebook.com/sol.naciente.5815/), auprès duquel Luca a appris les techniques de premier niveau. Cette thérapie repose sur l’idée que l’eau possède un pouvoir de guérison et peut faciliter une libération profonde des tensions physiques et émotionnelles. Pendant une séance de Janzu, le praticien bouge doucement le corps de la personne dans l’eau, favorisant ainsi la libération du stress et des blocages émotionnels. La thérapie est conçue pour favoriser un état de relaxation profonde et de connexion avec soi-même et l’environnement. Le Janzu n’est pas seulement une pratique de libération émotionnelle, mais repose aussi sur les principes de l’écoute du corps et de la connexion avec la nature, ce qui en fait une forme de méditation et une expérience spirituelle tant pour la personne qui reçoit le soin que pour le thérapeute.
+Le Janzu est **un travail corporel aquatique** — une pratique en tête-à-tête où un praticien te fait flotter dans de l'eau chaude et fait bouger ton corps en mouvements lents et fluides jusqu'à ce que ta respiration ralentisse, que tes muscles se relâchent et que ton esprit s'apaise. C'est un proche cousin du **Watsu** et du **Wata**, à mi-chemin entre le travail corporel, la méditation et la thérapie. Le Janzu est originaire d’Inde, a été développé au Mexique par **Juan Villatoro Garza**, puis transmis à [Richard Dionne — Sol Naciente](https://www.facebook.com/sol.naciente.5815/), auprès duquel Luca a appris les techniques de premier niveau. C’est l’eau qui fait le travail ici : soutenu et en apesanteur, le corps libère les tensions qu’il retient sans même s’en rendre compte.
 
-## Pourquoi l'essayer
+## À quoi ressemble une séance de Janzu
 
-Vivez un voyage régénérant, en vous laissant bercer par la mer en totale harmonie.
+Tu portes des bouées et tu es soutenu tout au long de la séance — **il n’est pas nécessaire de savoir nager**, et ce sont souvent les non-nageurs qui s’adaptent le plus vite. Le praticien te tient la tête et te guide à travers des mouvements lents, des étirements doux et des moments d’immobilité, tes oreilles sous la surface pour que le monde s’apaise. Les séances durent environ une heure, en tête-à-tête, dans une eau chaude et calme — un lagon ou un bassin naturel abrité. La plupart des gens perdent complètement la notion du temps ; certains refont surface après avoir lâché prise sur quelque chose qu’ils portaient en eux depuis des années.
+
+## À qui s'adresse le Janzu ?
+
+À toute personne en proie au stress, à la tension ou au chagrin ; à toute personne curieuse de savoir ce que le corps recèle et comment l'eau peut le libérer ; à toute personne qui souhaite simplement profiter du repos le plus profond qu'elle ait connu depuis longtemps. Comme il ne te demande rien d'autre que de te laisser porter, le Janzu vient à ta rencontre là où tu en es — que tu sois novice ou pratiquant chevronné. Il s’intègre naturellement au reste de la vie à bord : [la plongée en apnée](/fr/activites/freediving/) enseigne la même relation sereine avec la respiration et l’eau, et [la méditation](/fr/activites/meditation/) la même quiétude, sous un autre angle.

@@ -1,13 +1,13 @@
 ---
 title: Janzu
 summary: >-
-  Janzu je zážitok hlbokej relaxácie a spojenia s vodným živlom. Jemné a plynulé
-  pohyby vám pomôžu zbaviť sa stresu
-seoTitle: 'Janzu – centrum vodnej terapie, San Blas | Ikigai'
+  Janzu je vodná telová terapia – jemné, plynulé pohyby v teplej vode, ktoré
+  uvoľňujú fyzické a emocionálne napätie a navodia hlboký odpočinok.
+seoTitle: Vodná terapia Janzu na katamaráne | Ikigai Sailing
 metaDescription: >-
-  Vodná masáž Janzu v teplej, pokojnej vode v San Blase v Paname – individuálne
-  sedenia priamo z našej lode Catana 47. Regeneračný pobyt zameraný na liečbu
-  vodou na palube lode Ikigai.
+  Vodná terapia Janzu na palube lode Catana 47 – individuálne liečebné sedenia
+  vo vode v teplej a pokojnej vode. Uvoľnite napätie a ponorte sa do hlbokého
+  odpočinku pod vedením terapeuta vyškoleného organizáciou Sol Naciente.
 locale: sk
 category: wellness
 image: ~/assets/activities/janzu/IMG_3296-1.avif
@@ -19,24 +19,30 @@ gallery:
 order: 4
 facts:
   - label: Trvanie
-    value: Individuálne hodiny v dĺžke 1 hodiny
-  - label: Miesto
+    value: Individuálne sedenia v dĺžke približne 1 hodiny
+  - label: Kde
     value: Pokojné lagúny a prírodné bazény
-  - label: Výhody
+  - label: Vhodné pre
+    value: 'Hlboká relaxácia, stres, emocionálne uvoľnenie, spracovanie traumy'
+  - label: Plávanie
+    value: Nie je potrebné – po celý čas vás budú držať na hladine a podporovať
+  - label: Odborník
     value: >-
-      Relaxácia, odbúravanie stresu, vnútorné spojenie, práca s traumami a
-      emocionálnymi blokmi
-  - label: Lektori
-    value: Absolvoval výcvik v technikách Janzu a Wata
+      Absolvoval výcvik v technikách Janzu a Wata, ktoré sa naučil od Lucu zo
+      Sol Naciente
 translated: deepl
-sourceHash: 20f8c1740ca8c98f
+sourceHash: 7b5072a38d1812d7
 needsReview: true
 ---
 
-## Liečivá sila vody
+## Čo je Janzu
 
-Janzu nie je len cvičením na uvoľnenie emócií, ale je tiež založené na princípoch telesného uvedomenia a spojenia s prírodou, čo z neho robí formu meditácie a duchovného zážitku pre príjemcu aj terapeuta. Janzu je forma vodnej terapie pochádzajúca z Indie, ktorú v Mexiku rozvinul Juan Villatoro Garza a odovzdal ju [Richardovi Dionneovi (Sol Naciente)](https://www.facebook.com/sol.naciente.5815/), od ktorého sa Luca naučil techniky prvého stupňa. Táto terapia vychádza z predstavy, že voda má liečivú silu a môže napomôcť hlbokému uvoľneniu fyzického a emocionálneho napätia. Počas sedenia Janzu terapeut jemne pohybuje telom osoby vo vode, čím podporuje uvoľnenie stresu a emocionálnych blokov. Terapia je navrhnutá tak, aby podporovala stav hlbokej relaxácie a spojenia so sebou samým a okolitým prostredím. Janzu nie je len cvičením na uvoľnenie emócií, ale je tiež založené na princípoch načúvania telu a spojenia s prírodou, čo z neho robí formu meditácie a duchovný zážitok pre klienta aj terapeuta.
+Janzu je **vodná telesná terapia** – individuálna prax, pri ktorej vás terapeut nechá plávať v teplej vode a pohybuje vaším telom v pomalých, plynulých oblúkoch, až kým sa váš dych spomalí, svaly uvoľnia a myseľ utíchne. Je to blízky príbuzný **Watsu** a **Wata**, ktorý sa nachádza niekde medzi telesnou terapiou, meditáciou a terapiou. Janzu vzniklo v Indii, v Mexiku ho rozvinul **Juan Villatoro Garza** a odovzdal [Richardovi Dionneovi – Sol Naciente](https://www.facebook.com/sol.naciente.5815/), od ktorého sa Luca naučil techniky prvého stupňa. Prácu tu vykonáva voda: telo, ktoré je podopierané a bez váhy, uvoľňuje napätie, ktoré v sebe zadržiava, bez toho, aby si to vôbec uvedomovalo.
 
-## Prečo to vyskúšať
+## Ako prebieha sedenie Janzu
 
-Zažite regeneračnú cestu a nechajte sa v úplnej harmónii kolísať morom.
+Máte na sebe plávacie pomôcky a ste po celý čas podopieraní – **plávanie nie je potrebné** a neplavci sa často upokoja najrýchlejšie. Terapeut vám podopiera hlavu a vedie vás pomalými pohybmi, jemným strečingom a pokojom, pričom vaše uši sú pod hladinou, takže svet stíchne. Sedenia trvajú asi hodinu, sú individuálne a prebiehajú v teplej, pokojnej vode – v lagúne alebo v chránenom prírodnom bazéne. Väčšina ľudí úplne stratí pojem o čase; niektorí sa vynoria s pocitom, že sa zbavili niečoho, čo v sebe nosili celé roky.
+
+## Pre koho je Janzu určené
+
+Pre každého, kto v sebe nosí stres, napätie alebo smútok; pre každého, kto je zvedavý na to, čo v sebe telo ukrýva a ako to voda môže uvoľniť; pre každého, kto si jednoducho chce dopriať najhlbší odpočinok, aký zažil už dlho. Pretože od vás nežiada nič iné, ako aby ste sa nechali unášať, Janzu vás stretne presne tam, kde ste – či už ste začiatočník, alebo skúsený praktizujúci. Prirodzene sa spája so zvyškom života na palube: [freediving](/sk/aktivity/freediving/) učí rovnaký pokojný vzťah s dychom a vodou a [meditácia](/sk/aktivity/meditation/) rovnaký pokoj, len z iného uhla pohľadu.

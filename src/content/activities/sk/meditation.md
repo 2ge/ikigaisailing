@@ -2,10 +2,10 @@
 title: Meditácia
 summary: >-
   Meditácia s Ikigai Sailing je jedinečný zážitok, pri ktorom pokoj mora
-  znásobuje prínos tejto praktiky.
+  znásobuje prínosy tejto praktiky.
 seoTitle: Meditačný pobyt na ostrovoch San Blas | Ikigai
 metaDescription: >-
-  Každodenná meditácia a dychové cvičenia pri kotvení na ostrovoch San Blas v
+  Každodenná meditácia a dychové cvičenia na kotvisku na ostrovoch San Blas v
   Paname. Pokojné rána, otvorené more a tiché kotviská na palube nášho
   katamaránu Catana 47.
 locale: sk
@@ -27,7 +27,7 @@ facts:
   - label: Výhody
     value: 'Zvýšená pozornosť, uvoľnenie a emocionálna rovnováha'
 translated: deepl
-sourceHash: bf97505c72d22634
+sourceHash: 61a615df96fb7d3a
 needsReview: true
 ---
 
@@ -39,4 +39,4 @@ Objavte silu meditácie v úplnom ponorení do prírody. Pridajte sa k nám a za
 
 ## Prečo to vyskúšať
 
-Zažite chvíľku skutočného pokoja, ďaleko od každodenného chaosu.
+Zažite chvíľku autentického pokoja, ďaleko od každodenného chaosu – a potom si tento pokoj preneste do vody s [Janzu](/sk/aktivity/janzu/), vodnou masážou, ktorá upokojuje myseľ z úplne iného uhla pohľadu.

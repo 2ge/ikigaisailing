@@ -33,4 +33,4 @@ Freediving is not just a sport, it can be a true path to self-discovery, an excu
 
 ## Benefits
 
-Discover how freediving strengthens the body, calms the mind, and enhances awareness.
+Discover how freediving strengthens the body, calms the mind, and enhances awareness. The same calm relationship with breath and water carries straight into [Janzu](/activities/janzu/), the aquatic bodywork we practise aboard.
