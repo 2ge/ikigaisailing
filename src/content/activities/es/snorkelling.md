@@ -1,15 +1,14 @@
 ---
 title: Snorkel
 summary: >-
-  Una máscara, aletas y un mar tranquilo y cálido en el que se ve hasta el
-  fondo. Arrecifes, rayas y peces en islas a las que no llegan las excursiones
-  de un día: sin necesidad de título ni botella, solo tienes que zambullirte.
-seoTitle: 'Snorkel en San Blas, Panamá, desde un catamarán | Ikigai'
+  Una máscara, aletas y un mar cálido en el que se ve hasta el fondo. Arrecifes,
+  rayas y peces en calas a las que no llegan las excursiones de un día: sin
+  necesidad de título ni botella, solo tienes que zambullirte.
+seoTitle: Snorkel desde un catamarán | Ikigai Sailing
 metaDescription: >-
-  Practica snorkel en los arrecifes de San Blas, Panamá, a bordo de un catamarán
-  Catana 47: las cálidas y cristalinas aguas de Guna Yala, el equipo a bordo y
-  fondeaderos a los que no llegan las excursiones de un día. Reserva por
-  camarote con la tripulación.
+  Haz snorkel directamente desde un catamarán Catana 47: aguas cálidas y
+  cristalinas, equipo a bordo, arrecifes y vida marina en fondeaderos a los que
+  no llegan las excursiones de un día. No se necesita experiencia.
 locale: es
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -23,17 +22,17 @@ facts:
   - label: Equipo
     value: 'Máscaras, tubos y aletas a bordo'
   - label: Agua
-    value: 'Cálido (unos 28 °C), cristalino, poco profundo'
+    value: 'Cálido, cristalino y, a menudo, poco profundo'
   - label: Lo que verás
-    value: 'Arrecifes, rayas, tiburones nodriza, peces de arrecife, tortugas'
+    value: 'Arrecifes, rayas, tiburones de arrecife, peces, tortugas'
 translated: deepl
-sourceHash: 96b060e567d9ff3a
+sourceHash: 27fde74feeab5874
 ---
 
 ## Solo tienes que meterte en el agua
 
-Para hacer snorkel en San Blas no necesitas más que una máscara, unas aletas y ganas de meter la cara en el agua. Sin botella, sin certificación, sin curso. Las lagunas son cálidas —alrededor de **28 °C**—, poco profundas y lo suficientemente claras como para ver la arena desde la cubierta. Te bajas de la popa del catamarán y el arrecife está justo ahí.
+Para hacer snorkel solo necesitas una máscara, unas aletas y ganas de meter la cara en el agua. Sin botella, sin certificación, sin curso. Nosotros llevamos el equipo, y como _el Ikigai_ fondea en aguas cristalinas y protegidas, el arrecife suele estar justo al salir de la popa: nadas un poco y ya estás allí.
 
 ## Arrecifes a los que no llegan las excursiones de un día
 
-Como navegamos con la cabina y fondeamos donde nos apetece, buceas en lugares a los que los barcos de un día ni se molestan en ir: formaciones de coral, acantilados submarinos, bancos de arena por donde se deslizan las rayas. La mayoría de los días no tendrás a nadie más allí. Flota sobre un arrecife que ha permanecido intacto durante siglos, observa cómo un tiburón nodriza se desliza por debajo y luego vuelve a subir a bordo para almorzar. Es la puerta de entrada más fácil que existe al mundo submarino, y en San Blas se abre a uno de los más ricos.
+Como navegamos con el barco y fondeamos donde nos apetece, buceas en lugares a los que los barcos de excursión de un día nunca se molestan en ir: formaciones de coral, acantilados submarinos, bancos de arena por donde se deslizan las rayas. La mayoría de los días no tendrás a nadie más allí. Flota sobre un arrecife en soledad, observa cómo una tortuga pasta o cómo un tiburón de arrecife se desliza por debajo, y luego vuelve a subir a bordo para almorzar. Es la puerta de entrada más fácil que hay al mundo submarino.

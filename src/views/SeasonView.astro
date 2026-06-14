@@ -24,7 +24,7 @@ const trips = (await entriesForLocale('trips', locale)).sort((a, b) => a.data.or
 const testimonials = (await entriesForLocale('testimonials', locale)).slice(0, 8);
 
 // San Blas activity hub — cards link down to each geo activity page
-const GEO_ACTS = ['freediving', 'yoga', 'janzu', 'meditation'];
+const GEO_ACTS = ['freediving', 'snorkelling', 'sailing-training', 'yoga', 'meditation', 'janzu', 'functional-training', 'cooking-class'];
 const geoCards = (await Promise.all(GEO_ACTS.map((a) => entryForLocale('landings', a, locale))))
   .map((e, i) => (e ? { slug: GEO_ACTS[i], title: e.data.title, hero: e.data.heroImage } : null))
   .filter(Boolean) as { slug: string; title: string; hero: any }[];

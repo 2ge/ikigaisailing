@@ -3,12 +3,12 @@ title: Allenamento funzionale
 summary: >-
   Brevi e intensi allenamenti Tabata sul ponte o in spiaggia — 20 secondi di
   esercizio, 10 secondi di riposo — con elastici, TRX, kettlebell e il peso del
-  tuo corpo. Niente attrezzi, niente palestra.
-seoTitle: Allenamento funzionale Tabata su un catamarano a San Blas | Ikigai
+  tuo corpo. Niente macchine, niente palestra.
+seoTitle: Allenamento funzionale Tabata su un catamarano | Ikigai Sailing
 metaDescription: >-
-  Allenamento funzionale con attrezzatura minima a bordo di una Catana 47 a San
-  Blas, Panama — Intervalli Tabata (20 sec. di esercizio / 10 sec. di riposo)
-  con bande elastiche, TRX e kettlebell. Per cabina.
+  Allenamento funzionale con poco attrezzatura a bordo di una Catana 47 —
+  Intervalli Tabata (20 sec. di esercizio / 10 sec. di riposo) con bande
+  elastiche, TRX e kettlebell. Un corpo in forma in mare, senza palestra.
 locale: it
 category: fitness
 image: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
@@ -19,18 +19,18 @@ facts:
   - label: Kit
     value: 'Elastici di resistenza, TRX, kettlebell, esercizi a corpo libero'
   - label: Dove
-    value: Sul ponte o su una spiaggia deserta
+    value: Sul ponte o in spiaggia
   - label: Livello
     value: >-
       Adatto a qualsiasi livello di forma fisica — i principianti assoluti sono
       i benvenuti
 translated: deepl
-sourceHash: 0beb4c81ac48aa80
+sourceHash: f3b8d04ff97d0f39
 ---
 
 ## Un corpo forte, senza bisogno di andare in palestra
 
-Non ti serve una parete piena di attrezzi per mantenerti in forma in mare: ti bastano il tuo peso corporeo, qualche semplice attrezzo e gli intervalli giusti. Ci alleniamo **in stile Tabata**: 20 secondi di esercizio, 10 secondi di riposo, otto serie, ripetute con una manciata di movimenti. È breve, è efficace e ti lascia più fresco di quanto farebbe mai un'ora di allenamento noioso.
+Non ti serve una parete piena di attrezzi per mantenerti in forma in mare: ti bastano il peso del tuo corpo, qualche semplice attrezzo e gli intervalli giusti. Ci alleniamo **in stile Tabata**: 20 secondi di esercizio, 10 secondi di riposo, otto serie, ripetute con una manciata di movimenti. È breve, è efficace e ti lascia più fresco di quanto farebbe mai un'ora di allenamento noioso.
 
 ## Come si svolge una sessione
 

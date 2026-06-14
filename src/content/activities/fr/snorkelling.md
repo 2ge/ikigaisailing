@@ -1,16 +1,16 @@
 ---
 title: Plongée avec tuba
 summary: >-
-  Un masque, des palmes et une mer calme et chaude où tu peux voir jusqu'au
-  fond. Des récifs, des raies et des poissons sur des îles inaccessibles aux
+  Un masque, des palmes et une mer chaude où tu peux voir jusqu'au fond. Des
+  récifs, des raies et des poissons dans des mouillages inaccessibles aux
   excursions d'une journée — pas besoin de brevet ni de bouteille, il suffit de
   plonger.
-seoTitle: 'Plongée libre à San Blas, au Panama, depuis un catamaran | Ikigai'
+seoTitle: Plongée libre depuis un catamaran | Ikigai Sailing
 metaDescription: >-
-  Fais de la plongée libre dans les récifs de San Blas, au Panama, à bord d'un
-  catamaran Catana 47 : les eaux chaudes et limpides de Guna Yala, tout
-  l'équipement à bord, et des mouillages inaccessibles aux excursions d'une
-  journée. Réserve par cabine auprès de l'équipage.
+  Fais de la plongée avec tuba directement depuis un catamaran Catana 47 : une
+  eau chaude et limpide, tout l'équipement à bord, des récifs et une faune
+  marine dans des mouillages inaccessibles aux excursions d'une journée. Aucune
+  expérience requise.
 locale: fr
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -24,17 +24,17 @@ facts:
   - label: Équipement
     value: 'Masques, tubas et palmes à bord'
   - label: Eau
-    value: 'Chaude (environ 28 °C), limpide, peu profonde'
+    value: 'Chaud, limpide, souvent peu profond'
   - label: Ce que tu vas voir
-    value: 'Récifs, raies, requins nourrices, poissons de récif, tortues'
+    value: 'Récifs, raies, requins de récif, poissons, tortues'
 translated: deepl
-sourceHash: 96b060e567d9ff3a
+sourceHash: 27fde74feeab5874
 ---
 
-## Il suffit de plonger
+## Il suffit de se jeter à l'eau
 
-Pour faire de la plongée libre à San Blas, il suffit d'un masque, d'une paire de palmes et de l'envie de plonger la tête sous l'eau. Pas de bouteille, pas de brevet, pas de cours. Les lagons sont chauds — environ **28 °C** — peu profonds et suffisamment clairs pour distinguer le sable depuis le pont. Tu descends à l'arrière du catamaran et le récif est juste là.
+Pour faire de la plongée avec tuba, il suffit d'un masque, d'une paire de palmes et de l'envie de mettre la tête sous l'eau. Pas de bouteille, pas de brevet, pas de cours. On s'occupe du matériel, et comme _l'Ikigai_ jette l'ancre dans des eaux claires et abritées, le récif est généralement juste à côté de la passerelle arrière : tu nages un peu et tu y es.
 
 ## Des récifs inaccessibles aux excursions d'une journée
 
-Comme on navigue en cabine et qu'on jette l'ancre où bon nous semble, tu plonges dans des spots que les bateaux d'excursion d'une journée ne s'embêtent jamais à visiter : têtes de corail, tombants, bancs de sable où les raies glissent. La plupart du temps, tu seras seul à en profiter. Flotte au-dessus d'un récif laissé à l'abandon depuis des siècles, observe un requin nourrice dériver en dessous, puis remonte à bord pour le déjeuner. C'est la porte d'entrée la plus facile vers le monde sous-marin, et à San Blas, elle s'ouvre sur l'un des plus riches.
+Comme on navigue en fonction de la cabine et qu'on jette l'ancre où bon nous semble, tu plonges dans des spots que les bateaux d'excursion d'une journée ne s'embêtent jamais à visiter : têtes de corail, tombants, bancs de sable où les raies glissent. La plupart du temps, tu seras seul à en profiter. Flotte au-dessus d'un récif à l'abri des regards, observe une tortue brouter ou un requin de récif dériver en dessous, puis remonte à bord pour le déjeuner. C'est la porte d'entrée la plus simple qui soit vers le monde sous-marin.

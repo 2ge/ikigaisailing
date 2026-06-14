@@ -63,6 +63,26 @@ export const KEYWORDS: Keyword[] = [
     fr: { primary: 'retraite bien-être en voilier', spokes: ['retraite méditation bateau', 'détox digitale voilier'] },
     sk: { primary: 'meditacny pobyt', vol: 70, kd: 'Low', spokes: ['wellness plavba', 'mindfulness na lodi'] },
   } },
+  { id: 'sailing-ww', set: 'global', page: { collection: 'activities', slug: 'sailing-training' }, loc: {
+    en: { primary: 'learn to sail on a catamaran', vol: 320, kd: 'Low-Med', spokes: ['catamaran sailing course', 'learn to sail caribbean', 'rya yachtmaster catamaran', 'sailing lessons liveaboard'] },
+    it: { primary: 'corso di vela in catamarano', spokes: ['imparare a navigare a vela'] }, es: { primary: 'curso de vela en catamaran', spokes: ['aprender a navegar en velero'] },
+    fr: { primary: 'cours de voile en catamaran' }, sk: { primary: 'kurz jachtingu na katamarane' },
+  } },
+  { id: 'snorkel-ww', set: 'global', page: { collection: 'activities', slug: 'snorkelling' }, loc: {
+    en: { primary: 'catamaran snorkelling trip', vol: 260, kd: 'Low', spokes: ['snorkelling from a catamaran', 'sailing and snorkelling holiday', 'liveaboard snorkeling'] },
+    it: { primary: 'snorkeling in catamarano' }, es: { primary: 'snorkel en catamaran' },
+    fr: { primary: 'snorkeling en catamaran' }, sk: { primary: 'snorkelovanie z katamaranu' },
+  } },
+  { id: 'fitness-ww', set: 'global', page: { collection: 'activities', slug: 'functional-training' }, loc: {
+    en: { primary: 'fitness sailing holiday', vol: 70, kd: 'Low', spokes: ['functional training retreat', 'tabata beach workout', 'wellness fitness catamaran'] },
+    it: { primary: 'vacanza fitness in barca a vela' }, es: { primary: 'vacaciones fitness en velero' },
+    fr: { primary: 'séjour fitness en voilier' }, sk: { primary: 'fitness plavba' },
+  } },
+  { id: 'cooking-ww', set: 'global', page: { collection: 'activities', slug: 'cooking-class' }, loc: {
+    en: { primary: 'cooking class on a sailboat', vol: 50, kd: 'Extremely Low', spokes: ['catamaran cooking experience', 'fresh fish ceviche sailing'] },
+    it: { primary: 'corso di cucina in barca' }, es: { primary: 'clase de cocina en velero' },
+    fr: { primary: 'cours de cuisine en voilier' }, sk: { primary: 'varenie na lodi' },
+  } },
   { id: 'kite-ww', set: 'global', page: { collection: 'activities', slug: 'kitesurf' }, loc: {
     en: { primary: 'kite cruise', vol: 210, kd: 'Low-Med', spokes: ['kitesurf catamaran cruise', 'kite cruise caribbean', 'kitesurfing liveaboard', 'kite safari', 'downwind kite cruise'] },
     it: { primary: 'crociera kitesurf', spokes: ['crociera kite mar rosso', 'kitesurf in catamarano'] },
@@ -132,6 +152,26 @@ export const KEYWORDS: Keyword[] = [
     en: { primary: 'meditation retreat san blas islands', kd: 'Extremely Low', spokes: ['mindfulness retreat caribbean', 'breathwork meditation sailing panama'] },
     it: { primary: 'ritiro meditazione barca a vela panama' }, es: { primary: 'retiro meditacion islas san blas' },
     fr: { primary: 'meditation retraite san blas' }, sk: { primary: 'meditacny retreat san blas ostrovy' },
+  } },
+  { id: 'sanblas-snorkel', set: 'san-blas', page: { collection: 'landings', slug: 'snorkelling' }, loc: {
+    en: { primary: 'snorkelling san blas panama', vol: 480, kd: 'Low', spokes: ['snorkeling san blas islands', 'best snorkeling san blas', 'san blas snorkel catamaran'] },
+    it: { primary: 'snorkeling san blas panama' }, es: { primary: 'snorkel san blas panama', vol: 590, kd: 'Low' },
+    fr: { primary: 'snorkeling san blas panama' }, sk: { primary: 'snorkelovanie san blas' },
+  } },
+  { id: 'sanblas-sailing', set: 'san-blas', page: { collection: 'landings', slug: 'sailing-training' }, loc: {
+    en: { primary: 'learn to sail san blas', vol: 70, kd: 'Low', spokes: ['sailing course panama', 'rya sailing san blas', 'catamaran sailing lessons panama'] },
+    it: { primary: 'corso di vela san blas' }, es: { primary: 'curso de vela san blas panama' },
+    fr: { primary: 'cours de voile san blas' }, sk: { primary: 'kurz jachtingu san blas' },
+  } },
+  { id: 'sanblas-fitness', set: 'san-blas', page: { collection: 'landings', slug: 'functional-training' }, loc: {
+    en: { primary: 'fitness training san blas', kd: 'Extremely Low', spokes: ['tabata training catamaran panama', 'training camp san blas'] },
+    it: { primary: 'allenamento funzionale san blas' }, es: { primary: 'entrenamiento funcional san blas' },
+    fr: { primary: 'entraînement fonctionnel san blas' }, sk: { primary: 'funkcny trening san blas' },
+  } },
+  { id: 'sanblas-cooking', set: 'san-blas', page: { collection: 'landings', slug: 'cooking-class' }, loc: {
+    en: { primary: 'cooking class san blas', kd: 'Extremely Low', spokes: ['ceviche cooking class panama', 'catamaran cooking san blas'] },
+    it: { primary: 'corso di cucina san blas' }, es: { primary: 'clase de cocina san blas' },
+    fr: { primary: 'cours de cuisine san blas' }, sk: { primary: 'kurz varenia san blas' },
   } },
   { id: 'sanblas-ikigai-exp', set: 'san-blas', page: { collection: 'trips', slug: 'ikigai-experience' }, loc: {
     en: { primary: 'yoga freediving catamaran san blas', vol: 110, kd: 'Very Low', spokes: ['san blas yoga freediving retreat', 'mindful catamaran sailing san blas', 'freediving and yoga cruise panama', 'catamaran wellness retreat san blas', 'breathwork and sailing panama'] },

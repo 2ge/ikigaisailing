@@ -1,14 +1,14 @@
 ---
 title: Šnorchlovanie
 summary: >-
-  Maska, plutvy a pokojné teplé more, do ktorého vidíte až na dno. Útesy,
-  rejnoky a ryby na ostrovoch, kam sa žiadny jednodňový výlet nedostane – žiadny
-  certifikát, žiadna fľaša, stačí sa len ponoriť.
-seoTitle: Šnorchlovanie v San Blase v Paname z katamaránu | Ikigai
+  Maska, plutvy a teplé more, do ktorého vidíte až na dno. Útesy, rejnoky a ryby
+  na miestach, kam sa žiadny jednodňový výlet nedostane – bez certifikátu, bez
+  fľaše, stačí sa len ponoriť.
+seoTitle: Šnorchlovanie z katamaránu | Ikigai Sailing
 metaDescription: >-
-  Šnorchlujte na útesoch v San Blase v Paname z katamaránu Catana 47 – teplá,
-  priezračná voda v oblasti Guna Yala, výstroj na palube, kotviská, kam sa bežné
-  jednodňové výlety nedostanú. Rezervujte si kajutu spolu s posádkou.
+  Šnorchlujte priamo z katamaránu Catana 47 – teplá, priezračná voda, výstroj na
+  palube, útesy a morské živočíchy v kotviskách, kam sa bežné jednodňové výlety
+  nedostanú. Skúsenosti nie sú potrebné.
 locale: sk
 category: watersports
 image: ~/assets/activities/diving/manta.jpg
@@ -22,18 +22,18 @@ facts:
   - label: Výbava
     value: 'Masky, šnorchle a plutvy na palube'
   - label: Voda
-    value: 'Teplá (cca 28 °C), čistá, plytká'
+    value: 'Teplá, čistá, často plytká'
   - label: Čo uvidíte
-    value: 'Útesy, rejnoky, žraloky ošetrovateľské, útesové ryby, korytnačky'
+    value: 'Útesy, rejnoky, útesové žraloky, ryby, korytnačky'
 translated: deepl
-sourceHash: 96b060e567d9ff3a
+sourceHash: 27fde74feeab5874
 needsReview: true
 ---
 
 ## Stačí sa ponoriť
 
-Na šnorchlovanie v San Blase nepotrebujete nič viac ako masku, plutvy a odvahu ponoriť tvár do vody. Žiadna fľaša, žiadny certifikát, žiadny kurz. Lagúny sú teplé – okolo **28 °C** – plytké a dostatočne číre na to, aby ste z paluby videli piesok. Stačí vystúpiť z katamaránu a útes je hneď pri vás.
+Na šnorchlovanie nepotrebujete nič viac ako masku, plutvy a odvahu ponoriť tvár do vody. Žiadna fľaša, žiadny certifikát, žiadny kurz. Vybavenie máme so sebou a keďže _loď Ikigai_ kotví v čistej, chránenej vode, útes je zvyčajne hneď za zadným schodíkom – stačí vyplávať a ste tam.
 
 ## Útesy, kam sa nedostanú jednodňové výlety
 
-Keďže plávame podľa vlastného uváženia a kotvíme, kde sa nám páči, šnorchlujete na miestach, o ktoré sa jednodňové výlety nezaujímajú – koralové útesy, zrázy, pieskové lavice, kde plávajú rejnoky. Väčšinu dní ich nebudete s nikým zdieľať. Plávajte nad útesom, ktorý bol po stáročia opustený, sledujte, ako pod vami pláva žralok ošetrovateľ, a potom sa vráťte na palubu na obed. Je to najjednoduchšia brána do podmorského sveta a v San Blase sa otvára do jedného z najbohatších.
+Keďže plávame na lodi a kotvíme tam, kde sa nám páči, šnorchlujete na miestach, kam sa jednodňové výlety nikdy nezaoberajú – koralové útesy, zrázy, pieskové lavice, kde plávajú raje. Väčšinu dní ich nebudete s nikým zdieľať. Plávajte nad útesom, kde ste sami, sledujte korytnačku, ako sa pasie, alebo útesového žraloka, ako sa vznáša pod vami, a potom sa vráťte na palubu na obed. Je to najjednoduchší vstup do podmorského sveta.
