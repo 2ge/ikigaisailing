@@ -12,7 +12,7 @@
   "nav.faq": "Preguntas frecuentes",
   "nav.boat": "Catana 47",
   "nav.trips": "Opciones de embarque",
-  "nav.season": "Temporada 2025/26",
+  "nav.season": "San Blas",
   "nav.activities": "Actividades",
   "nav.liveaboard": "Liveaboard",
   "nav.blog": "Blog",
@@ -156,6 +156,6 @@
   "home.instagramTitle": "Lo último de Instagram",
   "home.instagramFollow": "Sigue a @ikigaisailing_asd",
   "home.instagramEmpty": "Publicamos desde el barco: las últimas fotos y vídeos, directamente desde San Blas. Síguenos en Instagram.",
-  "trip.perNight": "por noche",
-  "cart.nights": "noches"
+  "trip.perNight": "por día",
+  "cart.nights": "días"
 }

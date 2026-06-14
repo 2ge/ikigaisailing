@@ -2,14 +2,14 @@
 title: Expérience Ikigai
 description: >-
   Dix jours à bord de l'Ikigai dans l'archipel de San Blas : un concentré de vie
-  authentique, essentielle et régénérante : plongée en apnée, yoga, navigation
+  authentique, essentielle et revigorante : plongée en apnée, yoga, navigation
   tranquille et pratiques transformatrices avec nos moniteurs
   multidisciplinaires.
 seoTitle: 'Ikigai Experience — Catamaran à San Blas : location par cabine'
 metaDescription: >-
   Navigue dans l'archipel de San Blas, au Panama, à bord de l'Ikigai, en
-  location de cabine — plongée en apnée, yoga, navigation tranquille et
-  pratiques de développement personnel. À partir de 300 € par nuit, en tant que
+  location à la cabine : plongée en apnée, yoga, navigation tranquille et
+  pratiques de développement personnel. À partir de 300 € par jour, en tant que
   cotisant de l'ASD.
 locale: fr
 price: 300
@@ -33,12 +33,12 @@ gallery:
 order: 1
 perNight: true
 translated: deepl
-sourceHash: 9e7c926ae77181be
+sourceHash: 1ae80fbcdbd71509
 ---
 
 ## Introduction
 
-Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation, c’est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
+Toutes les activités proposées sont **vivement recommandées**, mais jamais obligatoires. L’invitation est de sortir de ta zone de confort, de tenter de nouvelles expériences et de renforcer ta discipline — tout en restant à l’écoute de ton corps et de ses besoins. Cette expérience est conçue pour t’aider à explorer l’équilibre entre **engagement et écoute**, entre **discipline et liberté**. Pas d’attentes, pas de performance — juste l’occasion de renouer avec toi-même, les autres et le rythme naturel de la vie.
 
 ## Programme quotidien Matin (env. 1h30)
 
@@ -194,4 +194,4 @@ _Remarque : les activités seront adaptées et reprogrammées en fonction des jo
 
 ### Jour 11 – Retour
 
-Un bateau Guna viendra te chercher et t'emmènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍
+Un bateau Guna viendra te chercher et te ramènera à l'aéroport ou à Panama City. **Le voyage continue en toi.** 🌍

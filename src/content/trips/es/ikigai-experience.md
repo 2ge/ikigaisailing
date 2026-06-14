@@ -7,8 +7,8 @@ description: >-
 seoTitle: Experiencia Ikigai — Catamarán en San Blas por camarote
 metaDescription: >-
   Navega por San Blas, Panamá, a bordo del Ikigai, alquilando un camarote: buceo
-  libre, yoga, navegación tranquila y prácticas transformadoras. Desde 300 € por
-  noche como cuota de socio de ASD.
+  libre, yoga, navegación tranquila y prácticas transformadoras. Desde 300 € al
+  día como cuota de socio de ASD.
 locale: es
 price: 300
 currency: EUR
@@ -31,7 +31,7 @@ gallery:
 order: 1
 perNight: true
 translated: deepl
-sourceHash: 9e7c926ae77181be
+sourceHash: 1ae80fbcdbd71509
 ---
 
 ## Introducción
@@ -67,7 +67,7 @@ Pescamos cuando podemos y preparamos platos creativos: **carpaccio, tartar, sash
 
 ## Nota importante
 
-El programa puede modificarse en función de:
+El programa puede sufrir modificaciones en función de:
 
 -   Las condiciones meteorológicas y del mar
 -   Factores logísticos
@@ -116,7 +116,7 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 -   10:00: Navegación hacia los Cayos Holandeses Occidentales
 -   12:00–14:00: Snorkel
 -   14:00: Almuerzo
--   17:30: Rutina de la tarde
+-   17:30: Rutina vespertina
 -   19:00: Teoría del buceo libre (respiración, compensación, seguridad)
 -   20:30: Cena y observación de la vida marina bajo las luces del barco
 
@@ -192,4 +192,4 @@ _Nota: las actividades se reducirán y reprogramarán en función de los días r
 
 ### Día 11 – Regreso
 
-Un barco de los Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** 🌍
+Un barco Guna te recogerá y te llevará de vuelta al aeropuerto o a la ciudad de Panamá. **El viaje continúa dentro de ti.** 🌍

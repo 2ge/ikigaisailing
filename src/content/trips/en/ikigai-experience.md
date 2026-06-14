@@ -7,7 +7,7 @@ description: >-
 seoTitle: Ikigai Experience — San Blas Catamaran by the Cabin
 metaDescription: >-
   Sail San Blas, Panama aboard Ikigai by the cabin — freediving, yoga, slow
-  sailing and transformative practices. From €300 per night as an ASD member
+  sailing and transformative practices. From €300 per day as an ASD member
   contribution.
 locale: en
 price: 300
