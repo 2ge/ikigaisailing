@@ -8,6 +8,8 @@
  * helpers (i18n/ui.ts) and the routing/resolution layer (lib/routes.ts) without
  * a circular dependency.
  */
+import BLOG_SLUGS from './blog-slugs';
+
 export const LOCALES = ['en', 'it', 'es', 'fr', 'sk'] as const;
 export type Loc = (typeof LOCALES)[number];
 export const DEFAULT_LOCALE: Loc = 'en';
@@ -113,7 +115,7 @@ export const ITEM_SLUGS: Record<string, Record<string, Partial<Record<Loc, strin
     'one-month': { it: 'un-mese', es: 'un-mes', fr: 'un-mois', sk: 'jeden-mesiac' },
     // ikigai-experience, pacific-crossing → kept (brand)
   },
-  blog: {}, // migrated in a second pass
+  blog: BLOG_SLUGS as Record<string, Partial<Record<Loc, string>>>, // generated from localized titles
 };
 
 /** Section roots whose items are localized (canonical root name === collection). */

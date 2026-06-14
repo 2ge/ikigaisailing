@@ -75,7 +75,7 @@ for (const collection of ['pages', 'trips', 'activities', 'blog']) {
 // slug (/it/attivita/apnea/). add() skips unchanged slugs (brand/proper nouns).
 for (const loc of LOCS) {
   if (loc === 'en') continue;
-  for (const collection of ['activities', 'trips']) {
+  for (const collection of ['activities', 'trips', 'blog']) {
     const dir = join(CONTENT, collection, loc);
     if (!existsSync(dir)) continue;
     for (const file of readdirSync(dir).filter((f) => f.endsWith('.md'))) {
