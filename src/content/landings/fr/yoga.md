@@ -6,9 +6,9 @@ description: >-
   Yala.
 seoTitle: 'Yoga sur un catamaran à San Blas, au Panama | Ikigai Sailing'
 metaDescription: >-
-  Séance quotidienne de yoga et d'exercices de respiration à bord d'un catamaran
-  Catana 47 à San Blas, au Panama. Petit groupe, eaux chaudes des Caraïbes,
-  navigation tranquille entre les îles de Guna Yala — réservation par cabine.
+  Séance de yoga quotidienne à bord d'un Catana 47 à San Blas, au Panama —
+  pratique sur le pont avant, au mouillage, au milieu des îles de Guna Yala.
+  Petit groupe, réservation par cabine.
 locale: fr
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 gallery:
@@ -46,16 +46,16 @@ faq:
       est à l'ancre. On s'occupe de tout organiser pour le transfert — il suffit
       de nous envoyer ton heure d'arrivée.
 translated: deepl
-sourceHash: a5aa3a28a5c286ef
+sourceHash: 182de71f2ced384a
 ---
 
 ## À quoi ça ressemble vraiment de faire du yoga à bord
 
-Tu vis à bord de **l’Ikigai**, notre **Catana 47**. La journée commence par du yoga et des exercices de respiration sur le pont avant — et c’est grâce au bateau que ça marche. Un catamaran reste stable. Deux coques, pas de gîte, un large trampoline qui ne te fait pas basculer hors de la posture du guerrier à chaque fois qu’un sillage passe. Essaie la même séquence sur un monocoque et tu passeras la moitié du temps à te stabiliser. Après la séance, tu te retrouves dans l'eau : à nager, à faire de la plongée en apnée, ou à ne rien faire du tout. La journée s'organise au gré de la lumière et du vent, pas selon le carnet de rendez-vous d'un spa.
+Tu vis à bord de **l’Ikigai**, notre **Catana 47**. La journée commence par du yoga et des exercices de respiration sur le pont avant — et c’est grâce au bateau que ça marche. Un catamaran reste stable. Deux coques, pas de gîte, un large trampoline qui ne te fait pas basculer hors de la posture du guerrier à chaque fois qu’un sillage passe. Essaie la même séquence sur un monocoque et tu passeras la moitié du temps à te stabiliser. Après la séance, tu es dans l'eau : à nager, à faire de la plongée en apnée, ou à ne rien faire du tout. La journée s'organise au gré de la lumière et du vent, pas selon le carnet de rendez-vous d'un spa.
 
 ## Ce qui est inclus à bord
 
-Tu réserves une couchette, près de la cabine — pas de groupe à former, pas de bateau entier à remplir. La semaine te propose une couchette à bord d’un Catana 47, du yoga et des exercices de respiration tous les matins, tous les repas préparés à bord à partir de poissons fraîchement pêchés et des produits des îles, du matériel de plongée avec tuba et d’apnée, ainsi qu’une navigation tranquille entre les mouillages de San Blas avec un équipage certifié RYA Yachtmaster et AIDA / Apnea Total. Ce que tu paies, c'est une **cotisation à Ikigai Sailing ASD**, une association à but non lucratif reconnue par le CONI et affiliée à MSP Italia — ce n'est pas un tarif commercial. C'est la raison pour laquelle une semaine ici ne coûte qu'une fraction du prix d'une croisière organisée par une agence : ton argent couvre l'expérience et le fonctionnement du bateau, pas la commission d'un intermédiaire.
+Tu réserves une couchette, près de la cabine — pas de groupe à former, pas de bateau entier à remplir. La semaine te propose une couchette à bord d’un Catana 47, du yoga et des exercices de respiration tous les matins, tous les repas préparés à bord à partir de poissons fraîchement pêchés et des produits des îles, du matériel de plongée avec tuba et en apnée, ainsi qu’une navigation tranquille entre les mouillages de San Blas avec un équipage certifié RYA Yachtmaster et AIDA / Apnea Total. Ce que tu paies, c'est une **cotisation à Ikigai Sailing ASD**, une association à but non lucratif reconnue par le CONI et affiliée à MSP Italia — ce n'est pas un tarif commercial. C'est la raison pour laquelle une semaine ici ne coûte qu'une fraction du prix d'une croisière organisée par une agence : ton argent couvre l'expérience et le fonctionnement du bateau, pas la commission d'un intermédiaire.
 
 ## Pourquoi ici, et pas à Bali ou en Croatie
 
@@ -63,4 +63,4 @@ Les itinéraires de yoga et de voile les plus connus sont la Méditerranée et l
 
 ## Qui monte à bord
 
-Des débutants et des pratiquants depuis vingt ans. Des voyageurs en solo, des couples, quelques personnes plus proches du burn-out qu’elles ne veulent bien l’admettre. On limite volontairement la taille du groupe — une pratique que tu peux ressentir, pas un cours de trente personnes entassées sur un ponton.
+Des débutants et des pratiquants depuis vingt ans. Des voyageurs en solo, des couples, quelques personnes plus proches du burn-out qu’elles ne voudraient l’admettre. On limite volontairement la taille du groupe — une pratique que tu peux ressentir, pas un cours de trente personnes entassées sur un ponton.

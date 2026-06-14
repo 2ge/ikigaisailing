@@ -2,14 +2,13 @@
 title: 'Funkčný tréning v San Blas, Panama'
 description: >-
   Funkčný tréning metódou Tabata v San Blase v Paname — 20-sekundové intervaly
-  cvičenia a 10-sekundové prestávky s použitím posilňovacích pásov, TRX a
-  kettlebellov na palube lode Catana 47 alebo na opustenej pláži v Guna Yala.
-  Bez posilňovacích strojov.
-seoTitle: Funkčný tréning Tabata v San Blas — Katamarán | Ikigai
+  cvičenia a 10-sekundové prestávky s gumičkami, TRX a kettlebellmi na palube
+  lode Catana 47 alebo na opustenej pláži v Guna Yala. Žiadne stroje.
+seoTitle: Funkčný tréning Tabata v San Blase — Katamarán | Ikigai
 metaDescription: >-
   Funkčný tréning metódou Tabata v San Blase v Paname na palube lode Catana 47 –
   20 sekúnd cvičenia / 10 sekúnd oddychu s gumičkami, TRX a kettlebellmi, na
-  palube alebo na opustenej pláži. Bez posilňovne, bez strojov.
+  palube alebo na pláži. Bez posilňovne.
 locale: sk
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
@@ -31,18 +30,18 @@ faq:
       sila, ktorá sa zúročí pri freedivingu a plachtení.
   - q: Kde sa stretnutia konajú?
     a: >-
-      Na prednej palube katamaránu alebo na brehu na opustenej pláži v San
-      Blase, ak to kotvisko dovolí. Zvyčajne pri východe slnka, ešte predtým,
-      ako sa otepľuje.
+      Na prednej palube katamaránu alebo na brehu na opustenej pláži v San Blas,
+      ak to kotvisko dovolí. Zvyčajne pri východe slnka, ešte predtým, ako sa
+      deň poriadne rozohreje.
 translated: deepl
-sourceHash: d629865d983d3410
+sourceHash: 904dc67236e030cc
 needsReview: true
 ---
 
 ## Silné telo, žiadna posilňovňa, žiadne výhovorky
 
-V San Blase nie sú žiadne posilňovne – a ani vám nebudú chýbať. Cvičíme **štýlom Tabata**: 20 sekúnd cvičenia, 10 sekúnd odpočinku, osem kôl, niekoľko pohybov. Je to tých najúprimnejších dvadsať minút vášho dňa a budete sa po nich cítiť sviežejší, nie zničení. A potom je tu more, v ktorom sa môžete osviežiť.
+V San Blase nie sú žiadne posilňovne – a ani vám nebudú chýbať. Cvičíme **štýlom Tabata**: 20 sekúnd cvičenia, 10 sekúnd oddychu, osem kôl, niekoľko pohybov. Je to tých najúprimnejších dvadsať minút vášho dňa a zanechá vás to sviežejších, nie zničených. A potom je tu more, v ktorom sa môžete ochladiť.
 
 ## Ako vyzerá tréning
 
-Zariadime si priestor na prednej palube alebo vystúpime na prázdnu pláž s **odporovými pásmi, TRX a kettlebellmi** – drepy, tlaky, veslovanie, nosenie, posilňovanie stredu tela, prispôsobené každému, kto sa zúčastní. Vytvára to druh použiteľnej sily, ktorá sa oplatí v momente, keď ťaháte za halyard alebo sa potápaš na jeden dych. Žiadne členstvo, žiadne stroje, len vy, výbava a ostrovy.
+Zariadime si priestor na prednej palube alebo vystúpime na prázdnu pláž s **odporovými pásmi, TRX a kettlebellmi** – drepy, tlaky, veslovanie, nosenie, posilňovanie stredu tela, prispôsobené každému, kto sa zúčastní. Vytvára to druh použiteľnej sily, ktorá sa oplatí v momente, keď ťaháte za laná alebo sa potápaš na jeden dych. Žiadne členstvo, žiadne stroje, len vy, výbava a ostrovy.

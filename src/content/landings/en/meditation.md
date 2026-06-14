@@ -1,24 +1,46 @@
 ---
-title: "Meditation Aboard in the San Blas Islands"
-description: "Meditation and breathwork aboard a Catana 47 catamaran in the San Blas islands, Panama — part of daily life at anchor in Guna Yala, no signal, no schedule."
-seoTitle: "Meditation Aboard in the San Blas Islands | Ikigai Sailing"
-metaDescription: "Meditation and breathwork aboard a Catana 47 catamaran in the San Blas islands, Panama. No wifi, no itinerary — sit at anchor in Guna Yala, book per cabin with the crew."
-locale: "en"
-heroImage: "~/assets/activities/meditation/meditazione4.jpg"
+title: Meditation Aboard in the San Blas Islands
+description: >-
+  Meditation and breathwork aboard a Catana 47 catamaran in the San Blas
+  islands, Panama — part of daily life at anchor in Guna Yala, no signal, no
+  schedule.
+seoTitle: Meditation Aboard in the San Blas Islands | Ikigai Sailing
+metaDescription: >-
+  Meditation and breathwork in the San Blas islands, Panama aboard a Catana 47 —
+  no signal, no schedule, at anchor in Guna Yala. Book per cabin.
+locale: en
+heroImage: ~/assets/activities/meditation/meditazione4.jpg
 gallery:
-  - "~/assets/trips/ikigai-experience/meditation-2.webp"
-  - "~/assets/activities/meditation/meditazione2-copia-2.webp"
-  - "~/assets/activities/project/meditazione1.jpg"
-lead: "Meditation in the San Blas islands strips away the things you usually meditate to escape. No signal out here, no schedule, no city pressing in. Just a Catana 47 at anchor, water flat to the horizon, and the kind of quiet most places can only promise. You sit, you breathe, the islands do the rest."
+  - ~/assets/trips/ikigai-experience/meditation-2.webp
+  - ~/assets/activities/meditation/meditazione2-copia-2.webp
+  - ~/assets/activities/project/meditazione1.jpg
+lead: >-
+  Meditation in the San Blas islands strips away the things you usually meditate
+  to escape. No signal out here, no schedule, no city pressing in. Just a Catana
+  47 at anchor, water flat to the horizon, and the kind of quiet most places can
+  only promise. You sit, you breathe, the islands do the rest.
 faq:
-  - q: "What does meditation in San Blas cost?"
-    a: "You book by the cabin, and what you pay is a member contribution to our non-profit ASD — not a charter fee. That keeps it well under agency prices. For the season's rates and open dates, see the season page or message us on WhatsApp."
-  - q: "Do I need a meditation practice already?"
-    a: "No. There's no technique to get right and nothing to keep up with. Most days the setting does the work — you sit, you breathe, you stop checking the time. Guided breathwork is there if you want it."
-  - q: "Is there really no wifi?"
-    a: "Effectively none. San Blas has no cell towers worth the name, and that's the point. A few hours into the first day the urge to reach for your phone fades, and that's usually when it actually begins."
-  - q: "When is the San Blas season?"
-    a: "We're anchored in San Blas from December 2025 to June 2026. After that the boat sails on, and the same per-cabin practice travels with it to wherever Ikigai heads next."
+  - q: What does meditation in San Blas cost?
+    a: >-
+      You book by the cabin, and what you pay is a member contribution to our
+      non-profit ASD — not a charter fee. That keeps it well under agency
+      prices. For the season's rates and open dates, see the season page or
+      message us on WhatsApp.
+  - q: Do I need a meditation practice already?
+    a: >-
+      No. There's no technique to get right and nothing to keep up with. Most
+      days the setting does the work — you sit, you breathe, you stop checking
+      the time. Guided breathwork is there if you want it.
+  - q: Is there really no wifi?
+    a: >-
+      Effectively none. San Blas has no cell towers worth the name, and that's
+      the point. A few hours into the first day the urge to reach for your phone
+      fades, and that's usually when it actually begins.
+  - q: When is the San Blas season?
+    a: >-
+      We're anchored in San Blas from December 2025 to June 2026. After that the
+      boat sails on, and the same per-cabin practice travels with it to wherever
+      Ikigai heads next.
 ---
 
 ## What meditation at anchor feels like

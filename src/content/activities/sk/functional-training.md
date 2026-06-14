@@ -4,11 +4,11 @@ summary: >-
   Krátke, intenzívne tréningy metódou Tabata na palube alebo na pláži – 20
   sekúnd cvičenia, 10 sekúnd oddychu – s posilňovacími pásmi, TRX, kettlebellmi
   a vlastnou telesnou hmotnosťou. Bez strojov, bez posilňovne.
-seoTitle: Funkčný tréning metódou Tabata na katamaráne | Ikigai Sailing
+seoTitle: Funkčný tréning Tabata na katamaráne | Ikigai Sailing
 metaDescription: >-
-  Funkčný tréning s minimom vybavenia na palube lode Catana 47 — intervaly
-  Tabata (20 sekúnd cvičenia / 10 sekúnd oddychu) s odporovými pásmi, TRX a
-  kettlebellmi. Silné telo na mori, bez posilňovne.
+  Funkčný tréning metódou Tabata na palube lode Catana 47 – 20 sekúnd cvičenia /
+  10 sekúnd oddychu s odporovými pásmi, TRX a kettlebellmi. Silné telo na mori,
+  bez posilňovne, bez strojov.
 locale: sk
 category: fitness
 image: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
@@ -23,13 +23,13 @@ facts:
   - label: Úroveň
     value: Vhodné pre všetky úrovne kondície – vítaní sú aj úplní začiatočníci
 translated: deepl
-sourceHash: f3b8d04ff97d0f39
+sourceHash: 85eaf39b9b5157b0
 needsReview: true
 ---
 
 ## Silné telo bez posilňovne
 
-Na to, aby ste zostali silní na mori, nepotrebujete steny plné strojov – stačí vám vaša vlastná váha, pár jednoduchých pomôcok a správne intervaly. Trénujeme **štýlom Tabata**: 20 sekúnd cvičenia, 10 sekúnd odpočinku, osem kôl, opakovaných v rámci niekoľkých pohybov. Je to krátke, úprimné a zanechá vás sviežejších, než by to kedy dokázala hodina namáhavého cvičenia.
+Na to, aby ste zostali silní na mori, nepotrebujete steny plné strojov – stačí vám vaša vlastná váha, pár jednoduchých pomôcok a správne intervaly. Trénujeme **štýlom Tabata**: 20 sekúnd cvičenia, 10 sekúnd odpočinku, osem kôl, opakovaných v niekoľkých pohyboch. Je to krátke, úprimné a zanechá vás sviežejších, ako by to kedy dokázala hodina namáhavého cvičenia.
 
 ## Ako vyzerá tréning
 

@@ -1,37 +1,46 @@
 ---
-title: "KiteSurf"
-summary: "Kitesurfing is much more than a sport: it is a true celebration of freedom, energy, and a deep connection with nature."
-seoTitle: "San Blas Kitesurfing by Catamaran | Ikigai"
-metaDescription: "Kitesurf the flat, empty lagoons of San Blas from our Catana 47 — gear and boards aboard, steady Caribbean trade winds, and a launch straight off the boat."
-locale: "en"
-category: "watersports"
-image: "~/assets/activities/project/kitesurf.jpg"
+title: KiteSurf
+summary: >-
+  Kitesurfing is much more than a sport: it is a true celebration of freedom,
+  energy, and a deep connection with nature.
+seoTitle: Kitesurf Cruise by Catamaran | Ikigai Sailing
+metaDescription: >-
+  Kitesurf flat, empty lagoons from a Catana 47 — gear and boards aboard, steady
+  trade winds, a launch off the boat. Downwind cruising, per cabin.
+locale: en
+category: watersports
+image: ~/assets/activities/project/kitesurf.jpg
 gallery:
-  - "~/assets/activities/kitesurf/45BD03F1-B5A4-4B49-87B9-27F98AC5D9CE_1_102_o.jpeg"
-  - "~/assets/activities/kitesurf/5DB21C1A-C182-49E2-BB6C-E184A8335DE5_1_105_c.jpeg"
-  - "~/assets/activities/kitesurf/607126B4-4AAA-4B00-AE7D-54E0BD5087E4_1_102_o.jpeg"
-  - "~/assets/activities/kitesurf/82E5E3B4-E945-4E26-8D5A-FE72C45FAF73_1_102_o.jpeg"
-  - "~/assets/activities/kitesurf/PHOTO_20230117_120716-scaled.jpg"
-  - "~/assets/activities/kitesurf/kite-surf.jpg"
-  - "~/assets/activities/kitesurf/kite-surf1.jpg"
-  - "~/assets/activities/kitesurf/kite-surf2.jpg"
-  - "~/assets/activities/kitesurf/kite-surf7.jpg"
-  - "~/assets/activities/kitesurf/kite-surf8.jpg"
-  - "~/assets/activities/kitesurf/kite-surf9.jpg"
-  - "~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png"
+  - >-
+    ~/assets/activities/kitesurf/45BD03F1-B5A4-4B49-87B9-27F98AC5D9CE_1_102_o.jpeg
+  - >-
+    ~/assets/activities/kitesurf/5DB21C1A-C182-49E2-BB6C-E184A8335DE5_1_105_c.jpeg
+  - >-
+    ~/assets/activities/kitesurf/607126B4-4AAA-4B00-AE7D-54E0BD5087E4_1_102_o.jpeg
+  - >-
+    ~/assets/activities/kitesurf/82E5E3B4-E945-4E26-8D5A-FE72C45FAF73_1_102_o.jpeg
+  - ~/assets/activities/kitesurf/PHOTO_20230117_120716-scaled.jpg
+  - ~/assets/activities/kitesurf/kite-surf.jpg
+  - ~/assets/activities/kitesurf/kite-surf1.jpg
+  - ~/assets/activities/kitesurf/kite-surf2.jpg
+  - ~/assets/activities/kitesurf/kite-surf7.jpg
+  - ~/assets/activities/kitesurf/kite-surf8.jpg
+  - ~/assets/activities/kitesurf/kite-surf9.jpg
+  - ~/assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png
 order: 5
 oldUrls:
-  - "/project/kite-surf-3/"
+  - /project/kite-surf-3/
 facts:
-  - label: "Level"
-    value: "Suitable for beginners and advanced"
-  - label: "Session duration"
-    value: "1-3 hours"
-  - label: "Location"
-    value: "The best beaches with constant and safe winds"
-  - label: "Equipment"
-    value: "Equipment rental available on board"
+  - label: Level
+    value: Suitable for beginners and advanced
+  - label: Session duration
+    value: 1-3 hours
+  - label: Location
+    value: The best beaches with constant and safe winds
+  - label: Equipment
+    value: Equipment rental available on board
 ---
+
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
 Ride the waves and let the wind carry you

@@ -7,10 +7,9 @@ description: >-
   bordo, no se necesita experiencia.
 seoTitle: 'Snorkel en San Blas, Panamá, desde un catamarán | Ikigai'
 metaDescription: >-
-  Haz snorkel en los arrecifes de San Blas, Panamá, a bordo de un Catana 47: las
-  aguas cálidas y cristalinas de Guna Yala, el equipo a bordo y fondeaderos a
-  los que no llegan las excursiones de un día. No se necesita experiencia;
-  reserva por camarote.
+  Haz snorkel en los arrecifes de San Blas, Panamá, a bordo de un Catana 47:
+  aguas cálidas y cristalinas de Guna Yala, equipo a bordo y fondeaderos a los
+  que no llegan las excursiones de un día. No se necesita experiencia.
 locale: es
 heroImage: ~/assets/activities/diving/manta.jpg
 gallery:
@@ -36,21 +35,20 @@ faq:
       hay mucha más vida que en un arrecife turístico muy concurrido.
   - q: ¿Cuál es el mejor sitio para hacer snorkel en San Blas?
     a: >-
-      Algunos de los mejores lugares están en los cayos exteriores —Cayos
-      Holandeses, Cayos Limones y Cayos Coco Bandero—, donde se encuentran el
-      arrecife y los bancos de arena con estrellas de mar. Como vamos en barco,
-      echamos el ancla justo ahí y hacemos snorkel antes de que lleguen los
-      barcos de excursión.
+      Lo mejor se encuentra en los cayos más alejados —Cayos Holandeses, Cayos
+      Limones y Cayos Coco Bandero—, donde están el arrecife y los bancos de
+      arena con estrellas de mar. Como navegamos a vela, echamos el ancla justo
+      al lado y hacemos snorkel antes de que lleguen los barcos de excursión.
   - q: >-
       ¿Por qué hacer snorkel desde un catamarán en lugar de una excursión de un
       día?
     a: >-
-      Porque echamos el ancla donde los barcos de excursión de un día no llegan:
-      entre formaciones de coral y bancos de arena frente a islas deshabitadas.
-      Puedes hacer snorkel cuando te apetezca, normalmente con todo el arrecife
-      para ti solo, y luego subir a bordo para comer.
+      Porque fondeamos donde los barcos de excursión no llegan: entre
+      formaciones de coral y bancos de arena frente a islas deshabitadas. Puedes
+      hacer snorkel cuando te apetezca, normalmente con todo el arrecife para ti
+      solo, y luego subir a bordo para comer.
 translated: deepl
-sourceHash: 727b8d4a28ba93b1
+sourceHash: 2018affbf5b0d216
 ---
 
 ## Solo tienes que meterte en el agua
@@ -59,4 +57,4 @@ Hacer snorkel en San Blas no te exige casi nada. Sin botella, sin certificación
 
 ## Arrecifes a los que no llegan las excursiones de un día
 
-Navegar en el velero significa que fondeamos donde nos apetece: los cayos más alejados a los que los barcos de excursión de un día rara vez llegan: **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero** y los bancos de arena donde se reúnen las estrellas de mar. Flota sobre un arrecife que ha permanecido intacto durante siglos, observa cómo una raya se desliza por la arena, un tiburón nodriza pasa por debajo, una langosta se refugia en una repisa, y luego nada de vuelta a casa para almorzar. La mayoría de los días, las únicas personas que hay por ahí son aquellas con las que has navegado.
+Navegar en el velero significa que fondeamos donde nos apetece: los cayos más alejados a los que los barcos de excursión de un día rara vez llegan: **Cayos Holandeses, Cayos Limones, Cayos Coco Bandero** y los bancos de arena donde se reúnen las estrellas de mar. Flota sobre un arrecife que ha permanecido intacto durante siglos, observa cómo una raya se desliza por la arena, un tiburón nodriza pasa por debajo, una langosta se refugia en una repisa, y luego nada de vuelta para almorzar. La mayoría de los días, las únicas personas que hay por allí son aquellas con las que has navegado.

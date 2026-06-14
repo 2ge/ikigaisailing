@@ -4,11 +4,11 @@ summary: >-
   El buceo en apnea no es solo un deporte: puede ser un auténtico camino hacia
   el autodescubrimiento, una oportunidad para hacer una pausa, respirar y
   escucharte a ti mismo.
-seoTitle: 'Charter de buceo libre en San Blas, Panamá | Ikigai'
+seoTitle: Liveaboard de buceo libre en catamarán | Ikigai Sailing
 metaDescription: >-
-  Aprende buceo en apnea a bordo de nuestro Catana 47 en San Blas, Panamá, con
-  patrones certificados por AIDA y Apnea Total. Reserva un camarote directamente
-  con la tripulación para disfrutar de aguas cálidas y cristalinas.
+  Practica buceo libre a bordo de un Catana 47 con patrones certificados por
+  AIDA y Apnea Total: aguas cálidas y cristalinas, y un sistema de seguridad
+  «uno arriba, uno abajo». Reserva por camarote.
 locale: es
 category: watersports
 image: ~/assets/activities/project/Apnea.jpg
@@ -31,13 +31,13 @@ facts:
   - label: Profesores
     value: Certificado por AIDA y Apnea Total
 translated: deepl
-sourceHash: 5dd2c40c6a4c4677
+sourceHash: 70a758623ab8c321
 ---
 
 ## Sumérgete en el poder de la respiración
 
-El buceo libre no es solo un deporte, puede ser un auténtico camino hacia el autodescubrimiento, una excusa para parar, respirar y escucharte a ti mismo. A medida que te adentras en esta disciplina, tendrás la oportunidad de aprender a calmar la mente (que por sí sola consume casi el 40 % del oxígeno que necesitamos, ¡pero cuando estamos estresados, mucho más!) y a respirar correctamente (de media, un ser humano solo utiliza entre el 30 y el 50 % de su capacidad pulmonar). Estas prácticas no solo mejorarán tu rendimiento en el agua, permitiéndote experimentar las intensas sensaciones que puede ofrecer una inmersión relajante, sino que también establecerán un nivel más profundo de conexión contigo mismo y con el mar. Una vez que hayas adquirido estas habilidades, podrás aplicarlas durante tus viajes para explorar las hermosas maravillas marinas en las que a menudo nos sumergimos. Nadar entre peces de colores y fascinantes fondos marinos con una sola respiración se convertirá en una experiencia inolvidable, enriquecida por la conciencia y la técnica que hayas adquirido. Entrenar y practicar el buceo libre en un catamarán ofrece una experiencia única en términos de seguridad y comodidad. Podrás disfrutar de la belleza del mar y sus criaturas mientras entrenas en un entorno tranquilo y acogedor. Únete a nosotros para embarcarte en este extraordinario viaje, donde el buceo libre ofrece no solo la oportunidad de explorar el mundo submarino, sino también de profundizar en tu conexión contigo mismo y con la naturaleza.
+El buceo libre no es solo un deporte, puede ser un auténtico camino hacia el autodescubrimiento, una excusa para parar, respirar y escucharte a ti mismo. A medida que te adentras en esta disciplina, tendrás la oportunidad de aprender a calmar la mente (que por sí sola consume casi el 40 % del oxígeno que necesitamos, ¡pero cuando estamos estresados, mucho más!) y a respirar correctamente (de media, un ser humano solo utiliza entre el 30 y el 50 % de su capacidad pulmonar). Estas prácticas no solo mejorarán tu rendimiento en el agua, permitiéndote experimentar las intensas sensaciones que puede ofrecer una inmersión relajante, sino que también establecerán un nivel más profundo de conexión contigo mismo y con el mar. Una vez que hayas adquirido estas habilidades, podrás aplicarlas durante tus viajes para explorar las hermosas maravillas marinas en las que a menudo nos sumergimos. Nadar entre peces de colores y fascinantes fondos marinos con una sola respiración se convertirá en una experiencia inolvidable, enriquecida por la conciencia y la técnica que hayas adquirido. Entrenar y practicar el buceo libre en un catamarán ofrece una experiencia única en términos de seguridad y comodidad. Podrás disfrutar de la belleza del mar y sus criaturas mientras entrenas en un entorno tranquilo y acogedor. Únete a nosotros para embarcarte en este extraordinario viaje, donde el buceo libre ofrece no solo la oportunidad de explorar el mundo submarino, sino también de profundizar tu conexión contigo mismo y con la naturaleza.
 
 ## Beneficios
 
-Descubre cómo el buceo libre fortalece el cuerpo, calma la mente y mejora la conciencia. Esa misma relación tranquila con la respiración y el agua se traslada directamente al [Janzu](/es/actividades/janzu/), la terapia corporal acuática que practicamos a bordo.
+Descubre cómo el buceo libre fortalece el cuerpo, calma la mente y mejora la conciencia. Esa misma relación tranquila con la respiración y el agua se traslada directamente al [Janzu](/es/actividades/janzu/), el trabajo corporal acuático que practicamos a bordo.

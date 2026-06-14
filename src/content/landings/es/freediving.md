@@ -1,16 +1,20 @@
 ---
 title: 'Buceo en apnea en San Blas, Panamá'
 description: >-
-  Alquiler de catamarán para buceo libre en San Blas, Panamá: practica el buceo
-  libre con patrones certificados por AIDA y Apnea Total a bordo de un Catana
-  47, en las cálidas y cristalinas aguas de Guna Yala.
+  Alquiler de catamaranes para buceo libre en San Blas, Panamá: practica el
+  buceo libre con patrones certificados por AIDA y Apnea Total a bordo de un
+  Catana 47, en las cálidas y cristalinas aguas de Guna Yala.
 seoTitle: 'Buceo libre en San Blas, Panamá — Catamarán | Ikigai'
 metaDescription: >-
-  Entrenamiento de buceo libre en San Blas, Panamá, a bordo de nuestro catamarán
-  Catana 47. Patrones con certificación AIDA y Apnea Total, aguas tranquilas y
-  cristalinas del Caribe, reserva por camarote directamente con la tripulación.
+  Buceo en apnea en San Blas, Panamá, a bordo de un Catana 47: patrones con
+  certificación AIDA y Apnea Total, aguas tranquilas y cristalinas de Guna Yala,
+  reserva por camarote con la tripulación.
 locale: es
 heroImage: ~/assets/activities/freediving/apnea2.jpg
+gallery:
+  - ~/assets/activities/freediving/apnea1.jpg
+  - ~/assets/activities/freediving/apnea4.jpg
+  - ~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg
 lead: >-
   Hacer buceo libre en San Blas, Panamá, significa lanzarse desde la popa de un
   Catana 47 a unas aguas en las que se ve el fondo, lo suficientemente cálidas
@@ -22,9 +26,9 @@ faq:
     a: >-
       No. Entrenamos a personas que nunca han aguantado la respiración más de
       unos segundos, y contamos con las certificaciones necesarias para llevar a
-      los apneístas experimentados a mayor profundidad. En cada inmersión se
+      los apneístas experimentados a mayores profundidades. En cada inmersión se
       aplica un sistema de compañeros en el que uno sube y el otro baja.
-  - q: ¿Los instructores están realmente certificados?
+  - q: ¿Los instructores tienen realmente la titulación necesaria?
     a: >-
       Sí: AIDA y Apnea Total. Los mismos patrones son navegantes con el título
       de RYA Yachtmaster, así que la experiencia náutica también es auténtica.
@@ -43,20 +47,16 @@ faq:
       página de la temporada para ver las tarifas o envíanos un mensaje por
       WhatsApp.
 translated: deepl
-sourceHash: 728794303456aa2d
-gallery:
-  - ~/assets/activities/freediving/apnea1.jpg
-  - ~/assets/activities/freediving/apnea4.jpg
-  - ~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg
+sourceHash: 8670937c388788f9
 ---
 
 ## Por qué San Blas es el lugar ideal para el buceo en apnea
 
-365 islas, lagunas protegidas, agua a unos 28 °C, visibilidad hasta el fondo del mar. Aquí viene lo que los folletos no dicen: casi nadie ofrece cursos certificados de buceo libre en San Blas. Los arrecifes están vírgenes porque nadie bucea en ellos. Desde **el Ikigai**, nuestro **Catana 47**, te olvidas del horario de los barcos de excursión: buceas cuando las condiciones lo permiten, en el lugar que elijas, y luego subes por la escalera y respiras. Sin tener que volver en un viaje de una hora a ningún sitio.
+365 islas, lagunas protegidas, agua a unos 28 °C, visibilidad hasta el fondo del mar. Y aquí viene lo que los folletos no dicen: casi nadie ofrece cursos certificados de buceo libre en San Blas. Los arrecifes están vírgenes porque nadie bucea en ellos. Desde **el Ikigai**, nuestro **Catana 47**, te libras del horario de los barcos de excursión: buceas cuando las condiciones lo permiten, en el lugar que elijas, y luego subes por la escalera y respiras. Sin tener que volver en un viaje de una hora a ningún sitio.
 
 ## Lo que realmente obtienes
 
-Por camarote, recibes entrenamiento práctico de apnea de la mano de patrones certificados por **AIDA** y **Apnea Total**: instrucción real, enseñada paso a paso. Los principiantes aprenden la respiración previa, la relajación, la compensación y hacen sus primeras apneas tranquilas con un compañero a un metro de distancia. Los buceadores experimentados obtienen profundidad y un sistema de seguridad que realmente funciona, no solo se da por supuesto. Añádele todo el equipo, las comidas cocinadas a bordo y la navegación tranquila entre los puntos de inmersión por las islas. El precio es una **cuota de socio de Ikigai Sailing ASD**, una organización sin ánimo de lucro reconocida por el CONI —no es una tarifa de liveaboard—, por lo que una semana de buceo libre certificado aquí cuesta bastante menos de lo que cobran Egipto o las Maldivas por lo mismo.
+Por camarote, recibes entrenamiento práctico de apnea de la mano de patrones certificados por **AIDA** y **Apnea Total**: instrucción real, impartida con rigor. Los principiantes aprenden la respiración de preparación, la relajación, la compensación y hacen sus primeras apneas tranquilas con un compañero a un metro de distancia. Los buceadores experimentados obtienen profundidad y un sistema de seguridad que realmente funciona, no solo se da por supuesto. Añade todo el equipo, las comidas cocinadas a bordo y la navegación tranquila entre los puntos de inmersión por las islas. El precio es una **cuota de socio de Ikigai Sailing ASD**, una organización sin ánimo de lucro reconocida por el CONI —no es una tarifa de liveaboard—; así que una semana de buceo libre certificado aquí cuesta bastante menos de lo que cobran Egipto o las Maldivas por lo mismo.
 
 ## Es más que aguantar la respiración
 
@@ -64,4 +64,4 @@ La apnea te enseña a desconectar la mente. Esa es la verdadera habilidad. La ma
 
 ## ¿Principiante o en busca de profundidad?
 
-Ambos, y a menudo en el mismo barco. Hemos acompañado a alguien que no se atrevía a meter la cara en el agua durante sus primeros diez metros, y hemos garantizado la seguridad de buceadores que buscaban batir su mejor marca personal. El agua es tan clara y cálida que aprender aquí no parece tanto un curso como recordar que ya sabías cómo hacerlo.
+Ambos, y a menudo en el mismo barco. Hemos acompañado a alguien que no se atrevía a meter la cara en el agua a través de sus primeros diez metros, y hemos garantizado la seguridad de buceadores que buscaban batir su mejor marca personal. El agua es tan clara y cálida que aprender aquí no parece tanto un curso como recordar que ya sabías cómo hacerlo.

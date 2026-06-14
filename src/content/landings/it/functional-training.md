@@ -6,9 +6,9 @@ description: >-
   una Catana 47 o su una spiaggia deserta di Guna Yala. Niente attrezzi.
 seoTitle: Allenamento funzionale Tabata a San Blas — Catamarano | Ikigai
 metaDescription: >-
-  Allenamento funzionale Tabata a San Blas, Panama, a bordo di una Catana 47 —
-  20 secondi di esercizio / 10 secondi di riposo con elastici, TRX e kettlebell,
-  sul ponte o su una spiaggia deserta. Niente palestra, niente attrezzi.
+  Allenamento funzionale Tabata a San Blas, Panama, a bordo di un Catana 47 — 20
+  secondi di esercizio / 10 secondi di riposo con elastici, TRX e kettlebell,
+  sul ponte o in spiaggia. Niente palestra.
 locale: it
 heroImage: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
 lead: >-
@@ -16,7 +16,7 @@ lead: >-
   senza una palestra in vista. Ci alleniamo in stile Tabata sul ponte di prua o
   su una spiaggia deserta — 20 secondi di esercizio, 10 di riposo — con bande
   elastiche, TRX e kettlebell. Venti minuti intensi, con il sale sulla pelle,
-  per poi tuffarsi direttamente in acqua.
+  per poi tuffarti direttamente in acqua.
 faq:
   - q: Devo essere in forma per partecipare?
     a: >-
@@ -27,7 +27,7 @@ faq:
   - q: Quali attrezzi ci sono senza palestra?
     a: >-
       Elastici di resistenza, cinghie TRX, kettlebell e il peso del tuo corpo:
-      tutto qui, ed è più che sufficiente. Niente macchine, niente specchi, solo
+      tutto qui, ed è più che sufficiente. Niente attrezzi, niente specchi, solo
       forza funzionale che ti accompagna nell'apnea e nella vela.
   - q: Dove si tengono le sessioni?
     a: >-
@@ -35,12 +35,12 @@ faq:
       di San Blas, quando l'ancoraggio lo permette. All'alba, di solito, prima
       che faccia troppo caldo.
 translated: deepl
-sourceHash: d629865d983d3410
+sourceHash: 904dc67236e030cc
 ---
 
-## Corpo in forma, niente palestra, niente scuse
+## Corpo forte, niente palestra, niente scuse
 
-A San Blas non ci sono palestre — e non ti mancheranno. Ci alleniamo **in stile Tabata**: 20 secondi di esercizio, 10 di riposo, otto serie, con una manciata di movimenti. Sono i venti minuti più intensi della tua giornata, e ti lasciano più in forma, non distrutto. E poi il mare è proprio lì, pronto a rinfrescarti.
+A San Blas non ci sono palestre — e non ne sentirai la mancanza. Ci alleniamo **in stile Tabata**: 20 secondi di esercizio, 10 di riposo, otto serie, con una manciata di movimenti. Sono i venti minuti più intensi della tua giornata, e ti lasciano più in forma, non distrutto. E poi il mare è proprio lì, pronto a rinfrescarti.
 
 ## Come si svolge una sessione
 

@@ -1,31 +1,36 @@
 ---
-title: "Janzu"
-summary: "Janzu is aquatic bodywork — gentle, fluid movement in warm water that releases physical and emotional tension and drops you into deep rest."
-seoTitle: "Janzu Water Therapy on a Catamaran | Ikigai Sailing"
-metaDescription: "Janzu aquatic bodywork aboard a Catana 47 — one-on-one water-healing sessions in warm, calm water. Release tension and drop into deep rest, with a practitioner trained by Sol Naciente."
-locale: "en"
-category: "wellness"
-image: "~/assets/activities/janzu/IMG_3296-1.avif"
+title: Janzu
+summary: >-
+  Janzu is aquatic bodywork — gentle, fluid movement in warm water that releases
+  physical and emotional tension and drops you into deep rest.
+seoTitle: Janzu Water Therapy on a Catamaran | Ikigai Sailing
+metaDescription: >-
+  Janzu aquatic bodywork aboard a Catana 47 — one-on-one water-healing in warm,
+  calm water. Release tension and drop into deep rest. Trained by Sol Naciente.
+locale: en
+category: wellness
+image: ~/assets/activities/janzu/IMG_3296-1.avif
 gallery:
-  - "~/assets/activities/janzu/janzu3.jpg"
-  - "~/assets/activities/janzu/Janzu-terapia.avif"
-  - "~/assets/activities/janzu/Janzu-terapia1.avif"
-  - "~/assets/activities/janzu/Janzu-terapia2-1536x862.avif"
+  - ~/assets/activities/janzu/janzu3.jpg
+  - ~/assets/activities/janzu/Janzu-terapia.avif
+  - ~/assets/activities/janzu/Janzu-terapia1.avif
+  - ~/assets/activities/janzu/Janzu-terapia2-1536x862.avif
 order: 4
 oldUrls:
-  - "/project/janzu-2/"
+  - /project/janzu-2/
 facts:
-  - label: "Duration"
-    value: "One-on-one sessions of about 1 hour"
-  - label: "Where"
-    value: "Tranquil lagoons and natural pools"
-  - label: "Good for"
-    value: "Deep relaxation, stress, emotional release, trauma work"
-  - label: "Swimming"
-    value: "Not required — you're floated and supported throughout"
-  - label: "Practitioner"
-    value: "Trained in Janzu and Wata, learned by Luca from Sol Naciente"
+  - label: Duration
+    value: One-on-one sessions of about 1 hour
+  - label: Where
+    value: Tranquil lagoons and natural pools
+  - label: Good for
+    value: 'Deep relaxation, stress, emotional release, trauma work'
+  - label: Swimming
+    value: Not required — you're floated and supported throughout
+  - label: Practitioner
+    value: 'Trained in Janzu and Wata, learned by Luca from Sol Naciente'
 ---
+
 ## What Janzu is
 
 Janzu is **aquatic bodywork** — a one-on-one practice in which a practitioner floats you in warm water and moves your body in slow, fluid arcs until your breath drops, your muscles let go, and your mind quiets. It's a close cousin of **Watsu** and **Wata**, sitting somewhere between bodywork, meditation and therapy. Janzu originated in India, was developed in Mexico by **Juan Villatoro Garza**, and passed to [Richard Dionne — Sol Naciente](https://www.facebook.com/sol.naciente.5815/), from whom Luca learned the first-level techniques. Water does the work here: held and weightless, the body releases tension it grips without ever noticing.

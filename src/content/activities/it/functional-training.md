@@ -3,12 +3,12 @@ title: Allenamento funzionale
 summary: >-
   Brevi e intensi allenamenti Tabata sul ponte o in spiaggia — 20 secondi di
   esercizio, 10 secondi di riposo — con elastici, TRX, kettlebell e il peso del
-  tuo corpo. Niente macchine, niente palestra.
+  tuo corpo. Niente attrezzi, niente palestra.
 seoTitle: Allenamento funzionale Tabata su un catamarano | Ikigai Sailing
 metaDescription: >-
-  Allenamento funzionale con poco attrezzatura a bordo di una Catana 47 —
-  Intervalli Tabata (20 sec. di esercizio / 10 sec. di riposo) con bande
-  elastiche, TRX e kettlebell. Un corpo in forma in mare, senza palestra.
+  Allenamento funzionale Tabata a bordo di una Catana 47 — 20 secondi di
+  esercizio / 10 secondi di riposo con bande elastiche, TRX e kettlebell. Un
+  corpo forte in mare, senza palestra né attrezzi.
 locale: it
 category: fitness
 image: ~/assets/pages/activities/Tabata-drone-Puma-2-scaled.jpeg
@@ -25,7 +25,7 @@ facts:
       Adatto a qualsiasi livello di forma fisica — i principianti assoluti sono
       i benvenuti
 translated: deepl
-sourceHash: f3b8d04ff97d0f39
+sourceHash: 85eaf39b9b5157b0
 ---
 
 ## Un corpo forte, senza bisogno di andare in palestra

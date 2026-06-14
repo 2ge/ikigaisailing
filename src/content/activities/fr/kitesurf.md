@@ -3,11 +3,11 @@ title: Kitesurf
 summary: >-
   Le kitesurf, c'est bien plus qu'un simple sport : c'est une véritable
   célébration de la liberté, de l'énergie et d'un lien profond avec la nature.
-seoTitle: Kitesurf à San Blas en catamaran | Ikigai
+seoTitle: Croisière kitesurf en catamaran | Ikigai Sailing
 metaDescription: >-
-  Viens faire du kitesurf dans les lagons calmes et déserts de San Blas à bord
-  de notre Catana 47 : matériel et planches à bord, alizés caribéens réguliers
-  et mise à l'eau directement depuis le bateau.
+  Du kitesurf sur des lagons calmes et déserts depuis un Catana 47 — matériel et
+  planches à bord, alizés réguliers, mise à l'eau depuis le bateau. Navigation
+  au vent arrière, par cabine.
 locale: fr
 category: watersports
 image: ~/assets/activities/project/kitesurf.jpg
@@ -39,14 +39,14 @@ facts:
   - label: Équipement
     value: Location de matériel disponible à bord
 translated: deepl
-sourceHash: b0d1e19322ed2f1a
+sourceHash: 6ceb1eba72c461ce
 ---
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
 
 Surfe sur les vagues et laisse-toi porter par le vent
 
-**Le kitesurf** est bien plus qu'un sport : c'est une véritable célébration de la liberté, de l'énergie et d'un lien profond avec la nature. Laisse le vent devenir ton allié tandis que tu voles au-dessus des vagues, à la découverte non seulement des sensations fortes et de l'adrénaline, mais aussi de moments d'intense conscience et d'harmonie avec les éléments. Tu découvriras ainsi l'équilibre entre défi et sérénité, en te plongeant dans l'un des sports nautiques les plus passionnants et captivants au monde.
+**Le kitesurf** est bien plus qu'un sport : c'est une véritable célébration de la liberté, de l'énergie et d'un lien profond avec la nature. Laisse le vent devenir ton allié tandis que tu voles au-dessus des vagues, en découvrant non seulement les sensations fortes de l'adrénaline, mais aussi des moments d'intense conscience et d'harmonie avec les éléments. Tu découvriras ainsi l'équilibre entre défi et sérénité, en te plongeant dans l'un des sports nautiques les plus passionnants et captivants au monde.
 
 Tous les cours sont certifiés IKO.
 
@@ -59,4 +59,4 @@ Rejoins-nous pour apprendre ou perfectionner le kitesurf dans un cadre paradisia
 -   **Accès exclusif :** Accède aux spots les plus spectaculaires et aux meilleurs vents, loin de la foule, dans des environnements naturels préservés. Lance ton kite directement depuis le catamaran, en explorant des spots inaccessibles par la terre.
 -   **Sécurité optimisée :** notre annexe dédiée assure un soutien constant et des interventions rapides, te garantissant des sessions en toute sérénité.
 -   **Liberté et flexibilité :** Choisis quand et où tu veux surfer. À bord d’Ikigai, nous suivons les meilleures conditions météo et de vent pour t’offrir une expérience de kitesurf inégalée.
--   **Détente et confort :** quand tu as besoin d'une pause, remonte à bord et détends-toi. Notre maison flottante t'offre des moments de pure détente et de bien-être pour le corps et l'esprit.
+-   **Détente et confort :** quand tu as besoin d'une pause, remonte à bord et détends-toi. Notre maison flottante offre des moments de pure détente et de bien-être pour le corps et l'esprit.

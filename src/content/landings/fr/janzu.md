@@ -6,12 +6,15 @@ description: >-
   Catana 47 à Guna Yala.
 seoTitle: 'Thérapie aquatique Janzu à San Blas, au Panama | Ikigai'
 metaDescription: >-
-  Découvre le Janzu, une technique de travail corporel aquatique, dans les eaux
-  chaudes et calmes de San Blas, au Panama. Des séances individuelles de soins
-  aquatiques dispensées depuis un catamaran Catana 47 : une thérapie régénérante
-  en mer.
+  Séance de Janzu à San Blas, au Panama — une séance de soins aquatiques en
+  tête-à-tête dans les lagunes chaudes et calmes de Guna Yala, à bord d'un
+  catamaran Catana 47. Par cabine.
 locale: fr
 heroImage: ~/assets/activities/janzu/Janzu-terapia3-1024x575.avif
+gallery:
+  - ~/assets/activities/janzu/janzu1.jpg
+  - ~/assets/activities/janzu/Janzu-terapia1.avif
+  - ~/assets/activities/janzu/Janzu-terapia2.avif
 lead: >-
   Le Janzu à San Blas, au Panama, c'est un soin corporel aquatique dans le cadre
   idéal : une eau chaude, calme et silencieuse. Le praticien te fait flotter, te
@@ -21,7 +24,7 @@ lead: >-
 faq:
   - q: 'C''est quoi, le Janzu ?'
     a: >-
-      Le Janzu — une technique de travail corporel aquatique, proche du Watsu —
+      Le Janzu — une pratique de travail corporel aquatique, proche du Watsu —
       consiste pour une personne à flotter et à guider lentement une autre dans
       de l'eau chaude. Ça libère les tensions que le corps accumule sans qu'on
       s'en rende compte et te plonge dans un repos profond. C'est plus proche
@@ -44,11 +47,7 @@ faq:
       ; le prix correspond à une cotisation à notre association à but non
       lucratif, et non à une facture de spa.
 translated: deepl
-sourceHash: 42704ac5009e47cf
-gallery:
-  - ~/assets/activities/janzu/janzu1.jpg
-  - ~/assets/activities/janzu/Janzu-terapia1.avif
-  - ~/assets/activities/janzu/Janzu-terapia2.avif
+sourceHash: fa93de8331e6869e
 ---
 
 ## Ce qu’est le Janzu, et ce qu’il n’est pas
@@ -61,7 +60,7 @@ Le Janzu a besoin de trois choses à la fois : de la chaleur, du calme et du sil
 
 ## Tu n'as pas besoin de savoir nager
 
-Tu portes des gilets de flottaison. Tu es soutenu du début à la fin. Ceux qui lâchent prise le plus vite sont généralement ceux qui arrivent nerveux à l'idée d'être dans l'eau — une fois qu'ils sentent qu'on ne les laissera pas tomber. On ne les laissera pas tomber.
+Tu portes des gilets de flottaison. Tu es soutenu du début à la fin. Ceux qui lâchent prise le plus vite sont généralement ceux qui arrivent nerveux à l'idée d'être dans l'eau — une fois qu'ils sentent qu'on ne les laissera pas tomber. Et on ne les laissera pas tomber.
 
 ## Une partie d’un tout
 

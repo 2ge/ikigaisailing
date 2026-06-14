@@ -5,9 +5,9 @@ description: >-
   diarias en la cubierta de proa, fondeados entre las islas de Guna Yala.
 seoTitle: 'Yoga en un catamarán en San Blas, Panamá | Ikigai Sailing'
 metaDescription: >-
-  Yoga diario y ejercicios de respiración a bordo de un catamarán Catana 47 en
-  San Blas, Panamá. Grupo reducido, cálidas aguas del Caribe, navegación
-  tranquila entre las islas de Guna Yala — reserva por camarote.
+  Yoga diario a bordo de un Catana 47 en San Blas, Panamá: practica en la
+  cubierta de proa mientras estamos fondeados entre las islas de Guna Yala.
+  Grupo reducido, reserva por camarote.
 locale: es
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 gallery:
@@ -22,7 +22,7 @@ lead: >-
 faq:
   - q: ¿Cuánto cuesta hacer yoga en San Blas?
     a: >-
-      La reserva se hace por cabaña, y el importe es una cuota de socio para
+      La reserva se hace por cabaña, y el importe es una cuota de socio de
       nuestra asociación sin ánimo de lucro ASD, no una tarifa de alquiler. Por
       eso es bastante más barato que los precios de las agencias. Para ver las
       tarifas de la temporada y las fechas disponibles, echa un vistazo a la
@@ -40,16 +40,16 @@ faq:
   - q: ¿Cómo llego al catamarán?
     a: >-
       Desde la ciudad de Panamá hay que ir en 4×4 por la cordillera de Guna Yala
-      y, después, dar un breve paseo en panga hasta donde esté fondeado el
-      Ikigai. Nosotros nos encargamos de organizar todo el traslado; solo tienes
-      que decirnos a qué hora llegas.
+      y luego dar un breve paseo en panga hasta donde esté fondeado el Ikigai.
+      Nosotros nos encargamos de organizar todo el traslado; solo tienes que
+      decirnos a qué hora llegas.
 translated: deepl
-sourceHash: a5aa3a28a5c286ef
+sourceHash: 182de71f2ced384a
 ---
 
 ## Cómo es realmente practicar yoga a bordo
 
-Vives a bordo **del Ikigai**, nuestro **Catana 47**. El día empieza con yoga y ejercicios de respiración en la cubierta de proa, y el barco es la razón por la que funciona. Un catamarán se mantiene estable. Dos cascos, sin escora, una amplia red que no te saca de la postura del guerrero cada vez que pasa una estela. Intenta la misma secuencia en un monocasco y te pasarás la mitad del tiempo agarrándote. Después de la práctica, te metes en el agua: nadando, buceando a pulmón o sin hacer nada en absoluto. El día se adapta a la luz y al viento, no a la agenda de un spa.
+Vives a bordo **del Ikigai**, nuestro **Catana 47**. El día empieza con yoga y ejercicios de respiración en la cubierta de proa, y el barco es la razón por la que funciona. Un catamarán se mantiene estable. Dos cascos, sin escora, una amplia red que no te saca de la postura del guerrero cada vez que pasa una estela. Intenta la misma secuencia en un monocasco y te pasarás la mitad del tiempo agarrándote. Después de la práctica, te metes en el agua: a nadar, a bucear a pulmón o simplemente a no hacer nada. El día se adapta a la luz y al viento, no a la agenda de un spa.
 
 ## Qué incluye la estancia a bordo
 
@@ -57,7 +57,7 @@ Reservas una litera, junto al camarote: sin grupo que reunir, sin barco entero q
 
 ## ¿Por qué aquí, y no en Bali o Croacia?
 
-Las famosas rutas de yoga y vela son el Mediterráneo y el sudeste asiático. Completas, concurridas, pensadas para las fotos. San Blas es todo lo contrario: un territorio autónomo de los Guna donde están prohibidas las construcciones de hormigón, las lagunas permanecen tranquilas y cálidas todo el año, y la mayoría de los días no verás ningún otro barco de alquiler en el agua. Menos gente. Un mar más cálido. Un lugar que aún se pertenece a sí mismo.
+Las famosas rutas de yoga y vela son el Mediterráneo y el sudeste asiático. Completas, concurridas, pensadas para las fotos. San Blas es todo lo contrario: un territorio autónomo de los Guna donde están prohibidas las construcciones de hormigón, las lagunas se mantienen tranquilas y cálidas todo el año, y la mayoría de los días no verás ningún otro barco de alquiler en el agua. Menos gente. Mar más cálido. Un lugar que aún se pertenece a sí mismo.
 
 ## Quién se sube a bordo
 

@@ -3,11 +3,11 @@ title: Méditation
 summary: >-
   La méditation avec Ikigai Sailing est une expérience unique, où la
   tranquillité de la mer renforce les bienfaits de cette pratique.
-seoTitle: Retraite de méditation dans les îles San Blas | Ikigai
+seoTitle: Méditation sur un catamaran | Ikigai Sailing
 metaDescription: >-
-  Méditation quotidienne et exercices de respiration au mouillage dans les îles
-  San Blas, au Panama. Des matins tranquilles, le grand large et des mouillages
-  paisibles à bord de notre catamaran Catana 47.
+  Méditation quotidienne et exercices de respiration au mouillage à bord d'un
+  Catana 47 — matins tranquilles, grand large et mouillages paisibles. Ça fait
+  partie de la vie à bord, par cabine.
 locale: fr
 category: wellness
 image: ~/assets/activities/project/meditazione1.jpg
@@ -29,14 +29,14 @@ facts:
       Une meilleure conscience de soi, une plus grande détente et un meilleur
       équilibre émotionnel
 translated: deepl
-sourceHash: 61a615df96fb7d3a
+sourceHash: d7bfb8d20fc2d114
 ---
 
 ## Redécouvre ta paix intérieure
 
 La méditation avec Ikigai Sailing est une expérience unique, où la tranquillité de la mer amplifie les bienfaits de la pratique. Parfait pour ceux qui cherchent un moment de pause et de reconnexion.
 
-Découvre le pouvoir de la méditation en pleine nature. Rejoins-nous pour intégrer cette pratique le matin et le soir, et tu en ressentiras bientôt les multiples bienfaits.
+Découvre le pouvoir de la méditation en pleine nature. Rejoins-nous pour intégrer cette pratique le matin et le soir, et tu en ressentiras rapidement les multiples bienfaits.
 
 ## Pourquoi essayer
 

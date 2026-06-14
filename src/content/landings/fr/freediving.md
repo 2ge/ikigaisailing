@@ -6,16 +6,19 @@ description: >-
   d'un Catana 47, dans les eaux chaudes et limpides de Guna Yala.
 seoTitle: 'Plongée en apnée à San Blas, au Panama — Catamaran | Ikigai'
 metaDescription: >-
-  Entraîne-toi à la plongée en apnée à San Blas, au Panama, à bord de notre
-  catamaran Catana 47. Skippers certifiés AIDA et Apnea Total, eaux calmes et
-  limpides des Caraïbes, réservation par cabine directement auprès de
-  l'équipage.
+  Plongée en apnée à San Blas, au Panama, à bord d'un Catana 47 — Skippers
+  certifiés AIDA et Apnea Total, eaux calmes et limpides de Guna Yala,
+  réservation par cabine avec l'équipage.
 locale: fr
 heroImage: ~/assets/activities/freediving/apnea2.jpg
+gallery:
+  - ~/assets/activities/freediving/apnea1.jpg
+  - ~/assets/activities/freediving/apnea4.jpg
+  - ~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg
 lead: >-
-  Faire de la plongée en apnée à San Blas, au Panama, c'est sauter à l'arrière
+  Faire de la plongée en apnée à San Blas, au Panama, c'est sauter de l'arrière
   d'un Catana 47 dans une eau si claire qu'on en voit le fond, assez chaude pour
-  plonger en short de surf, avec un moniteur certifié AIDA et Apnea Total qui
+  plonger en short de bain, avec un moniteur certifié AIDA et Apnea Total qui
   veille à ta sécurité. Des récifs, des bancs de sable, beaucoup de bleu. Et
   presque personne d'autre pour en profiter ici.
 faq:
@@ -24,7 +27,7 @@ faq:
       Non. On encadre des gens qui n'ont jamais retenu leur souffle plus de
       quelques secondes, et on a les qualifications pour emmener les apnéistes
       expérimentés plus en profondeur. Chaque plongée se fait selon un système
-      de binôme bien rodé.
+      de binôme « un qui monte, un qui descend ».
   - q: Les formateurs sont-ils vraiment certifiés ?
     a: >-
       Oui — AIDA et Apnea Total. Les skippers sont aussi des navigateurs
@@ -45,16 +48,12 @@ faq:
       Saison » pour connaître les tarifs, ou envoie-nous un message sur
       WhatsApp.
 translated: deepl
-sourceHash: 728794303456aa2d
-gallery:
-  - ~/assets/activities/freediving/apnea1.jpg
-  - ~/assets/activities/freediving/apnea4.jpg
-  - ~/assets/activities/freediving/WhatsApp-Image-2025-01-23-at-17.54.12.jpeg
+sourceHash: 8670937c388788f9
 ---
 
 ## Pourquoi San Blas est l'endroit idéal pour la plongée en apnée
 
-365 îles, des lagons abrités, une eau à environ 28 °C, une visibilité qui s'étend jusqu'au fond marin. Voici ce que les brochures ne mentionnent pas : presque personne ne propose de plongée en apnée certifiée à San Blas. Les récifs sont intacts parce que personne ne les explore. Depuis **l'Ikigai**, notre **Catana 47**, tu n'es pas soumis aux horaires d'une excursion en bateau : tu plonges quand les conditions sont réunies, à l'endroit que tu as choisi, puis tu remontes l'échelle de bain et tu respires. Pas d'heure de trajet pour rentrer.
+365 îles, des lagons abrités, une eau à environ 28 °C, une visibilité qui va jusqu’au fond marin. Voici ce que les brochures ne disent pas : presque personne ne propose de plongée en apnée certifiée à San Blas. Les récifs sont intacts parce que personne ne les explore. Depuis **l'Ikigai**, notre **Catana 47**, tu n'es plus soumis aux horaires d'une excursion d'une journée : tu plonges quand les conditions sont réunies, à l'endroit que tu as choisi, puis tu remontes l'échelle de bain et tu respires. Pas d'heure de trajet pour rentrer nulle part.
 
 ## Ce que tu obtiens réellement
 
@@ -66,4 +65,4 @@ L'apnée t'apprend à faire le vide dans ton esprit. C'est ça, la vraie compét
 
 ## Débutant ou en quête de profondeur
 
-Les deux, et souvent sur le même bateau. On a accompagné quelqu’un qui n’osait pas mettre son visage dans l’eau jusqu’à ses dix premiers mètres, et on a assuré la sécurité de plongeurs qui cherchaient à battre leur record personnel. L’eau est si claire et chaude qu’apprendre ici ressemble moins à un cours qu’à se rappeler ce que tu savais déjà.
+Les deux, et souvent sur le même bateau. Nous avons accompagné quelqu’un qui n’osait pas mettre son visage dans l’eau jusqu’à ses dix premiers mètres, et nous avons assuré la sécurité de plongeurs cherchant à battre leur record personnel. L’eau est si claire et chaude qu’apprendre ici ressemble moins à un cours qu’à se rappeler ce que tu savais déjà.

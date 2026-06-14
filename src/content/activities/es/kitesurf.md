@@ -3,11 +3,11 @@ title: Kitesurf
 summary: >-
   El kitesurf es mucho más que un deporte: es una auténtica celebración de la
   libertad, la energía y una profunda conexión con la naturaleza.
-seoTitle: Kitesurf en San Blas en catamarán | Ikigai
+seoTitle: Crucero de kitesurf en catamarán | Ikigai Sailing
 metaDescription: >-
-  Practica kitesurf en las lagunas tranquilas y desiertas de San Blas desde
-  nuestro Catana 47: con el equipo y las tablas a bordo, los constantes vientos
-  alisios del Caribe y un lanzamiento directamente desde el barco.
+  Kitesurf en lagunas tranquilas y desiertas desde un Catana 47: el equipo y las
+  tablas a bordo, vientos alisios constantes, salida desde el barco. Navegación
+  a favor del viento, por camarote.
 locale: es
 category: watersports
 image: ~/assets/activities/project/kitesurf.jpg
@@ -39,7 +39,7 @@ facts:
   - label: Equipo
     value: Se puede alquilar material a bordo
 translated: deepl
-sourceHash: b0d1e19322ed2f1a
+sourceHash: 6ceb1eba72c461ce
 ---
 
 ![Iko](../../../assets/activities/kitesurf/Screenshot-2019-02-03-at-10_44_44.png)
@@ -59,4 +59,4 @@ Todos los cursos están certificados por la IKO.
 -   **Acceso exclusivo:** Llega a los lugares más espectaculares y a los mejores vientos, lejos de las multitudes, en entornos naturales vírgenes. Lanza la cometa directamente desde el catamarán, explorando lugares inaccesibles por tierra.
 -   **Seguridad optimizada:** Nuestra lancha de apoyo te garantiza asistencia constante e intervenciones oportunas, asegurándote sesiones con total tranquilidad.
 -   **Libertad y flexibilidad:** elige cuándo y dónde practicar. A bordo del Ikigai, seguimos las mejores condiciones meteorológicas y de viento para ofrecerte una experiencia de kitesurf sin igual.
--   **Relajación y comodidad:** Cuando necesites un descanso, vuelve a bordo y relájate. Nuestra casa flotante ofrece momentos de pura relajación y bienestar tanto para el cuerpo como para la mente.
+-   **Relajación y comodidad:** cuando necesites un descanso, vuelve a bordo y relájate. Nuestra casa flotante ofrece momentos de pura relajación y bienestar tanto para el cuerpo como para la mente.

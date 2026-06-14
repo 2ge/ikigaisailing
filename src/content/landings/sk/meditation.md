@@ -6,9 +6,9 @@ description: >-
   signálu, bez rozvrhu.
 seoTitle: Meditácia na palube na ostrovoch San Blas | Ikigai Sailing
 metaDescription: >-
-  Meditácia a dychové cvičenia na palube katamaránu Catana 47 na ostrovoch San
-  Blas v Paname. Bez Wi-Fi, bez naplánovanej trasy – kotvíme v Guna Yala,
-  rezervácia na kajutu spolu s posádkou.
+  Meditácia a dychové cvičenia na ostrovoch San Blas v Paname na palube lode
+  Catana 47 – bez signálu, bez programu, zakotvení v Guna Yala. Rezervácia na
+  kajutu.
 locale: sk
 heroImage: ~/assets/activities/meditation/meditazione4.jpg
 gallery:
@@ -17,10 +17,10 @@ gallery:
   - ~/assets/activities/project/meditazione1.jpg
 lead: >-
   Meditácia na ostrovoch San Blas vás oslobodí od všetkého, pred čím zvyčajne
-  pred meditáciou utekáte. Tu nie je žiadny signál, žiadny rozvrh, žiadne mesto,
-  ktoré by na vás tlačilo. Len loď Catana 47 na kotve, hladina vody siahajúca až
-  k obzoru a taký pokoj, aký väčšina miest dokáže len sľubovať. Vy sedíte,
-  dýchate a ostrovy sa postarajú o zvyšok.
+  utekáte. Tu nie je žiadny signál, žiadny rozvrh, žiadne mesto, ktoré by na vás
+  tlačilo. Len loď Catana 47 na kotve, hladina vody siahajúca až k obzoru a taký
+  pokoj, aký väčšina miest dokáže len sľubovať. Vy sedíte, dýchate a ostrovy sa
+  postarajú o zvyšok.
 faq:
   - q: Koľko stojí meditácia v San Blas?
     a: >-
@@ -35,28 +35,28 @@ faq:
       by ste museli dodržiavať. Väčšinou to za vás urobí samotné prostredie –
       sadnete si, dýchate a prestanete sledovať čas. Ak chcete, môžete využiť aj
       vedené dychové cvičenia.
-  - q: Naozaj tu nie je Wi-Fi?
+  - q: Naozaj tu nie je žiadne Wi-Fi?
     a: >-
       V podstate žiadny. V San Blase nenájdete žiadne mobilné vysielače, ktoré
-      by stáli za reč, a práve o to ide. Už po pár hodinách prvého dňa opadne
-      nutkanie siahnuť po telefóne a práve vtedy to vlastne začína.
+      by stáli za reč, a práve o to tu ide. Už po pár hodinách prvého dňa vám
+      pominie nutkanie siahnuť po telefóne, a práve vtedy to vlastne začína.
   - q: Kedy je sezóna v San Blase?
     a: >-
       Od decembra 2025 do júna 2026 kotvíme v San Blase. Potom loď vypláva ďalej
       a rovnaký systém prenájmu kajút sa s ňou presunie kamkoľvek, kam sa Ikigai
       vydá nabudúce.
 translated: deepl
-sourceHash: 461059198f73157c
+sourceHash: e0d3ea65c4f196e3
 needsReview: true
 ---
 
 ## Aké to je meditovať na kotve
 
-Žijete na palube **Ikigai**, našej **Catany 47**, zakotvenej v lagúnach Guna Yala. Nie je tu žiadna meditačná sála ani gong. Ranné sedenia prebiehajú na prednej palube – katamarán je stabilný, takže sa nemusíte neustále brániť proti nakloneniu – a zvukovou kulisou je vietor v lanoví a voda narážajúca o trupy. Medzi sedeniami plávate, plávate na vode, sledujete, ako fregatka využíva termické prúdy. Deň nemá žiadny pevný program, čo sa ukazuje ako najvzácnejšia vec, ktorú môže retreat ponúknuť.
+Žijete na palube **Ikigai**, našej **Catany 47**, zakotvenej v lagúnach Guna Yala. Nie je tu žiadna meditačná sála ani gong. Ranné sedenia sa konajú na prednej palube – katamarán je stabilný, takže sa nemusíte neustále brániť proti nakloneniu – a zvukovou kulisou je vietor v lanoví a voda narážajúca na trupy. Medzi sedeniami plávate, plávate na vode, sledujete, ako fregatka využíva termické prúdy. Deň nemá žiadny pevný program, čo sa ukazuje ako najvzácnejšia vec, ktorú môže retreat ponúknuť.
 
 ## Čo je zahrnuté v meditačnom pobyte v San Blas
 
-Rezervujete si jedno lôžko v kajute – nemusíte so sebou priviesť skupinu, ani obsadiť celú loď. Tento týždeň vám ponúka posteľ na palube lode Catana 47, ranné sedenia a vedené dychové cvičenia, každé jedlo pripravené na palube z čerstvo ulovených rýb a toho, čo sa na ostrovoch pestuje, vybavenie na šnorchlovanie a freediving a pomalú plavbu medzi kotviskami s posádkou, ktorá má certifikáty RYA Yachtmaster a AIDA / Apnea Total. To, čo platíte, je **členský príspevok pre Ikigai Sailing ASD**, neziskovú organizáciu uznanú CONI a pridruženú k MSP Italia – nie je to komerčný poplatok. Preto týždeň tu stojí zlomok ceny plavby cez agentúru: vaše peniaze idú na prevádzku lode a zážitok, nie na províziu sprostredkovateľa.
+Rezervujete si jedno lôžko v kajute – nemusíte so sebou priviesť skupinu, ani zaplniť celú loď. Tento týždeň vám ponúka posteľ na palube lode Catana 47, ranné sedenia a vedené dychové cvičenia, každé jedlo pripravené na palube z čerstvo ulovených rýb a toho, čo sa na ostrovoch pestuje, vybavenie na šnorchlovanie a freediving a pomalú plavbu medzi kotviskami s posádkou, ktorá má certifikáty RYA Yachtmaster a AIDA / Apnea Total. To, čo platíte, je **členský príspevok pre Ikigai Sailing ASD**, neziskovú organizáciu uznávanú CONI a pridruženú k MSP Italia – nie komerčný poplatok. Preto týždeň tu stojí zlomok ceny plavby cez agentúru: vaše peniaze idú na prevádzku lode a zážitok, nie na províziu sprostredkovateľa.
 
 ## Prečo ostrovy urobia polovicu práce
 

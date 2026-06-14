@@ -1,34 +1,39 @@
 ---
-title: "Diving"
-summary: "With diving, every immersion is a journey through vibrant colors, marine life, and sunken mysteries. Descend into the depths..."
-seoTitle: "Scuba Diving & Spearfishing, San Blas | Ikigai"
-metaDescription: "Dive and spearfish the reefs of San Blas, Panama from our Catana 47 — vivid marine life, sustainable catch and guided descents in clear Caribbean water."
-locale: "en"
-category: "watersports"
-image: "~/assets/activities/project/scuba-diving.jpg"
+title: Diving
+summary: >-
+  With diving, every immersion is a journey through vibrant colors, marine life,
+  and sunken mysteries. Descend into the depths...
+seoTitle: Scuba Diving Liveaboard on a Catamaran | Ikigai
+metaDescription: >-
+  Dive and spearfish from a Catana 47 catamaran — vivid marine life and guided
+  descents in clear, warm water. Sustainable catch, booked per cabin.
+locale: en
+category: watersports
+image: ~/assets/activities/project/scuba-diving.jpg
 gallery:
-  - "~/assets/activities/diving/WhatsApp-Image-2024-09-10-at-13.34.26.jpeg"
-  - "~/assets/activities/diving/manta.jpg"
-  - "~/assets/activities/diving/pesce-scorpione.jpg"
-  - "~/assets/activities/diving/scuba-diving-2.jpg"
-  - "~/assets/activities/diving/scuba-diving-3.jpg"
-  - "~/assets/activities/diving/shark.jpg"
-  - "~/assets/activities/diving/divers.png"
+  - ~/assets/activities/diving/WhatsApp-Image-2024-09-10-at-13.34.26.jpeg
+  - ~/assets/activities/diving/manta.jpg
+  - ~/assets/activities/diving/pesce-scorpione.jpg
+  - ~/assets/activities/diving/scuba-diving-2.jpg
+  - ~/assets/activities/diving/scuba-diving-3.jpg
+  - ~/assets/activities/diving/shark.jpg
+  - ~/assets/activities/diving/divers.png
 order: 6
 oldUrls:
-  - "/project/diving-2/"
+  - /project/diving-2/
 facts:
-  - label: "Level"
-    value: "Suitable for beginners and experienced divers"
-  - label: "Duration"
-    value: "Half-day or full-day diving experience"
-  - label: "Location"
-    value: "Diving in the best spots of Los Roques and the Caribbean"
-  - label: "Equipment"
-    value: "Complete and included in the package"
-  - label: "Certifications offered"
-    value: "PADI and SSI available upon request"
+  - label: Level
+    value: Suitable for beginners and experienced divers
+  - label: Duration
+    value: Half-day or full-day diving experience
+  - label: Location
+    value: Diving in the best spots of Los Roques and the Caribbean
+  - label: Equipment
+    value: Complete and included in the package
+  - label: Certifications offered
+    value: PADI and SSI available upon request
 ---
+
 ## Explore the underwater world
 
 Diving into an underwater universe of wonders directly from the catamaran is a unique opportunity that offers possibilities otherwise impossible. With a small diving center on board, complete with a compressor and all necessary equipment, we can dive in remote locations and at our own pace. Each dive is a unique adventure from the deep blue to the incredible coral gardens. Ikigai Sailing offers a safe and unforgettable experience, guided by a certified IANTD instructor.

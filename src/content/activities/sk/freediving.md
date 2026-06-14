@@ -4,11 +4,11 @@ summary: >-
   Freediving nie je len šport – môže to byť skutočná cesta k sebapoznaniu,
   príležitosť na to, aby sme sa na chvíľu zastavili, nadýchli a načúvali sami
   sebe.
-seoTitle: 'Charter na voľné potápanie v San Blas, Panama | Ikigai'
+seoTitle: Potápanie na katamaráne s liveaboard ubytovaním na lodi | Ikigai Sailing
 metaDescription: >-
-  Trénujte voľné potápanie na palube našej lode Catana 47 v San Blase v Paname
-  pod vedením kapitánov s certifikátmi AIDA a Apnea Total. Rezervujte si kajutu
-  priamo u posádky a užite si teplú, priezračnú vodu.
+  Trénujte voľné potápanie na palube lode Catana 47 pod vedením kapitánov s
+  certifikátmi AIDA a Apnea Total – v teplej, čistej vode a s dôkladným
+  bezpečnostným dohľadom. Rezervujte si kajutu.
 locale: sk
 category: watersports
 image: ~/assets/activities/project/Apnea.jpg
@@ -31,13 +31,13 @@ facts:
   - label: Lektori
     value: Certifikované organizáciami AIDA a Apnea Total
 translated: deepl
-sourceHash: 5dd2c40c6a4c4677
+sourceHash: 70a758623ab8c321
 needsReview: true
 ---
 
 ## Ponorte sa do sily dychu
 
-Freediving nie je len šport, môže to byť skutočná cesta k sebapoznaniu, zámienka na to, aby ste sa zastavili, nadýchli a načúvali sami sebe. Keď sa ponoríte do tejto disciplíny, budete mať príležitosť naučiť sa, ako upokojiť myseľ (ktorá sama o sebe spotrebuje takmer 40 % kyslíka, ktorý potrebujeme, ale v strese oveľa viac!) a ako správne dýchať (v priemere človek využíva len 30 až 50 percent svojej pľúcnej kapacity). Tieto praktiky nielenže zlepšia váš výkon vo vode a umožnia vám zažiť intenzívne pocity, ktoré môže ponúknuť relaxačný freedive, ale vytvoria aj hlbšiu úroveň spojenia so sebou samým a s morom. Akonáhle si tieto zručnosti osvojíte, budete ich môcť využiť počas svojich výletov pri objavovaní nádherných morských zázrakov, do ktorých sa často ponárame. Plávanie medzi farebnými rybami a fascinujúcim morským dnom na jeden nádych sa stane nezabudnuteľným zážitkom, obohateným o vedomosti a techniku, ktoré ste nadobudli. Tréning a cvičenie freedivingu na katamaráne ponúka jedinečný zážitok z hľadiska bezpečnosti a pohodlia. Budete si môcť vychutnať krásu mora a jeho tvorov počas tréningu v pokojnom a príjemnom prostredí. Pridajte sa k nám a vyberte sa na túto mimoriadnu cestu, kde freediving ponúka nielen príležitosť preskúmať podmorský svet, ale aj prehĺbiť vaše spojenie so sebou samým a s prírodou.
+Freediving nie je len šport, môže to byť skutočná cesta k sebapoznaniu, zámienka na to, aby ste sa zastavili, nadýchli a načúvali sami sebe. Keď sa ponoríte do tejto disciplíny, budete mať príležitosť naučiť sa, ako upokojiť myseľ (ktorá sama o sebe spotrebuje takmer 40 % kyslíka, ktorý potrebujeme, ale v strese oveľa viac!) a ako správne dýchať (v priemere človek využíva len 30 až 50 percent svojej pľúcnej kapacity). Tieto praktiky nielenže zlepšia váš výkon vo vode a umožnia vám zažiť intenzívne pocity, ktoré môže ponúknuť relaxačný freedive, ale vytvoria aj hlbšiu úroveň spojenia so sebou samým a s morom. Akonáhle si tieto zručnosti osvojíte, budete ich môcť využiť počas svojich výletov pri objavovaní nádherných morských zázrakov, do ktorých sa často ponárame. Plávanie medzi farebnými rybami a fascinujúcim morským dnom na jeden dych sa stane nezabudnuteľným zážitkom, obohateným o vedomosti a techniku, ktoré ste nadobudli. Tréning a cvičenie freedivingu na katamaráne ponúka jedinečný zážitok z hľadiska bezpečnosti a pohodlia. Budete si môcť vychutnať krásu mora a jeho tvorov počas tréningu v pokojnom a príjemnom prostredí. Pridajte sa k nám a vyberte sa na túto mimoriadnu cestu, kde freediving ponúka nielen príležitosť preskúmať podmorský svet, ale aj prehĺbiť vaše spojenie so sebou samým a s prírodou.
 
 ## Výhody
 

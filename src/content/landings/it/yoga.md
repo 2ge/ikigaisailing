@@ -5,9 +5,9 @@ description: >-
   quotidiane sul ponte di prua, all’ancora tra le isole di Guna Yala.
 seoTitle: 'Yoga su un catamarano a San Blas, Panama | Ikigai Sailing'
 metaDescription: >-
-  Yoga quotidiano ed esercizi di respirazione a bordo di un catamarano Catana 47
-  a San Blas, Panama. Piccolo gruppo, calde acque caraibiche, navigazione
-  tranquilla tra le isole di Guna Yala — prenota per cabina.
+  Yoga quotidiano a bordo di una Catana 47 a San Blas, Panama — pratica sul
+  ponte di prua all'ancora tra le isole di Guna Yala. Gruppo ristretto,
+  prenotazione per cabina.
 locale: it
 heroImage: ~/assets/pages/home/IKIGAI-130-1.jpg
 gallery:
@@ -45,12 +45,12 @@ faq:
       l'Ikigai. Ci occupiamo noi di organizzare tutto il trasferimento: basta
       che ci comunichi l'orario di arrivo.
 translated: deepl
-sourceHash: a5aa3a28a5c286ef
+sourceHash: 182de71f2ced384a
 ---
 
 ## Com'è davvero praticare yoga a bordo
 
-Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**. La giornata inizia con yoga e esercizi di respirazione sul ponte di prua — ed è proprio la barca a renderlo possibile. Un catamarano rimane stabile. Due scafi, nessuna inclinazione, un ampio trampolino che non ti fa perdere l'equilibrio nella posizione del guerriero ogni volta che passa una scia. Prova la stessa sequenza su un monoscafo e passerai metà del tempo a cercare di mantenere l'equilibrio. Dopo la pratica ti tuffi in acqua: nuotando, facendo apnea o semplicemente rilassandoti. La giornata si snoda seguendo la luce e il vento, non l'agenda di una spa.
+Vivi a bordo **dell'Ikigai**, il nostro **Catana 47**. La giornata inizia con yoga e respirazione sul ponte di prua — ed è proprio la barca a renderlo possibile. Un catamarano rimane stabile. Due scafi, nessuna inclinazione, un ampio trampolino che non ti fa perdere l'equilibrio dalla posizione del guerriero ogni volta che passa una scia. Prova la stessa sequenza su un monoscafo e passerai metà del tempo a tenerti saldo. Dopo la pratica ti tuffi in acqua: nuotando, facendo apnea o semplicemente non facendo nulla. La giornata si snoda seguendo la luce e il vento, non l'agenda di una spa.
 
 ## Cosa è incluso a bordo
 
@@ -58,8 +58,8 @@ Prenoti una cuccetta, vicino alla cabina: nessun gruppo da formare, nessuna barc
 
 ## Perché qui, e non a Bali o in Croazia
 
-Le famose rotte di yoga-vela sono il Mediterraneo e il Sud-Est asiatico. Prenotate al completo, affollate, pensate per le foto. San Blas è l'esatto contrario: un territorio autonomo dei Guna dove è vietata la costruzione di edifici in cemento, le lagune rimangono calme e calde tutto l'anno e quasi tutti i giorni non vedrai nessun'altra barca a noleggio in acqua. Meno gente. Mare più caldo. Un posto che appartiene ancora a se stesso.
+Le famose rotte di yoga-vela sono il Mediterraneo e il Sud-Est asiatico. Prenotate al completo, affollate, pensate per le foto. San Blas è l'esatto contrario: un territorio autonomo dei Guna dove è vietata la costruzione di edifici in cemento, le lagune rimangono calme e calde tutto l'anno e nella maggior parte dei giorni non vedrai nessun'altra barca a noleggio in acqua. Meno gente. Mare più caldo. Un posto che appartiene ancora a se stesso.
 
 ## Chi sale a bordo
 
-Principianti e praticanti con vent'anni di esperienza. Viaggiatori solitari, coppie, alcune persone più vicine al burnout di quanto non ammettano ad alta voce. Manteniamo il gruppo piccolo di proposito: pratica che si può sentire, non una classe di trenta persone stipate su un pontile.
+Principianti e praticanti con vent'anni di esperienza. Viaggiatori solitari, coppie, alcune persone più vicine al burnout di quanto non ammettano ad alta voce. Manteniamo il gruppo piccolo di proposito: una pratica che si può sentire, non una lezione con trenta persone stipate su un pontile.

@@ -6,10 +6,9 @@ summary: >-
   skutočnej plavby po mori.
 seoTitle: Naučte sa plaviť na katamaráne | Ikigai Sailing
 metaDescription: >-
-  Praktický výcvik plachtenia na palube lode Catana 47 pod vedením kapitána s
-  certifikátom RYA Yachtmaster – ovládanie kormidla, nastavovanie plachiet a
-  strážna služba, ktoré sa naučíte pri skutočných plavbách, kamkoľvek loď Ikigai
-  práve pláva.
+  Praktický výcvik plavby na lodi Catana 47 pod vedením inštruktora RYA
+  Yachtmaster – riadenie lode, nastavovanie plachiet a strážna služba, všetko sa
+  naučíte počas skutočných plavieb. Cena za kajutu.
 locale: sk
 category: sailing
 image: ~/assets/trips/pacific-crossing/IMG_3015-2.jpg
@@ -29,7 +28,7 @@ facts:
   - label: Loď
     value: Výkonný katamarán Catana 47
 translated: deepl
-sourceHash: 1bc12d0737929574
+sourceHash: f1fcf9f72da6d7e7
 needsReview: true
 ---
 
@@ -39,4 +38,4 @@ Väčšina toho, čo ľudia nazývajú „kurzom plachtenia“, sa odohráva za 
 
 ## Od prvého obratu po nočnú hliadku
 
-Nikdy ste sa nedotkli navijaka? Začnete so základmi – smermi plavby, správaním katamaránu, udržaním kurzu. Už plávate? Pôjdete hlbšie: nastavenie plachiet pre rýchlosť, navigácia podľa počasia, kotvenie v preplnenej zátoke a tichá kompetencia nočnej hliadky pod hviezdami bez svetla na míle ďaleko. **Zaznamenávame vaše námorné míle a podpisujeme váš lodný denník**, takže čas sa započítava do budúcej kvalifikácie – a nie je potrebné sa ponáhľať podľa osnov. Učíte sa tempom, ktoré udáva more, na akejkoľvek vode, ktorú práve preplávame.
+Nikdy ste sa nedotkli navijaka? Začnete so základmi – smermi plavby, správaním katamaránu, udržaním kurzu. Už plávate? Pôjdete hlbšie: nastavovanie plachiet pre rýchlosť, navigácia podľa počasia, kotvenie v preplnenej zátoke a tichá kompetencia nočnej hliadky pod hviezdami bez svetla na míle ďaleko. **Zaznamenávame vaše námorné míle a podpisujeme váš lodný denník**, takže čas sa započítava do budúcej kvalifikácie – a nie je potrebné sa ponáhľať podľa osnov. Učíte sa tempom, ktoré udáva more, na akejkoľvek vode, ktorú práve preplávame.
